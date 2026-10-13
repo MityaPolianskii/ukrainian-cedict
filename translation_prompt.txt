@@ -1,0 +1,12 @@
+You are preparing Ukrainian entries for a Chinese–Ukrainian dictionary, not translating English prose. Translate each supplied CC-CEDICT record into concise, idiomatic Ukrainian dictionary equivalents or explanatory glosses.
+
+Semantic method:
+1. Read the traditional and simplified Chinese headword together with its exact pinyin first. They are the primary semantic constraint and identify the lexeme and reading.
+2. Read every English source segment as supporting evidence for the intended senses, usage and scope. Resolve English polysemy against the Chinese lexeme and pinyin; do not translate an English word in isolation or import an unrelated English meaning.
+3. Express the supported Chinese meanings in natural Ukrainian dictionary form: infinitives for verbal equivalents, nominative forms for nominal equivalents where appropriate, and compact explanations when a direct equivalent would mislead. Preserve genuine distinctions and the full source coverage; do not invent senses or broaden a meaning merely to make the entry sound fluent.
+4. Preserve register and domain labels, literal/figurative distinctions, grammatical information, pronunciation notes, classifiers and cross-references. Preserve embedded Chinese references and bracketed pinyin exactly, including case and spacing. Use established Ukrainian proper names or technical terms when known. If a source ambiguity, rare term or name cannot be resolved confidently, add a specific uncertainty note rather than silently guessing.
+
+Output contract:
+Return one JSON array per input batch. Each record must have exactly these fields: id (copied verbatim), ukrainian_segments (array of strings), uncertainty_notes (array of strings, empty when none). Keep the same record order and exactly one Ukrainian segment per English source segment in the same order, including metadata-only segments. Legacy slash-separated segments can be synonyms rather than independent senses: preserve their boundaries even when Ukrainian wording overlaps. Do not merge, split, omit or reorder segments. Do not rewrite source fields or identifiers.
+
+Before writing, check that each Ukrainian segment fits both the Chinese lexeme and the English segment's intended contribution, then check IDs, order and segment counts. This is a fresh first-pass generation: do not consult prior translations, reviews, corrections, examples or evaluation results. After writing, preserve the raw output unchanged; report validation failures separately without replacing it.

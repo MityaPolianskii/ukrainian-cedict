@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz",
+  "source_page": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict",
+  "source_release": "2026-10-13T08:59:07Z",
+  "retrieved_date_utc": "2026-10-13",
+  "source_entries": 125264,
+  "source_gzip_sha256": "dace310e1279fb51666bb8fc743131f9f12b8e6bdb11a36f58087bdf9f1f49df",
+  "id_definition": "First 16 hex characters of SHA256(traditional TAB simplified TAB pinyin), case-sensitive; stable within this version-1 orthography",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "CC-CEDICT contributors, published by MDBG; derived from CEDICT by Paul Andrew Denisowski. Ukrainian translations are adaptations and distributed under CC BY-SA 4.0.",
+  "format_note": "Official Version 1 download. Slash-delimited source segments preserved one-to-one; legacy slash segments are not guaranteed linguistically distinct senses.",
+  "modifications": "Selection of CC-CEDICT source records; Ukrainian model-generated translations; partial independent model review; verified translation corrections; concise uncertainty and review metadata.",
+  "english_source_preserved": true
+}

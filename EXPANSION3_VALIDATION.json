@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "checked_at_utc": "2026-10-14T08:29:01.529076+00:00",
+  "pinned_source_sha256": "f433659dbcb41982e93a0b8ba93575120c7f0816652e450c08a3d71cdad565cf",
+  "baseline_dictionary_sha256": "4e2e30cd1d6a0c49c71ea86a79e72f4323cc8e02d82c53584528f78105b569af",
+  "baseline_commit": "12fad9693aee5413bfa1a8019c5df504db6b30f8",
+  "selection_ordered_id_sha256": "cf374fed5e1e726da9757566efffa163707d1a8c5b2400bed26371e29625abf9",
+  "new_entries": 10000,
+  "new_aligned_segments": 15261,
+  "total_entries": 35596,
+  "all_baseline_records_exactly_preserved": true,
+  "all_source_fields_match_full_pinned_source": true,
+  "selection_equals_first_10000_untranslated_source_records": true,
+  "new_ids_disjoint_from_baseline": true,
+  "source_order_and_uniqueness": true,
+  "raw_outputs_preserved": true,
+  "new_entries_model_reviewed_under_historical_protocol": 0,
+  "targeted_model_semantic_spot_check_entries": 300,
+  "human_validated_entries": 0,
+  "new_entries_flagged_for_review": 169,
+  "total_entries_flagged_for_review": 457,
+  "not_runtime_approved": true
+}

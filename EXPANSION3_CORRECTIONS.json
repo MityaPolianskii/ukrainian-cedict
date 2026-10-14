@@ -1,0 +1,559 @@
+[
+  {
+    "id": "484c8c2d56a3c792",
+    "batch": "batch_000.json",
+    "raw": {
+      "id": "484c8c2d56a3c792",
+      "ukrainian_segments": [
+        "букв. готовий з'явитися на поклик (ідіома)",
+        "перен. ось-ось вийти на світло",
+        "(про чийсь вибір тощо) ось-ось стати відомим",
+        "(про художнє зображення) змальований наче живий"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "484c8c2d56a3c792",
+      "ukrainian_segments": [
+        "букв. готовий з'явитися на поклик (ідіома)",
+        "перен. ось-ось стати явним",
+        "(про чийсь вибір тощо) ось-ось стати відомим",
+        "(про художнє зображення) змальований наче живий"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "01a4e43a4bfd52a7",
+    "batch": "batch_006.json",
+    "raw": {
+      "id": "01a4e43a4bfd52a7",
+      "ukrainian_segments": [
+        "Юрґен Габермас (нар. 1929), німецький соціальний філософософ"
+      ],
+      "uncertainty_notes": [
+        "Варіанти передачі прізвища залежать від усталеної української традиції."
+      ]
+    },
+    "corrected": {
+      "id": "01a4e43a4bfd52a7",
+      "ukrainian_segments": [
+        "Юрґен Габермас (нар. 1929), німецький соціальний філософ"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "169bd4905ca60598",
+    "batch": "batch_006.json",
+    "raw": {
+      "id": "169bd4905ca60598",
+      "ukrainian_segments": [
+        "(зв'язана форма) працівник певної сфери",
+        "(зв'язана форма) член; учасник",
+        "лічильне слово для воєначальників"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "169bd4905ca60598",
+      "ukrainian_segments": [
+        "(зв'язана форма) особа, що займається певною діяльністю",
+        "(зв'язана форма) член; учасник",
+        "лічильне слово для воєначальників"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "aa7d7436792c4193",
+    "batch": "batch_008.json",
+    "raw": {
+      "id": "aa7d7436792c4193",
+      "ukrainian_segments": [
+        "денді",
+        "чепурун",
+        "Дон Жуан",
+        "жіночий звабник"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "aa7d7436792c4193",
+      "ukrainian_segments": [
+        "денді",
+        "чепурун",
+        "Дон Жуан",
+        "звабник жінок"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "aeb1726dba1d6ceb",
+    "batch": "batch_014.json",
+    "raw": {
+      "id": "aeb1726dba1d6ceb",
+      "ukrainian_segments": [
+        "любити",
+        "подобатися",
+        "діставати задоволення",
+        "бути щасливим",
+        "радіти",
+        "щастя",
+        "захват",
+        "радісний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "aeb1726dba1d6ceb",
+      "ukrainian_segments": [
+        "любити",
+        "мати вподобання до",
+        "діставати задоволення",
+        "бути щасливим",
+        "радіти",
+        "щастя",
+        "захват",
+        "радісний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "c47a38ee7838ef4e",
+    "batch": "batch_015.json",
+    "raw": {
+      "id": "c47a38ee7838ef4e",
+      "ukrainian_segments": [
+        "втрачати щось нематеріальне, але важливе: мужність, владу, життя тощо",
+        "втрачати близького через смерть, зокрема подружжя",
+        "помирати",
+        "розчарований",
+        "зневірений"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "c47a38ee7838ef4e",
+      "ukrainian_segments": [
+        "втрачати щось нематеріальне, але важливе: мужність, владу, життя тощо",
+        "втрачати близьку людину через смерть, зокрема чоловіка або дружину",
+        "помирати",
+        "розчарований",
+        "зневірений"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "7112bde996bc9986",
+    "batch": "batch_027.json",
+    "raw": {
+      "id": "7112bde996bc9986",
+      "ukrainian_segments": [
+        "завдавати візиту у відповідь"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "7112bde996bc9986",
+      "ukrainian_segments": [
+        "відвідувати у відповідь"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "5b191d8dbe2b2d41",
+    "batch": "batch_027.json",
+    "raw": {
+      "id": "5b191d8dbe2b2d41",
+      "ukrainian_segments": [
+        "візит у відповідь; завдавати візиту у відповідь"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "5b191d8dbe2b2d41",
+      "ukrainian_segments": [
+        "візит у відповідь; відвідувати у відповідь"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "eb3a78c35126e7d3",
+    "batch": "batch_029.json",
+    "raw": {
+      "id": "eb3a78c35126e7d3",
+      "ukrainian_segments": [
+        "тверднути; затверджуватися",
+        "(перен.) закріплювати назавжди; ставати незмінним"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "eb3a78c35126e7d3",
+      "ukrainian_segments": [
+        "тверднути; затвердівати",
+        "(перен.) закріплювати назавжди; ставати незмінним"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "34f71de22ccb7373",
+    "batch": "batch_036.json",
+    "raw": {
+      "id": "34f71de22ccb7373",
+      "ukrainian_segments": [
+        "бути першим",
+        "попередній",
+        "передніший",
+        "заздалегідь",
+        "спершу",
+        "раніше"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "34f71de22ccb7373",
+      "ukrainian_segments": [
+        "бути першим",
+        "попередній",
+        "попередній; раніший",
+        "заздалегідь",
+        "спершу",
+        "раніше"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "52476a275233d96e",
+    "batch": "batch_042.json",
+    "raw": {
+      "id": "52476a275233d96e",
+      "ukrainian_segments": [
+        "сміттєві цінні папери, за джерелом облігації",
+        "високодохідні ризикові облігації, за джерелом"
+      ],
+      "uncertainty_notes": [
+        "Джерело помилково описує облігації: китайське 股 у 垃圾股 означає акції. Обидва джерельні сегменти потребують редакторської перевірки."
+      ]
+    },
+    "corrected": {
+      "id": "52476a275233d96e",
+      "ukrainian_segments": [
+        "сміттєві акції (джерело помилково подає облігації)",
+        "ризикові акції з потенційно високою дохідністю (джерело подає високодохідні облігації)"
+      ],
+      "uncertainty_notes": [
+        "Джерело помилково описує облігації: китайське 股 у 垃圾股 означає акції. Обидва джерельні сегменти потребують редакторської перевірки."
+      ]
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "771d6a79f97b5878",
+    "batch": "batch_050.json",
+    "raw": {
+      "id": "771d6a79f97b5878",
+      "ukrainian_segments": [
+        "(кулін.) з ароматом базиліку (скор. від 九層塔香|九层塔香[jiu3 ceng2 ta3 xiang1])",
+        "конусоподібне пахощі"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "771d6a79f97b5878",
+      "ukrainian_segments": [
+        "(кулін.) з ароматом базиліку (скор. від 九層塔香|九层塔香[jiu3 ceng2 ta3 xiang1])",
+        "пахощі у формі конуса"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "70f657d0c28e00ff",
+    "batch": "batch_050.json",
+    "raw": {
+      "id": "70f657d0c28e00ff",
+      "ukrainian_segments": [
+        "виконувати обов'язки формально; виконувати свою відповідальність"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "70f657d0c28e00ff",
+      "ukrainian_segments": [
+        "виконувати обов'язки формально; виконувати свій обов'язок"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "a4ef2999d7dd84e5",
+    "batch": "batch_053.json",
+    "raw": {
+      "id": "a4ef2999d7dd84e5",
+      "ukrainian_segments": [
+        "блок",
+        "стовп воріт",
+        "опора мосту",
+        "лічильне слово для кущів рослин",
+        "лічильне слово для взяток у картярській грі",
+        "(архаїч.) сторожова вежа"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "a4ef2999d7dd84e5",
+      "ukrainian_segments": [
+        "блок",
+        "стовп воріт",
+        "опора мосту",
+        "лічильне слово для скупчень рослин",
+        "лічильне слово для взяток у картярській грі",
+        "(архаїч.) сторожова вежа"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "b0d83530721efc2f",
+    "batch": "batch_061.json",
+    "raw": {
+      "id": "b0d83530721efc2f",
+      "ukrainian_segments": [
+        "багатоголовий",
+        "багаторівневий (про владу)",
+        "децентралізований",
+        "плюралістичний",
+        "(лічильне слово) кількість голів худоби",
+        "довгостроковий (фінанси)",
+        "довга позиція (в інвестиціях)"
+      ],
+      "uncertainty_notes": [
+        "Фінансове 多頭 означає довгу позицію або гру на підвищення; окреме джерельне long term не слід змішувати зі строком інвестиції."
+      ]
+    },
+    "corrected": {
+      "id": "b0d83530721efc2f",
+      "ukrainian_segments": [
+        "багатоголовий",
+        "багаторівневий (про владу)",
+        "децентралізований",
+        "плюралістичний",
+        "(лічильне слово) кількість голів худоби",
+        "довга позиція (фінанси; у джерелі неточно: «довгостроковий»)",
+        "довга позиція (в інвестиціях)"
+      ],
+      "uncertainty_notes": [
+        "Фінансове 多頭 означає довгу позицію або гру на підвищення; окреме джерельне long term не слід змішувати зі строком інвестиції."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "b90c9b4d0a4a1229",
+    "batch": "batch_062.json",
+    "raw": {
+      "id": "b90c9b4d0a4a1229",
+      "ukrainian_segments": [
+        "бачити уві сні",
+        "снитися про когось або щось"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "b90c9b4d0a4a1229",
+      "ukrainian_segments": [
+        "бачити уві сні",
+        "бачити когось або щось уві сні"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "aeaad309be569602",
+    "batch": "batch_066.json",
+    "raw": {
+      "id": "aeaad309be569602",
+      "ukrainian_segments": [
+        "знатна родина",
+        "багата родина",
+        "великий землевласник",
+        "великий споживач або марнотратник"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "aeaad309be569602",
+      "ukrainian_segments": [
+        "знатна родина",
+        "багата родина",
+        "великий землевласник",
+        "великий покупець або споживач"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "be9a5b2dbf2f3980",
+    "batch": "batch_069.json",
+    "raw": {
+      "id": "be9a5b2dbf2f3980",
+      "ukrainian_segments": [
+        "часткова пневмонія; крупозна пневмонія"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "be9a5b2dbf2f3980",
+      "ukrainian_segments": [
+        "лобарна; крупозна пневмонія"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "8c213a1cb382f195",
+    "batch": "batch_069.json",
+    "raw": {
+      "id": "8c213a1cb382f195",
+      "ukrainian_segments": [
+        "цибуля-порей",
+        "китайська цибуля"
+      ],
+      "uncertainty_notes": [
+        "大蔥 зазвичай позначає цибулю-батун, Allium fistulosum; англійське leek («порей») у джерелі неточне."
+      ]
+    },
+    "corrected": {
+      "id": "8c213a1cb382f195",
+      "ukrainian_segments": [
+        "цибуля-батун (у джерелі неточно: «порей»)",
+        "китайська цибуля; батун"
+      ],
+      "uncertainty_notes": [
+        "大蔥 зазвичай позначає цибулю-батун, Allium fistulosum; англійське leek («порей») у джерелі неточне."
+      ]
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "341ea7366900bb0c",
+    "batch": "batch_084.json",
+    "raw": {
+      "id": "341ea7366900bb0c",
+      "ukrainian_segments": [
+        "молода жінка",
+        "дівчина",
+        "дівчинка",
+        "класифікатори: 個|个[ge4],位[wei4]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "341ea7366900bb0c",
+      "ukrainian_segments": [
+        "молода жінка",
+        "дівчина",
+        "дівчина",
+        "класифікатори: 個|个[ge4],位[wei4]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "1e4f583f6262c6d4",
+    "batch": "batch_092.json",
+    "raw": {
+      "id": "1e4f583f6262c6d4",
+      "ukrainian_segments": [
+        "королева",
+        "імператриця",
+        "імператорська наложниця",
+        "богиня, особливо Сі Ванму 王母娘娘 або 西王母, Володарка Заходу",
+        "мати",
+        "тітка"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "1e4f583f6262c6d4",
+      "ukrainian_segments": [
+        "королева",
+        "імператриця",
+        "імператорська наложниця",
+        "богиня, особливо Сі Ванму 王母娘娘 або 西王母, Цариця-мати Заходу",
+        "мати",
+        "тітка"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  }
+]

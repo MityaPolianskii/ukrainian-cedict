@@ -1,0 +1,367 @@
+[
+  {
+    "id": "c11bff301df00d87",
+    "batch": "batch_007.json",
+    "raw": {
+      "id": "c11bff301df00d87",
+      "ukrainian_segments": [
+        "правознавець",
+        "представник школи легізму дохяньської доби"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "c11bff301df00d87",
+      "ukrainian_segments": [
+        "правознавець",
+        "представник школи легізму доханьської доби"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "34a02fb1a6dd29c3",
+    "batch": "batch_014.json",
+    "raw": {
+      "id": "34a02fb1a6dd29c3",
+      "ukrainian_segments": [
+        "слухати з шанобливою увагою",
+        "ввічливе прохання до когось говорити",
+        "ми весь слух"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "34a02fb1a6dd29c3",
+      "ukrainian_segments": [
+        "слухати з шанобливою увагою",
+        "ввічливе прохання до когось говорити",
+        "ми уважно слухаємо"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "24ed985b3aa1f3bc",
+    "batch": "batch_023.json",
+    "raw": {
+      "id": "24ed985b3aa1f3bc",
+      "ukrainian_segments": [
+        "(зоол.) морська губка",
+        "зокрема висушена морська губка",
+        "губка з поліестеру, целюлози тощо",
+        "піногума; поролон"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "24ed985b3aa1f3bc",
+      "ukrainian_segments": [
+        "(зоол.) морська губка",
+        "зокрема висушена морська губка",
+        "губка з поліестеру, целюлози тощо",
+        "піногума"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "79916086ae8177b9",
+    "batch": "batch_027.json",
+    "raw": {
+      "id": "79916086ae8177b9",
+      "ukrainian_segments": [
+        "Лянчжоу, район міської округи Увей 武威市[Wu3 wei4 Shi4], Ганьсу"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "79916086ae8177b9",
+      "ukrainian_segments": [
+        "Лянчжоу, район міської округи Увей 武威市[Wu3 wei1 Shi4], Ганьсу"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "72db494365125c1a",
+    "batch": "batch_035.json",
+    "raw": {
+      "id": "72db494365125c1a",
+      "ukrainian_segments": [
+        "волога купова ферментація, етап виробництва деяких чаїв, зокрема 熟普洱茶[shou2 Pu3 er3 cha2], витриманого шу пуеру"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "72db494365125c1a",
+      "ukrainian_segments": [
+        "волога купова ферментація, етап виробництва деяких чаїв, зокрема 熟普洱茶[shou2 Pu3 er3 cha2], ферментованого шу пуеру"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "4d57f621729f30dd",
+    "batch": "batch_038.json",
+    "raw": {
+      "id": "4d57f621729f30dd",
+      "ukrainian_segments": [
+        "Тан Сяньцзу (1550–1616), поет і драматург доби Мін, автор «Піонового павільйону» 牡丹亭[Mu3 dan5 Ting2]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "4d57f621729f30dd",
+      "ukrainian_segments": [
+        "Тан Сяньцзу (1550–1616), поет і драматург доби Мін, автор «Півонієвого павільйону» 牡丹亭[Mu3 dan5 Ting2]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "04d49debd31677e2",
+    "batch": "batch_039.json",
+    "raw": {
+      "id": "04d49debd31677e2",
+      "ukrainian_segments": [
+        "точний",
+        "стандарт",
+        "напевно",
+        "безсумнівно",
+        "майбутній (чоловік, зять тощо)",
+        "квазі-",
+        "пара-"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "04d49debd31677e2",
+      "ukrainian_segments": [
+        "точний",
+        "стандарт",
+        "напевно",
+        "безсумнівно",
+        "майбутній (про наречену, зятя тощо)",
+        "квазі-",
+        "пара-"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "8e313d8f6d28e15c",
+    "batch": "batch_041.json",
+    "raw": {
+      "id": "8e313d8f6d28e15c",
+      "ukrainian_segments": [
+        "ливневий; проливний",
+        "заливний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "8e313d8f6d28e15c",
+      "ukrainian_segments": [
+        "проливний; такий, що ллється потоками",
+        "заливний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "885104015e7fc8d8",
+    "batch": "batch_042.json",
+    "raw": {
+      "id": "885104015e7fc8d8",
+      "ukrainian_segments": [
+        "синовіальна оболонка",
+        "синовія (оболонка)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "885104015e7fc8d8",
+      "ukrainian_segments": [
+        "синовіальна оболонка",
+        "синовіальна оболонка"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "f46b9a80b18036e8",
+    "batch": "batch_057.json",
+    "raw": {
+      "id": "f46b9a80b18036e8",
+      "ukrainian_segments": [
+        "паровоз; тяговий двигун поїзда",
+        "локомотив"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "f46b9a80b18036e8",
+      "ukrainian_segments": [
+        "локомотив; тяговий локомотив поїзда",
+        "локомотив"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "a413a9b9f938c049",
+    "batch": "batch_058.json",
+    "raw": {
+      "id": "a413a9b9f938c049",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) тезія сіровола (Tesia cyaniventer)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "a413a9b9f938c049",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) тезія сіровола, або сірочерева (Tesia cyaniventer)"
+      ],
+      "uncertainty_notes": [
+        "Англійський видовий епітет означає сірочереву тезію; усталений український відповідник «сіровола» потребує орнітологічної звірки."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "431ded0d555e676b",
+    "batch": "batch_062.json",
+    "raw": {
+      "id": "431ded0d555e676b",
+      "ukrainian_segments": [
+        "Уссурійськ, місто в Приморському краї Росії на тихоокеанському узбережжі",
+        "серед попередніх назв — 雙城子|双城子[Shuang1 cheng2 zi5] і Ворошилов 伏羅希洛夫|伏罗希洛夫"
+      ],
+      "uncertainty_notes": [
+        "Уссурійськ розташований у Приморському краї, але не безпосередньо на узбережжі; англійське формулювання географічно узагальнене."
+      ]
+    },
+    "corrected": {
+      "id": "431ded0d555e676b",
+      "ukrainian_segments": [
+        "Уссурійськ, місто в Приморському краї на тихоокеанському Далекому Сході Росії",
+        "серед попередніх назв — 雙城子|双城子[Shuang1 cheng2 zi5] і Ворошилов 伏羅希洛夫|伏罗希洛夫"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "531095918a788a21",
+    "batch": "batch_067.json",
+    "raw": {
+      "id": "531095918a788a21",
+      "ukrainian_segments": [
+        "недовірливості позбавлений; без підозр",
+        "невинний і без побоювань"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "531095918a788a21",
+      "ukrainian_segments": [
+        "непідозріливий; без підозр",
+        "невинний і без побоювань"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "0a68926a1c564b7f",
+    "batch": "batch_070.json",
+    "raw": {
+      "id": "0a68926a1c564b7f",
+      "ukrainian_segments": [
+        "гліцина тютюнова (Glycine tabacina), сланка або витка рослина родини бобових"
+      ],
+      "uncertainty_notes": [
+        "Українську ботанічну назву Glycine tabacina подано описово за латинським епітетом; усталений відповідник не встановлено."
+      ]
+    },
+    "corrected": {
+      "id": "0a68926a1c564b7f",
+      "ukrainian_segments": [
+        "соя тютюнова (Glycine tabacina; також відома як мінлива гліцина), сланка або витка рослина родини бобових"
+      ],
+      "uncertainty_notes": [
+        "Назви «соя тютюнова» та «мінлива гліцина» передано описово за латинським епітетом і англійською назвою; усталений український видовий відповідник не встановлено."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "f36b5f1ef2715112",
+    "batch": "batch_097.json",
+    "raw": {
+      "id": "f36b5f1ef2715112",
+      "ukrainian_segments": [
+        "вільно поводитися із законом",
+        "використовувати лазівки в системі",
+        "(дозвілля) правила гри",
+        "спосіб виконання заняття",
+        "(туризм) спосіб знайомства з місцевістю"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "f36b5f1ef2715112",
+      "ukrainian_segments": [
+        "вільно поводитися із законом",
+        "використовувати лазівки в системі",
+        "(дозвілля) правила гри",
+        "спосіб займатися певною діяльністю",
+        "(туризм) спосіб знайомства з місцевістю"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  }
+]

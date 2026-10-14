@@ -66,3 +66,8 @@ All 45,596 baseline records remain unchanged. New machine-draft corrections are 
 ## 2026-10-14 sixth expansion
 
 All 55,596 baseline records remain unchanged. New machine-draft corrections are recorded in EXPANSION6_CORRECTIONS.json; original outputs are retained in the expansion audit package. No human validation.
+
+
+## 2026-10-14 seventh expansion
+
+All 65,596 baseline records remain unchanged. New machine-draft corrections are recorded in EXPANSION7_CORRECTIONS.json; original outputs are retained in the expansion audit package. No human validation.

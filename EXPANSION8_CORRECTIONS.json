@@ -1,0 +1,458 @@
+[
+  {
+    "id": "e9b370efcd2317d9",
+    "batch": "batch_016.json",
+    "raw": {
+      "id": "e9b370efcd2317d9",
+      "ukrainian_segments": [
+        "(КНР, від 1985 року) свідоцтво про закінчення навчання, яке підтверджує випуск, але не обов'язково виконання всіх вимог для отримання диплома про науковий ступінь 學位證書|学位证书[xue2 wei4 zheng4 shu1]",
+        "(1981–1985) свідоцтво про закінчення навчання; за наявності кінцевого речення із зазначенням ступеня також підтверджувало виконання всіх вимог для його отримання"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "e9b370efcd2317d9",
+      "ukrainian_segments": [
+        "(КНР, від 1985 року) свідоцтво про закінчення навчання, яке підтверджує випуск, але не обов'язково виконання всіх вимог для отримання диплома про академічний ступінь 學位證書|学位证书[xue2 wei4 zheng4 shu1]",
+        "(1981–1985) свідоцтво про закінчення навчання; за наявності кінцевого речення із зазначенням ступеня також підтверджувало виконання всіх вимог для його отримання"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "4c718af08b0fbfa7",
+    "batch": "batch_020.json",
+    "raw": {
+      "id": "4c718af08b0fbfa7",
+      "ukrainian_segments": [
+        "складна проблема",
+        "непіддатлива трудність"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "4c718af08b0fbfa7",
+      "ukrainian_segments": [
+        "складна проблема",
+        "важкорозв'язна проблема"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "5c762c6206b5d3d5",
+    "batch": "batch_020.json",
+    "raw": {
+      "id": "5c762c6206b5d3d5",
+      "ukrainian_segments": [
+        "пошук і усунення несправностей",
+        "розв'язання труднощів"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "5c762c6206b5d3d5",
+      "ukrainian_segments": [
+        "пошук і усунення несправностей",
+        "подолання труднощів"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "1ac617c976801d5d",
+    "batch": "batch_023.json",
+    "raw": {
+      "id": "1ac617c976801d5d",
+      "ukrainian_segments": [
+        "виснажений турботами",
+        "пригнічений",
+        "стомлений",
+        "перепрацьований",
+        "хворий",
+        "знесилений"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "1ac617c976801d5d",
+      "ukrainian_segments": [
+        "виснажений турботами",
+        "пригнічений",
+        "стомлений",
+        "перевтомлений роботою",
+        "хворий",
+        "знесилений"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "71c3c63a30b34532",
+    "batch": "batch_027.json",
+    "raw": {
+      "id": "71c3c63a30b34532",
+      "ukrainian_segments": [
+        "вчинення події (особл. злочину; щодо часу й місця)",
+        "відбуватися",
+        "траплятися",
+        "оголошувати замовлення для фрилансерів"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "71c3c63a30b34532",
+      "ukrainian_segments": [
+        "виникнення події (особливо вчинення злочину; щодо часу й місця)",
+        "відбуватися",
+        "траплятися",
+        "оголошувати замовлення для фрилансерів"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "dddc09ff42476c20",
+    "batch": "batch_028.json",
+    "raw": {
+      "id": "dddc09ff42476c20",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) білоцятковий вилохвіст (Enicurus leschenaulti)"
+      ],
+      "uncertainty_notes": [
+        "Українська видова назва непевна; англійська назва вказує на біле тім'я."
+      ]
+    },
+    "corrected": {
+      "id": "dddc09ff42476c20",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) білотім'яний вилохвіст (Enicurus leschenaulti)"
+      ],
+      "uncertainty_notes": [
+        "Українську назву подано описово; усталена видова форма потребує перевірки."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "1540204cb2b54c56",
+    "batch": "batch_028.json",
+    "raw": {
+      "id": "1540204cb2b54c56",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) сіроноґа раліна (Rallina eurizonoides)"
+      ],
+      "uncertainty_notes": [
+        "Українську назву подано описово; усталена видова форма потребує перевірки."
+      ]
+    },
+    "corrected": {
+      "id": "1540204cb2b54c56",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) сіроно́га раліна (Rallina eurizonoides)"
+      ],
+      "uncertainty_notes": [
+        "Українську назву подано описово; усталена видова форма потребує перевірки."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "bc026a7694535ec6",
+    "batch": "batch_038.json",
+    "raw": {
+      "id": "bc026a7694535ec6",
+      "ukrainian_segments": [
+        "сповнений сил",
+        "міцний і здоровий"
+      ],
+      "uncertainty_notes": [
+        "Обидва англійські значення не відповідають написанню 盛妝, яке означає пишний макіяж або ошатне вбрання. Імовірно, джерело помилково тлумачить 盛壯; потрібне редакторське рішення."
+      ]
+    },
+    "corrected": {
+      "id": "bc026a7694535ec6",
+      "ukrainian_segments": [
+        "пишний макіяж",
+        "святкове вбрання"
+      ],
+      "uncertainty_notes": [
+        "Обидва англійські сегменти, ймовірно, належать до 盛壯 і не відповідають поданому написанню 盛妝. Перекладено значення поданого китайського слова; помилкові англійські значення не відтворено. Потрібна редакторська перевірка."
+      ]
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "0058e6280444188f",
+    "batch": "batch_050.json",
+    "raw": {
+      "id": "0058e6280444188f",
+      "ukrainian_segments": [
+        "сивка (Charadrius morinellus)",
+        "хрустан"
+      ],
+      "uncertainty_notes": [
+        "Видова назва Charadrius morinellus відповідає хрустану; поєднання китайської назви з цим видом у джерелі потребує орнітологічної перевірки."
+      ]
+    },
+    "corrected": {
+      "id": "0058e6280444188f",
+      "ukrainian_segments": [
+        "хрустан (Charadrius morinellus)",
+        "хрустан"
+      ],
+      "uncertainty_notes": [
+        "Видова назва Charadrius morinellus відповідає хрустану; поєднання китайської назви з цим видом у джерелі потребує орнітологічної перевірки."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "4006ea41add8fae8",
+    "batch": "batch_050.json",
+    "raw": {
+      "id": "4006ea41add8fae8",
+      "ukrainian_segments": [
+        "дружний",
+        "злагідний; гармонійний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "4006ea41add8fae8",
+      "ukrainian_segments": [
+        "дружний",
+        "злагоджений; гармонійний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "51725eeca9828999",
+    "batch": "batch_055.json",
+    "raw": {
+      "id": "51725eeca9828999",
+      "ukrainian_segments": [
+        "Шитаньцзін, підрайон району Давкоу 大武口區|大武口区[Da4 wu3 kou3 qu1] міста Шицзуйшань 石嘴山市[Shi2 zui3 shan1 shi4], Нінся"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "51725eeca9828999",
+      "ukrainian_segments": [
+        "Шитаньцзін, підрайон району Давукоу 大武口區|大武口区[Da4 wu3 kou3 qu1] міста Шицзуйшань 石嘴山市[Shi2 zui3 shan1 shi4], Нінся"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "1b49974c861596bb",
+    "batch": "batch_055.json",
+    "raw": {
+      "id": "1b49974c861596bb",
+      "ukrainian_segments": [
+        "Шитаньцзін, підрайон району Давкоу 大武口區|大武口区[Da4 wu3 kou3 qu1] міста Шицзуйшань 石嘴山市[Shi2 zui3 shan1 shi4], Нінся"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "1b49974c861596bb",
+      "ukrainian_segments": [
+        "Шитаньцзін, підрайон району Давукоу 大武口區|大武口区[Da4 wu3 kou3 qu1] міста Шицзуйшань 石嘴山市[Shi2 zui3 shan1 shi4], Нінся"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "831a43ff7a3219d5",
+    "batch": "batch_055.json",
+    "raw": {
+      "id": "831a43ff7a3219d5",
+      "ukrainian_segments": [
+        "нафта; лігроїн (легка нафтова фракція)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "831a43ff7a3219d5",
+      "ukrainian_segments": [
+        "лігроїн; легка нафтова фракція"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "70d07a6975c6614f",
+    "batch": "batch_059.json",
+    "raw": {
+      "id": "70d07a6975c6614f",
+      "ukrainian_segments": [
+        "твердіти; затверджувати",
+        "(мед.) склероз",
+        "(перен.) ставати негнучким у поглядах; закостенівати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "70d07a6975c6614f",
+      "ukrainian_segments": [
+        "твердіти; робити твердим",
+        "(мед.) склероз",
+        "(перен.) ставати негнучким у поглядах; закостенівати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "a8ec108915dc960a",
+    "batch": "batch_062.json",
+    "raw": {
+      "id": "a8ec108915dc960a",
+      "ukrainian_segments": [
+        "(арх.) агат",
+        "(зв'язана форма) еталонна гиря для терезів",
+        "число; номер",
+        "(інформ.) код",
+        "розмір (одягу)",
+        "ярд (одиниця довжини)",
+        "(розм.) кілометр за годину (неформальне помилкове вживання слова «ярд» для швидкості в км/год)",
+        "(розм.) складати в купу; штабелювати",
+        "рахункове слово для справ, предметів, ситуацій тощо (особливо для їх ототожнення чи розрізнення, як у 不是一碼事|不是一码事[bu4 shi4 yi1 ma3 shi4] «це різні речі»)",
+        "(Тайвань, Гонконг, фін.) одиниця у 25 базисних пунктів (зміна відсоткової ставки на 0,25 відсоткового пункта)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "a8ec108915dc960a",
+      "ukrainian_segments": [
+        "(арх.) агат",
+        "(зв'язана форма) еталонна гиря для терезів",
+        "число; номер",
+        "(інформ.) код",
+        "розмір (одягу)",
+        "ярд (одиниця довжини)",
+        "(розм.) кілометр за годину (неформальне помилкове вживання слова «ярд» для швидкості в км/год)",
+        "(розм.) складати в купу; штабелювати",
+        "рахункове слово для справ, предметів, ситуацій тощо (особливо для їх ототожнення чи розрізнення, як у 不是一碼事|不是一码事[bu4 shi4 yi1 ma3 shi4] «це різні речі»)",
+        "(Тайвань, Гонконг, фін.) одиниця у 25 базисних пунктів (зміна відсоткової ставки на 0,25 відсоткового пункту)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "4caec20564a52abb",
+    "batch": "batch_094.json",
+    "raw": {
+      "id": "4caec20564a52abb",
+      "ukrainian_segments": [
+        "встановлювати електронну лампу в гніздо",
+        "вставляти лампочку"
+      ],
+      "uncertainty_notes": [
+        "Китайське слово зазвичай називає лампову панель або гніздо; дієслівні глоси джерела сумнівні."
+      ]
+    },
+    "corrected": {
+      "id": "4caec20564a52abb",
+      "ukrainian_segments": [
+        "панель; гніздо для електронної лампи",
+        "патрон для лампочки"
+      ],
+      "uncertainty_notes": [
+        "Англійські дієслівні глоси неточні: китайське слово називає гніздо або панель, а не дію встановлення."
+      ]
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "96fcafca83aae68e",
+    "batch": "batch_095.json",
+    "raw": {
+      "id": "96fcafca83aae68e",
+      "ukrainian_segments": [
+        "(текстиль) початок пряжі на шпулі"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "96fcafca83aae68e",
+      "ukrainian_segments": [
+        "(текстиль) починок пряжі на шпулі"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "be0ca79cf75edc48",
+    "batch": "batch_098.json",
+    "raw": {
+      "id": "be0ca79cf75edc48",
+      "ukrainian_segments": [
+        "(літ.) письмо печаток дохандрівського періоду",
+        "декламувати",
+        "читати вголос"
+      ],
+      "uncertainty_notes": [
+        "«Дохандрівського» слід розуміти як період до династії Хань."
+      ]
+    },
+    "corrected": {
+      "id": "be0ca79cf75edc48",
+      "ukrainian_segments": [
+        "(літ.) письмо печаток періоду до династії Хань",
+        "декламувати",
+        "читати вголос"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  }
+]

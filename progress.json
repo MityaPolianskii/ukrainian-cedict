@@ -2,16 +2,16 @@
   "updated_date_utc": "2026-10-14",
   "status": "machine_generated_partially_model_reviewed_draft",
   "counts": {
-    "records": 45596,
-    "aligned_segments": 77019,
+    "records": 55596,
+    "aligned_segments": 93621,
     "model_reviewed_records": 704,
-    "corrected_segments": 330,
-    "records_with_corrections": 265,
-    "known_flagged_records": 620,
+    "corrected_segments": 349,
+    "records_with_corrections": 284,
+    "known_flagged_records": 765,
     "human_validated_records": 0
   },
   "full_pinned_source_records": 125264,
-  "full_source_translation_coverage_percent": 36.3999,
+  "full_source_translation_coverage_percent": 44.3831,
   "complete_for_published_subset": true,
   "complete_for_full_source": false,
   "human_validation": false,
@@ -44,8 +44,8 @@
     "Offline validation checks structure and embedded-reference tokens, not translation accuracy or external source provenance. One additional automated editorial repair is documented in CORRECTIONS.md."
   ],
   "data_sha256": {
-    "dictionary.json": "ac2eef97b522e46a8e012799ac378ebdc27f213c544e1b5157c339bfb6035713",
-    "dictionary.csv": "2a92d7eb0c238b64cc215f487e5de467a2300fd72c46f1d3d806b3be09aeee16",
+    "dictionary.json": "7d772ecc9551715103c593195905bacfae5ae130404bdfecd2e67d274707edb1",
+    "dictionary.csv": "8b83ae4c114eaaf247ce26415af6285b7156de7405ae94fd4ff531bd7f8ab9ad",
     "source.json": "6a2099fa9eb9a5ced59ee3d3c09a9a1fb7f1fa87efd2acbd9aa3f8c9f334cc41",
     "translation_prompt.txt": "c7c59adec59bbd7f841f3b19f40b7604c5afa0adbfaa8ed1de88ecbf65a63926"
   },
@@ -266,9 +266,37 @@
       ],
       "human_validation": false,
       "log": "EXPANSION4_CORRECTIONS.json"
+    },
+    "fifth_10000_expansion": {
+      "corrected_segments": 19,
+      "records_with_corrections": 19,
+      "record_ids": [
+        "0d30c2d83def8411",
+        "a98b7d8d175d823f",
+        "19864eea668c5ddc",
+        "afd4011ba8a03e29",
+        "cb8719247f627d4d",
+        "024b919c19c5e1c7",
+        "04df36b80597d212",
+        "420dcadd7e736626",
+        "97c15c1c311c746f",
+        "e14aee068df0cbf7",
+        "f7d8ffa91d30df9d",
+        "9a9ee951bd4c2ff9",
+        "c366b6a3d6884d74",
+        "81608d5a1a61a9de",
+        "55f0bfc5ffe71f63",
+        "345bf099864f1dfb",
+        "e545e433a38c4ae6",
+        "1d31ba415b669174",
+        "236433d4370e7d2e",
+        "b207c7434de68bcd"
+      ],
+      "human_validation": false,
+      "log": "EXPANSION5_CORRECTIONS.json"
     }
   },
-  "translation_preservation_note": "All 35,596 baseline records and their translations, corrections and review metadata are unchanged. Fourth expansion remains machine draft; raw outputs and separate correction history are retained.",
+  "translation_preservation_note": "All 45,596 baseline records and their translations, corrections and review metadata are unchanged. Fifth expansion remains machine draft; raw outputs and separate correction history are retained.",
   "next_10000_expansion": {
     "requested_entries": 10000,
     "completed_entries": 10000,
@@ -325,5 +353,19 @@
     "targeted_semantic_spot_check_entries": 300,
     "new_entries_flagged_for_review": 163,
     "structural_and_provenance_validation": "EXPANSION4_VALIDATION.json"
+  },
+  "fifth_10000_expansion": {
+    "requested_entries": 10000,
+    "completed_entries": 10000,
+    "complete": true,
+    "raw_outputs_preserved": true,
+    "corrections_recorded": 20,
+    "human_validation": false,
+    "requested_model": "inherited",
+    "actual_backend_identity": null,
+    "actual_token_usage": null,
+    "targeted_semantic_spot_check_entries": 300,
+    "new_entries_flagged_for_review": 145,
+    "structural_and_provenance_validation": "EXPANSION5_VALIDATION.json"
   }
 }

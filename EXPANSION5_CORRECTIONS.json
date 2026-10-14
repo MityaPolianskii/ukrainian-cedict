@@ -1,0 +1,524 @@
+[
+  {
+    "id": "0d30c2d83def8411",
+    "batch": "batch_009.json",
+    "raw": {
+      "id": "0d30c2d83def8411",
+      "ukrainian_segments": [
+        "(муз.) на пів такту позаду",
+        "(перен.) повільний (у виконанні завдання, розумінні тощо)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "0d30c2d83def8411",
+      "ukrainian_segments": [
+        "(муз.) на пів долі позаду",
+        "(перен.) повільний (у виконанні завдання, розумінні тощо)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "a98b7d8d175d823f",
+    "batch": "batch_015.json",
+    "raw": {
+      "id": "a98b7d8d175d823f",
+      "ukrainian_segments": [
+        "переворот вдовiючої імператриці Цисі 慈禧太后[Ci2 xi3 tai4 hou4], що поклав край спробі реформування династії Цін 1898 року"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "a98b7d8d175d823f",
+      "ukrainian_segments": [
+        "переворот вдовіючої імператриці Цисі 慈禧太后[Ci2 xi3 tai4 hou4], що поклав край спробі реформування династії Цін 1898 року"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "19864eea668c5ddc",
+    "batch": "batch_026.json",
+    "raw": {
+      "id": "19864eea668c5ddc",
+      "ukrainian_segments": [
+        "посилати когось щось зробити",
+        "відсилати когось геть",
+        "гаяти (час)",
+        "(заст.) влаштовувати справи",
+        "(заст.) подавати (милостиню тощо)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "19864eea668c5ddc",
+      "ukrainian_segments": [
+        "посилати когось щось зробити",
+        "відсилати когось геть",
+        "коротати (час)",
+        "(заст.) влаштовувати справи",
+        "(заст.) подавати (милостиню тощо)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "afd4011ba8a03e29",
+    "batch": "batch_026.json",
+    "raw": {
+      "id": "afd4011ba8a03e29",
+      "ukrainian_segments": [
+        "гаяти час"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "afd4011ba8a03e29",
+      "ukrainian_segments": [
+        "коротати час"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "cb8719247f627d4d",
+    "batch": "batch_026.json",
+    "raw": {
+      "id": "cb8719247f627d4d",
+      "ukrainian_segments": [
+        "рахувати на рахівниці",
+        "(перен.) робити розрахунки",
+        "планувати",
+        "плести інтриги"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "cb8719247f627d4d",
+      "ukrainian_segments": [
+        "рахувати на рахівниці",
+        "(перен.) робити розрахунки",
+        "планувати",
+        "замишляти; будувати розрахунки"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "024b919c19c5e1c7",
+    "batch": "batch_043.json",
+    "raw": {
+      "id": "024b919c19c5e1c7",
+      "ukrainian_segments": [
+        "трифОРій; аркова галерея над склепіннями бічних нефів церкви"
+      ],
+      "uncertainty_notes": [
+        "拱廊 загалом означає аркаду або аркову галерею; джерело звужує його до трифорію."
+      ]
+    },
+    "corrected": {
+      "id": "024b919c19c5e1c7",
+      "ukrainian_segments": [
+        "трифорій; аркова галерея над склепіннями бічних нефів церкви"
+      ],
+      "uncertainty_notes": [
+        "拱廊 загалом означає аркаду або аркову галерею; джерело звужує його до трифорію."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "04df36b80597d212",
+    "batch": "batch_044.json",
+    "raw": {
+      "id": "04df36b80597d212",
+      "ukrainian_segments": [
+        "перестрілѝватися"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "04df36b80597d212",
+      "ukrainian_segments": [
+        "перестрілюватися"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "420dcadd7e736626",
+    "batch": "batch_051.json",
+    "raw": {
+      "id": "420dcadd7e736626",
+      "ukrainian_segments": [
+        "видовбувати",
+        "спорожняти",
+        "вичерпувати",
+        "(фін.) виведення активів компанії на користь її контролерів"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "420dcadd7e736626",
+      "ukrainian_segments": [
+        "видовбувати",
+        "спорожняти",
+        "вичерпувати",
+        "(фін.) виведення активів компанії на користь осіб, які її контролюють"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "97c15c1c311c746f",
+    "batch": "batch_061.json",
+    "raw": {
+      "id": "97c15c1c311c746f",
+      "ukrainian_segments": [
+        "протибетський",
+        "підтримувати Тибет",
+        "підтримувати незалежність Тибету"
+      ],
+      "uncertainty_notes": [
+        "Сегмент про незалежність є контекстно залежним: 援藏 часто означає допомогу Тибету без підтримки незалежності."
+      ]
+    },
+    "corrected": {
+      "id": "97c15c1c311c746f",
+      "ukrainian_segments": [
+        "прихильний до Тибету",
+        "підтримувати Тибет",
+        "підтримувати незалежність Тибету"
+      ],
+      "uncertainty_notes": [
+        "Сегмент про незалежність є контекстно залежним: 援藏 часто означає допомогу Тибету без підтримки незалежності."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "e14aee068df0cbf7",
+    "batch": "batch_061.json",
+    "raw": {
+      "id": "e14aee068df0cbf7",
+      "ukrainian_segments": [
+        "шкодити",
+        "пошкоджувати",
+        "травмувати",
+        "порушення функції",
+        "втрата",
+        "обмеження дієздатності"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "e14aee068df0cbf7",
+      "ukrainian_segments": [
+        "шкодити",
+        "пошкоджувати",
+        "травмувати",
+        "порушення функції",
+        "втрата",
+        "обмеження функціональних можливостей"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "f7d8ffa91d30df9d",
+    "batch": "batch_063.json",
+    "raw": {
+      "id": "f7d8ffa91d30df9d",
+      "ukrainian_segments": [
+        "якось викручуватися",
+        "відбуватися від когось відмовками",
+        "ходити навколо",
+        "ухилятися"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "f7d8ffa91d30df9d",
+      "ukrainian_segments": [
+        "якось викручуватися",
+        "відбуватися від когось відмовками",
+        "говорити манівцями",
+        "ухилятися"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "9a9ee951bd4c2ff9",
+    "batch": "batch_069.json",
+    "raw": {
+      "id": "9a9ee951bd4c2ff9",
+      "ukrainian_segments": [
+        "букв. щось б'є просто в обличчя",
+        "прямо в обличчя",
+        "різко впадати у вічі чи інші чуття",
+        "нав'язливий (про рекламу)",
+        "разючий; помітний",
+        "різко бити в ніс (про запах)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "9a9ee951bd4c2ff9",
+      "ukrainian_segments": [
+        "букв. щось б'є просто в обличчя",
+        "прямо в обличчя",
+        "різко діяти на органи чуття",
+        "нав'язливий (про рекламу)",
+        "разючий; помітний",
+        "різко бити в ніс (про запах)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "c366b6a3d6884d74",
+    "batch": "batch_069.json",
+    "raw": {
+      "id": "c366b6a3d6884d74",
+      "ukrainian_segments": [
+        "букв. щось б'є просто в обличчя",
+        "прямо в обличчя",
+        "різко впадати у вічі чи інші чуття",
+        "нав'язливий (про рекламу)",
+        "разючий; помітний",
+        "різко бити в ніс (про запах)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "c366b6a3d6884d74",
+      "ukrainian_segments": [
+        "букв. щось б'є просто в обличчя",
+        "прямо в обличчя",
+        "різко діяти на органи чуття",
+        "нав'язливий (про рекламу)",
+        "разючий; помітний",
+        "різко бити в ніс (про запах)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "81608d5a1a61a9de",
+    "batch": "batch_071.json",
+    "raw": {
+      "id": "81608d5a1a61a9de",
+      "ukrainian_segments": [
+        "витирати собі дупу",
+        "(перен., розм.) розгрібати чужі наслідки"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "81608d5a1a61a9de",
+      "ukrainian_segments": [
+        "витирати собі дупу",
+        "(перен., розм.) виправляти наслідки чужих помилок"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "55f0bfc5ffe71f63",
+    "batch": "batch_075.json",
+    "raw": {
+      "id": "55f0bfc5ffe71f63",
+      "ukrainian_segments": [
+        "козла; опора; підставка; каркас",
+        "(мед.) стент",
+        "підпирати",
+        "чинити опір; витримувати (напад ворога тощо)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "55f0bfc5ffe71f63",
+      "ukrainian_segments": [
+        "козли; опора; підставка; каркас",
+        "(мед.) стент",
+        "підпирати",
+        "чинити опір; витримувати (напад ворога тощо)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "345bf099864f1dfb",
+    "batch": "batch_083.json",
+    "raw": {
+      "id": "345bf099864f1dfb",
+      "ukrainian_segments": [
+        "(шанобл.) Ваше повідомлення",
+        "цінна інформація (у Вашому недавньому листі, книжці тощо)",
+        "Дякую за Вашого листа"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "345bf099864f1dfb",
+      "ukrainian_segments": [
+        "(шанобл.) Ваше повідомлення",
+        "цінна інформація (у Вашому недавньому листі, книжці тощо)",
+        "Дякую за Ваш лист."
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "e545e433a38c4ae6",
+    "batch": "batch_089.json",
+    "raw": {
+      "id": "e545e433a38c4ae6",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) дрізд Науманна темний (Turdus eunomus)"
+      ],
+      "uncertainty_notes": [
+        "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+      ]
+    },
+    "corrected": {
+      "id": "e545e433a38c4ae6",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) дрізд темний (Turdus eunomus)"
+      ],
+      "uncertainty_notes": [
+        "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "1d31ba415b669174",
+    "batch": "batch_089.json",
+    "raw": {
+      "id": "1d31ba415b669174",
+      "ukrainian_segments": [
+        "доу, міра зерна, рівна десяти 升[sheng1] або десятій частині 石[dan4]",
+        "декалітр",
+        "пек",
+        "предмет у формі чаші або ковша",
+        "давній варіант 陡[dou3]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "1d31ba415b669174",
+      "ukrainian_segments": [
+        "доу, міра зерна, рівна десяти 升[sheng1] або десятій частині 石[dan4]",
+        "декалітр",
+        "пек",
+        "предмет у формі чаші або ковша",
+        "давній варіант 陡[dou3]"
+      ],
+      "uncertainty_notes": [
+        "Пек у джерелі є приблизним відповідником; його не слід вважати точно рівним доу або декалітру."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "236433d4370e7d2e",
+    "batch": "batch_091.json",
+    "raw": {
+      "id": "236433d4370e7d2e",
+      "ukrainian_segments": [
+        "новачок; новобранець; новий талант",
+        "молодята, особливо молода дружина",
+        "подружжя молодят; наречений і наречена",
+        "(палеоантропологія) пізні Homo sapiens"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "236433d4370e7d2e",
+      "ukrainian_segments": [
+        "новачок; новобранець; новий талант",
+        "щойно одружена людина, особливо молода дружина",
+        "подружжя молодят; наречений і наречена",
+        "(палеоантропологія) пізні Homo sapiens"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "b207c7434de68bcd",
+    "batch": "batch_099.json",
+    "raw": {
+      "id": "b207c7434de68bcd",
+      "ukrainian_segments": [
+        "NHK (Ніппон Хосо Кьокай), японська національна мовна корпорація"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "b207c7434de68bcd",
+      "ukrainian_segments": [
+        "NHK (Ніппон Хосо Кьокай), японська національна телерадіомовна корпорація"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  }
+]

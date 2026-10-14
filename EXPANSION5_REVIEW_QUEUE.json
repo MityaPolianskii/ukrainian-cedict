@@ -1,0 +1,4067 @@
+[
+  {
+    "id": "7a0fc6e51996838a",
+    "traditional": "悜",
+    "simplified": "悜",
+    "pinyin": "cheng3",
+    "english_segments": [
+      "obscure"
+    ],
+    "raw_source": "悜 悜 [cheng3] /obscure/",
+    "source_line": 42116,
+    "ukrainian_segments": [
+      "неясний"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісне 悜[cheng3]: джерельне «obscure» не уточнює, чи йдеться про неясність значення, чи про стан свідомості."
+    ]
+  },
+  {
+    "id": "b1d97a4e4dde0e8a",
+    "traditional": "情急智生",
+    "simplified": "情急智生",
+    "pinyin": "qing2 ji2 zhi4 sheng1",
+    "english_segments": [
+      "inspiration in a moment of desperation (idiom)",
+      "also written 情急之下"
+    ],
+    "raw_source": "情急智生 情急智生 [qing2 ji2 zhi4 sheng1] /inspiration in a moment of desperation (idiom)/also written 情急之下/",
+    "source_line": 42287,
+    "ukrainian_segments": [
+      "винахідливість у хвилину розпачу (ідіома)",
+      "також пишеться 情急之下"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело подає 情急之下 як альтернативне написання, хоча цей вислів означає «у хвилину розпачу», без складника винахідливості."
+    ]
+  },
+  {
+    "id": "5fc0836b0fcf3538",
+    "traditional": "惟",
+    "simplified": "惟",
+    "pinyin": "wei2",
+    "english_segments": [
+      "-ism",
+      "only"
+    ],
+    "raw_source": "惟 惟 [wei2] /-ism/only/",
+    "source_line": 42383,
+    "ukrainian_segments": [
+      "-ізм",
+      "лише"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Значення «-ізм» у джерелі не пояснено; 惟 зазвичай виражає обмеження «лише»."
+    ]
+  },
+  {
+    "id": "2ef2814a5ea61571",
+    "traditional": "惡唑啉",
+    "simplified": "恶唑啉",
+    "pinyin": "e4 zuo4 lin2",
+    "english_segments": [
+      "oxacillin"
+    ],
+    "raw_source": "惡唑啉 恶唑啉 [e4 zuo4 lin2] /oxacillin/",
+    "source_line": 42454,
+    "ukrainian_segments": [
+      "оксазолін"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайська назва означає оксазолін; джерельне «oxacillin» (оксацилін) їй не відповідає й потребує перевірки."
+    ]
+  },
+  {
+    "id": "3bb02c2a0cea5662",
+    "traditional": "惡唑啉酮",
+    "simplified": "恶唑啉酮",
+    "pinyin": "e4 zuo4 lin2 tong2",
+    "english_segments": [
+      "oxacillin"
+    ],
+    "raw_source": "惡唑啉酮 恶唑啉酮 [e4 zuo4 lin2 tong2] /oxacillin/",
+    "source_line": 42455,
+    "ukrainian_segments": [
+      "оксазолінон"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайська назва вказує на оксазолінон, тоді як джерело подає «oxacillin» (оксацилін); точний хімічний термін потребує перевірки."
+    ]
+  },
+  {
+    "id": "4b804d73c835e8ce",
+    "traditional": "愛晚亭",
+    "simplified": "爱晚亭",
+    "pinyin": "Ai4 wan3 Ting2",
+    "english_segments": [
+      "Aiwan Pavilion, on Mt Yuelu 岳麓山 in Hubei, famous beauty spot"
+    ],
+    "raw_source": "愛晚亭 爱晚亭 [Ai4 wan3 Ting2] /Aiwan Pavilion, on Mt Yuelu 岳麓山 in Hubei, famous beauty spot/",
+    "source_line": 42817,
+    "ukrainian_segments": [
+      "павільйон Айвань на горі Юелу 岳麓山, відоме мальовниче місце"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело вказує Хубей, але гора Юелу й павільйон Айвань відомі як пам'ятки провінції Хунань; географічна вказівка джерела суперечлива."
+    ]
+  },
+  {
+    "id": "c5742c8b397fc503",
+    "traditional": "感光鼓",
+    "simplified": "感光鼓",
+    "pinyin": "gan3 guang1 gu3",
+    "english_segments": [
+      "toner cartridge"
+    ],
+    "raw_source": "感光鼓 感光鼓 [gan3 guang1 gu3] /toner cartridge/",
+    "source_line": 42891,
+    "ukrainian_segments": [
+      "фотобарабан"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайське 感光鼓 називає світлочутливий барабан принтера; джерельне «toner cartridge» означає картридж із тонером і є неточним відповідником."
+    ]
+  },
+  {
+    "id": "4de5f2ba874ea756",
+    "traditional": "愷撒",
+    "simplified": "恺撒",
+    "pinyin": "Kai3 sa1",
+    "english_segments": [
+      "Caesar (name)",
+      "Gaius Julius Caesar 100-42 BC",
+      "by extension, emperor, Kaiser, Tsar"
+    ],
+    "raw_source": "愷撒 恺撒 [Kai3 sa1] /Caesar (name)/Gaius Julius Caesar 100-42 BC/by extension, emperor, Kaiser, Tsar/",
+    "source_line": 42985,
+    "ukrainian_segments": [
+      "Цезар (ім'я)",
+      "Гай Юлій Цезар (100–42 до н. е., за джерелом)",
+      "у ширшому значенні — імператор, кайзер, цар"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело вказує 42 рік до н. е. як рік смерті Цезаря; загальноприйнята дата — 44 рік до н. е."
+    ]
+  },
+  {
+    "id": "95aff95c9e36f73c",
+    "traditional": "慈姑",
+    "simplified": "慈姑",
+    "pinyin": "ci2 gu5",
+    "english_segments": [
+      "arrowhead (Sagittaria subulata, a water plant)"
+    ],
+    "raw_source": "慈姑 慈姑 [ci2 gu5] /arrowhead (Sagittaria subulata, a water plant)/",
+    "source_line": 43006,
+    "ukrainian_segments": [
+      "стрілолист (Sagittaria subulata, водяна рослина, за джерелом)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Видове визначення потребує перевірки: 慈姑 зазвичай пов'язують із їстівними формами Sagittaria trifolia, а джерело вказує S. subulata."
+    ]
+  },
+  {
+    "id": "5b43925a995f048a",
+    "traditional": "慕士塔格峰",
+    "simplified": "慕士塔格峰",
+    "pinyin": "Mu4 shi4 ta3 ge2 Feng1",
+    "english_segments": [
+      "Muztagh Ata, second highest peak of the Pamir Mountains"
+    ],
+    "raw_source": "慕士塔格峰 慕士塔格峰 [Mu4 shi4 ta3 ge2 Feng1] /Muztagh Ata, second highest peak of the Pamir Mountains/",
+    "source_line": 43058,
+    "ukrainian_segments": [
+      "Музтаг-Ата, за джерелом друга найвища вершина Паміру"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Твердження про друге місце за висотою в Памірі потребує перевірки; назва однозначно вказує на Музтаг-Ату."
+    ]
+  },
+  {
+    "id": "c364f9ad220b6f87",
+    "traditional": "慶尚北道",
+    "simplified": "庆尚北道",
+    "pinyin": "Qing4 shang4 bei3 dao4",
+    "english_segments": [
+      "North Gyeongsang Province, in east South Korea, capital Daegu 大邱[Da4 qiu1]"
+    ],
+    "raw_source": "慶尚北道 庆尚北道 [Qing4 shang4 bei3 dao4] /North Gyeongsang Province, in east South Korea, capital Daegu 大邱[Da4 qiu1]/",
+    "source_line": 43208,
+    "ukrainian_segments": [
+      "Кьонсан-Пукто, провінція на сході Південної Кореї; столиця за джерелом — Тегу 大邱[Da4 qiu1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Вказівка на Тегу як столицю провінції історична; адміністративний центр перенесено до Андона."
+    ]
+  },
+  {
+    "id": "f9641b4fea239906",
+    "traditional": "憭",
+    "simplified": "憭",
+    "pinyin": "liao3",
+    "english_segments": [
+      "clear",
+      "intelligible",
+      "severe",
+      "cold"
+    ],
+    "raw_source": "憭 憭 [liao3] /clear/intelligible/severe/cold/",
+    "source_line": 43346,
+    "ukrainian_segments": [
+      "ясний",
+      "зрозумілий",
+      "суворий",
+      "холодний"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело поєднує значення ясності та суворого холоду для рідкісного 憭[liao3]; останні два значення потребують лексикографічної перевірки."
+    ]
+  },
+  {
+    "id": "f1b8849821bb133e",
+    "traditional": "憲法監護委員會",
+    "simplified": "宪法监护委员会",
+    "pinyin": "Xian4 fa3 Jian1 hu4 Wei3 yuan2 hui4",
+    "english_segments": [
+      "Guardian Council, body of 12 appointed clerics which governs Iran"
+    ],
+    "raw_source": "憲法監護委員會 宪法监护委员会 [Xian4 fa3 Jian1 hu4 Wei3 yuan2 hui4] /Guardian Council, body of 12 appointed clerics which governs Iran/",
+    "source_line": 43357,
+    "ukrainian_segments": [
+      "Рада вартових конституції, керівний орган Ірану з 12 призначених членів"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає всіх 12 членів духовними особами; відомий склад ради — шість богословів і шість правників, тому це означення неточне."
+    ]
+  },
+  {
+    "id": "71781545e4c363e5",
+    "traditional": "應縣木塔",
+    "simplified": "应县木塔",
+    "pinyin": "Ying4 Xian4 mu4 ta3",
+    "english_segments": [
+      "the timber pagoda of the Fogong Temple in Ying County, Shanxi, built in 1056 (Song dynasty)"
+    ],
+    "raw_source": "應縣木塔 应县木塔 [Ying4 Xian4 mu4 ta3] /the timber pagoda of the Fogong Temple in Ying County, Shanxi, built in 1056 (Song dynasty)/",
+    "source_line": 43468,
+    "ukrainian_segments": [
+      "дерев'яна пагода храму Фоґун у повіті Їнсянь, Шаньсі, збудована 1056 року (за часів династії Сун)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дата відповідає періоду Сун, але пагоду збудовано на території держави Ляо; династична прив'язка джерела неточна."
+    ]
+  },
+  {
+    "id": "558275649ced5620",
+    "traditional": "懮",
+    "simplified": "懮",
+    "pinyin": "you3",
+    "english_segments": [
+      "grievous",
+      "relaxed"
+    ],
+    "raw_source": "懮 懮 [you3] /grievous/relaxed/",
+    "source_line": 43523,
+    "ukrainian_segments": [
+      "скорботний",
+      "розслаблений"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісне 懮[you3] має в джерелі протилежно забарвлені глоси; розподіл цих значень між читаннями потребує перевірки."
+    ]
+  },
+  {
+    "id": "599001711e253900",
+    "traditional": "懷氏虎鶇",
+    "simplified": "怀氏虎鸫",
+    "pinyin": "Huai2 shi4 hu3 dong1",
+    "english_segments": [
+      "(bird species of China) White's thrush (Zoothera aurea)"
+    ],
+    "raw_source": "懷氏虎鶇 怀氏虎鸫 [Huai2 shi4 hu3 dong1] /(bird species of China) White's thrush (Zoothera aurea)/",
+    "source_line": 43592,
+    "ukrainian_segments": [
+      "дрізд Вайта (Zoothera aurea; вид птахів Китаю)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва не підтверджена; подано описову назву й точну латинську."
+    ]
+  },
+  {
+    "id": "6e54ef78d8a09163",
+    "traditional": "懸空寺",
+    "simplified": "悬空寺",
+    "pinyin": "Xuan2 kong1 Si4",
+    "english_segments": [
+      "Xuankong Temple or Suspended Temple near Yanyuan in Shanxi"
+    ],
+    "raw_source": "懸空寺 悬空寺 [Xuan2 kong1 Si4] /Xuankong Temple or Suspended Temple near Yanyuan in Shanxi/",
+    "source_line": 43638,
+    "ukrainian_segments": [
+      "Сюанькунси, або Висячий монастир, у провінції Шаньсі, за джерелом поблизу Яньюаня"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "«Yanyuan» у джерелі, ймовірно, помилка: відомий Сюанькунси розташований у повіті Хуньюань."
+    ]
+  },
+  {
+    "id": "c34c38f806340a1f",
+    "traditional": "戈氏金絲燕",
+    "simplified": "戈氏金丝燕",
+    "pinyin": "Ge1 shi4 jin1 si1 yan4",
+    "english_segments": [
+      "(bird species of China) Germain's swiftlet (Aerodramus germani)"
+    ],
+    "raw_source": "戈氏金絲燕 戈氏金丝燕 [Ge1 shi4 jin1 si1 yan4] /(bird species of China) Germain's swiftlet (Aerodramus germani)/",
+    "source_line": 43703,
+    "ukrainian_segments": [
+      "салангана Жермена (Aerodramus germani; вид птахів Китаю)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталений український відповідник назви Germain's swiftlet не підтверджено; латинська назва збережена."
+    ]
+  },
+  {
+    "id": "5832bdb9eac1f496",
+    "traditional": "戈爾巴喬夫",
+    "simplified": "戈尔巴乔夫",
+    "pinyin": "Ge1 er3 ba1 qiao2 fu1",
+    "english_segments": [
+      "Gorbachev",
+      "Mikhail Sergeyevich Gorbachev (1931–2022), last president of the Soviet Union 1991–1995"
+    ],
+    "raw_source": "戈爾巴喬夫 戈尔巴乔夫 [Ge1 er3 ba1 qiao2 fu1] /Gorbachev/Mikhail Sergeyevich Gorbachev (1931–2022), last president of the Soviet Union 1991–1995/",
+    "source_line": 43705,
+    "ukrainian_segments": [
+      "Горбачов",
+      "Михайло Сергійович Горбачов (1931–2022), останній президент Радянського Союзу, 1990–1991"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело помилково подає період президентства 1991–1995; посаду президента СРСР Горбачов обіймав у 1990–1991 роках."
+    ]
+  },
+  {
+    "id": "40f2f0fe6eb2a1cb",
+    "traditional": "戊巴比妥鈉",
+    "simplified": "戊巴比妥钠",
+    "pinyin": "wu4 ba1 bi3 tuo3 na4",
+    "english_segments": [
+      "pentasorbital sodium (a sedative)"
+    ],
+    "raw_source": "戊巴比妥鈉 戊巴比妥钠 [wu4 ba1 bi3 tuo3 na4] /pentasorbital sodium (a sedative)/",
+    "source_line": 43718,
+    "ukrainian_segments": [
+      "пентобарбітал натрію (седативний засіб)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерельне «pentasorbital sodium» містить імовірну помилку; китайська назва відповідає pentobarbital sodium."
+    ]
+  },
+  {
+    "id": "18644e70a3d112d5",
+    "traditional": "戴奧辛",
+    "simplified": "戴奥辛",
+    "pinyin": "dai4 ao4 xin1",
+    "english_segments": [
+      "dioxin, carcinogenic heterocyclic hydrocarbon (esp. Taiwan usage)"
+    ],
+    "raw_source": "戴奧辛 戴奥辛 [dai4 ao4 xin1] /dioxin, carcinogenic heterocyclic hydrocarbon (esp. Taiwan usage)/",
+    "source_line": 44174,
+    "ukrainian_segments": [
+      "діоксин, канцерогенна гетероциклічна сполука (особливо тайванське вживання)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає діоксин вуглеводнем, але він містить кисень; передано точніше як гетероциклічну сполуку."
+    ]
+  },
+  {
+    "id": "1897c887bbca00f7",
+    "traditional": "戾龍",
+    "simplified": "戾龙",
+    "pinyin": "li4 long2",
+    "english_segments": [
+      "mythical evil serpent",
+      "evil dragon in Western mythology, cf Revelations 14:12"
+    ],
+    "raw_source": "戾龍 戾龙 [li4 long2] /mythical evil serpent/evil dragon in Western mythology, cf Revelations 14:12/",
+    "source_line": 44224,
+    "ukrainian_segments": [
+      "міфічний злий змій",
+      "злий дракон західної міфології; пор. Одкровення 14:12"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Біблійне посилання джерела потребує перевірки: Одкровення 14:12 не є описом дракона."
+    ]
+  },
+  {
+    "id": "2ad080e64694bf7e",
+    "traditional": "所多",
+    "simplified": "所多",
+    "pinyin": "Suo3 duo1",
+    "english_segments": [
+      "Soto"
+    ],
+    "raw_source": "所多 所多 [Suo3 duo1] /Soto/",
+    "source_line": 44281,
+    "ukrainian_segments": [
+      "Сото (ім'я або назва)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело подає лише «Soto»; конкретна особа або географічний об'єкт не уточнені."
+    ]
+  },
+  {
+    "id": "f3d53c0f10b34f8d",
+    "traditional": "扁嘴海雀",
+    "simplified": "扁嘴海雀",
+    "pinyin": "bian3 zui3 hai3 que4",
+    "english_segments": [
+      "(bird species of China) ancient murrelet (Synthliboramphus antiquus)"
+    ],
+    "raw_source": "扁嘴海雀 扁嘴海雀 [bian3 zui3 hai3 que4] /(bird species of China) ancient murrelet (Synthliboramphus antiquus)/",
+    "source_line": 44325,
+    "ukrainian_segments": [
+      "моржик старий (Synthliboramphus antiquus; вид птахів Китаю)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталений український видовий відповідник потребує перевірки; латинську назву збережено."
+    ]
+  },
+  {
+    "id": "e9a4c99b3ee14250",
+    "traditional": "扇蝦",
+    "simplified": "扇虾",
+    "pinyin": "shan4 xia1",
+    "english_segments": [
+      "fan lobster (esp. species of the genera Ibacus or Parribacus, both belonging to the slipper lobster family)"
+    ],
+    "raw_source": "扇蝦 扇虾 [shan4 xia1] /fan lobster (esp. species of the genera Ibacus or Parribacus, both belonging to the slipper lobster family)/",
+    "source_line": 44360,
+    "ukrainian_segments": [
+      "віяловий омар (особливо родів Ibacus або Parribacus, обидва з родини Scyllaridae)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська родова назва тут описова; усталений відповідник fan lobster потребує перевірки."
+    ]
+  },
+  {
+    "id": "6bf5a4608f25e917",
+    "traditional": "打法",
+    "simplified": "打法",
+    "pinyin": "da3 fa3",
+    "english_segments": [
+      "to play (a card)",
+      "to make a move in a game"
+    ],
+    "raw_source": "打法 打法 [da3 fa3] /to play (a card)/to make a move in a game/",
+    "source_line": 44812,
+    "ukrainian_segments": [
+      "ходити картою",
+      "робити хід у грі"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело подає дієслівні значення, тоді як 打法 зазвичай означає спосіб гри чи ведення бою; потрібна перевірка вихідного запису."
+    ]
+  },
+  {
+    "id": "3999c99ad84cf87d",
+    "traditional": "打爆",
+    "simplified": "打爆",
+    "pinyin": "da3 bao4",
+    "english_segments": [
+      "to blow out",
+      "to blow off",
+      "(computer games) to zap",
+      "(phone) to ring off the hook",
+      "to be jammed",
+      "to max out (credit card etc)"
+    ],
+    "raw_source": "打爆 打爆 [da3 bao4] /to blow out/to blow off/(computer games) to zap/(phone) to ring off the hook/to be jammed/to max out (credit card etc)/",
+    "source_line": 44824,
+    "ukrainian_segments": [
+      "розбивати; пробивати наскрізь",
+      "відривати ударом",
+      "(комп'ютерні ігри) знищувати пострілом",
+      "(про телефон) розриватися від дзвінків",
+      "бути перевантаженим",
+      "вичерпувати ліміт (кредитної картки тощо)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Перші два англійські відповідники багатозначні; передано руйнування ударом відповідно до 打爆."
+    ]
+  },
+  {
+    "id": "7973502d09b3693a",
+    "traditional": "扣帶回",
+    "simplified": "扣带回",
+    "pinyin": "kou4 dai4 hui2",
+    "english_segments": [
+      "cingulum (anatomy)"
+    ],
+    "raw_source": "扣帶回 扣带回 [kou4 dai4 hui2] /cingulum (anatomy)/",
+    "source_line": 45053,
+    "ukrainian_segments": [
+      "поясна звивина (анат.)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі «cingulum»; китайське 扣帶回 позначає поясну звивину (cingulate gyrus), а не поясний пучок."
+    ]
+  },
+  {
+    "id": "db3171d500d0763d",
+    "traditional": "扣帽子",
+    "simplified": "扣帽子",
+    "pinyin": "kou4 mao4 zi5",
+    "english_segments": [
+      "to tag sb with unfair label",
+      "power word"
+    ],
+    "raw_source": "扣帽子 扣帽子 [kou4 mao4 zi5] /to tag sb with unfair label/power word/",
+    "source_line": 45054,
+    "ukrainian_segments": [
+      "навішувати на когось несправедливий ярлик",
+      "дискредитувальний ярлик"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «power word» неточне; передано функцію образливого ярлика відповідно до 扣帽子."
+    ]
+  },
+  {
+    "id": "ed9cff9f9d204fa4",
+    "traditional": "投票率",
+    "simplified": "投票率",
+    "pinyin": "tou2 piao4 lu:4",
+    "english_segments": [
+      "proportion of vote",
+      "turnout in election"
+    ],
+    "raw_source": "投票率 投票率 [tou2 piao4 lu:4] /proportion of vote/turnout in election/",
+    "source_line": 45575,
+    "ukrainian_segments": [
+      "частка голосування",
+      "явка на виборах"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "«Proportion of vote» у джерелі нечітке; звичайне значення 投票率 — виборча явка."
+    ]
+  },
+  {
+    "id": "b597e0e1ded4f831",
+    "traditional": "抗日救亡運動",
+    "simplified": "抗日救亡运动",
+    "pinyin": "Kang4 Ri4 Jiu4 wang2 Yun4 dong4",
+    "english_segments": [
+      "the Save the Nation Anti-Japanese Protest Movement stemming from the Manchurian railway incident of 18th July 1931 九一八事變|九一八事变"
+    ],
+    "raw_source": "抗日救亡運動 抗日救亡运动 [Kang4 Ri4 Jiu4 wang2 Yun4 dong4] /the Save the Nation Anti-Japanese Protest Movement stemming from the Manchurian railway incident of 18th July 1931 九一八事變|九一八事变/",
+    "source_line": 45644,
+    "ukrainian_segments": [
+      "Рух антияпонського опору за порятунок нації, що виник після Маньчжурського інциденту на залізниці 18 вересня 1931 року 九一八事變|九一八事变"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі помилково зазначено 18 липня; 九一八 позначає інцидент 18 вересня 1931 року."
+    ]
+  },
+  {
+    "id": "cf77c742f403fba6",
+    "traditional": "抗耐甲氧西林金葡菌",
+    "simplified": "抗耐甲氧西林金葡菌",
+    "pinyin": "kang4 nai4 jia3 yang3 xi1 lin2 jin1 pu2 jun1",
+    "english_segments": [
+      "methicillin-resistant Staphylococcus aureus (MRSA)"
+    ],
+    "raw_source": "抗耐甲氧西林金葡菌 抗耐甲氧西林金葡菌 [kang4 nai4 jia3 yang3 xi1 lin2 jin1 pu2 jun1] /methicillin-resistant Staphylococcus aureus (MRSA)/",
+    "source_line": 45670,
+    "ukrainian_segments": [
+      "метицилінорезистентний золотистий стафілокок (MRSA)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайський запис містить початкове 抗 «проти» перед 耐甲氧西林金葡菌 «MRSA», тоді як англійське тлумачення позначає саму бактерію; потрібна перевірка джерела."
+    ]
+  },
+  {
+    "id": "aff0a2afda7bb894",
+    "traditional": "抹不下臉",
+    "simplified": "抹不下脸",
+    "pinyin": "mo3 bu4 xia4 lian3",
+    "english_segments": [
+      "to be unable to keep a straight face (idiom)"
+    ],
+    "raw_source": "抹不下臉 抹不下脸 [mo3 bu4 xia4 lian3] /to be unable to keep a straight face (idiom)/",
+    "source_line": 45872,
+    "ukrainian_segments": [
+      "не могти зберегти незворушний вираз обличчя (ідіома)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерельне «keep a straight face» неоднозначне; вислів також може стосуватися нездатності вдати суворість або відкинути сором'язливість."
+    ]
+  },
+  {
+    "id": "9d736edb3ceb9e7b",
+    "traditional": "抽動症",
+    "simplified": "抽动症",
+    "pinyin": "chou1 dong4 zheng4",
+    "english_segments": [
+      "Tourette syndrome"
+    ],
+    "raw_source": "抽動症 抽动症 [chou1 dong4 zheng4] /Tourette syndrome/",
+    "source_line": 45915,
+    "ukrainian_segments": [
+      "синдром Туретта"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "抽動症 ширше означає тиковий розлад; англійське джерело звужує значення до синдрому Туретта."
+    ]
+  },
+  {
+    "id": "96ee76da2e1df890",
+    "traditional": "拇囊炎",
+    "simplified": "拇囊炎",
+    "pinyin": "mu3 nang2 yan2",
+    "english_segments": [
+      "bunion; hallux valgus"
+    ],
+    "raw_source": "拇囊炎 拇囊炎 [mu3 nang2 yan2] /bunion; hallux valgus/",
+    "source_line": 46012,
+    "ukrainian_segments": [
+      "бурсит великого пальця стопи; вальгусна деформація великого пальця"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "拇囊炎 позначає запалення суглобової сумки; джерело змішує його з вальгусною деформацією."
+    ]
+  },
+  {
+    "id": "b6f0a770be4e310e",
+    "traditional": "拉包爾",
+    "simplified": "拉包尔",
+    "pinyin": "La1 bao1 er3",
+    "english_segments": [
+      "Rabaul, port city and capital of New Britain, island of northeast Papua New Guinea"
+    ],
+    "raw_source": "拉包爾 拉包尔 [La1 bao1 er3] /Rabaul, port city and capital of New Britain, island of northeast Papua New Guinea/",
+    "source_line": 46056,
+    "ukrainian_segments": [
+      "Рабаул, портове місто й столиця острова Нова Британія на північному сході Папуа Нової Гвінеї"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Статус «столиці Нової Британії» у джерелі потребує уточнення; назву й опис перекладено за джерелом."
+    ]
+  },
+  {
+    "id": "16559b422c41fced",
+    "traditional": "拉絲模",
+    "simplified": "拉丝模",
+    "pinyin": "la1 si1 mo2",
+    "english_segments": [
+      "die (i.e. tool for cutting wire to a given diameter)"
+    ],
+    "raw_source": "拉絲模 拉丝模 [la1 si1 mo2] /die (i.e. tool for cutting wire to a given diameter)/",
+    "source_line": 46151,
+    "ukrainian_segments": [
+      "волока; інструмент для протягування дроту до потрібного діаметра"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело помилково описує волочіння як різання дроту; переклад узгоджено з 拉絲模."
+    ]
+  },
+  {
+    "id": "e6c3792ae1e4bb4b",
+    "traditional": "拊髀",
+    "simplified": "拊髀",
+    "pinyin": "fu3 bi4",
+    "english_segments": [
+      "to slap one's own buttocks in excitement or despair"
+    ],
+    "raw_source": "拊髀 拊髀 [fu3 bi4] /to slap one's own buttocks in excitement or despair/",
+    "source_line": 46204,
+    "ukrainian_segments": [
+      "плескати себе по стегнах від збудження або розпачу"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі «buttocks», але 髀 означає стегно; перекладено відповідно до китайського слова."
+    ]
+  },
+  {
+    "id": "267d75e44ff46973",
+    "traditional": "拒絕服務攻擊",
+    "simplified": "拒绝服务攻击",
+    "pinyin": "ju4 jue2 fu2 wu4 gong1 ji1",
+    "english_segments": [
+      "(computing) denial-of-service attack (DDOS)"
+    ],
+    "raw_source": "拒絕服務攻擊 拒绝服务攻击 [ju4 jue2 fu2 wu4 gong1 ji1] /(computing) denial-of-service attack (DDOS)/",
+    "source_line": 46319,
+    "ukrainian_segments": [
+      "(інформ.) атака «відмова в обслуговуванні» (DDOS)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайський термін означає загалом DoS; наведене у джерелі DDOS позначає розподілений різновид такої атаки."
+    ]
+  },
+  {
+    "id": "626dabc58110e8dd",
+    "traditional": "拔頂",
+    "simplified": "拔顶",
+    "pinyin": "ba2 ding3",
+    "english_segments": [
+      "topping (mining)"
+    ],
+    "raw_source": "拔頂 拔顶 [ba2 ding3] /topping (mining)/",
+    "source_line": 46383,
+    "ukrainian_segments": [
+      "знімання верхнього шару (гірництво)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Точне галузеве значення «topping» для 拔頂 у джерелі не уточнене; термін потребує фахової перевірки."
+    ]
+  },
+  {
+    "id": "a75f5a97cc62937a",
+    "traditional": "拜登",
+    "simplified": "拜登",
+    "pinyin": "Bai4 deng1",
+    "english_segments": [
+      "Biden (name)",
+      "Joe Biden (1942-), US president (2021-), vice-president 2009-2017"
+    ],
+    "raw_source": "拜登 拜登 [Bai4 deng1] /Biden (name)/Joe Biden (1942-), US president (2021-), vice-president 2009-2017/",
+    "source_line": 46618,
+    "ukrainian_segments": [
+      "Байден (прізвище)",
+      "Джо Байден (нар. 1942), президент США від 2021 року, віцепрезидент у 2009–2017 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не вказує кінця президентського терміну; біографічні дати потребують актуалізації, це не твердження про нинішню посаду."
+    ]
+  },
+  {
+    "id": "024b919c19c5e1c7",
+    "traditional": "拱廊",
+    "simplified": "拱廊",
+    "pinyin": "gong3 lang2",
+    "english_segments": [
+      "triforium (gallery of arches above side-aisle vaulting in the nave of a church)"
+    ],
+    "raw_source": "拱廊 拱廊 [gong3 lang2] /triforium (gallery of arches above side-aisle vaulting in the nave of a church)/",
+    "source_line": 46661,
+    "ukrainian_segments": [
+      "трифорій; аркова галерея над склепіннями бічних нефів церкви"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 1,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "拱廊 загалом означає аркаду або аркову галерею; джерело звужує його до трифорію."
+    ]
+  },
+  {
+    "id": "980cb8cdf8d73f52",
+    "traditional": "拾芥",
+    "simplified": "拾芥",
+    "pinyin": "shi2 jie4",
+    "english_segments": [
+      "to pick up cress",
+      "fig. sth easy to do",
+      "a piece of cake"
+    ],
+    "raw_source": "拾芥 拾芥 [shi2 jie4] /to pick up cress/fig. sth easy to do/a piece of cake/",
+    "source_line": 46785,
+    "ukrainian_segments": [
+      "підбирати дрібну траву",
+      "перен. легка справа",
+      "простіше простого"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «cress» надто конкретне; 芥 у цьому вислові позначає дрібну траву чи соломинку, яку легко підняти."
+    ]
+  },
+  {
+    "id": "edc8df65744cb29f",
+    "traditional": "指南車",
+    "simplified": "指南车",
+    "pinyin": "zhi3 nan2 che1",
+    "english_segments": [
+      "a mechanical compass invented by Zu Chongzhi 祖沖之|祖冲之"
+    ],
+    "raw_source": "指南車 指南车 [zhi3 nan2 che1] /a mechanical compass invented by Zu Chongzhi 祖沖之|祖冲之/",
+    "source_line": 46877,
+    "ukrainian_segments": [
+      "механічний компас, винайдений Цзу Чунчжі 祖沖之|祖冲之"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Приписування винаходу саме Цзу Чунчжі у джерелі потребує історичного уточнення; 指南車 — колісниця, що вказує на південь."
+    ]
+  },
+  {
+    "id": "b39b672cb13f3748",
+    "traditional": "捏脊治療",
+    "simplified": "捏脊治疗",
+    "pinyin": "nie1 ji3 zhi4 liao2",
+    "english_segments": [
+      "chiropractic (medicine)"
+    ],
+    "raw_source": "捏脊治療 捏脊治疗 [nie1 ji3 zhi4 liao2] /chiropractic (medicine)/",
+    "source_line": 47261,
+    "ukrainian_segments": [
+      "хіропрактика (мед.)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське тлумачення не збігається точно з 捏脊治療: китайський вислів позначає лікування защипувальним масажем уздовж хребта; потрібна перевірка джерела."
+    ]
+  },
+  {
+    "id": "6b76930879cf772f",
+    "traditional": "捐益表",
+    "simplified": "捐益表",
+    "pinyin": "juan1 yi4 biao3",
+    "english_segments": [
+      "tax benefits table"
+    ],
+    "raw_source": "捐益表 捐益表 [juan1 yi4 biao3] /tax benefits table/",
+    "source_line": 47275,
+    "ukrainian_segments": [
+      "таблиця податкових пільг"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний запис 捐益表 із цим тлумаченням потребує перевірки; можливе змішання з іншим фінансовим терміном."
+    ]
+  },
+  {
+    "id": "6a25c68f3157ba2e",
+    "traditional": "捲揚",
+    "simplified": "卷扬",
+    "pinyin": "juan3 yang2",
+    "english_segments": [
+      "a whirlwind"
+    ],
+    "raw_source": "捲揚 卷扬 [juan3 yang2] /a whirlwind/",
+    "source_line": 47368,
+    "ukrainian_segments": [
+      "вихор"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело подає «whirlwind», але 捲揚 також пов'язане з підніманням і намотуванням; рідкісне іменникове тлумачення потребує перевірки."
+    ]
+  },
+  {
+    "id": "587e5533ec07b49d",
+    "traditional": "捲餅",
+    "simplified": "卷饼",
+    "pinyin": "juan3 bing3",
+    "english_segments": [
+      "rolled-up pastry",
+      "roll",
+      "turnover (patisserie)"
+    ],
+    "raw_source": "捲餅 卷饼 [juan3 bing3] /rolled-up pastry/roll/turnover (patisserie)/",
+    "source_line": 47384,
+    "ukrainian_segments": [
+      "скручений рулетом виріб із тіста",
+      "рулет",
+      "пиріжок зі складеного тіста з начинкою"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське turnover ширше за звичайне значення 捲餅 — корж із загорнутою начинкою; точний вид випічки неясний."
+    ]
+  },
+  {
+    "id": "a340e1c9b390092c",
+    "traditional": "授銜",
+    "simplified": "授衔",
+    "pinyin": "shou4 xian2",
+    "english_segments": [
+      "rank of professor",
+      "academic title"
+    ],
+    "raw_source": "授銜 授衔 [shou4 xian2] /rank of professor/academic title/",
+    "source_line": 47506,
+    "ukrainian_segments": [
+      "професорське звання",
+      "вчене звання"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело подає назви звань, тоді як 授銜 зазвичай означає «присвоювати звання»; значення джерела потребує перевірки."
+    ]
+  },
+  {
+    "id": "580ff613e945794c",
+    "traditional": "掌骨",
+    "simplified": "掌骨",
+    "pinyin": "zhang3 gu3",
+    "english_segments": [
+      "metacarpal bone (long bones in the hand and feet)"
+    ],
+    "raw_source": "掌骨 掌骨 [zhang3 gu3] /metacarpal bone (long bones in the hand and feet)/",
+    "source_line": 47567,
+    "ukrainian_segments": [
+      "п'ясткова кістка (довга кістка кисті)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі помилково згадано також стопи; 掌骨 означає п'ясткові кістки, кістки плесна — 蹠骨."
+    ]
+  },
+  {
+    "id": "3d478a4382ed9e91",
+    "traditional": "排名榜",
+    "simplified": "排名榜",
+    "pinyin": "pai2 ming2 bang3",
+    "english_segments": [
+      "ranking",
+      "ordered list",
+      "top 20",
+      "roll of honor",
+      "to come nth out of 100"
+    ],
+    "raw_source": "排名榜 排名榜 [pai2 ming2 bang3] /ranking/ordered list/top 20/roll of honor/to come nth out of 100/",
+    "source_line": 47598,
+    "ukrainian_segments": [
+      "рейтинг",
+      "упорядкований список",
+      "двадцятка найкращих",
+      "список відзначених",
+      "посідати певне місце серед ста"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Останній сегмент описує місце в рейтингу, хоча 排名榜 є назвою рейтингового списку."
+    ]
+  },
+  {
+    "id": "9a3e4976f206251f",
+    "traditional": "排長",
+    "simplified": "排长",
+    "pinyin": "pai2 zhang3",
+    "english_segments": [
+      "platoon leader",
+      "sergeant"
+    ],
+    "raw_source": "排長 排长 [pai2 zhang3] /platoon leader/sergeant/",
+    "source_line": 47679,
+    "ukrainian_segments": [
+      "командир взводу",
+      "сержант"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Звання сержанта не є прямим значенням 排長, яке позначає посаду командира взводу; сегмент збережено за джерелом."
+    ]
+  },
+  {
+    "id": "585bd4c319e4cd6f",
+    "traditional": "掔",
+    "simplified": "掔",
+    "pinyin": "qian1",
+    "english_segments": [
+      "lead along",
+      "substantial"
+    ],
+    "raw_source": "掔 掔 [qian1] /lead along/substantial/",
+    "source_line": 47690,
+    "ukrainian_segments": [
+      "вести за собою",
+      "міцний"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний ієрогліф; точний відтінок substantial у джерелі неясний."
+    ]
+  },
+  {
+    "id": "51211c11d4193260",
+    "traditional": "掞",
+    "simplified": "掞",
+    "pinyin": "shan4",
+    "english_segments": [
+      "easy",
+      "quiet"
+    ],
+    "raw_source": "掞 掞 [shan4] /easy/quiet/",
+    "source_line": 47768,
+    "ukrainian_segments": [
+      "легкий",
+      "спокійний"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний ієрогліф; значення easy і quiet у джерелі не дають достатнього контексту для точного відтінку."
+    ]
+  },
+  {
+    "id": "ce7bc70fbb1dd702",
+    "traditional": "採場",
+    "simplified": "采场",
+    "pinyin": "cai3 chang3",
+    "english_segments": [
+      "slope"
+    ],
+    "raw_source": "採場 采场 [cai3 chang3] /slope/",
+    "source_line": 47784,
+    "ukrainian_segments": [
+      "місце видобутку; очисний вибій"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське slope, імовірно, є помилкою замість stope; 採場 означає місце гірничого видобутку."
+    ]
+  },
+  {
+    "id": "01e4ea047a4787d3",
+    "traditional": "探路者",
+    "simplified": "探路者",
+    "pinyin": "Tan4 lu4 zhe3",
+    "english_segments": [
+      "Pathfinder, NASA spacecraft sent to Mars in 1977"
+    ],
+    "raw_source": "探路者 探路者 [Tan4 lu4 zhe3] /Pathfinder, NASA spacecraft sent to Mars in 1977/",
+    "source_line": 47878,
+    "ukrainian_segments": [
+      "«Патфайндер», космічний апарат NASA для дослідження Марса"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі зазначено 1977 рік, що не узгоджується з місією Mars Pathfinder (запуск 1996 року, посадка 1997 року)."
+    ]
+  },
+  {
+    "id": "a0a2c155f7d89c3a",
+    "traditional": "掩樣法",
+    "simplified": "掩样法",
+    "pinyin": "yan3 yang4 fa3",
+    "english_segments": [
+      "illusion"
+    ],
+    "raw_source": "掩樣法 掩样法 [yan3 yang4 fa3] /illusion/",
+    "source_line": 48132,
+    "ukrainian_segments": [
+      "ілюзія"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісне слово 掩樣法; без контексту неясно, чи йдеться про оптичну ілюзію, чи прийом приховування."
+    ]
+  },
+  {
+    "id": "c1dc0a670a4b7ae1",
+    "traditional": "提督",
+    "simplified": "提督",
+    "pinyin": "ti2 du1",
+    "english_segments": [
+      "the local commander",
+      "provincial governor (in Qing and Ming times)"
+    ],
+    "raw_source": "提督 提督 [ti2 du1] /the local commander/provincial governor (in Qing and Ming times)/",
+    "source_line": 48292,
+    "ukrainian_segments": [
+      "місцевий командувач",
+      "провінційний губернатор (за династій Цін і Мін)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерельне provincial governor неточне: 提督 насамперед військова посада командувача, а не цивільного губернатора."
+    ]
+  },
+  {
+    "id": "b8b344d8d235220a",
+    "traditional": "插入語",
+    "simplified": "插入语",
+    "pinyin": "cha1 ru4 yu3",
+    "english_segments": [
+      "interjection"
+    ],
+    "raw_source": "插入語 插入语 [cha1 ru4 yu3] /interjection/",
+    "source_line": 48348,
+    "ukrainian_segments": [
+      "вставне слово або вислів"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерельне interjection може означати вигук, але 插入語 позначає вставне висловлювання."
+    ]
+  },
+  {
+    "id": "3b8c300120d9d378",
+    "traditional": "換單",
+    "simplified": "换单",
+    "pinyin": "huan4 dan1",
+    "english_segments": [
+      "bill of exchange (international trade)"
+    ],
+    "raw_source": "換單 换单 [huan4 dan1] /bill of exchange (international trade)/",
+    "source_line": 48432,
+    "ukrainian_segments": [
+      "переказний вексель (міжнародна торгівля)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Значення джерела bill of exchange потребує перевірки: 換單 часто позначає обмін товаросупровідних документів."
+    ]
+  },
+  {
+    "id": "eaa878b7b4fcc425",
+    "traditional": "揭諦",
+    "simplified": "揭谛",
+    "pinyin": "jie1 di4",
+    "english_segments": [
+      "revealer (protective god)"
+    ],
+    "raw_source": "揭諦 揭谛 [jie1 di4] /revealer (protective god)/",
+    "source_line": 48530,
+    "ukrainian_segments": [
+      "Цзєді, божество-захисник, що відкриває істину"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назва релігійного персонажа; точний відповідник англійського revealer потребує уточнення за контекстом."
+    ]
+  },
+  {
+    "id": "97c15c1c311c746f",
+    "traditional": "援藏",
+    "simplified": "援藏",
+    "pinyin": "yuan2 Zang4",
+    "english_segments": [
+      "pro-Tibet",
+      "to support Tibet",
+      "to support Tibetan independence"
+    ],
+    "raw_source": "援藏 援藏 [yuan2 Zang4] /pro-Tibet/to support Tibet/to support Tibetan independence/",
+    "source_line": 48581,
+    "ukrainian_segments": [
+      "прихильний до Тибету",
+      "підтримувати Тибет",
+      "підтримувати незалежність Тибету"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 1,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Сегмент про незалежність є контекстно залежним: 援藏 часто означає допомогу Тибету без підтримки незалежності."
+    ]
+  },
+  {
+    "id": "fbc2002efd5d3017",
+    "traditional": "損贈",
+    "simplified": "损赠",
+    "pinyin": "sun3 zeng4",
+    "english_segments": [
+      "to donate",
+      "donation"
+    ],
+    "raw_source": "損贈 损赠 [sun3 zeng4] /to donate/donation/",
+    "source_line": 48614,
+    "ukrainian_segments": [
+      "жертвувати",
+      "пожертва"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Написання 損贈 нетипове; ймовірно, у джерелі помилка замість 捐贈."
+    ]
+  },
+  {
+    "id": "8a45594fbf97d3c8",
+    "traditional": "搬鋪",
+    "simplified": "搬铺",
+    "pinyin": "ban1 pu4",
+    "english_segments": [
+      "to arrange (for the dying)"
+    ],
+    "raw_source": "搬鋪 搬铺 [ban1 pu4] /to arrange (for the dying)/",
+    "source_line": 48789,
+    "ukrainian_segments": [
+      "облаштовувати місце для вмираючого"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює обряд: 搬鋪 може позначати перенесення вмираючого на підготовлену постіль."
+    ]
+  },
+  {
+    "id": "6fc7594f88ecf0ce",
+    "traditional": "摩亨佐·達羅",
+    "simplified": "摩亨佐·达罗",
+    "pinyin": "Mo2 heng1 zuo3 · da2 luo2",
+    "english_segments": [
+      "Moenjo-daro, capital of Indus valley civilization c. 2000 BC, Sind province, Pakistan, UNESCO World Heritage Site"
+    ],
+    "raw_source": "摩亨佐·達羅 摩亨佐·达罗 [Mo2 heng1 zuo3 · da2 luo2] /Moenjo-daro, capital of Indus valley civilization c. 2000 BC, Sind province, Pakistan, UNESCO World Heritage Site/",
+    "source_line": 48958,
+    "ukrainian_segments": [
+      "Мохенджо-Даро, місто цивілізації долини Інду близько 2000 р. до н. е., провінція Сінд, Пакистан; об'єкт Світової спадщини ЮНЕСКО"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає місто столицею, але столичний статус цивілізації Інду не встановлений."
+    ]
+  },
+  {
+    "id": "98be9ae4f566472a",
+    "traditional": "摩羯",
+    "simplified": "摩羯",
+    "pinyin": "Mo2 jie2",
+    "english_segments": [
+      "Capricorn (star sign)",
+      "northern people in classical times, a branch of the Huns or Xiongnu 匈奴"
+    ],
+    "raw_source": "摩羯 摩羯 [Mo2 jie2] /Capricorn (star sign)/northern people in classical times, a branch of the Huns or Xiongnu 匈奴/",
+    "source_line": 49011,
+    "ukrainian_segments": [
+      "Козоріг (знак зодіаку)",
+      "північний народ давнини, відгалуження гунів або хунну 匈奴"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Друге значення незвичне для 摩羯; можливе змішання з назвою народу 羯 у джерелі."
+    ]
+  },
+  {
+    "id": "891ed9f3f045e458",
+    "traditional": "摰",
+    "simplified": "摰",
+    "pinyin": "nie4",
+    "english_segments": [
+      "to seize with the hand",
+      "to grasp",
+      "to advance",
+      "to breakdown"
+    ],
+    "raw_source": "摰 摰 [nie4] /to seize with the hand/to grasp/to advance/to breakdown/",
+    "source_line": 49037,
+    "ukrainian_segments": [
+      "схоплювати рукою",
+      "хапати",
+      "просуватися",
+      "ламати"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний ієрогліф; значення «просуватися» і «ламати» у джерелі потребують перевірки."
+    ]
+  },
+  {
+    "id": "fd37efb086db53f5",
+    "traditional": "撲落",
+    "simplified": "扑落",
+    "pinyin": "pu1 luo4",
+    "english_segments": [
+      "to fall",
+      "to drop",
+      "socket (loanword for \"plug\")"
+    ],
+    "raw_source": "撲落 扑落 [pu1 luo4] /to fall/to drop/socket (loanword for \"plug\")/",
+    "source_line": 49423,
+    "ukrainian_segments": [
+      "падати",
+      "опускатися",
+      "штепсельний роз'єм (запозичення від англ. plug)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело суперечливо поєднує socket і plug; точний тип роз'єму неясний."
+    ]
+  },
+  {
+    "id": "4c1f677b45bb1336",
+    "traditional": "擬大朱雀",
+    "simplified": "拟大朱雀",
+    "pinyin": "ni3 da4 zhu1 que4",
+    "english_segments": [
+      "(bird species of China) streaked rosefinch (Carpodacus rubicilloides)"
+    ],
+    "raw_source": "擬大朱雀 拟大朱雀 [ni3 da4 zhu1 que4] /(bird species of China) streaked rosefinch (Carpodacus rubicilloides)/",
+    "source_line": 49732,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) смугаста чечевиця (Carpodacus rubicilloides)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська видова назва наведена описово; усталений відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "9f5e38d80a956a32",
+    "traditional": "攃",
+    "simplified": "攃",
+    "pinyin": "sa4",
+    "english_segments": [
+      "preceding"
+    ],
+    "raw_source": "攃 攃 [sa4] /preceding/",
+    "source_line": 49891,
+    "ukrainian_segments": [
+      "попередній"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний ієрогліф; джерельне preceding не дає достатнього контексту для надійного тлумачення."
+    ]
+  },
+  {
+    "id": "5bf0c233b7b31129",
+    "traditional": "攲",
+    "simplified": "攲",
+    "pinyin": "qi1",
+    "english_segments": [
+      "up",
+      "uneven"
+    ],
+    "raw_source": "攲 攲 [qi1] /up/uneven/",
+    "source_line": 50110,
+    "ukrainian_segments": [
+      "піднятий",
+      "нерівний"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «up» нетипове для 攲[qi1], що зазвичай означає нахил або нерівність; значення сегмента потребує звірення."
+    ]
+  },
+  {
+    "id": "98adbae355010b45",
+    "traditional": "收存",
+    "simplified": "收存",
+    "pinyin": "shou1 cun2",
+    "english_segments": [
+      "to receive for storage",
+      "delivery of goods",
+      "to gather and store",
+      "to store safely",
+      "safe keeping"
+    ],
+    "raw_source": "收存 收存 [shou1 cun2] /to receive for storage/delivery of goods/to gather and store/to store safely/safe keeping/",
+    "source_line": 50142,
+    "ukrainian_segments": [
+      "приймати на зберігання",
+      "доставка товарів",
+      "збирати й зберігати",
+      "надійно зберігати",
+      "відповідальне зберігання"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Сегмент «delivery of goods» неясно співвідноситься зі звичайним значенням 收存 «приймати й зберігати»."
+    ]
+  },
+  {
+    "id": "07fc90cfbe236df5",
+    "traditional": "收羅",
+    "simplified": "收罗",
+    "pinyin": "shou1 luo2",
+    "english_segments": [
+      "to gather (people)",
+      "to collect (talent)",
+      "to come to an end"
+    ],
+    "raw_source": "收羅 收罗 [shou1 luo2] /to gather (people)/to collect (talent)/to come to an end/",
+    "source_line": 50214,
+    "ukrainian_segments": [
+      "збирати (людей)",
+      "залучати (таланти)",
+      "добігати кінця"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Значення «добігати кінця» для 收羅 нетипове; збережено за джерелом, потребує перевірки."
+    ]
+  },
+  {
+    "id": "d98ced8c156356ac",
+    "traditional": "政府大學院",
+    "simplified": "政府大学院",
+    "pinyin": "Zheng4 fu3 Da4 xue2 yuan4",
+    "english_segments": [
+      "the name of Academia Sinica 中央研究院[Zhong1 yang1 Yan2 jiu1 yuan4] when it was founded"
+    ],
+    "raw_source": "政府大學院 政府大学院 [Zheng4 fu3 Da4 xue2 yuan4] /the name of Academia Sinica 中央研究院[Zhong1 yang1 Yan2 jiu1 yuan4] when it was founded/",
+    "source_line": 50518,
+    "ukrainian_segments": [
+      "назва Академії Сініка 中央研究院[Zhong1 yang1 Yan2 jiu1 yuan4] на час її заснування"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Історичну тотожність 政府大學院 із первісною назвою Academia Sinica передано за джерелом; потребує перевірки."
+    ]
+  },
+  {
+    "id": "2d4d6dffe0d08958",
+    "traditional": "政府首腦",
+    "simplified": "政府首脑",
+    "pinyin": "zheng4 fu3 shou3 nao3",
+    "english_segments": [
+      "head of state",
+      "government leader"
+    ],
+    "raw_source": "政府首腦 政府首脑 [zheng4 fu3 shou3 nao3] /head of state/government leader/",
+    "source_line": 50523,
+    "ukrainian_segments": [
+      "глава держави",
+      "керівник уряду"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У звичайному вжитку 政府首腦 означає главу уряду; джерело додатково подає «head of state», що потребує звірення."
+    ]
+  },
+  {
+    "id": "62bfa6ed435404c2",
+    "traditional": "故典",
+    "simplified": "故典",
+    "pinyin": "gu4 dian3",
+    "english_segments": [
+      "old classics",
+      "old customs",
+      "cause"
+    ],
+    "raw_source": "故典 故典 [gu4 dian3] /old classics/old customs/cause/",
+    "source_line": 50597,
+    "ukrainian_segments": [
+      "давні класичні твори",
+      "давні звичаї",
+      "причина"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Значення «причина» для 故典 нетипове; збережено за джерелом, потребує перевірки."
+    ]
+  },
+  {
+    "id": "b9d3512aee89ac78",
+    "traditional": "敘利亞文",
+    "simplified": "叙利亚文",
+    "pinyin": "Xu4 li4 ya4 wen2",
+    "english_segments": [
+      "Syriac language (from c. 2nd century BC)",
+      "the Syriac script"
+    ],
+    "raw_source": "敘利亞文 叙利亚文 [Xu4 li4 ya4 wen2] /Syriac language (from c. 2nd century BC)/the Syriac script/",
+    "source_line": 50766,
+    "ukrainian_segments": [
+      "сирійська мова (приблизно з II ст. до н. е.)",
+      "сирійське письмо"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Датування сирійської мови II століттям до н. е. збережене за джерелом; хронологію варто перевірити."
+    ]
+  },
+  {
+    "id": "aa988151360c2dd1",
+    "traditional": "教子",
+    "simplified": "教子",
+    "pinyin": "jiao4 zi3",
+    "english_segments": [
+      "to educate one's children",
+      "godson"
+    ],
+    "raw_source": "教子 教子 [jiao4 zi3] /to educate one's children/godson/",
+    "source_line": 50802,
+    "ukrainian_segments": [
+      "виховувати своїх дітей",
+      "хрещеник"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Сегмент «виховувати дітей» зазвичай має читання jiao1 zi3, тоді як джерело подає jiao4 zi3 для обох значень."
+    ]
+  },
+  {
+    "id": "686c7c2598431e99",
+    "traditional": "散打",
+    "simplified": "散打",
+    "pinyin": "san3 da3",
+    "english_segments": [
+      "mixed martial arts"
+    ],
+    "raw_source": "散打 散打 [san3 da3] /mixed martial arts/",
+    "source_line": 50946,
+    "ukrainian_segments": [
+      "саньда, змішані бойові мистецтва"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "散打 — конкретний китайський вид спортивного єдиноборства саньда; англійське «mixed martial arts» є ширшим і може вводити в оману."
+    ]
+  },
+  {
+    "id": "54bd836dcb42147a",
+    "traditional": "散板",
+    "simplified": "散板",
+    "pinyin": "san3 ban3",
+    "english_segments": [
+      "to fall apart",
+      "opera section in free rhythm"
+    ],
+    "raw_source": "散板 散板 [san3 ban3] /to fall apart/opera section in free rhythm/",
+    "source_line": 50955,
+    "ukrainian_segments": [
+      "розпадатися",
+      "оперний фрагмент у вільному ритмі"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Значення «розпадатися» для 散板 нетипове; джерело також містить усталене музичне значення."
+    ]
+  },
+  {
+    "id": "c0e96d1c790a0b5b",
+    "traditional": "敬祝",
+    "simplified": "敬祝",
+    "pinyin": "jing4 zhu4",
+    "english_segments": [
+      "to offer humbly (written at the end of letter to sb of higher status); your humble servant"
+    ],
+    "raw_source": "敬祝 敬祝 [jing4 zhu4] /to offer humbly (written at the end of letter to sb of higher status); your humble servant/",
+    "source_line": 51024,
+    "ukrainian_segments": [
+      "шанобливо бажати (формула наприкінці листа до старшого за становищем); Ваш покірний слуга"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "敬祝 зазвичай вводить шанобливе побажання; англійське «your humble servant» у джерелі не є точним буквальним відповідником."
+    ]
+  },
+  {
+    "id": "753d2ecd4c406888",
+    "traditional": "敲榨",
+    "simplified": "敲榨",
+    "pinyin": "qiao1 zha4",
+    "english_segments": [
+      "to press (fruit)",
+      "variant of 敲詐|敲诈[qiao1 zha4]"
+    ],
+    "raw_source": "敲榨 敲榨 [qiao1 zha4] /to press (fruit)/variant of 敲詐|敲诈[qiao1 zha4]/",
+    "source_line": 51062,
+    "ukrainian_segments": [
+      "вичавлювати (фрукти)",
+      "варіант 敲詐|敲诈[qiao1 zha4]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Значення «вичавлювати фрукти» для 敲榨 нетипове; збережено за джерелом."
+    ]
+  },
+  {
+    "id": "e1a22b387793b112",
+    "traditional": "整風",
+    "simplified": "整风",
+    "pinyin": "zheng3 feng1",
+    "english_segments": [
+      "Rectification or Rectifying incorrect work styles, Maoist slogan",
+      "cf Rectification campaign 整風運動|整风运动, army purge of 1942-44 and anti-rightist purge of 1957"
+    ],
+    "raw_source": "整風 整风 [zheng3 feng1] /Rectification or Rectifying incorrect work styles, Maoist slogan/cf Rectification campaign 整風運動|整风运动, army purge of 1942-44 and anti-rightist purge of 1957/",
+    "source_line": 51127,
+    "ukrainian_segments": [
+      "виправлення стилю роботи, маоїстське гасло",
+      "пор. кампанію виправлення стилю 整風運動|整风运动, чистку в армії 1942–1944 років і антиправу чистку 1957 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Історичні кампанії та дати збережено за джерелом; зведення різних чисток під 整風 потребує історичної перевірки."
+    ]
+  },
+  {
+    "id": "c308e28bdac39051",
+    "traditional": "整風運動",
+    "simplified": "整风运动",
+    "pinyin": "zheng3 feng1 yun4 dong4",
+    "english_segments": [
+      "Rectification campaign",
+      "political purge",
+      "cf Mao's 1942-44 campaign at Yanan, and his 1950 and 1957 anti-rightist purges"
+    ],
+    "raw_source": "整風運動 整风运动 [zheng3 feng1 yun4 dong4] /Rectification campaign/political purge/cf Mao's 1942-44 campaign at Yanan, and his 1950 and 1957 anti-rightist purges/",
+    "source_line": 51128,
+    "ukrainian_segments": [
+      "кампанія виправлення стилю роботи",
+      "політична чистка",
+      "пор. кампанію Мао в Яньані 1942–1944 років і його антиправі чистки 1950 та 1957 років"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Згадка про «антиправі чистки 1950 року» нетипова; збережено за джерелом."
+    ]
+  },
+  {
+    "id": "1dd3db82fa97b6c8",
+    "traditional": "數字分頻",
+    "simplified": "数字分频",
+    "pinyin": "shu4 zi4 fen1 pin2",
+    "english_segments": [
+      "digital frequency sharing"
+    ],
+    "raw_source": "數字分頻 数字分频 [shu4 zi4 fen1 pin2] /digital frequency sharing/",
+    "source_line": 51215,
+    "ukrainian_segments": [
+      "цифровий поділ частоти"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Технічний зміст «digital frequency sharing» не цілком ясний; 分頻 зазвичай означає поділ частоти."
+    ]
+  },
+  {
+    "id": "93cb7fb9e0fc0351",
+    "traditional": "數黑論白",
+    "simplified": "数黑论白",
+    "pinyin": "shu3 hei1 lun4 bai2",
+    "english_segments": [
+      "to enumerate what is black and yellow (idiom); to criticize sb behind his back to incite quarrels",
+      "also written 數黑論黃|数黑论黄[shu3 hei1 lun4 huang2]"
+    ],
+    "raw_source": "數黑論白 数黑论白 [shu3 hei1 lun4 bai2] /to enumerate what is black and yellow (idiom); to criticize sb behind his back to incite quarrels/also written 數黑論黃|数黑论黄[shu3 hei1 lun4 huang2]/",
+    "source_line": 51310,
+    "ukrainian_segments": [
+      "перелічувати чорне й жовте (ідіома); лихословити за спиною, розпалюючи сварки",
+      "також пишеться 數黑論黃|数黑论黄[shu3 hei1 lun4 huang2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дослівно подає «чорне й жовте», хоча 數黑論白 містить 白 «біле»; імовірна помилка скопійованої глоси."
+    ]
+  },
+  {
+    "id": "aa0bf2513a0ccd94",
+    "traditional": "文在寅",
+    "simplified": "文在寅",
+    "pinyin": "Wen2 Zai4 yin2",
+    "english_segments": [
+      "Moon Jae-in (1953-), Korean politician and human rights lawyer, president of Korea from 2017"
+    ],
+    "raw_source": "文在寅 文在寅 [Wen2 Zai4 yin2] /Moon Jae-in (1953-), Korean politician and human rights lawyer, president of Korea from 2017/",
+    "source_line": 51368,
+    "ukrainian_segments": [
+      "Мун Чже Ін (нар. 1953), корейський політик і правозахисний адвокат, президент Кореї з 2017 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Відкриту дату президентства «з 2017» збережено за джерелом; це історична, потенційно застаріла глоса."
+    ]
+  },
+  {
+    "id": "47eb72cc8e066cb6",
+    "traditional": "文宗",
+    "simplified": "文宗",
+    "pinyin": "Wen2 zong1",
+    "english_segments": [
+      "Wenzong Emperor, reign name of Yuan Dynasty emperor Tugh Temür (1304-1332), reigned 1328-1332"
+    ],
+    "raw_source": "文宗 文宗 [Wen2 zong1] /Wenzong Emperor, reign name of Yuan Dynasty emperor Tugh Temür (1304-1332), reigned 1328-1332/",
+    "source_line": 51390,
+    "ukrainian_segments": [
+      "Веньцзун, імператор династії Юань Туг-Темур (1304–1332), правив у 1328–1332 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "文宗 — храмове ім’я, а не девіз правління; англійське «reign name» у джерелі неточне."
+    ]
+  },
+  {
+    "id": "10e1ec14596901b9",
+    "traditional": "文昌魚",
+    "simplified": "文昌鱼",
+    "pinyin": "wen2 chang1 yu2",
+    "english_segments": [
+      "lancelet (Branchiostoma lanceolatum), a primitive fish"
+    ],
+    "raw_source": "文昌魚 文昌鱼 [wen2 chang1 yu2] /lancelet (Branchiostoma lanceolatum), a primitive fish/",
+    "source_line": 51426,
+    "ukrainian_segments": [
+      "ланцетник (Branchiostoma lanceolatum), примітивна рибоподібна тварина"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Ланцетник не належить до риб; англійське «primitive fish» передано як «примітивна рибоподібна тварина»."
+    ]
+  },
+  {
+    "id": "7c2ffa1f7d26044e",
+    "traditional": "文獻學",
+    "simplified": "文献学",
+    "pinyin": "wen2 xian4 xue2",
+    "english_segments": [
+      "Philology",
+      "Historical Linguistics"
+    ],
+    "raw_source": "文獻學 文献学 [wen2 xian4 xue2] /Philology/Historical Linguistics/",
+    "source_line": 51460,
+    "ukrainian_segments": [
+      "філологія",
+      "історичне мовознавство"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "文獻學 зазвичай означає вивчення писемних джерел; глоса «Historical Linguistics» може бути надто вузькою або неточною."
+    ]
+  },
+  {
+    "id": "e44271f23838ccd0",
+    "traditional": "斑喉希鶥",
+    "simplified": "斑喉希鹛",
+    "pinyin": "ban1 hou2 xi1 mei2",
+    "english_segments": [
+      "(bird species of China) bar-throated minla (Actinodura strigula)"
+    ],
+    "raw_source": "斑喉希鶥 斑喉希鹛 [ban1 hou2 xi1 mei2] /(bird species of China) bar-throated minla (Actinodura strigula)/",
+    "source_line": 51534,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) смугастогорла мінла (Actinodura strigula)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву подано описово; нормативний орнітологічний відповідник слід звірити за Actinodura strigula."
+    ]
+  },
+  {
+    "id": "31b0413ee35fcc1f",
+    "traditional": "斑姬啄木鳥",
+    "simplified": "斑姬啄木鸟",
+    "pinyin": "ban1 ji1 zhuo2 mu4 niao3",
+    "english_segments": [
+      "(bird species of China) speckled piculet (Picumnus innominatus)"
+    ],
+    "raw_source": "斑姬啄木鳥 斑姬啄木鸟 [ban1 ji1 zhuo2 mu4 niao3] /(bird species of China) speckled piculet (Picumnus innominatus)/",
+    "source_line": 51538,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) крапчастий дятлик (Picumnus innominatus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву подано описово; нормативний відповідник слід звірити за Picumnus innominatus."
+    ]
+  },
+  {
+    "id": "8bfc68188222c435",
+    "traditional": "斑尾鵑鳩",
+    "simplified": "斑尾鹃鸠",
+    "pinyin": "ban1 wei3 juan1 jiu1",
+    "english_segments": [
+      "(bird species of China) barred cuckoo-dove (Macropygia unchall)"
+    ],
+    "raw_source": "斑尾鵑鳩 斑尾鹃鸠 [ban1 wei3 juan1 jiu1] /(bird species of China) barred cuckoo-dove (Macropygia unchall)/",
+    "source_line": 51543,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) смугастий зозулиний голуб (Macropygia unchall)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву подано описово; нормативний відповідник слід звірити за Macropygia unchall."
+    ]
+  },
+  {
+    "id": "4be454569ae96049",
+    "traditional": "斑羚",
+    "simplified": "斑羚",
+    "pinyin": "ban1 ling2",
+    "english_segments": [
+      "Nemorhaedus goral, a species of antelope found in Xinjiang"
+    ],
+    "raw_source": "斑羚 斑羚 [ban1 ling2] /Nemorhaedus goral, a species of antelope found in Xinjiang/",
+    "source_line": 51557,
+    "ukrainian_segments": [
+      "горал (Nemorhaedus goral), вид антилопи, що трапляється в Сіньцзяні"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Видове визначення й поширення в Сіньцзяні передано за джерелом; потребує зоологічної перевірки."
+    ]
+  },
+  {
+    "id": "b55577d90fd8461c",
+    "traditional": "斑翅擬蠟嘴雀",
+    "simplified": "斑翅拟蜡嘴雀",
+    "pinyin": "ban1 chi4 ni3 la4 zui3 que4",
+    "english_segments": [
+      "(bird species of China) spot-winged grosbeak (Mycerobas melanozanthos)"
+    ],
+    "raw_source": "斑翅擬蠟嘴雀 斑翅拟蜡嘴雀 [ban1 chi4 ni3 la4 zui3 que4] /(bird species of China) spot-winged grosbeak (Mycerobas melanozanthos)/",
+    "source_line": 51559,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) плямистокрилий товстодзьоб (Mycerobas melanozanthos)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "0287577f24401f0a",
+    "traditional": "斑翅朱雀",
+    "simplified": "斑翅朱雀",
+    "pinyin": "ban1 chi4 zhu1 que4",
+    "english_segments": [
+      "(bird species of China) three-banded rosefinch (Carpodacus trifasciatus)"
+    ],
+    "raw_source": "斑翅朱雀 斑翅朱雀 [ban1 chi4 zhu1 que4] /(bird species of China) three-banded rosefinch (Carpodacus trifasciatus)/",
+    "source_line": 51560,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) трисмугаста чечевиця (Carpodacus trifasciatus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "3673668f405ba522",
+    "traditional": "斑翅椋鳥",
+    "simplified": "斑翅椋鸟",
+    "pinyin": "ban1 chi4 liang2 niao3",
+    "english_segments": [
+      "(bird species of China) spot-winged starling (Saroglossa spilopterus)"
+    ],
+    "raw_source": "斑翅椋鳥 斑翅椋鸟 [ban1 chi4 liang2 niao3] /(bird species of China) spot-winged starling (Saroglossa spilopterus)/",
+    "source_line": 51561,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) плямистокрилий шпак (Saroglossa spilopterus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "005cc7db36f3f68d",
+    "traditional": "斑翅鳳頭鵑",
+    "simplified": "斑翅凤头鹃",
+    "pinyin": "ban1 chi4 feng4 tou2 juan1",
+    "english_segments": [
+      "(bird species of China) Jacobin cuckoo; pied cuckoo (Clamator jacobinus)"
+    ],
+    "raw_source": "斑翅鳳頭鵑 斑翅凤头鹃 [ban1 chi4 feng4 tou2 juan1] /(bird species of China) Jacobin cuckoo; pied cuckoo (Clamator jacobinus)/",
+    "source_line": 51562,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) зозуля якобінська; строката зозуля (Clamator jacobinus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "4382da2406502f19",
+    "traditional": "斑翅鷯鶥",
+    "simplified": "斑翅鹩鹛",
+    "pinyin": "ban1 chi4 liao2 mei2",
+    "english_segments": [
+      "(bird species of China) bar-winged wren-babbler (Spelaeornis troglodytoides)"
+    ],
+    "raw_source": "斑翅鷯鶥 斑翅鹩鹛 [ban1 chi4 liao2 mei2] /(bird species of China) bar-winged wren-babbler (Spelaeornis troglodytoides)/",
+    "source_line": 51563,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) смугастокрила кропив'янкова тимелія (Spelaeornis troglodytoides)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "6350216253543c52",
+    "traditional": "斑背噪鶥",
+    "simplified": "斑背噪鹛",
+    "pinyin": "ban1 bei4 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) barred laughingthrush (Ianthocincla lunulata)"
+    ],
+    "raw_source": "斑背噪鶥 斑背噪鹛 [ban1 bei4 zao4 mei2] /(bird species of China) barred laughingthrush (Ianthocincla lunulata)/",
+    "source_line": 51564,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) смугаста чагарниця (Ianthocincla lunulata)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "7003d80541928654",
+    "traditional": "斑背大尾鶯",
+    "simplified": "斑背大尾莺",
+    "pinyin": "ban1 bei4 da4 wei3 ying1",
+    "english_segments": [
+      "(bird species of China) marsh grassbird (Helopsaltes pryeri)"
+    ],
+    "raw_source": "斑背大尾鶯 斑背大尾莺 [ban1 bei4 da4 wei3 ying1] /(bird species of China) marsh grassbird (Helopsaltes pryeri)/",
+    "source_line": 51565,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) кобилочка болотяна (Helopsaltes pryeri)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "93f7cd4682fea8d5",
+    "traditional": "斑背燕尾",
+    "simplified": "斑背燕尾",
+    "pinyin": "ban1 bei4 yan4 wei3",
+    "english_segments": [
+      "(bird species of China) spotted forktail (Enicurus maculatus)"
+    ],
+    "raw_source": "斑背燕尾 斑背燕尾 [ban1 bei4 yan4 wei3] /(bird species of China) spotted forktail (Enicurus maculatus)/",
+    "source_line": 51567,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) плямистий вилохвіст (Enicurus maculatus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "d5da6aa4857de8cc",
+    "traditional": "斑胸噪鶥",
+    "simplified": "斑胸噪鹛",
+    "pinyin": "ban1 xiong1 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) spot-breasted laughingthrush (Garrulax merulinus)"
+    ],
+    "raw_source": "斑胸噪鶥 斑胸噪鹛 [ban1 xiong1 zao4 mei2] /(bird species of China) spot-breasted laughingthrush (Garrulax merulinus)/",
+    "source_line": 51568,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) плямистогруда чагарниця (Garrulax merulinus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "86d4cb9db1d194c6",
+    "traditional": "斑胸短翅鶯",
+    "simplified": "斑胸短翅莺",
+    "pinyin": "ban1 xiong1 duan3 chi4 ying1",
+    "english_segments": [
+      "(bird species of China) spotted bush warbler (Locustella thoracica)"
+    ],
+    "raw_source": "斑胸短翅鶯 斑胸短翅莺 [ban1 xiong1 duan3 chi4 ying1] /(bird species of China) spotted bush warbler (Locustella thoracica)/",
+    "source_line": 51571,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) плямистогруда кобилочка (Locustella thoracica)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "9fffd4856d5fe935",
+    "traditional": "斑胸鉤嘴鶥",
+    "simplified": "斑胸钩嘴鹛",
+    "pinyin": "ban1 xiong1 gou1 zui3 mei2",
+    "english_segments": [
+      "(bird species of China) black-streaked scimitar babbler (Erythrogenys gravivox)"
+    ],
+    "raw_source": "斑胸鉤嘴鶥 斑胸钩嘴鹛 [ban1 xiong1 gou1 zui3 mei2] /(bird species of China) black-streaked scimitar babbler (Erythrogenys gravivox)/",
+    "source_line": 51572,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) чорносмугаста серподзьоба тимелія (Erythrogenys gravivox)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "b851b25639f3aa63",
+    "traditional": "斑脅田雞",
+    "simplified": "斑胁田鸡",
+    "pinyin": "ban1 xie2 tian2 ji1",
+    "english_segments": [
+      "(bird species of China) band-bellied crake (Zapornia paykullii)"
+    ],
+    "raw_source": "斑脅田雞 斑胁田鸡 [ban1 xie2 tian2 ji1] /(bird species of China) band-bellied crake (Zapornia paykullii)/",
+    "source_line": 51574,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) смугасточеревий погонич (Zapornia paykullii)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "d8d9a6a8d46b4723",
+    "traditional": "斑腰燕",
+    "simplified": "斑腰燕",
+    "pinyin": "ban1 yao1 yan4",
+    "english_segments": [
+      "(bird species of China) striated swallow (Cecropis striolata)"
+    ],
+    "raw_source": "斑腰燕 斑腰燕 [ban1 yao1 yan4] /(bird species of China) striated swallow (Cecropis striolata)/",
+    "source_line": 51575,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) смугаста ластівка (Cecropis striolata)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "0b6a45e835d072da",
+    "traditional": "斑臉海番鴨",
+    "simplified": "斑脸海番鸭",
+    "pinyin": "ban1 lian3 hai3 fan1 ya1",
+    "english_segments": [
+      "(bird species of China) Stejneger's scoter (Melanitta stejnegeri)"
+    ],
+    "raw_source": "斑臉海番鴨 斑脸海番鸭 [ban1 lian3 hai3 fan1 ya1] /(bird species of China) Stejneger's scoter (Melanitta stejnegeri)/",
+    "source_line": 51576,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) турпан Стейнегера (Melanitta stejnegeri)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "0404e0fcf944a77b",
+    "traditional": "斑頭大翠鳥",
+    "simplified": "斑头大翠鸟",
+    "pinyin": "ban1 tou2 da4 cui4 niao3",
+    "english_segments": [
+      "(bird species of China) Blyth's kingfisher (Alcedo hercules)"
+    ],
+    "raw_source": "斑頭大翠鳥 斑头大翠鸟 [ban1 tou2 da4 cui4 niao3] /(bird species of China) Blyth's kingfisher (Alcedo hercules)/",
+    "source_line": 51577,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) рибалочка Бліта (Alcedo hercules)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "4fbf4ff73b8f737f",
+    "traditional": "斑頭綠擬啄木鳥",
+    "simplified": "斑头绿拟啄木鸟",
+    "pinyin": "ban1 tou2 lu:4 ni3 zhuo2 mu4 niao3",
+    "english_segments": [
+      "(bird species of China) lineated barbet (Psilopogon lineatus)"
+    ],
+    "raw_source": "斑頭綠擬啄木鳥 斑头绿拟啄木鸟 [ban1 tou2 lu:4 ni3 zhuo2 mu4 niao3] /(bird species of China) lineated barbet (Psilopogon lineatus)/",
+    "source_line": 51578,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) смугастий бородастик (Psilopogon lineatus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "7e44395586a87143",
+    "traditional": "斑頭鵂鶹",
+    "simplified": "斑头鸺鹠",
+    "pinyin": "ban1 tou2 xiu1 liu2",
+    "english_segments": [
+      "(bird species of China) Asian barred owlet (Glaucidium cuculoides)"
+    ],
+    "raw_source": "斑頭鵂鶹 斑头鸺鹠 [ban1 tou2 xiu1 liu2] /(bird species of China) Asian barred owlet (Glaucidium cuculoides)/",
+    "source_line": 51580,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) азійський смугастий сичик (Glaucidium cuculoides)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "97329362f301bf1b",
+    "traditional": "斑頸穗鶥",
+    "simplified": "斑颈穗鹛",
+    "pinyin": "ban1 jing3 sui4 mei2",
+    "english_segments": [
+      "(bird species of China) spot-necked babbler (Stachyris strialata)"
+    ],
+    "raw_source": "斑頸穗鶥 斑颈穗鹛 [ban1 jing3 sui4 mei2] /(bird species of China) spot-necked babbler (Stachyris strialata)/",
+    "source_line": 51581,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) плямистошия тимелія (Stachyris strialata)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "ccde818a50014988",
+    "traditional": "斑魢",
+    "simplified": "斑鱾",
+    "pinyin": "ban1 ji3",
+    "english_segments": [
+      "Girella punctata (species of fish)"
+    ],
+    "raw_source": "斑魢 斑鱾 [ban1 ji3] /Girella punctata (species of fish)/",
+    "source_line": 51588,
+    "ukrainian_segments": [
+      "гірела крапчаста (Girella punctata), вид риби"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву Girella punctata подано описово."
+    ]
+  },
+  {
+    "id": "2285f086c8257c87",
+    "traditional": "斑鱧",
+    "simplified": "斑鳢",
+    "pinyin": "ban1 li3",
+    "english_segments": [
+      "snakehead mullet",
+      "Channa maculata"
+    ],
+    "raw_source": "斑鱧 斑鳢 [ban1 li3] /snakehead mullet/Channa maculata/",
+    "source_line": 51590,
+    "ukrainian_segments": [
+      "змієголов плямистий",
+      "Channa maculata"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «mullet» неточне: Channa maculata належить до змієголовів, а не кефалей."
+    ]
+  },
+  {
+    "id": "e545e433a38c4ae6",
+    "traditional": "斑鶇",
+    "simplified": "斑鸫",
+    "pinyin": "ban1 dong1",
+    "english_segments": [
+      "(bird species of China) dusky thrush (Turdus eunomus)"
+    ],
+    "raw_source": "斑鶇 斑鸫 [ban1 dong1] /(bird species of China) dusky thrush (Turdus eunomus)/",
+    "source_line": 51592,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) дрізд темний (Turdus eunomus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 1,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "3823392056b038c3",
+    "traditional": "斑鷺",
+    "simplified": "斑鹭",
+    "pinyin": "ban1 lu4",
+    "english_segments": [
+      "(bird species of China) pied heron (Egretta picata)"
+    ],
+    "raw_source": "斑鷺 斑鹭 [ban1 lu4] /(bird species of China) pied heron (Egretta picata)/",
+    "source_line": 51594,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) строката чапля (Egretta picata)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "1d31ba415b669174",
+    "traditional": "斗",
+    "simplified": "斗",
+    "pinyin": "dou3",
+    "english_segments": [
+      "dry measure for grain equal to ten 升[sheng1] or one-tenth of a 石[dan4]",
+      "decaliter",
+      "peck",
+      "cup or dipper shaped object",
+      "old variant of 陡[dou3]"
+    ],
+    "raw_source": "斗 斗 [dou3] /dry measure for grain equal to ten 升[sheng1] or one-tenth of a 石[dan4]/decaliter/peck/cup or dipper shaped object/old variant of 陡[dou3]/",
+    "source_line": 51601,
+    "ukrainian_segments": [
+      "доу, міра зерна, рівна десяти 升[sheng1] або десятій частині 石[dan4]",
+      "декалітр",
+      "пек",
+      "предмет у формі чаші або ковша",
+      "давній варіант 陡[dou3]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Пек у джерелі є приблизним відповідником; його не слід вважати точно рівним доу або декалітру."
+    ]
+  },
+  {
+    "id": "a02a2215c6ca5e9b",
+    "traditional": "斗牛",
+    "simplified": "斗牛",
+    "pinyin": "Dou3 Niu2",
+    "english_segments": [
+      "Big Dipper and Altair (astronomy)"
+    ],
+    "raw_source": "斗牛 斗牛 [Dou3 Niu2] /Big Dipper and Altair (astronomy)/",
+    "source_line": 51609,
+    "ukrainian_segments": [
+      "Великий Ківш і Альтаїр (астр.)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "斗牛 може позначати китайські зоряні стоянки; ототожнення з Великим Ковшем та Альтаїром збережено за джерелом і потребує перевірки."
+    ]
+  },
+  {
+    "id": "d40bfe2e09373658",
+    "traditional": "斜方型",
+    "simplified": "斜方型",
+    "pinyin": "xie2 fang1 xing2",
+    "english_segments": [
+      "trapezium (geometry)"
+    ],
+    "raw_source": "斜方型 斜方型 [xie2 fang1 xing2] /trapezium (geometry)/",
+    "source_line": 51664,
+    "ukrainian_segments": [
+      "трапеція (геом.)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське trapezium має різні геометричні значення за регіонами; 斜方型 не дає цілком однозначного відповідника."
+    ]
+  },
+  {
+    "id": "1b83bbd09363259e",
+    "traditional": "斝",
+    "simplified": "斝",
+    "pinyin": "jia3",
+    "english_segments": [
+      "small jade cup with ears"
+    ],
+    "raw_source": "斝 斝 [jia3] /small jade cup with ears/",
+    "source_line": 51690,
+    "ukrainian_segments": [
+      "невелика нефритова чаша з вушками"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "斝 зазвичай позначає давню ритуальну винну посудину; опис нефритової чаші з вушками збережено за джерелом і потребує звірення."
+    ]
+  },
+  {
+    "id": "e971fae0e71384fb",
+    "traditional": "斯台普斯",
+    "simplified": "斯台普斯",
+    "pinyin": "Si1 tai2 pu3 si1",
+    "english_segments": [
+      "Staples (Center), sports arena in Los Angeles"
+    ],
+    "raw_source": "斯台普斯 斯台普斯 [Si1 tai2 pu3 si1] /Staples (Center), sports arena in Los Angeles/",
+    "source_line": 51749,
+    "ukrainian_segments": [
+      "«Стейплс-центр», спортивна арена в Лос-Анджелесі"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву арени збережено як історичну назву зі словникового джерела; вона може бути застарілою."
+    ]
+  },
+  {
+    "id": "369a9a8e5be92197",
+    "traditional": "斯大林",
+    "simplified": "斯大林",
+    "pinyin": "Si1 da4 lin2",
+    "english_segments": [
+      "Joseph Stalin (1879-1953), Soviet dictator"
+    ],
+    "raw_source": "斯大林 斯大林 [Si1 da4 lin2] /Joseph Stalin (1879-1953), Soviet dictator/",
+    "source_line": 51763,
+    "ukrainian_segments": [
+      "Йосип Сталін (1879–1953), радянський диктатор"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рік народження 1879 збережено за джерелом; поширене сучасне датування — 1878."
+    ]
+  },
+  {
+    "id": "a356fadc61851c2d",
+    "traditional": "斯維爾德洛夫",
+    "simplified": "斯维尔德洛夫",
+    "pinyin": "Si1 wei2 er3 de2 luo4 fu1",
+    "english_segments": [
+      "Yakov Mikhailovich Sverdlov (1885-1919), Bolshevik organizer, ordered the murder of the Tsar's family in 1918, died of Spanish influenza"
+    ],
+    "raw_source": "斯維爾德洛夫 斯维尔德洛夫 [Si1 wei2 er3 de2 luo4 fu1] /Yakov Mikhailovich Sverdlov (1885-1919), Bolshevik organizer, ordered the murder of the Tsar's family in 1918, died of Spanish influenza/",
+    "source_line": 51813,
+    "ukrainian_segments": [
+      "Яків Михайлович Свердлов (1885–1919), більшовицький організатор; за джерелом, наказав убити царську родину 1918 року; помер від іспанського грипу"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Твердження про особистий наказ убивства та причину смерті передано як дані джерела; історичні деталі потребують перевірки."
+    ]
+  },
+  {
+    "id": "b4923e63893d0f8d",
+    "traditional": "新唐書",
+    "simplified": "新唐书",
+    "pinyin": "Xin1 Tang2 shu1",
+    "english_segments": [
+      "History of the Later Tang Dynasty, seventeenth of the 24 dynastic histories 二十四史[Er4 shi2 si4 Shi3], compiled under Ouyang Xiu 歐陽修|欧阳修[Ou1 yang2 Xiu1] and Song Qi 宋祁[Song4 Qi2] in 1060 during Northern Song 北宋[Bei3 Song4], 225 scrolls"
+    ],
+    "raw_source": "新唐書 新唐书 [Xin1 Tang2 shu1] /History of the Later Tang Dynasty, seventeenth of the 24 dynastic histories 二十四史[Er4 shi2 si4 Shi3], compiled under Ouyang Xiu 歐陽修|欧阳修[Ou1 yang2 Xiu1] and Song Qi 宋祁[Song4 Qi2] in 1060 during Northern Song 北宋[Bei3 Song4], 225 scrolls/",
+    "source_line": 51880,
+    "ukrainian_segments": [
+      "«Нова історія Тан», сімнадцята з 24 династичних історій 二十四史[Er4 shi2 si4 Shi3], укладена під керівництвом Оуяна Сю 歐陽修|欧阳修[Ou1 yang2 Xiu1] і Сун Ці 宋祁[Song4 Qi2] 1060 року за Північної Сун 北宋[Bei3 Song4], 225 сувоїв"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «Later Tang Dynasty» помилково натякає на Пізню Тан; 新唐書 — нова редакція історії династії Тан."
+    ]
+  },
+  {
+    "id": "021710d6fac2ca9c",
+    "traditional": "新店",
+    "simplified": "新店",
+    "pinyin": "Xin1 dian4",
+    "english_segments": [
+      "Xindian or Hsintien city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+    ],
+    "raw_source": "新店 新店 [Xin1 dian4] /Xindian or Hsintien city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/",
+    "source_line": 51935,
+    "ukrainian_segments": [
+      "Сіньдянь, місто у складі Нового Тайбея 新北市[Xin1 bei3 shi4], Тайвань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Адміністративний статус «місто» збережено за джерелом; Сіньдянь може бути районом Нового Тайбея."
+    ]
+  },
+  {
+    "id": "a2bcfe49b118f8bb",
+    "traditional": "新店市",
+    "simplified": "新店市",
+    "pinyin": "Xin1 dian4 shi4",
+    "english_segments": [
+      "Xindian or Hsintien city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+    ],
+    "raw_source": "新店市 新店市 [Xin1 dian4 shi4] /Xindian or Hsintien city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/",
+    "source_line": 51936,
+    "ukrainian_segments": [
+      "Сіньдянь, місто у складі Нового Тайбея 新北市[Xin1 bei3 shi4], Тайвань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Адміністративний статус «місто» збережено за джерелом; статус потребує актуалізації."
+    ]
+  },
+  {
+    "id": "034c950cfdc26c4f",
+    "traditional": "新成土",
+    "simplified": "新成土",
+    "pinyin": "xin1 cheng2 tu3",
+    "english_segments": [
+      "primosol (soil taxonomy)"
+    ],
+    "raw_source": "新成土 新成土 [xin1 cheng2 tu3] /primosol (soil taxonomy)/",
+    "source_line": 51947,
+    "ukrainian_segments": [
+      "примосоль (класифікація ґрунтів)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Нормативний український термін для primosol у китайській класифікації ґрунтів потребує перевірки."
+    ]
+  },
+  {
+    "id": "c25f785fa6e79f58",
+    "traditional": "新朝",
+    "simplified": "新朝",
+    "pinyin": "Xin1 chao2",
+    "english_segments": [
+      "the Xin dynasty (8-23 AD) of Wang Mang 王莽, forming the interregnum between the former and later Han"
+    ],
+    "raw_source": "新朝 新朝 [Xin1 chao2] /the Xin dynasty (8-23 AD) of Wang Mang 王莽, forming the interregnum between the former and later Han/",
+    "source_line": 51973,
+    "ukrainian_segments": [
+      "династія Сінь Ван Мана 王莽 (8–23 н. е.), перерва між Ранньою та Пізньою Хань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Початок династії Сінь 8 н. е. подано за джерелом; часто датується 9 н. е."
+    ]
+  },
+  {
+    "id": "bd0f5e1e28cd7888",
+    "traditional": "新生代",
+    "simplified": "新生代",
+    "pinyin": "Xin1 sheng1 dai4",
+    "english_segments": [
+      "Cenozoic (geological era covering the last 65m years)"
+    ],
+    "raw_source": "新生代 新生代 [Xin1 sheng1 dai4] /Cenozoic (geological era covering the last 65m years)/",
+    "source_line": 52018,
+    "ukrainian_segments": [
+      "кайнозой (геологічна ера, що охоплює останні 65 млн років)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Оцінка 65 млн років збережена за джерелом; сучасне датування межі кайнозою зазвичай становить близько 66 млн років."
+    ]
+  },
+  {
+    "id": "55d3957ac3ba50fb",
+    "traditional": "新羅王朝",
+    "simplified": "新罗王朝",
+    "pinyin": "Xin1 luo2 Wang2 chao2",
+    "english_segments": [
+      "Silla, Korean kingdom 57 BC-935 AD",
+      "one of the Korean Three Kingdoms from 1st century AD, defeating its rivals Paikche 百濟|百济[Bai3 ji4] and Koguryo 高句麗|高句丽[Gao1 gou1 li2] around 660 in alliance with Tang China",
+      "unified Silla 658-935"
+    ],
+    "raw_source": "新羅王朝 新罗王朝 [Xin1 luo2 Wang2 chao2] /Silla, Korean kingdom 57 BC-935 AD/one of the Korean Three Kingdoms from 1st century AD, defeating its rivals Paikche 百濟|百济[Bai3 ji4] and Koguryo 高句麗|高句丽[Gao1 gou1 li2] around 660 in alliance with Tang China/unified Silla 658-935/",
+    "source_line": 52053,
+    "ukrainian_segments": [
+      "Сілла, корейське королівство 57 до н. е. — 935 н. е.",
+      "одне з Трьох королівств Кореї від I ст. н. е.; близько 660 року в союзі з Тан перемогло Пекче 百濟|百济[Bai3 ji4] й Когурьо 高句麗|高句丽[Gao1 gou1 li2]",
+      "Об'єднана Сілла, 658–935"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дату 658 для початку Об’єднаної Сілли збережено за джерелом; вона потребує перевірки."
+    ]
+  },
+  {
+    "id": "3fcc255833e5cc7b",
+    "traditional": "新聞網",
+    "simplified": "新闻网",
+    "pinyin": "xin1 wen2 wang3",
+    "english_segments": [
+      "news agency"
+    ],
+    "raw_source": "新聞網 新闻网 [xin1 wen2 wang3] /news agency/",
+    "source_line": 52068,
+    "ukrainian_segments": [
+      "інформаційна агенція"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "新聞網 зазвичай означає новинну мережу або сайт; джерело подає «news agency»."
+    ]
+  },
+  {
+    "id": "b303bdae871a555a",
+    "traditional": "新莊",
+    "simplified": "新庄",
+    "pinyin": "Xin1 zhuang1",
+    "english_segments": [
+      "Xinzhuang or Hsinchuang city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+    ],
+    "raw_source": "新莊 新庄 [Xin1 zhuang1] /Xinzhuang or Hsinchuang city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/",
+    "source_line": 52083,
+    "ukrainian_segments": [
+      "Сіньчжуан, місто у складі Нового Тайбея 新北市[Xin1 bei3 shi4], Тайвань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Статус «місто» збережено за джерелом; Сіньчжуан нині може мати статус району."
+    ]
+  },
+  {
+    "id": "57c9dc511e01dc13",
+    "traditional": "新莊市",
+    "simplified": "新庄市",
+    "pinyin": "Xin1 zhuang1 shi4",
+    "english_segments": [
+      "Xinzhuang or Hsinchuang city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+    ],
+    "raw_source": "新莊市 新庄市 [Xin1 zhuang1 shi4] /Xinzhuang or Hsinchuang city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/",
+    "source_line": 52084,
+    "ukrainian_segments": [
+      "Сіньчжуан, місто у складі Нового Тайбея 新北市[Xin1 bei3 shi4], Тайвань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Статус «місто» збережено за джерелом; потребує актуалізації."
+    ]
+  },
+  {
+    "id": "fa4de57521eef52c",
+    "traditional": "斷層成像",
+    "simplified": "断层成像",
+    "pinyin": "duan4 ceng2 cheng2 xiang4",
+    "english_segments": [
+      "computed tomography"
+    ],
+    "raw_source": "斷層成像 断层成像 [duan4 ceng2 cheng2 xiang4] /computed tomography/",
+    "source_line": 52162,
+    "ukrainian_segments": [
+      "комп'ютерна томографія"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "斷層成像 означає томографічне отримання зображень загалом; джерело звужує до комп’ютерної томографії."
+    ]
+  },
+  {
+    "id": "324f712c60e67c83",
+    "traditional": "斷層攝影",
+    "simplified": "断层摄影",
+    "pinyin": "duan4 ceng2 she4 ying3",
+    "english_segments": [
+      "computed tomography"
+    ],
+    "raw_source": "斷層攝影 断层摄影 [duan4 ceng2 she4 ying3] /computed tomography/",
+    "source_line": 52164,
+    "ukrainian_segments": [
+      "комп'ютерна томографія"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело звужує загальне поняття томографії до комп’ютерної."
+    ]
+  },
+  {
+    "id": "38b87048838d380a",
+    "traditional": "方丈",
+    "simplified": "方丈",
+    "pinyin": "fang1 zhang5",
+    "english_segments": [
+      "square zhang (i.e. unit of area 10 feet square)",
+      "monastic room 10 feet square",
+      "Buddhist or Daoist abbot",
+      "abbot's chamber"
+    ],
+    "raw_source": "方丈 方丈 [fang1 zhang5] /square zhang (i.e. unit of area 10 feet square)/monastic room 10 feet square/Buddhist or Daoist abbot/abbot's chamber/",
+    "source_line": 52227,
+    "ukrainian_segments": [
+      "квадратний чжан (одиниця площі: квадрат зі стороною десять футів)",
+      "монастирська кімната десять на десять футів",
+      "настоятель буддійського або даоського монастиря",
+      "покої настоятеля"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело передає китайську міру чжан через «10 feet»; це не обов’язково точна рівність десяти англійським футам."
+    ]
+  },
+  {
+    "id": "16117f3ed48229bd",
+    "traditional": "方尾鶲",
+    "simplified": "方尾鹟",
+    "pinyin": "fang1 wei3 weng1",
+    "english_segments": [
+      "(bird species of China) grey-headed canary-flycatcher (Culicicapa ceylonensis)"
+    ],
+    "raw_source": "方尾鶲 方尾鹟 [fang1 wei3 weng1] /(bird species of China) grey-headed canary-flycatcher (Culicicapa ceylonensis)/",
+    "source_line": 52258,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) сіроголова канаркова мухоловка (Culicicapa ceylonensis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; нормативний український відповідник слід звірити за Culicicapa ceylonensis."
+    ]
+  },
+  {
+    "id": "25dd9bc6b829168e",
+    "traditional": "方釳",
+    "simplified": "方𨰿",
+    "pinyin": "fang1 xi4",
+    "english_segments": [
+      "(arch.) metal horn attached as shield to horse or to the axle of a chariot"
+    ],
+    "raw_source": "方釳 方𨰿 [fang1 xi4] /(arch.) metal horn attached as shield to horse or to the axle of a chariot/",
+    "source_line": 52305,
+    "ukrainian_segments": [
+      "(архаїчне) металевий ріг-оберіг, прикріплений до коня або осі колісниці"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Точна конструкція й функція архаїчного предмета 方釳 потребує спеціального звірення; передано опис із джерела."
+    ]
+  },
+  {
+    "id": "6ef3be27faa11ef9",
+    "traditional": "方陣",
+    "simplified": "方阵",
+    "pinyin": "fang1 zhen4",
+    "english_segments": [
+      "square-shaped formation (military)",
+      "phalanx",
+      "(math.) matrix"
+    ],
+    "raw_source": "方陣 方阵 [fang1 zhen4] /square-shaped formation (military)/phalanx/(math.) matrix/",
+    "source_line": 52307,
+    "ukrainian_segments": [
+      "каре (військовий стрій)",
+      "фаланга",
+      "(мат.) матриця"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Математичне 方陣 зазвичай означає квадратну матрицю; джерело подає ширше «matrix»."
+    ]
+  },
+  {
+    "id": "5439c36993c865ec",
+    "traditional": "旋覆花",
+    "simplified": "旋覆花",
+    "pinyin": "xuan2 fu4 hua1",
+    "english_segments": [
+      "(botany) convolvulvus",
+      "Flos Inulae (Chinese herb)"
+    ],
+    "raw_source": "旋覆花 旋覆花 [xuan2 fu4 hua1] /(botany) convolvulvus/Flos Inulae (Chinese herb)/",
+    "source_line": 52480,
+    "ukrainian_segments": [
+      "(бот.) оман (у джерелі названо convolvulvus)",
+      "квітки оману, Flos Inulae (китайська лікарська сировина)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське convolvulvus позначає берізку й суперечить китайському 旋覆花 та другому сегменту Flos Inulae (квітки оману). Суперечність позначено явно."
+    ]
+  },
+  {
+    "id": "de613b09675907ef",
+    "traditional": "日冕",
+    "simplified": "日冕",
+    "pinyin": "ri4 mian3",
+    "english_segments": [
+      "stellar corona"
+    ],
+    "raw_source": "日冕 日冕 [ri4 mian3] /stellar corona/",
+    "source_line": 52597,
+    "ukrainian_segments": [
+      "сонячна корона"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело подає ширше «stellar corona»; китайське 日冕 конкретно означає сонячну корону."
+    ]
+  },
+  {
+    "id": "dabcd08794793f9d",
+    "traditional": "日冕層",
+    "simplified": "日冕层",
+    "pinyin": "ri4 mian3 ceng2",
+    "english_segments": [
+      "stellar corona"
+    ],
+    "raw_source": "日冕層 日冕层 [ri4 mian3 ceng2] /stellar corona/",
+    "source_line": 52599,
+    "ukrainian_segments": [
+      "сонячна корона"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело подає ширше «stellar corona»; китайське 日冕層 стосується сонячної корони."
+    ]
+  },
+  {
+    "id": "79f80e1c6351383d",
+    "traditional": "日化",
+    "simplified": "日化",
+    "pinyin": "ri4 hua4",
+    "english_segments": [
+      "household chemicals (cleaning products etc) and toiletries (abbr. for 日用化學製品|日用化学制品[ri4 yong4 hua4 xue2 zhi4 pin3])",
+      "(linguistics) to rhotacize",
+      "rhotic"
+    ],
+    "raw_source": "日化 日化 [ri4 hua4] /household chemicals (cleaning products etc) and toiletries (abbr. for 日用化學製品|日用化学制品[ri4 yong4 hua4 xue2 zhi4 pin3])/(linguistics) to rhotacize/rhotic/",
+    "source_line": 52604,
+    "ukrainian_segments": [
+      "побутова хімія (мийні засоби тощо) й туалетні засоби (скорочення від 日用化學製品|日用化学制品[ri4 yong4 hua4 xue2 zhi4 pin3])",
+      "(мовозн.) ротизувати",
+      "ротичний"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Мовознавче значення ротизації для 日化 потребує перевірки; збережено окремо від побутової хімії."
+    ]
+  },
+  {
+    "id": "b0588195b7ef190f",
+    "traditional": "日本樹鶯",
+    "simplified": "日本树莺",
+    "pinyin": "Ri4 ben3 shu4 ying1",
+    "english_segments": [
+      "(bird species of China) Japanese bush warbler (Horornis diphone)"
+    ],
+    "raw_source": "日本樹鶯 日本树莺 [Ri4 ben3 shu4 ying1] /(bird species of China) Japanese bush warbler (Horornis diphone)/",
+    "source_line": 52669,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) японська очеретянка (Horornis diphone)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську назву Horornis diphone подано описово; нормативний видовий відповідник слід звірити."
+    ]
+  },
+  {
+    "id": "1b3026f62fb05fa9",
+    "traditional": "日本歌鴝",
+    "simplified": "日本歌鸲",
+    "pinyin": "Ri4 ben3 ge1 qu2",
+    "english_segments": [
+      "(bird species of China) Japanese robin (Larvivora akahige)"
+    ],
+    "raw_source": "日本歌鴝 日本歌鸲 [Ri4 ben3 ge1 qu2] /(bird species of China) Japanese robin (Larvivora akahige)/",
+    "source_line": 52670,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) японська малинівка (Larvivora akahige)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську назву Larvivora akahige подано описово; нормативний видовий відповідник слід звірити."
+    ]
+  }
+]

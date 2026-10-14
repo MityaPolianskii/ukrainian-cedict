@@ -1,0 +1,597 @@
+[
+  {
+    "id": "d4f97d3e25236f0e",
+    "batch": "batch_000.json",
+    "raw": {
+      "id": "d4f97d3e25236f0e",
+      "ukrainian_segments": [
+        "одинокий",
+        "ізольований і безпорадний",
+        "зовсім самотній",
+        "відлюдний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "d4f97d3e25236f0e",
+      "ukrainian_segments": [
+        "одинокий",
+        "ізольований і без допомоги",
+        "зовсім самотній",
+        "самотній"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "a21c171135f2ded8",
+    "batch": "batch_004.json",
+    "raw": {
+      "id": "a21c171135f2ded8",
+      "ukrainian_segments": [
+        "Ань Дехай (пом. 1869), усесильний придворний євнух при імператриці-вдові Цисі 慈禧太后[Ci2 xi3 tai4 hou4], своєрідний «Распутін» доби Цін; страчений 1869 року за наказом її суперниці, імператриці-вдови Циань 慈安皇太后"
+      ],
+      "uncertainty_notes": [
+        "Порівняння з Распутіним та attribution наказу про страту походять із джерела; історичні обставини потребують уточнення."
+      ]
+    },
+    "corrected": {
+      "id": "a21c171135f2ded8",
+      "ukrainian_segments": [
+        "Ань Дехай (пом. 1869), усесильний придворний євнух при імператриці-вдові Цисі 慈禧太后[Ci2 xi3 tai4 hou4], своєрідний «Распутін» доби Цін; страчений 1869 року за наказом її суперниці, імператриці-вдови Циань 慈安皇太后"
+      ],
+      "uncertainty_notes": [
+        "Порівняння з Распутіним та твердження про те, хто наказав стратити Ань Дехая, походять із джерела; історичні обставини потребують уточнення."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "73f5cd70f082a886",
+    "batch": "batch_007.json",
+    "raw": {
+      "id": "73f5cd70f082a886",
+      "ukrainian_segments": [
+        "досконалий, без жодної вади",
+        "бездоганний",
+        "не залишати нічого кращого бажати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "73f5cd70f082a886",
+      "ukrainian_segments": [
+        "досконалий, без жодної вади",
+        "бездоганний",
+        "цілком задовольняти; бути бездоганним"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "be2401dffae1c218",
+    "batch": "batch_018.json",
+    "raw": {
+      "id": "be2401dffae1c218",
+      "ukrainian_segments": [
+        "наживо (про трансляцію або запис)",
+        "те, що відбувається насправді",
+        "сцена подій",
+        "реальне становище"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "be2401dffae1c218",
+      "ukrainian_segments": [
+        "наживо (про трансляцію або запис)",
+        "те, що відбувається насправді",
+        "картина подій",
+        "реальне становище"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "5c0748475cc3689d",
+    "batch": "batch_018.json",
+    "raw": {
+      "id": "5c0748475cc3689d",
+      "ukrainian_segments": [
+        "матеріальний предмет",
+        "конкретний об'єкт",
+        "оригінальний предмет",
+        "у натуральній формі",
+        "предмет практичного використання",
+        "конкретна річ",
+        "дійсність",
+        "речовина (фіз.)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "5c0748475cc3689d",
+      "ukrainian_segments": [
+        "матеріальний предмет",
+        "конкретний об'єкт",
+        "предмет-оригінал",
+        "у натуральній формі",
+        "предмет практичного використання",
+        "конкретна річ",
+        "дійсність",
+        "речовина (фіз.)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "6e85a46c8a6bbc11",
+    "batch": "batch_020.json",
+    "raw": {
+      "id": "6e85a46c8a6bbc11",
+      "ukrainian_segments": [
+        "полегшений",
+        "утішений",
+        "знімати тривогу",
+        "спокійний",
+        "розслаблений",
+        "заспокійливий",
+        "радісний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "6e85a46c8a6bbc11",
+      "ukrainian_segments": [
+        "заспокоєний; із відчуттям полегшення",
+        "утішений",
+        "знімати тривогу",
+        "спокійний",
+        "розслаблений",
+        "заспокійливий",
+        "радісний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "d4e389e7b299ce3f",
+    "batch": "batch_020.json",
+    "raw": {
+      "id": "d4e389e7b299ce3f",
+      "ukrainian_segments": [
+        "утішати",
+        "заспокоювати",
+        "полегшений"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "d4e389e7b299ce3f",
+      "ukrainian_segments": [
+        "утішати",
+        "заспокоювати",
+        "заспокоєний; із відчуттям полегшення"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "ea74ae4648711a6c",
+    "batch": "batch_020.json",
+    "raw": {
+      "id": "ea74ae4648711a6c",
+      "ukrainian_segments": [
+        "полегшений",
+        "напруга спадає"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "ea74ae4648711a6c",
+      "ukrainian_segments": [
+        "заспокоєний; із відчуттям полегшення",
+        "напруга спадає"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "fc34c3d67a677a21",
+    "batch": "batch_022.json",
+    "raw": {
+      "id": "fc34c3d67a677a21",
+      "ukrainian_segments": [
+        "буде (показник майбутнього)",
+        "має; буде",
+        "використовувати",
+        "брати",
+        "ставити мат",
+        "щойно",
+        "вводить додаток головного дієслова, як 把[ba3]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "fc34c3d67a677a21",
+      "ukrainian_segments": [
+        "буде (показник майбутнього)",
+        "має; буде",
+        "використовувати",
+        "брати",
+        "оголошувати шах (у джерелі — ставити мат)",
+        "щойно",
+        "вводить додаток головного дієслова, як 把[ba3]"
+      ],
+      "uncertainty_notes": [
+        "Джерельне «to checkmate» надто вузьке: 將 зазвичай означає оголошувати шах; мат окремо позначається 將死."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "b7bc95bac18287e2",
+    "batch": "batch_048.json",
+    "raw": {
+      "id": "b7bc95bac18287e2",
+      "ukrainian_segments": [
+        "слушно",
+        "випадково",
+        "якраз так сталося",
+        "майстерний",
+        "своєчасний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "b7bc95bac18287e2",
+      "ukrainian_segments": [
+        "у слушний момент",
+        "випадково",
+        "якраз так сталося",
+        "майстерний",
+        "своєчасний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "9cc10b3f92ab4620",
+    "batch": "batch_057.json",
+    "raw": {
+      "id": "9cc10b3f92ab4620",
+      "ukrainian_segments": [
+        "чандеський сицянь, театралізований народний музичний жанр зі співом на діалекті Чанде під акомпанемент традиційних струнних інструментів"
+      ],
+      "uncertainty_notes": [
+        "Усталене українське передавання назви жанру не встановлено; китайське sixian точніше передається як «сисянь»."
+      ]
+    },
+    "corrected": {
+      "id": "9cc10b3f92ab4620",
+      "ukrainian_segments": [
+        "чандеський сисянь, театралізований народний музичний жанр зі співом на діалекті Чанде під акомпанемент традиційних струнних інструментів"
+      ],
+      "uncertainty_notes": [
+        "Усталене українське передавання назви жанру не встановлено; подано транскрипцію китайського sixian."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "3ec366d5dba27af3",
+    "batch": "batch_058.json",
+    "raw": {
+      "id": "3ec366d5dba27af3",
+      "ukrainian_segments": [
+        "різновид чоловічної головної хустки в давньому Китаї"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "3ec366d5dba27af3",
+      "ukrainian_segments": [
+        "різновид чоловічої головної хустки в давньому Китаї"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "d4b65b3efece76ab",
+    "batch": "batch_062.json",
+    "raw": {
+      "id": "d4b65b3efece76ab",
+      "ukrainian_segments": [
+        "віддалений",
+        "прихований",
+        "відлюдний",
+        "безтурботний",
+        "мирний",
+        "ув'язнювати",
+        "у повір'ях позначає потойбічний світ",
+        "давня область на території провінцій Ляонін і Хебей"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "d4b65b3efece76ab",
+      "ukrainian_segments": [
+        "віддалений",
+        "прихований",
+        "відлюдний",
+        "тихомирний; спокійний",
+        "мирний",
+        "ув'язнювати",
+        "у повір'ях позначає потойбічний світ",
+        "давня область на території провінцій Ляонін і Хебей"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "666770bbe1635226",
+    "batch": "batch_066.json",
+    "raw": {
+      "id": "666770bbe1635226",
+      "ukrainian_segments": [
+        "лікар-нездарa",
+        "шарлатан"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "666770bbe1635226",
+      "ukrainian_segments": [
+        "лікар-нездара",
+        "шарлатан"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "aaa5246c38bc002d",
+    "batch": "batch_072.json",
+    "raw": {
+      "id": "aaa5246c38bc002d",
+      "ukrainian_segments": [
+        "водовідвідні інженерні роботи",
+        "іригаційне будівництво"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "aaa5246c38bc002d",
+      "ukrainian_segments": [
+        "інженерні роботи з підведення води",
+        "іригаційне будівництво"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "de61302a18570e24",
+    "batch": "batch_074.json",
+    "raw": {
+      "id": "de61302a18570e24",
+      "ukrainian_segments": [
+        "Чан Сон Тхек (1946–2013), зять Кім Чен Іра 金正日[Jin1 Zheng4 ri4], дядько й наставник Кім Чен Ина 金正恩[Jin1 Zheng4 en1], 2013 року звинувачений у контрреволюційній діяльності й страчений"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "de61302a18570e24",
+      "ukrainian_segments": [
+        "Чан Сон Тхек (1946–2013), швагер Кім Чен Іра 金正日[Jin1 Zheng4 ri4], дядько й наставник Кім Чен Ина 金正恩[Jin1 Zheng4 en1], 2013 року звинувачений у контрреволюційній діяльності й страчений"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "dc011e7bbb5cd26e",
+    "batch": "batch_074.json",
+    "raw": {
+      "id": "dc011e7bbb5cd26e",
+      "ukrainian_segments": [
+        "Чжаньвань, район міста Шиянь 十堰市[Shi2 yan4 Shi4], Хубей"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "dc011e7bbb5cd26e",
+      "ukrainian_segments": [
+        "Чжанвань, район міста Шиянь 十堰市[Shi2 yan4 Shi4], Хубей"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "b89348bbea13dee3",
+    "batch": "batch_075.json",
+    "raw": {
+      "id": "b89348bbea13dee3",
+      "ukrainian_segments": [
+        "щипати (струну)",
+        "грати (на струнному інструменті)",
+        "підскакувати; стрибати",
+        "стріляти (наприклад, із рогатки)",
+        "розпушувати; тіпати (бавовну)",
+        "клацати пальцем; відщіпувати",
+        "підкидати щиглем",
+        "звинувачувати",
+        "оголошувати імпічмент",
+        "пружний (про матеріал)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "b89348bbea13dee3",
+      "ukrainian_segments": [
+        "щипати (струну)",
+        "грати (на струнному інструменті)",
+        "підскакувати; стрибати",
+        "стріляти (наприклад, із рогатки)",
+        "розпушувати; тіпати (бавовну)",
+        "клацати пальцем; відкидати щиглем",
+        "підкидати щиглем",
+        "звинувачувати",
+        "оголошувати імпічмент",
+        "пружний (про матеріал)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "97bba5a134a58cf9",
+    "batch": "batch_090.json",
+    "raw": {
+      "id": "97bba5a134a58cf9",
+      "ukrainian_segments": [
+        "серце",
+        "намір",
+        "схильність",
+        "душевний стан",
+        "мати серце до чогось",
+        "настрій"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "97bba5a134a58cf9",
+      "ukrainian_segments": [
+        "серце",
+        "намір",
+        "схильність",
+        "душевний стан",
+        "мати охоту або душевні сили для чогось",
+        "настрій"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "9e9e4a46e3f91269",
+    "batch": "batch_095.json",
+    "raw": {
+      "id": "9e9e4a46e3f91269",
+      "ukrainian_segments": [
+        "природа",
+        "характер",
+        "властивість",
+        "якість",
+        "ознака",
+        "сексуальність",
+        "стать; секс",
+        "гендер",
+        "суфікс утворення прикметника від дієслова",
+        "суфікс утворення іменника від прикметника, подібний до українського -ість",
+        "сутність",
+        "лічильне слово: 個|个[ge4]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "9e9e4a46e3f91269",
+      "ukrainian_segments": [
+        "природа",
+        "характер",
+        "властивість",
+        "якість",
+        "ознака",
+        "сексуальність",
+        "стать; секс",
+        "гендер",
+        "суфікс утворення прикметника від дієслова",
+        "суфікс утворення іменника від прикметника, відповідний англійським -ness або -ity (українською часто -ість)",
+        "сутність",
+        "лічильне слово: 個|个[ge4]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "5bb8505813ccc77c",
+    "batch": "batch_098.json",
+    "raw": {
+      "id": "5bb8505813ccc77c",
+      "ukrainian_segments": [
+        "(літ.) безрозсудний",
+        "неприборканий",
+        "потурати собі",
+        "зарозумілий",
+        "надміру самовдоволений"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "5bb8505813ccc77c",
+      "ukrainian_segments": [
+        "(літ.) безрозсудний",
+        "неприборканий",
+        "схильний потурати своїм бажанням",
+        "зарозумілий",
+        "надміру самовдоволений"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  }
+]

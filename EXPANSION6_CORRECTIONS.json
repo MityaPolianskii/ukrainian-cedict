@@ -1,0 +1,427 @@
+[
+  {
+    "id": "8dfdb7ba7b2740b4",
+    "batch": "batch_001.json",
+    "raw": {
+      "id": "8dfdb7ba7b2740b4",
+      "ukrainian_segments": [
+        "(діал.) кров'яний тофу (згорнулася кров тварин)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "8dfdb7ba7b2740b4",
+      "ukrainian_segments": [
+        "(діал.) кров’яний тофу (згорнута тваринна кров)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "0dd4076721ec778e",
+    "batch": "batch_011.json",
+    "raw": {
+      "id": "0dd4076721ec778e",
+      "ukrainian_segments": [
+        "див. 景谷傣族彝族自治縣|景谷傣族彝族自治县[Jing3 gu3 Dai3 zu2 Yi2 zu4 Zi4 zhi4 xian4]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "0dd4076721ec778e",
+      "ukrainian_segments": [
+        "див. 景谷傣族彝族自治縣|景谷傣族彝族自治县[Jing3 gu3 Dai3 zu2 Yi2 zu2 Zi4 zhi4 xian4]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "80ba483bd38b803e",
+    "batch": "batch_013.json",
+    "raw": {
+      "id": "80ba483bd38b803e",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) серпокрилець темнохвостий (Apus acuticauda)"
+      ],
+      "uncertainty_notes": [
+        "Українську видову назву слід звірити з орнітологічною номенклатурою."
+      ]
+    },
+    "corrected": {
+      "id": "80ba483bd38b803e",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) серпокрилець із темним надхвістям (Apus acuticauda)"
+      ],
+      "uncertainty_notes": [
+        "Українську видову назву слід звірити з орнітологічною номенклатурою."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "b4b1ea9df31b078f",
+    "batch": "batch_018.json",
+    "raw": {
+      "id": "b4b1ea9df31b078f",
+      "ukrainian_segments": [
+        "найбільш сприятлива нація (торговельний статус)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "b4b1ea9df31b078f",
+      "ukrainian_segments": [
+        "країна, якій надано режим найбільшого сприяння (торговельний статус)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "1a89eded9d209174",
+    "batch": "batch_023.json",
+    "raw": {
+      "id": "1a89eded9d209174",
+      "ukrainian_segments": [
+        "(перед іменником) чи є у вас, них тощо…?",
+        "чи існує…?",
+        "(перед дієсловом) чи зробив ти, вони тощо…?",
+        "чи доводилося вам, їм тощо…?"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "1a89eded9d209174",
+      "ukrainian_segments": [
+        "(перед іменником) чи є у вас, них тощо…?",
+        "чи існує…?",
+        "(перед дієсловом) чи зробили ви, вони тощо…?",
+        "чи вже зробили ви, вони тощо…?"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "3ee9822062cb1a86",
+    "batch": "batch_030.json",
+    "raw": {
+      "id": "3ee9822062cb1a86",
+      "ukrainian_segments": [
+        "Чжу Цзінцін (1898–1948), поет і есеїст"
+      ],
+      "uncertainty_notes": [
+        "Ім'я 朱自清 має читатися Чжу Цзицін; наведена форма потребує виправлення."
+      ]
+    },
+    "corrected": {
+      "id": "3ee9822062cb1a86",
+      "ukrainian_segments": [
+        "Чжу Цзицін (1898–1948), поет і есеїст"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "b5ab77a5d35e7183",
+    "batch": "batch_031.json",
+    "raw": {
+      "id": "b5ab77a5d35e7183",
+      "ukrainian_segments": [
+        "китайська ялиця",
+        "Cunninghamia lanceolata",
+        "також вимова: [sha1]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "b5ab77a5d35e7183",
+      "ukrainian_segments": [
+        "куннінгамія, або «китайська ялиця»",
+        "Cunninghamia lanceolata",
+        "також вимова: [sha1]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "984b6089e2eea4bd",
+    "batch": "batch_033.json",
+    "raw": {
+      "id": "984b6089e2eea4bd",
+      "ukrainian_segments": [
+        "чжантóу, театр тростинних дерев'яних ляльок"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "984b6089e2eea4bd",
+      "ukrainian_segments": [
+        "чжантоу, театр тростинних дерев'яних ляльок"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "9943494ebb202b0c",
+    "batch": "batch_037.json",
+    "raw": {
+      "id": "9943494ebb202b0c",
+      "ukrainian_segments": [
+        "дошка",
+        "дошка; плахá",
+        "плита",
+        "віконниця",
+        "ракетка для настільного тенісу",
+        "тріскачки (муз.)",
+        "ліч. сл.: 塊|块[kuai4]",
+        "сильна доля в китайській музиці",
+        "твердий",
+        "негнучкий",
+        "переставати всміхатися; робити суворий вигляд"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "9943494ebb202b0c",
+      "ukrainian_segments": [
+        "дошка",
+        "дошка; плаха",
+        "плита",
+        "віконниця",
+        "ракетка для настільного тенісу",
+        "тріскачки (муз.)",
+        "ліч. сл.: 塊|块[kuai4]",
+        "сильна доля в китайській музиці",
+        "твердий",
+        "негнучкий",
+        "переставати всміхатися; робити суворий вигляд"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "488e1dfe4b875d85",
+    "batch": "batch_037.json",
+    "raw": {
+      "id": "488e1dfe4b875d85",
+      "ukrainian_segments": [
+        "дошка",
+        "плахá",
+        "бамбукова чи березова палиця для тілесного покарання"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "488e1dfe4b875d85",
+      "ukrainian_segments": [
+        "дошка",
+        "плаха",
+        "бамбукова чи березова палиця для тілесного покарання"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "7ad031bb43d2c96a",
+    "batch": "batch_039.json",
+    "raw": {
+      "id": "7ad031bb43d2c96a",
+      "ukrainian_segments": [
+        "Микола Гоголь (1809–1852), письменник і драматург"
+      ],
+      "uncertainty_notes": [
+        "Джерело характеризує автора як російського; українське походження та культурна належність вимагають точнішого формулювання."
+      ]
+    },
+    "corrected": {
+      "id": "7ad031bb43d2c96a",
+      "ukrainian_segments": [
+        "Микола Гоголь (1809–1852), російський письменник і драматург"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "83c7fa6b8e29191e",
+    "batch": "batch_043.json",
+    "raw": {
+      "id": "83c7fa6b8e29191e",
+      "ukrainian_segments": [
+        "Любеі, район міста Лючжоу 柳州市[Liu3 zhou1 Shi4], Ґуансі"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "83c7fa6b8e29191e",
+      "ukrainian_segments": [
+        "Любей, район міста Лючжоу 柳州市[Liu3 zhou1 Shi4], Ґуансі"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "0148a2d2d4c13c66",
+    "batch": "batch_048.json",
+    "raw": {
+      "id": "0148a2d2d4c13c66",
+      "ukrainian_segments": [
+        "Тaoцзян, повіт міста Їян 益陽市|益阳市[Yi4 yang2 Shi4], Хунань"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "0148a2d2d4c13c66",
+      "ukrainian_segments": [
+        "Таоцзян, повіт міста Їян 益陽市|益阳市[Yi4 yang2 Shi4], Хунань"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "c133826501ff9ae5",
+    "batch": "batch_050.json",
+    "raw": {
+      "id": "c133826501ff9ae5",
+      "ukrainian_segments": [
+        "гілка",
+        "стебло",
+        "стеблина",
+        "лічильне слово: 根[gen1]",
+        "перекривати",
+        "перешкоджати",
+        "(неологізм, що виник із 哏[gen2] спершу на Тайвані в першому десятилітті XXI ст.) запам'ятовувана творча знахідка (жарт, крилата фраза, мем, неологізм, дотеп тощо)",
+        "виразна деталь творчого твору (кінцівка жарту, сюжетний прийом у драмі, особливий інгредієнт страви, риф у поппісні тощо)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "c133826501ff9ae5",
+      "ukrainian_segments": [
+        "гілка",
+        "стебло",
+        "стеблина",
+        "лічильне слово: 根[gen1]",
+        "перекривати",
+        "перешкоджати",
+        "(неологізм, що виник із 哏[gen2] спершу на Тайвані в першому десятилітті XXI ст.) запам'ятовувана творча знахідка (жарт, крилата фраза, мем, неологізм, дотеп тощо)",
+        "виразна деталь твору (кінцівка жарту, сюжетний прийом у драмі, особливий інгредієнт страви, риф у поппісні тощо)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "6cb20d936cc3cc0e",
+    "batch": "batch_053.json",
+    "raw": {
+      "id": "6cb20d936cc3cc0e",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) погонич чорновостий (Zapornia bicolor)"
+      ],
+      "uncertainty_notes": [
+        "Українська видова назва описова; усталений відповідник не підтверджено."
+      ]
+    },
+    "corrected": {
+      "id": "6cb20d936cc3cc0e",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) погонич чорнохвостий (Zapornia bicolor)"
+      ],
+      "uncertainty_notes": [
+        "Українська видова назва описова; усталений відповідник не підтверджено."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "5640e021e8451c1e",
+    "batch": "batch_054.json",
+    "raw": {
+      "id": "5640e021e8451c1e",
+      "ukrainian_segments": [
+        "гребенева балка",
+        "гребенева балка й крокви",
+        "людина, здатна нести велику відповідальність",
+        "опора (організації)",
+        "стовп (держави)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "5640e021e8451c1e",
+      "ukrainian_segments": [
+        "гребенева балка",
+        "гребенева балка й балки",
+        "людина, здатна нести велику відповідальність",
+        "опора (організації)",
+        "стовп (держави)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "7e784c1e2f956812",
+    "batch": "batch_074.json",
+    "raw": {
+      "id": "7e784c1e2f956812",
+      "ukrainian_segments": [
+        "Чженьань, повіт у складі міста Цзуньї 遵義市|遵义市[Zun1 yi4 Shi4], Гуйчжоу"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "7e784c1e2f956812",
+      "ukrainian_segments": [
+        "Чжен'ань, повіт у складі міста Цзуньї 遵義市|遵义市[Zun1 yi4 Shi4], Гуйчжоу"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  }
+]

@@ -2,16 +2,16 @@
   "updated_date_utc": "2026-10-14",
   "status": "machine_generated_partially_model_reviewed_draft",
   "counts": {
-    "records": 55596,
-    "aligned_segments": 93621,
+    "records": 65596,
+    "aligned_segments": 108412,
     "model_reviewed_records": 704,
-    "corrected_segments": 349,
-    "records_with_corrections": 284,
-    "known_flagged_records": 765,
+    "corrected_segments": 367,
+    "records_with_corrections": 301,
+    "known_flagged_records": 982,
     "human_validated_records": 0
   },
   "full_pinned_source_records": 125264,
-  "full_source_translation_coverage_percent": 44.3831,
+  "full_source_translation_coverage_percent": 52.3662,
   "complete_for_published_subset": true,
   "complete_for_full_source": false,
   "human_validation": false,
@@ -44,8 +44,8 @@
     "Offline validation checks structure and embedded-reference tokens, not translation accuracy or external source provenance. One additional automated editorial repair is documented in CORRECTIONS.md."
   ],
   "data_sha256": {
-    "dictionary.json": "7d772ecc9551715103c593195905bacfae5ae130404bdfecd2e67d274707edb1",
-    "dictionary.csv": "8b83ae4c114eaaf247ce26415af6285b7156de7405ae94fd4ff531bd7f8ab9ad",
+    "dictionary.json": "5195ea19bd398de7b384f26974aba54d8f1927cd4df914935b8f29b653e0c330",
+    "dictionary.csv": "2307eadae04e44a968fdb7a9e110fb7d6469710a5b9fa7e38652a3080be3d90f",
     "source.json": "6a2099fa9eb9a5ced59ee3d3c09a9a1fb7f1fa87efd2acbd9aa3f8c9f334cc41",
     "translation_prompt.txt": "c7c59adec59bbd7f841f3b19f40b7604c5afa0adbfaa8ed1de88ecbf65a63926"
   },
@@ -294,9 +294,34 @@
       ],
       "human_validation": false,
       "log": "EXPANSION5_CORRECTIONS.json"
+    },
+    "sixth_10000_expansion": {
+      "corrected_segments": 18,
+      "records_with_corrections": 17,
+      "record_ids": [
+        "8dfdb7ba7b2740b4",
+        "0dd4076721ec778e",
+        "80ba483bd38b803e",
+        "b4b1ea9df31b078f",
+        "1a89eded9d209174",
+        "3ee9822062cb1a86",
+        "b5ab77a5d35e7183",
+        "984b6089e2eea4bd",
+        "9943494ebb202b0c",
+        "488e1dfe4b875d85",
+        "7ad031bb43d2c96a",
+        "83c7fa6b8e29191e",
+        "0148a2d2d4c13c66",
+        "c133826501ff9ae5",
+        "6cb20d936cc3cc0e",
+        "5640e021e8451c1e",
+        "7e784c1e2f956812"
+      ],
+      "human_validation": false,
+      "log": "EXPANSION6_CORRECTIONS.json"
     }
   },
-  "translation_preservation_note": "All 45,596 baseline records and their translations, corrections and review metadata are unchanged. Fifth expansion remains machine draft; raw outputs and separate correction history are retained.",
+  "translation_preservation_note": "All 55,596 baseline records and their translations, corrections and review metadata are unchanged. Sixth expansion remains machine draft; raw outputs and separate correction history are retained.",
   "next_10000_expansion": {
     "requested_entries": 10000,
     "completed_entries": 10000,
@@ -367,5 +392,19 @@
     "targeted_semantic_spot_check_entries": 300,
     "new_entries_flagged_for_review": 145,
     "structural_and_provenance_validation": "EXPANSION5_VALIDATION.json"
+  },
+  "sixth_10000_expansion": {
+    "requested_entries": 10000,
+    "completed_entries": 10000,
+    "complete": true,
+    "raw_outputs_preserved": true,
+    "corrections_recorded": 17,
+    "human_validation": false,
+    "requested_model": "inherited",
+    "actual_backend_identity": null,
+    "actual_token_usage": null,
+    "targeted_semantic_spot_check_entries": 300,
+    "new_entries_flagged_for_review": 217,
+    "structural_and_provenance_validation": "EXPANSION6_VALIDATION.json"
   }
 }

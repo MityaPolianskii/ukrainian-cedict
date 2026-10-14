@@ -41,3 +41,8 @@
 ## 2026-10-14 expansion
 
 All baseline records remain unchanged. New machine-draft corrections are recorded in EXPANSION_CORRECTIONS.json; original drafts are retained in the expansion working package. No human validation.
+
+
+## 2026-10-14 second expansion
+
+All 15,596 baseline records remain unchanged. New machine-draft corrections are recorded in EXPANSION2_CORRECTIONS.json; original outputs are retained in the expansion audit package. No human validation.

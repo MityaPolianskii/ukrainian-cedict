@@ -1,0 +1,1348 @@
+[
+  {
+    "id": "cb1ed4050cac7f50",
+    "batch": "batch_003.json",
+    "raw": {
+      "id": "cb1ed4050cac7f50",
+      "ukrainian_segments": [
+        "син не покине матері через її вроду, як і собака не покине господаря через його бідність (прислів'я)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "cb1ed4050cac7f50",
+      "ukrainian_segments": [
+        "син не покине матері через її непривабливість, як і собака не покине господаря через його бідність (прислів'я)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "0fc7df3e3260080e",
+    "batch": "batch_007.json",
+    "raw": {
+      "id": "0fc7df3e3260080e",
+      "ukrainian_segments": [
+        "бета-лактамаза (у джерелі описана як бактеріальний інгібітор)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "0fc7df3e3260080e",
+      "ukrainian_segments": [
+        "бета-лактамаза (у джерелі описана як бактеріальний інгібітор)"
+      ],
+      "uncertainty_notes": [
+        "Англійський опис beta-lactamase як «бактеріального інгібітора» неточний: це бактеріальний фермент, що розщеплює бета-лактамні антибіотики. Китайський заголовок буквально ширший: лактамаза."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "ee65bc48a9b55eeb",
+    "batch": "batch_007.json",
+    "raw": {
+      "id": "ee65bc48a9b55eeb",
+      "ukrainian_segments": [
+        "повна перемога",
+        "набагато перевершувати",
+        "назва танка",
+        "перемога в усіх розіграшах"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "ee65bc48a9b55eeb",
+      "ukrainian_segments": [
+        "повна перемога",
+        "набагато перевершувати",
+        "назва танка",
+        "перемога в усіх розіграшах"
+      ],
+      "uncertainty_notes": [
+        "Джерело не уточнює, який саме танк має цю назву; значення slam передано як повну перемогу в розіграшах без додавання непідтвердженого виду гри."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "88abda63da4f87cc",
+    "batch": "batch_008.json",
+    "raw": {
+      "id": "88abda63da4f87cc",
+      "ukrainian_segments": [
+        "провінція Південна Чолла на південному заході Південної Кореї, столиця Кванджу 光州[Guang1 zhou1]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "88abda63da4f87cc",
+      "ukrainian_segments": [
+        "провінція Південна Чолла на південному заході Південної Кореї, столиця Кванджу 光州[Guang1 zhou1]"
+      ],
+      "uncertainty_notes": [
+        "Адміністративний центр Кванджу відтворено за джерелом; це історична, а не актуальна адміністративна довідка."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "06e4e941f3e4ec10",
+    "batch": "batch_010.json",
+    "raw": {
+      "id": "06e4e941f3e4ec10",
+      "ukrainian_segments": [
+        "рельєфні кубики черевного преса"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "06e4e941f3e4ec10",
+      "ukrainian_segments": [
+        "рельєфні кубики черевного преса"
+      ],
+      "uncertainty_notes": [
+        "Китайський заголовок буквально означає вісім кубиків преса, тоді як англійський сегмент має six pack; переклад передає спільне значення рельєфного преса без хибного узгодження чисел."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "5f86d4b3fcd3bc69",
+    "batch": "batch_014.json",
+    "raw": {
+      "id": "5f86d4b3fcd3bc69",
+      "ukrainian_segments": [
+        "нотаріус",
+        "нотаріальний службовець"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "5f86d4b3fcd3bc69",
+      "ukrainian_segments": [
+        "нотаріус",
+        "нотаріальний службовець"
+      ],
+      "uncertainty_notes": [
+        "Англійське actuary неоднозначне: сучасне значення «актуарій» не відповідає китайському 公證人; за китайським словом подано нотаріальну професію."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "bfeccd3f63abc576",
+    "batch": "batch_014.json",
+    "raw": {
+      "id": "bfeccd3f63abc576",
+      "ukrainian_segments": [
+        "автобус",
+        "скор. від 公共汽車|公共汽车[gong1 gong4 qi4 che1]",
+        "автомобіль організації для її працівників (державний, поліцейський, службовий тощо)",
+        "скор. від 公務用車|公务用车[gong1 wu4 yong4 che1]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "bfeccd3f63abc576",
+      "ukrainian_segments": [
+        "автобус",
+        "скор. від 公共汽車|公共汽车[gong1 gong4 qi4 che1]",
+        "автомобіль організації для користування її членами (державний, поліцейський, службовий тощо)",
+        "скор. від 公務用車|公务用车[gong1 wu4 yong4 che1]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "10106e80334171f4",
+    "batch": "batch_017.json",
+    "raw": {
+      "id": "10106e80334171f4",
+      "ukrainian_segments": [
+        "канатник (Abutilon avicennae), рослина з родини джуту",
+        "яскравий"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "10106e80334171f4",
+      "ukrainian_segments": [
+        "канатник (Abutilon avicennae), рослина з родини джуту",
+        "яскравий"
+      ],
+      "uncertainty_notes": [
+        "У джерелі рослину віднесено до «родини джуту»; це не уточнена сучасна ботанічна класифікація. Латинську назву збережено."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "4444b494b31007e5",
+    "batch": "batch_018.json",
+    "raw": {
+      "id": "4444b494b31007e5",
+      "ukrainian_segments": [
+        "зухвалий; нерозважливо сміливий",
+        "безцеремонний; необачно прямолінійний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "4444b494b31007e5",
+      "ukrainian_segments": [
+        "зухвалий; нерозважливо сміливий",
+        "безцеремонний; необачно прямолінійний"
+      ],
+      "uncertainty_notes": [
+        "Англійські bold і forthright можуть мати схвальний відтінок; китайське слово означає необачність і безцеремонність, тому цей відтінок збережено в перекладі."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "db26409c2a99a6ff",
+    "batch": "batch_018.json",
+    "raw": {
+      "id": "db26409c2a99a6ff",
+      "ukrainian_segments": [
+        "Мауна-Лоа, гавайський вулкан"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "db26409c2a99a6ff",
+      "ukrainian_segments": [
+        "Мауна-Лоа, гавайський вулкан"
+      ],
+      "uncertainty_notes": [
+        "Англійське Moanalua не узгоджується з назвою гавайського вулкана; за китайським заголовком і вказівкою на вулкан обрано Мауна-Лоа."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "dd1d739ccc8eca13",
+    "batch": "batch_018.json",
+    "raw": {
+      "id": "dd1d739ccc8eca13",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) східна коронована вівчарикова пташка (Phylloscopus coronatus)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "dd1d739ccc8eca13",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) східний коронований вівчарик (Phylloscopus coronatus)"
+      ],
+      "uncertainty_notes": [
+        "Українська назва виду є описовим перекладом; її усталеність не перевірено. Точний вид визначає збережена латинська назва."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "3a4ec641cdbe1d75",
+    "batch": "batch_018.json",
+    "raw": {
+      "id": "3a4ec641cdbe1d75",
+      "ukrainian_segments": [
+        "довгий і нудний",
+        "надлишковий",
+        "зайвий",
+        "понадштатний",
+        "багатослівний (про текст)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "3a4ec641cdbe1d75",
+      "ukrainian_segments": [
+        "довгий і нудний",
+        "надлишковий",
+        "зайвий",
+        "надмірний; зайвий",
+        "багатослівний (про текст)"
+      ],
+      "uncertainty_notes": [
+        "Англійське supernumerary передано як надмірність, без кадрового значення, яке не випливає з китайського слова."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "265c0f08e8e3f9cd",
+    "batch": "batch_018.json",
+    "raw": {
+      "id": "265c0f08e8e3f9cd",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) східний строкатий птах-носоріг (Anthracoceros albirostris)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "265c0f08e8e3f9cd",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) східний строкатий птах-носоріг (Anthracoceros albirostris)"
+      ],
+      "uncertainty_notes": [
+        "Українська назва виду є описовим перекладом; її усталеність не перевірено. Точний вид визначає збережена латинська назва."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "192f897ed8daef95",
+    "batch": "batch_018.json",
+    "raw": {
+      "id": "192f897ed8daef95",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) вівчарик Клавдії (Phylloscopus claudiae)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "192f897ed8daef95",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) вівчарик Клавдії (Phylloscopus claudiae)"
+      ],
+      "uncertainty_notes": [
+        "Українська назва виду є описовим перекладом; її усталеність не перевірено. Точний вид визначає збережена латинська назва."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "390f22dab478ba25",
+    "batch": "batch_018.json",
+    "raw": {
+      "id": "390f22dab478ba25",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) чубатий рибалочка (Megaceryle lugubris)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "390f22dab478ba25",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) чубатий рибалочка (Megaceryle lugubris)"
+      ],
+      "uncertainty_notes": [
+        "Українська назва виду є описовим перекладом; її усталеність не перевірено. Точний вид визначає збережена латинська назва."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "01a836bd11b822d5",
+    "batch": "batch_018.json",
+    "raw": {
+      "id": "01a836bd11b822d5",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) чубата галагазка (Tadorna cristata)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "01a836bd11b822d5",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) чубата галагазка (Tadorna cristata)"
+      ],
+      "uncertainty_notes": [
+        "Українська назва виду є описовим перекладом; її усталеність не перевірено. Точний вид визначає збережена латинська назва."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "1ff0e5bb622f725c",
+    "batch": "batch_022.json",
+    "raw": {
+      "id": "1ff0e5bb622f725c",
+      "ukrainian_segments": [
+        "крижаний наріст; бурулька"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "1ff0e5bb622f725c",
+      "ukrainian_segments": [
+        "крижаний наріст; бурулька"
+      ],
+      "uncertainty_notes": [
+        "Англійське icicle звужує китайське слово, яке звичайно позначає іній або паморозь; передано крижаний наріст із збереженням значення джерела."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "ef65b39c45001500",
+    "batch": "batch_022.json",
+    "raw": {
+      "id": "ef65b39c45001500",
+      "ukrainian_segments": [
+        "«заморожування молодості»: початок китайськими дівчатками омолоджувальних процедур уже з дворічного віку в надії ніколи не виглядати старими"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "ef65b39c45001500",
+      "ukrainian_segments": [
+        "«заморожування молодості»: початок китайськими дівчатками омолоджувальних процедур уже з дворічного віку в надії ніколи не виглядати старими"
+      ],
+      "uncertainty_notes": [
+        "Твердження про початок процедур із дворічного віку відтворено як опис у джерелі; достовірність і поширеність цієї практики не перевірено."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "0b572f2133eac945",
+    "batch": "batch_022.json",
+    "raw": {
+      "id": "0b572f2133eac945",
+      "ukrainian_segments": [
+        "холодний",
+        "тремтіти від холоду",
+        "тремтіти зі страху",
+        "наляканий",
+        "стривожений",
+        "строгий",
+        "суворий",
+        "жорсткий",
+        "аскетичний",
+        "такий, що викликає благоговіння",
+        "величний",
+        "маєстатичний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "0b572f2133eac945",
+      "ukrainian_segments": [
+        "холодний",
+        "тремтіти від холоду",
+        "тремтіти зі страху",
+        "наляканий",
+        "стривожений",
+        "строгий",
+        "суворий",
+        "жорсткий",
+        "суворий; стриманий",
+        "такий, що викликає благоговіння",
+        "величний",
+        "маєстатичний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "36ee32d7a49e0969",
+    "batch": "batch_023.json",
+    "raw": {
+      "id": "36ee32d7a49e0969",
+      "ukrainian_segments": [
+        "гемаглютинін (білок, що спричиняє злипання клітин крові)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "36ee32d7a49e0969",
+      "ukrainian_segments": [
+        "гемаглютинін (білок, що спричиняє злипання клітин крові)"
+      ],
+      "uncertainty_notes": [
+        "Джерело описує гемаглютинін як білок згортання крові; точніше це білок, що спричиняє аглютинацію клітин крові. Не слід ототожнювати аглютинацію з коагуляцією."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "ca22fc45480fcafe",
+    "batch": "batch_024.json",
+    "raw": {
+      "id": "ca22fc45480fcafe",
+      "ukrainian_segments": [
+        "опуклий",
+        "виступний",
+        "випинатися",
+        "здуватися",
+        "вигинатися вгору"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "ca22fc45480fcafe",
+      "ukrainian_segments": [
+        "опуклий",
+        "виступний",
+        "випинатися",
+        "випирати",
+        "вигинатися вгору"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "4a4e28342c5aa544",
+    "batch": "batch_027.json",
+    "raw": {
+      "id": "4a4e28342c5aa544",
+      "ukrainian_segments": [
+        "бібліотека (розділ на жорсткому диску комп'ютера)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "4a4e28342c5aa544",
+      "ukrainian_segments": [
+        "бібліотека (розділ на жорсткому диску комп'ютера)"
+      ],
+      "uncertainty_notes": [
+        "Джерело пояснює 函式庫 як розділ жорсткого диска; китайський термін зазвичай означає бібліотеку функцій. Потрібна перевірка англійського тлумачення."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "4b37ab6b764d2141",
+    "batch": "batch_027.json",
+    "raw": {
+      "id": "4b37ab6b764d2141",
+      "ukrainian_segments": [
+        "прохід Ханьґу в сучасній провінції Хенань, стратегічний східний вхід до держави Цінь у період Воюючих царств (770–221 до н. е. за джерелом)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "4b37ab6b764d2141",
+      "ukrainian_segments": [
+        "прохід Ханьґу в сучасній провінції Хенань, стратегічний східний вхід до держави Цінь у період Воюючих царств (770–221 до н. е. за джерелом)"
+      ],
+      "uncertainty_notes": [
+        "Дати 770–221 до н. е. у джерелі не відповідають звичайному датуванню саме періоду Воюючих царств."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "231fda0d65fd7599",
+    "batch": "batch_030.json",
+    "raw": {
+      "id": "231fda0d65fd7599",
+      "ukrainian_segments": [
+        "Чейні (прізвище)",
+        "Річард Б. «Дік» Чейні (1941–), американський політик-республіканець, віцепрезидент у 2001–2008 роках (за джерелом)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "231fda0d65fd7599",
+      "ukrainian_segments": [
+        "Чейні (прізвище)",
+        "Річард Б. «Дік» Чейні (1941–), американський політик-республіканець, віцепрезидент у 2001–2008 роках (за джерелом)"
+      ],
+      "uncertainty_notes": [
+        "Дати каденції та відкриту дату життя збережено за джерелом; біографічні дані потребують перевірки."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "2c921b1a2561bf63",
+    "batch": "batch_030.json",
+    "raw": {
+      "id": "2c921b1a2561bf63",
+      "ukrainian_segments": [
+        "дотичний простір (мат.; у джерелі: простір перерізів)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "2c921b1a2561bf63",
+      "ukrainian_segments": [
+        "дотичний простір (мат.; у джерелі: простір перерізів)"
+      ],
+      "uncertainty_notes": [
+        "Китайське 切空間 означає дотичний простір; англійське space of sections суперечить заголовку."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "0e857e59408070c3",
+    "batch": "batch_031.json",
+    "raw": {
+      "id": "0e857e59408070c3",
+      "ukrainian_segments": [
+        "герцог (заст.; за джерелом)",
+        "вельможа",
+        "знать"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "0e857e59408070c3",
+      "ukrainian_segments": [
+        "герцог (заст.; за джерелом)",
+        "вельможа",
+        "знать"
+      ],
+      "uncertainty_notes": [
+        "Англійське duke для 列侯 потребує уточнення: китайський історичний титул зазвичай передають як маркіз, а не герцог."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "8e708d99bf0b1ccb",
+    "batch": "batch_031.json",
+    "raw": {
+      "id": "8e708d99bf0b1ccb",
+      "ukrainian_segments": [
+        "Ленінград, колишня назва (1923–1991 за джерелом) російського міста Санкт-Петербург 聖彼得堡|圣彼得堡[Sheng4 bi3 de2 bao3]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "8e708d99bf0b1ccb",
+      "ukrainian_segments": [
+        "Ленінград, колишня назва (1923–1991 за джерелом) російського міста Санкт-Петербург 聖彼得堡|圣彼得堡[Sheng4 bi3 de2 bao3]"
+      ],
+      "uncertainty_notes": [
+        "У джерелі перейменування на Ленінград датовано 1923 роком; загальноприйнята дата — 1924."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "ae6aa87991add455",
+    "batch": "batch_034.json",
+    "raw": {
+      "id": "ae6aa87991add455",
+      "ukrainian_segments": [
+        "до того моменту"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "ae6aa87991add455",
+      "ukrainian_segments": [
+        "до того моменту"
+      ],
+      "uncertainty_notes": [
+        "Китайська фраза означає до того моменту; джерельне this moment не узгоджується з 那個."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "a521102008728f5a",
+    "batch": "batch_036.json",
+    "raw": {
+      "id": "a521102008728f5a",
+      "ukrainian_segments": [
+        "вирізати лебедя, а одержати подобу качки (ідіома)",
+        "цілком невдало намагатися щось скопіювати",
+        "отримувати досить добрий, хоч і не досконалий результат"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "a521102008728f5a",
+      "ukrainian_segments": [
+        "вирізати лебедя, а одержати подобу качки (ідіома)",
+        "цілком невдало намагатися щось скопіювати",
+        "отримувати досить добрий, хоч і не досконалий результат"
+      ],
+      "uncertainty_notes": [
+        "Джерело подає протилежні оцінки результату наслідування: повна невдача та досить добрий результат; обидва сегменти збережено."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "8b4642549a6331c7",
+    "batch": "batch_036.json",
+    "raw": {
+      "id": "8b4642549a6331c7",
+      "ukrainian_segments": [
+        "указ Цін, який зобов'язував усіх чоловіків голити голову, залишаючи косу; уперше виданий 1646 року (за джерелом)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "8b4642549a6331c7",
+      "ukrainian_segments": [
+        "указ Цін, який зобов'язував усіх чоловіків голити голову, залишаючи косу; уперше виданий 1646 року (за джерелом)"
+      ],
+      "uncertainty_notes": [
+        "Рік першого указу про зачіску в джерелі потребує перевірки; часто наводять 1645."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "cae5f6ada9459ffb",
+    "batch": "batch_036.json",
+    "raw": {
+      "id": "cae5f6ada9459ffb",
+      "ukrainian_segments": [
+        "варіант 拉[la2] (примітка: до спрощення вживали 剌; він лишається нормативним на Тайвані, а в материковому Китаї його замінив 拉)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "cae5f6ada9459ffb",
+      "ukrainian_segments": [
+        "варіант 拉[la2] (примітка: цей знак уживали до спрощення; 剌 лишається нормативним на Тайвані, а в материковому Китаї 拉 замінив 剌)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "2bf55a6b69da5c90",
+    "batch": "batch_037.json",
+    "raw": {
+      "id": "2bf55a6b69da5c90",
+      "ukrainian_segments": [
+        "кут передньої камери ока (у джерелі: передня камера ока)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "2bf55a6b69da5c90",
+      "ukrainian_segments": [
+        "кут передньої камери ока (у джерелі: передня камера ока)"
+      ],
+      "uncertainty_notes": [
+        "Заголовок 前房角 означає кут передньої камери ока; англійське визначення називає всю передню камеру."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "c3fb6d456e556aeb",
+    "batch": "batch_042.json",
+    "raw": {
+      "id": "c3fb6d456e556aeb",
+      "ukrainian_segments": [
+        "гострий біль",
+        "різкий біль",
+        "болісний укол",
+        "пронизливий напад болю",
+        "сильний болісний спазм"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "c3fb6d456e556aeb",
+      "ukrainian_segments": [
+        "гострий біль",
+        "різкий біль",
+        "болісний укол",
+        "пронизливий напад болю",
+        "раптовий гострий біль"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "6ef5b1e4d319ba13",
+    "batch": "batch_042.json",
+    "raw": {
+      "id": "6ef5b1e4d319ba13",
+      "ukrainian_segments": [
+        "Лю Бей (161–223), воєначальник кінця Хань і засновник царства Шу-Хань 蜀漢|蜀汉 (близько 200–263), згодом династії Шу-Хань"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "6ef5b1e4d319ba13",
+      "ukrainian_segments": [
+        "Лю Бей (161–223), воєначальник кінця Хань і засновник царства Шу-Хань 蜀漢|蜀汉 (близько 200–263), згодом династії Шу-Хань"
+      ],
+      "uncertainty_notes": [
+        "Датування заснування царства Шу-Хань у джерелі приблизне й потребує перевірки."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "0faf1367ae5f8d1b",
+    "batch": "batch_042.json",
+    "raw": {
+      "id": "0faf1367ae5f8d1b",
+      "ukrainian_segments": [
+        "Лю Юань (близько 251–310), воєначальник кінця Західної Цзінь 西晉|西晋[Xi1 Jin4]; у джерелі названий засновником Чен-Хань із Шістнадцяти держав 成漢|成汉[Cheng2 Han4] (304–347)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "0faf1367ae5f8d1b",
+      "ukrainian_segments": [
+        "Лю Юань (близько 251–310), воєначальник кінця Західної Цзінь 西晉|西晋[Xi1 Jin4]; у джерелі названий засновником Чен-Хань із Шістнадцяти держав 成漢|成汉[Cheng2 Han4] (304–347)"
+      ],
+      "uncertainty_notes": [
+        "Джерело помилково пов’язує Лю Юаня з Чен-Хань; він заснував Хань-Чжао. Китайське посилання й джерельне твердження збережено з застереженням."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "b21eda94a08fbe2e",
+    "batch": "batch_042.json",
+    "raw": {
+      "id": "b21eda94a08fbe2e",
+      "ukrainian_segments": [
+        "Лю Шань (207–271), син Лю Бея, імператор Шу-Хань у 233–263 роках (за джерелом)",
+        "тайванська вимова: [Liu2 Chan2]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "b21eda94a08fbe2e",
+      "ukrainian_segments": [
+        "Лю Шань (207–271), син Лю Бея, імператор Шу-Хань у 233–263 роках (за джерелом)",
+        "тайванська вимова: [Liu2 Chan2]"
+      ],
+      "uncertainty_notes": [
+        "У джерелі початок правління зазначено як 233; загальноприйнята дата — 223."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "f4d0ce7a718cb517",
+    "batch": "batch_042.json",
+    "raw": {
+      "id": "f4d0ce7a718cb517",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) тонкодзьоба тимелія-криводзьоб (Pomatorhinus superciliaris)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "f4d0ce7a718cb517",
+      "ukrainian_segments": [
+        "(вид птахів Китаю) тонкодзьоба тимелія-криводзьоб (Pomatorhinus superciliaris)"
+      ],
+      "uncertainty_notes": [
+        "Українська назва птаха описова; усталену видову назву слід перевірити."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "c902c2ebc04fb179",
+    "batch": "batch_043.json",
+    "raw": {
+      "id": "c902c2ebc04fb179",
+      "ukrainian_segments": [
+        "пара сил (механіка; у джерелі: момент сил)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "c902c2ebc04fb179",
+      "ukrainian_segments": [
+        "пара сил (механіка; у джерелі: момент сил)"
+      ],
+      "uncertainty_notes": [
+        "力偶 означає пару сил; англійське moment of forces позначає інше, пов’язане поняття."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "b169771c8e671f59",
+    "batch": "batch_044.json",
+    "raw": {
+      "id": "b169771c8e671f59",
+      "ukrainian_segments": [
+        "великі заслуги й висока пошана (ідіома)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "b169771c8e671f59",
+      "ukrainian_segments": [
+        "великі заслуги й висока пошана (ідіома)"
+      ],
+      "uncertainty_notes": [
+        "Китайське 望重 стосується високої репутації чи пошани, а не перспектив, зазначених англійським prospects."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "6641358878d95b08",
+    "batch": "batch_046.json",
+    "raw": {
+      "id": "6641358878d95b08",
+      "ukrainian_segments": [
+        "розбігатися для стрибка з жердиною, метання списа, боулінгу тощо",
+        "підхід",
+        "розбіг",
+        "(авіація) злітний розбіг"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "6641358878d95b08",
+      "ukrainian_segments": [
+        "розбігатися для стрибка з жердиною, метання списа, боулінгу тощо",
+        "розбіг перед виконанням вправи",
+        "розбіг",
+        "(авіація) злітний розбіг"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "19c36cabe2256c85",
+    "batch": "batch_047.json",
+    "raw": {
+      "id": "19c36cabe2256c85",
+      "ukrainian_segments": [
+        "коефіцієнт жорсткості в законі Гука (у джерелі: коефіцієнт відновлення)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "19c36cabe2256c85",
+      "ukrainian_segments": [
+        "коефіцієнт жорсткості в законі Гука (у джерелі: коефіцієнт відновлення)"
+      ],
+      "uncertainty_notes": [
+        "Заголовок і закон Гука вказують на жорсткість пружини; англійське coefficient of restitution є помилковим."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "924d4fd70a26f9b9",
+    "batch": "batch_048.json",
+    "raw": {
+      "id": "924d4fd70a26f9b9",
+      "ukrainian_segments": [
+        "Жан-Марі Ле Пен (1928–), французький ультраправий політик Національного фронту"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "924d4fd70a26f9b9",
+      "ukrainian_segments": [
+        "Жан-Марі Ле Пен (1928–), французький ультраправий політик Національного фронту"
+      ],
+      "uncertainty_notes": [
+        "Рік смерті в джерелі не вказано; біографічний запис потребує актуалізації."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "62d80b4de903005e",
+    "batch": "batch_054.json",
+    "raw": {
+      "id": "62d80b4de903005e",
+      "ukrainian_segments": [
+        "сіверянин",
+        "хлопець із півночі",
+        "янкі"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "62d80b4de903005e",
+      "ukrainian_segments": [
+        "мешканець півночі",
+        "хлопець із півночі",
+        "янкі"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "6cec81fe0b6ff515",
+    "batch": "batch_059.json",
+    "raw": {
+      "id": "6cec81fe0b6ff515",
+      "ukrainian_segments": [
+        "тисяча цзінів 斤 (фунтів) золота",
+        "гроші й багатства",
+        "(шанобл.) неоціненний (про підтримку)",
+        "(шанобл.) дочка"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "6cec81fe0b6ff515",
+      "ukrainian_segments": [
+        "тисяча цзінів 斤 (фунтів) золота",
+        "гроші й багатства",
+        "(шанобл.) неоціненний (про підтримку)",
+        "(шанобл.) дочка"
+      ],
+      "uncertainty_notes": [
+        "У джерелі цзінь 斤 приблизно названо фунтом; це різні одиниці маси, і точна величина цзіня залежить від часу та регіону."
+      ]
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "efecae3a7b09fd96",
+    "batch": "batch_060.json",
+    "raw": {
+      "id": "efecae3a7b09fd96",
+      "ukrainian_segments": [
+        "школа з південними заняттями (або двозмінна школа)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "efecae3a7b09fd96",
+      "ukrainian_segments": [
+        "школа із заняттями протягом половини дня (або двозмінна школа)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "1b1c3ceb56c01325",
+    "batch": "batch_067.json",
+    "raw": {
+      "id": "1b1c3ceb56c01325",
+      "ukrainian_segments": [
+        "печатка",
+        "перстень-печатка",
+        "особиста печатка",
+        "штамп",
+        "лічильне слово: 方[fang1]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "1b1c3ceb56c01325",
+      "ukrainian_segments": [
+        "печатка",
+        "печатка з індивідуальним знаком",
+        "особиста печатка",
+        "штамп",
+        "лічильне слово: 方[fang1]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "0c200fb910f66708",
+    "batch": "batch_076.json",
+    "raw": {
+      "id": "0c200fb910f66708",
+      "ukrainian_segments": [
+        "брати вершки, відкидати покидьки (політичне й освітнє гасло)",
+        "зберігати добре, відкидати решту",
+        "у навчанні слід бути вибірковим",
+        "модернізуючи країну, не слід некритично переймати всі іноземні ідеї"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "0c200fb910f66708",
+      "ukrainian_segments": [
+        "брати найкраще, відкидати непотріб (політичне й освітнє гасло)",
+        "зберігати добре, відкидати решту",
+        "у навчанні слід бути вибірковим",
+        "модернізуючи країну, не слід некритично переймати всі іноземні ідеї"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "22dd3acdb47cfa50",
+    "batch": "batch_081.json",
+    "raw": {
+      "id": "22dd3acdb47cfa50",
+      "ukrainian_segments": [
+        "бути цілком поглинутим одним",
+        "займатися лише одним, не турбуючись про решту",
+        "просто",
+        "неодмінно",
+        "сміливо; без вагань",
+        "не соромитися просити"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "22dd3acdb47cfa50",
+      "ukrainian_segments": [
+        "бути цілком поглинутим одним",
+        "займатися лише одним, не турбуючись про решту",
+        "просто",
+        "звісно; сміливо",
+        "сміливо; без вагань",
+        "не соромитися просити"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "f1ed74fbcda87907",
+    "batch": "batch_083.json",
+    "raw": {
+      "id": "f1ed74fbcda87907",
+      "ukrainian_segments": [
+        "букв. можна оспівувати й можна оплакувати (ідіома); перен. глибоко зворушливий",
+        "радісний і сумний",
+        "натхненний і трагічний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "f1ed74fbcda87907",
+      "ukrainian_segments": [
+        "букв. можна оспівувати й можна оплакувати (ідіома); перен. глибоко зворушливий",
+        "радісний і сумний",
+        "такий, що надихає, і трагічний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "0236b8578ed64a8b",
+    "batch": "batch_083.json",
+    "raw": {
+      "id": "0236b8578ed64a8b",
+      "ukrainian_segments": [
+        "ниций",
+        "підлий",
+        "зневажений; гідний презирства"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "0236b8578ed64a8b",
+      "ukrainian_segments": [
+        "ниций",
+        "підлий",
+        "гідний презирства"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "d478249ff16705a9",
+    "batch": "batch_085.json",
+    "raw": {
+      "id": "d478249ff16705a9",
+      "ukrainian_segments": [
+        "військовий міністр (посада в дохaньських китайських державах)",
+        "двоієрогліфне прізвище Сима"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "d478249ff16705a9",
+      "ukrainian_segments": [
+        "військовий міністр (посада в доханьських китайських державах)",
+        "двоієрогліфне прізвище Сима"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "5ded544935155232",
+    "batch": "batch_089.json",
+    "raw": {
+      "id": "5ded544935155232",
+      "ukrainian_segments": [
+        "сприятливий",
+        "щасливий",
+        "доброзичливий до успіху"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "5ded544935155232",
+      "ukrainian_segments": [
+        "сприятливий",
+        "щасливий",
+        "сприятливий для успіху"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "d0e5f246680fb157",
+    "batch": "batch_092.json",
+    "raw": {
+      "id": "d0e5f246680fb157",
+      "ukrainian_segments": [
+        "відіменний дієслово"
+      ],
+      "uncertainty_notes": [
+        "Термін означає дієслово, утворене від іменника."
+      ]
+    },
+    "corrected": {
+      "id": "d0e5f246680fb157",
+      "ukrainian_segments": [
+        "відіменне дієслово"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "e640ac7e62d96e08",
+    "batch": "batch_095.json",
+    "raw": {
+      "id": "e640ac7e62d96e08",
+      "ukrainian_segments": [
+        "промовити слово",
+        "видати звук",
+        "пискнути",
+        "скрипнути",
+        "також вимовляється [zi1 sheng1]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "e640ac7e62d96e08",
+      "ukrainian_segments": [
+        "промовити слово",
+        "видати звук",
+        "пискнути",
+        "видати писк",
+        "також вимовляється [zi1 sheng1]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  }
+]

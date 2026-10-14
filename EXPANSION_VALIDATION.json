@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "checked_at_utc": "2026-10-14T04:54:34.740551+00:00",
+  "pinned_source_sha256": "f433659dbcb41982e93a0b8ba93575120c7f0816652e450c08a3d71cdad565cf",
+  "baseline_dictionary_sha256": "2446c788968934ef09891cb13476a6049ee06469a9373616488cc2c19c4f93da",
+  "selection_ordered_id_sha256": "65cd34e03c1e1e2aa2c4cbb4ca133a71083625cdfd5a9ad34839d93b06c67f8e",
+  "new_entries": 10000,
+  "new_aligned_segments": 15486,
+  "total_entries": 15596,
+  "all_baseline_records_exactly_preserved": true,
+  "all_source_fields_match_full_pinned_source": true,
+  "selection_equals_first_10000_untranslated_source_records": true,
+  "new_ids_disjoint_from_baseline": true,
+  "source_order_and_uniqueness": true,
+  "raw_outputs_preserved": true,
+  "new_entries_model_reviewed_under_historical_protocol": 0,
+  "targeted_model_semantic_spot_check_entries": 106,
+  "human_validated_entries": 0,
+  "new_entries_flagged_for_review": 167,
+  "total_entries_flagged_for_review": 194,
+  "not_runtime_approved": true
+}

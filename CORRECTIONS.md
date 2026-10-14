@@ -36,3 +36,8 @@
 - JSON і CSV синхронізовано; контрольні суми оновлено. Повна локальна структурна перевірка проходить без помилок. Це не сертифікація мовної якості.
 
 Цей журнал документує лише додаткове виправлення під час підготовки пакета. Він не реконструює історію попередніх 147 виправлень.
+
+
+## 2026-10-14 expansion
+
+All baseline records remain unchanged. New machine-draft corrections are recorded in EXPANSION_CORRECTIONS.json; original drafts are retained in the expansion working package. No human validation.

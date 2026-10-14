@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "ab25fbe2bd258208",
+    "batch": "batch_001.json",
+    "raw": {
+      "id": "ab25fbe2bd258208",
+      "ukrainian_segments": [
+        "(Тайвань, розм.) крутий",
+        "чудовий",
+        "вимовляється [biang4]",
+        "етимологічно — злиття 不一樣|不一样[bu4 yi1 yang4]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "ab25fbe2bd258208",
+      "ukrainian_segments": [
+        "(Тайвань, розм.) крутий",
+        "чудовий",
+        "етимологічно — злиття 不一樣|不一样[bu4 yi1 yang4]",
+        "часто записують як ㄅㄧㄤˋ"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "4e2cef89aada32de",
+    "batch": "batch_004.json",
+    "raw": {
+      "id": "4e2cef89aada32de",
+      "ukrainian_segments": [
+        "охоче",
+        "категорично (заперечувати, визнавати тощо)",
+        "повний рот",
+        "укус"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "4e2cef89aada32de",
+      "ukrainian_segments": [
+        "охоче",
+        "категорично (заперечувати, визнавати тощо)",
+        "повний рот",
+        "шматок (на один укус)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "3cd81661373dec73",
+    "batch": "batch_004.json",
+    "raw": {
+      "id": "3cd81661373dec73",
+      "ukrainian_segments": [
+        "самовільно стверджувати",
+        "твердити",
+        "наполяга́ти на своєму твердженні",
+        "триматися своєї думки"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "3cd81661373dec73",
+      "ukrainian_segments": [
+        "безпідставно стверджувати",
+        "твердити",
+        "наполяга́ти на своєму твердженні",
+        "триматися своєї думки"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "dc8a28626f68c895",
+    "batch": "batch_010.json",
+    "raw": {
+      "id": "dc8a28626f68c895",
+      "ukrainian_segments": [
+        "свято Цісі, вечір сьомого дня сьомого місяця за місячним календарем",
+        "свято дівчат",
+        "китайський День закоханих, коли Пастух і Ткаля 牛郎織女 щороку зустрічаються"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "dc8a28626f68c895",
+      "ukrainian_segments": [
+        "свято Цісі, вечір сьомого дня сьомого місяця за місячним календарем",
+        "свято дівчат",
+        "китайський День закоханих, коли Пастух і Ткаля 牛郎織女|牛郎织女 щороку зустрічаються"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "2964c629b80ef235",
+    "batch": "batch_010.json",
+    "raw": {
+      "id": "2964c629b80ef235",
+      "ukrainian_segments": [
+        "Свято Цісі, або Свято подвійної сімки, сьомого дня сьомого місяця за місячним календарем",
+        "свято дівчат",
+        "китайський День закоханих, коли Пастух і Ткаля 牛郎織女[niu2 lang3 zhi1 nu:3] щороку зустрічаються"
+      ],
+      "uncertainty_notes": [
+        "The mythological figures and exact bracketed pinyin are preserved."
+      ]
+    },
+    "corrected": {
+      "id": "2964c629b80ef235",
+      "ukrainian_segments": [
+        "Свято Цісі, або Свято подвійної сімки, сьомого дня сьомого місяця за місячним календарем",
+        "свято дівчат",
+        "китайський День закоханих, коли Пастух і Ткаля 牛郎織女|牛郎织女[niu2 lang3 zhi1 nu:3] щороку зустрічаються"
+      ],
+      "uncertainty_notes": [
+        "The mythological figures and exact bracketed pinyin are preserved."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "529faabe204b8d54",
+    "batch": "batch_012.json",
+    "raw": {
+      "id": "529faabe204b8d54",
+      "ukrainian_segments": [
+        "«Троєцарство» («Роман про Три царства») Ло Ґуаньчжуна 羅貫中|罗贯中[Luo2 Guan4 zhong1], один із чотирьох класичних романів китайської літератури; художня оповідь про розпад династії Хань близько 200 р. н. е., де Шу Хань Лю Бея 劉備|刘备[Liu2 Bei4 зображено героями, а Вей Цао Цао 曹操[Cao2 Cao1] — лиходіями"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "529faabe204b8d54",
+      "ukrainian_segments": [
+        "«Троєцарство» («Роман про Три царства») Ло Ґуаньчжуна 羅貫中|罗贯中[Luo2 Guan4 zhong1], один із чотирьох класичних романів китайської літератури; художня оповідь про розпад династії Хань близько 200 р. н. е., де держава Шу-Хань 蜀漢|蜀汉[Shu3 Han4] під владою Лю Бея 劉備|刘备[Liu2 Bei4] постає героями, а держава Вей 魏[Wei4] Цао Цао 曹操[Cao2 Cao1] — лиходіями"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "75c7da0ed145788a",
+    "batch": "batch_029.json",
+    "raw": {
+      "id": "75c7da0ed145788a",
+      "ukrainian_segments": [
+        "світогляд",
+        "погляд на світ",
+        "Weltanschauung"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "75c7da0ed145788a",
+      "ukrainian_segments": [
+        "світогляд",
+        "погляд на світ",
+        "світогляд"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "8a5f3852c169156e",
+    "batch": "batch_033.json",
+    "raw": {
+      "id": "8a5f3852c169156e",
+      "ukrainian_segments": [
+        "звичайний",
+        "середній",
+        "середній",
+        "середнього цінового діапазону",
+        "помірний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "8a5f3852c169156e",
+      "ukrainian_segments": [
+        "звичайний",
+        "середній",
+        "середній",
+        "середнього діапазону",
+        "помірний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "ccbea1b9c1cf8b35",
+    "batch": "batch_043.json",
+    "raw": {
+      "id": "ccbea1b9c1cf8b35",
+      "ukrainian_segments": [
+        "чіпати",
+        "псувати",
+        "втручатися",
+        "рухатися безладно",
+        "битися в конвульсіях"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "ccbea1b9c1cf8b35",
+      "ukrainian_segments": [
+        "чіпати",
+        "псувати",
+        "втручатися",
+        "рухатися безладно",
+        "безладно розмахувати руками й ногами"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "37f135a0d7960a0d",
+    "batch": "batch_043.json",
+    "raw": {
+      "id": "37f135a0d7960a0d",
+      "ukrainian_segments": [
+        "наробити безладу",
+        "втручатися",
+        "розгульно поводитися",
+        "переспати з багатьма",
+        "стрибнути в ліжко"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "37f135a0d7960a0d",
+      "ukrainian_segments": [
+        "наробити безладу",
+        "втручатися",
+        "розгульно поводитися",
+        "переспати з багатьма",
+        "легко вступати у випадкові статеві зв’язки"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "c463781b3f45f093",
+    "batch": "batch_044.json",
+    "raw": {
+      "id": "c463781b3f45f093",
+      "ukrainian_segments": [
+        "фактично",
+        "насправді",
+        "дійсно",
+        "по суті",
+        "де-факто",
+        "ipso facto"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "c463781b3f45f093",
+      "ukrainian_segments": [
+        "фактично",
+        "насправді",
+        "дійсно",
+        "по суті",
+        "де-факто",
+        "у силу самого факту"
+      ],
+      "uncertainty_notes": [
+        "Латинський відповідник ipso facto передано за значенням як «у силу самого факту»."
+      ]
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "c84398efe8e26eca",
+    "batch": "batch_046.json",
+    "raw": {
+      "id": "c84398efe8e26eca",
+      "ukrainian_segments": [
+        "відмінність (зазвичай у складі 無|无[wu2], як у 毫無二致|毫无二致[hao2 wu2 er4 zhi4] або 別無二致|别无二致[bie2 wu2 zhi4])"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "c84398efe8e26eca",
+      "ukrainian_segments": [
+        "відмінність (зазвичай у складі 無|无[wu2], як у 毫無二致|毫无二致[hao2 wu2 er4 zhi4] або 別無二致|别无二致[bie2 wu2 er4 zhi4])"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "cb4c4a695ed8a34b",
+    "batch": "batch_047.json",
+    "raw": {
+      "id": "cb4c4a695ed8a34b",
+      "ukrainian_segments": [
+        "і так далі",
+        "той-інший; такий собі",
+        "численний і безладний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "cb4c4a695ed8a34b",
+      "ukrainian_segments": [
+        "і так далі",
+        "таке-то; те й те (у переказі мовлення)",
+        "численний і безладний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "2358d8a6fb6cbc76",
+    "batch": "batch_047.json",
+    "raw": {
+      "id": "2358d8a6fb6cbc76",
+      "ukrainian_segments": [
+        "п’ять договірних портів, нав’язаних Цінському Китаю Нанкінським договором 1842 року, що завершив Першу опіумну війну: Ґуанчжоу 廣州|广州, Фучжоу 福州, Нінбо 寧波|宁波, Сямень або Амой 廈門|厦门 і Шанхай 上海"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "2358d8a6fb6cbc76",
+      "ukrainian_segments": [
+        "п’ять договірних портів, нав’язаних Цінському Китаю Нанкінським договором 南京條約|南京条约 1842 року, що завершив Першу опіумну війну: Ґуанчжоу 廣州|广州, Фучжоу 福州, Нінбо 寧波|宁波, Сямень або Амой 廈門|厦门 і Шанхай 上海"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "fc4bf52c4aad3cd3",
+    "batch": "batch_048.json",
+    "raw": {
+      "id": "fc4bf52c4aad3cd3",
+      "ukrainian_segments": [
+        "конституція п’яти влад Сунь Ятсена в Республіці Китай, згодом на Тайвані",
+        "п’ять юанів або палат: 行政院[xing2 zheng4 yuan4] Виконавчий юань, 立法院[li4 fa3 yuan4] Законодавчий юань, 司法院[si1 fa3 yuan4] Судовий юань, 考試院|考试院[kao3 shi4 yuan4] Екзаменаційний юань, 監察院|监察院[jian1 cha2 yuan4] Контрольний юань"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "fc4bf52c4aad3cd3",
+      "ukrainian_segments": [
+        "конституція п’яти влад Сунь Ятсена в Республіці Китай, згодом на Тайвані",
+        "п’ять юанів або палат 院[yuan4]: 行政院[xing2 zheng4 yuan4] Виконавчий юань, 立法院[li4 fa3 yuan4] Законодавчий юань, 司法院[si1 fa3 yuan4] Судовий юань, 考試院|考试院[kao3 shi4 yuan4] Екзаменаційний юань, 監察院|监察院[jian1 cha2 yuan4] Контрольний юань"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "28edec4c112b1b78",
+    "batch": "batch_049.json",
+    "raw": {
+      "id": "28edec4c112b1b78",
+      "ukrainian_segments": [
+        "дужий; кремезний; великої й міцної статури"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "28edec4c112b1b78",
+      "ukrainian_segments": [
+        "див. 五蓮縣|五莲县[Wu3 lian2 Xian4]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "cdfffe1ee67b26f8",
+    "batch": "batch_049.json",
+    "raw": {
+      "id": "cdfffe1ee67b26f8",
+      "ukrainian_segments": [
+        "другий",
+        "поруч із; прилеглий",
+        "нижчий; гірший",
+        "під-; суб-",
+        "тайванська вимова: [ya3]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "cdfffe1ee67b26f8",
+      "ukrainian_segments": [
+        "другий",
+        "наступний за рангом; другий після",
+        "нижчий; гірший",
+        "під-; суб-",
+        "тайванська вимова: [ya3]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "b6a29d2d0d46986f",
+    "batch": "batch_060.json",
+    "raw": {
+      "id": "b6a29d2d0d46986f",
+      "ukrainian_segments": [
+        "скорочена назва установи чи організації (напр., 皖政, скорочена назва Народного уряду провінції Аньхой)",
+        "кодова назва",
+        "(заст.) займенник"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "b6a29d2d0d46986f",
+      "ukrainian_segments": [
+        "скорочена назва установи чи організації (напр., 皖政, скорочена назва 安徽省人民政府 — Народного уряду провінції Аньхой)",
+        "кодова назва",
+        "(заст.) займенник"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "e9d2d345ead66036",
+    "batch": "batch_062.json",
+    "raw": {
+      "id": "e9d2d345ead66036",
+      "ukrainian_segments": [
+        "після",
+        "пізніше",
+        "згодом",
+        "наступний",
+        "пізніше",
+        "у майбутньому"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "e9d2d345ead66036",
+      "ukrainian_segments": [
+        "після",
+        "пізніше",
+        "згодом",
+        "після; по закінченні",
+        "пізніше",
+        "у майбутньому"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "2f181327923afc2b",
+    "batch": "batch_064.json",
+    "raw": {
+      "id": "2f181327923afc2b",
+      "ukrainian_segments": [
+        "річка І (伊水) у західному Хенані, притока річки Ло 洛河|洛河[Luo4 he2]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "2f181327923afc2b",
+      "ukrainian_segments": [
+        "річка І у західному Хенані, притока річки Ло 洛河|洛河[Luo4 he2]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "920aafb7093a58ac",
+    "batch": "batch_071.json",
+    "raw": {
+      "id": "920aafb7093a58ac",
+      "ukrainian_segments": [
+        "виставляти",
+        "вигадувати",
+        "робити (вибір, рішення, пропозицію, відповідь, зауваження тощо)",
+        "видавати (дозвіл, заяву, пояснення, вибачення, запевнення громадськості тощо)",
+        "робити (висновок)",
+        "виголошувати (промову); виносити (судове рішення)",
+        "вигадувати (пояснення)",
+        "добувати; витягати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "920aafb7093a58ac",
+      "ukrainian_segments": [
+        "створювати; видавати",
+        "пропонувати; знаходити рішення",
+        "робити вибір; ухвалювати рішення; вносити пропозицію; давати відповідь; висловлювати зауваження",
+        "видавати (дозвіл, заяву, пояснення, вибачення); запевняти громадськість",
+        "робити висновок",
+        "виголошувати промову; виносити судове рішення",
+        "розробляти пояснення",
+        "витягати; добувати"
+      ],
+      "uncertainty_notes": [
+        "Гола англійська глоса «to extract» неоднозначна; без додатка чи контексту незрозуміло, яке саме значення 作出 має на увазі."
+      ]
+    },
+    "corrected_segments": 8,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "db5a4e64513c68af",
+    "batch": "batch_073.json",
+    "raw": {
+      "id": "db5a4e64513c68af",
+      "ukrainian_segments": [
+        "дипломатична місія; делегація"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "db5a4e64513c68af",
+      "ukrainian_segments": [
+        "дипломатична місія; дипломатична група",
+        "делегація"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "61a19520576fd910",
+    "batch": "batch_073.json",
+    "raw": {
+      "id": "61a19520576fd910",
+      "ukrainian_segments": [
+        "посланець; емісар"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "61a19520576fd910",
+      "ukrainian_segments": [
+        "посланець",
+        "емісар"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "c148091a1003c965",
+    "batch": "batch_073.json",
+    "raw": {
+      "id": "c148091a1003c965",
+      "ukrainian_segments": [
+        "посли й консули; дипломатичні службовці"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "c148091a1003c965",
+      "ukrainian_segments": [
+        "посол і консул",
+        "дипломат"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "ec6538db227dfb56",
+    "batch": "batch_073.json",
+    "raw": {
+      "id": "ec6538db227dfb56",
+      "ukrainian_segments": [
+        "торгуватися; збивати ціну в торговця"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "ec6538db227dfb56",
+      "ukrainian_segments": [
+        "торгуватися",
+        "торгуватися з рознощиком"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "cc0897b66aa3eb9c",
+    "batch": "batch_073.json",
+    "raw": {
+      "id": "cc0897b66aa3eb9c",
+      "ukrainian_segments": [
+        "базіка; хвалько"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "cc0897b66aa3eb9c",
+      "ukrainian_segments": [
+        "балакун; базіка",
+        "хвалько"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "4c7add2c1374e41a",
+    "batch": "batch_073.json",
+    "raw": {
+      "id": "4c7add2c1374e41a",
+      "ukrainian_segments": [
+        "(діал.) бути сповненим запалу",
+        "бути бадьорим; запальним",
+        "надихати; додавати комусь завзяття"
+      ],
+      "uncertainty_notes": [
+        "Діалектний вираз має кілька близьких значень; переклад залежить від контексту."
+      ]
+    },
+    "corrected": {
+      "id": "4c7add2c1374e41a",
+      "ukrainian_segments": [
+        "(діал.) бути сповненим запалу",
+        "жвавий; запальний",
+        "захопливий; такий, що додає запалу",
+        "розворушити когось; підбурити"
+      ],
+      "uncertainty_notes": [
+        "Діалектний вираз має кілька близьких значень; переклад залежить від контексту."
+      ]
+    },
+    "corrected_segments": 3,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "7c42c14f75480a17",
+    "batch": "batch_073.json",
+    "raw": {
+      "id": "7c42c14f75480a17",
+      "ukrainian_segments": [
+        "(ідіом., досл.) прийти без тіні, піти без сліду",
+        "з'явитися й піти без сліду"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "7c42c14f75480a17",
+      "ukrainian_segments": [
+        "(ідіом., досл.) прийти без тіні, піти без сліду; з’явитися й піти без сліду"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "8c08ee8b8bdb4db0",
+    "batch": "batch_073.json",
+    "raw": {
+      "id": "8c08ee8b8bdb4db0",
+      "ukrainian_segments": [
+        "раз у раз туди-сюди; знову й знову"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "8c08ee8b8bdb4db0",
+      "ukrainian_segments": [
+        "неодноразово; раз по раз",
+        "туди-сюди знову й знову"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "72839fcd1b713462",
+    "batch": "batch_073.json",
+    "raw": {
+      "id": "72839fcd1b713462",
+      "ukrainian_segments": [
+        "(ідіом., досл.) прийти без тіні, піти без сліду",
+        "з'являтися й зникати без сліду"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "72839fcd1b713462",
+      "ukrainian_segments": [
+        "(ідіом., досл.) прийти без тіні, піти без сліду; з’явитися й піти без сліду"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "fbcd3f8237b807ed",
+    "batch": "batch_073.json",
+    "raw": {
+      "id": "fbcd3f8237b807ed",
+      "ukrainian_segments": [
+        "ліксозa (різновид цукру)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "fbcd3f8237b807ed",
+      "ukrainian_segments": [
+        "ліксоза (різновид цукру)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "aa1fbccdea7c2a0c",
+    "batch": "batch_073.json",
+    "raw": {
+      "id": "aa1fbccdea7c2a0c",
+      "ukrainian_segments": [
+        "вторгнутися",
+        "(про бурю тощо) налетіти; вдарити"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "aa1fbccdea7c2a0c",
+      "ukrainian_segments": [
+        "вторгнутися",
+        "(про бурю тощо) вдарити",
+        "(про бурю тощо) налетіти"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "f6a314ef3019a4c0",
+    "batch": "batch_074.json",
+    "raw": {
+      "id": "f6a314ef3019a4c0",
+      "ukrainian_segments": [
+        "(досл. в ідіомі) гуска прилітає, ластівка відлітає",
+        "(перен.) постійно бути в дорозі; весь час переміщатися"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "f6a314ef3019a4c0",
+      "ukrainian_segments": [
+        "(досл. в ідіомі) гуска прилітає, ластівка відлітає; (перен.) постійно бути в дорозі, весь час переміщатися"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "cbf9dee92fe4b401",
+    "batch": "batch_075.json",
+    "raw": {
+      "id": "cbf9dee92fe4b401",
+      "ukrainian_segments": [
+        "бути ніжно прив'язаним; не хотіти розлучатися",
+        "триматися за когось; чіплятися"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "cbf9dee92fe4b401",
+      "ukrainian_segments": [
+        "бути ніжно прив'язаним; не хотіти розлучатися; чіплятися за когось"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "081c649c9545f4b9",
+    "batch": "batch_075.json",
+    "raw": {
+      "id": "081c649c9545f4b9",
+      "ukrainian_segments": [
+        "сварити; лаяти",
+        "словесно ображати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "081c649c9545f4b9",
+      "ukrainian_segments": [
+        "сварити; лаяти; словесно ображати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "d7b264bd7bee3dc8",
+    "batch": "batch_075.json",
+    "raw": {
+      "id": "d7b264bd7bee3dc8",
+      "ukrainian_segments": [
+        "кака; дитяче або жіноче слово",
+        "какати; випорожнюватися (дитяче або жіноче слово)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "d7b264bd7bee3dc8",
+      "ukrainian_segments": [
+        "кака; какати; випорожнюватися (дитяче або жіноче слово)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "096ae3766faf1bf3",
+    "batch": "batch_075.json",
+    "raw": {
+      "id": "096ae3766faf1bf3",
+      "ukrainian_segments": [
+        "діяти на власний розсуд; робити так, як вважаєш за потрібне"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "096ae3766faf1bf3",
+      "ukrainian_segments": [
+        "діяти на власний розсуд",
+        "діяти так, як вважаєш за потрібне"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "8b7184dfe5cb2ecb",
+    "batch": "batch_076.json",
+    "raw": {
+      "id": "8b7184dfe5cb2ecb",
+      "ukrainian_segments": [
+        "зручний для користувачів",
+        "зручний (для клієнтів, громадян тощо)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "8b7184dfe5cb2ecb",
+      "ukrainian_segments": [
+        "зручний для користувачів; зручний (для клієнтів, громадян тощо)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "f4382200a8aa2a6a",
+    "batch": "batch_078.json",
+    "raw": {
+      "id": "f4382200a8aa2a6a",
+      "ukrainian_segments": [
+        "банківський сейф",
+        "сейф"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "f4382200a8aa2a6a",
+      "ukrainian_segments": [
+        "банківський сейф; сейф"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "7f9a708fd7dd1c4d",
+    "batch": "batch_078.json",
+    "raw": {
+      "id": "7f9a708fd7dd1c4d",
+      "ukrainian_segments": [
+        "уживається в 萬俟|万俟[Mo4 qi2]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "7f9a708fd7dd1c4d",
+      "ukrainian_segments": [
+        "уживається в 万俟[Mo4 qi2]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "08435f80f243c1f8",
+    "batch": "batch_079.json",
+    "raw": null,
+    "corrected": {
+      "id": "08435f80f243c1f8",
+      "ukrainian_segments": [
+        "надійний",
+        "вартий довіри",
+        "вважати щось правдивим"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 3,
+    "raw_record_missing": true,
+    "human_validation": false
+  },
+  {
+    "id": "0497555b851a2f20",
+    "batch": "batch_080.json",
+    "raw": {
+      "id": "0497555b851a2f20",
+      "ukrainian_segments": [
+        "обрізати; підрізати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "0497555b851a2f20",
+      "ukrainian_segments": [
+        "обрізати",
+        "підрізати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "2f932c05b4b900cb",
+    "batch": "batch_080.json",
+    "raw": {
+      "id": "2f932c05b4b900cb",
+      "ukrainian_segments": [
+        "укладати; складати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "2f932c05b4b900cb",
+      "ukrainian_segments": [
+        "укладати",
+        "складати; створювати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "fc5082ebd909275e",
+    "batch": "batch_080.json",
+    "raw": {
+      "id": "fc5082ebd909275e",
+      "ukrainian_segments": [
+        "виховувати моральний характер",
+        "(мода) приталений; облягаючий"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "fc5082ebd909275e",
+      "ukrainian_segments": [
+        "плекати моральний характер",
+        "(мода) приталений",
+        "облягаючий"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 3,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "8d6607f4b47c15db",
+    "batch": "batch_080.json",
+    "raw": {
+      "id": "8d6607f4b47c15db",
+      "ukrainian_segments": [
+        "вирівнювати; робити рівним",
+        "підрівнювати; підстригати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "8d6607f4b47c15db",
+      "ukrainian_segments": [
+        "вирівнювати; робити рівним; підстригати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "ffe383f539257348",
+    "batch": "batch_080.json",
+    "raw": {
+      "id": "ffe383f539257348",
+      "ukrainian_segments": [
+        "крановий план; кадр зі стріли (кінематографія)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "ffe383f539257348",
+      "ukrainian_segments": [
+        "крановий план",
+        "план зі стріли (кінематографія)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "045eec07dad19c45",
+    "batch": "batch_082.json",
+    "raw": {
+      "id": "045eec07dad19c45",
+      "ukrainian_segments": [
+        "(Тайвань) політичний рух 2006 року, спрямований на відставку президента Чень Шуйбяня 陳水扁|陈水扁[Chen2 Shui3 bian3 через звинувачення в корупції"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "045eec07dad19c45",
+      "ukrainian_segments": [
+        "(Тайвань) політичний рух 2006 року, спрямований на відставку президента Чень Шуйбяня 陳水扁|陈水扁[Chen2 Shui3 bian3] через звинувачення в корупції"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "3bed01b86f9fdcb9",
+    "batch": "batch_083.json",
+    "raw": {
+      "id": "3bed01b86f9fdcb9",
+      "ukrainian_segments": [
+        "розвернутися; змінити напрямок руху",
+        "змінити курс, політику чи послідовність",
+        "перевернути все з ніг на голову"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "3bed01b86f9fdcb9",
+      "ukrainian_segments": [
+        "розвернутися; змінити напрямок руху, політику чи послідовність; перевернути все з ніг на голову"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "9ba03b1c618d35a9",
+    "batch": "batch_083.json",
+    "raw": {
+      "id": "9ba03b1c618d35a9",
+      "ukraine_segments": [
+        "давати задній хід транспортному засобу",
+        "їхати заднім ходом"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "9ba03b1c618d35a9",
+      "uncertainty_notes": [],
+      "ukrainian_segments": [
+        "давати задній хід транспортному засобу",
+        "їхати заднім ходом"
+      ]
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "825047f87cddb2ae",
+    "batch": "batch_086.json",
+    "raw": {
+      "id": "825047f87cddb2ae",
+      "ukrainian_segments": [
+        "(досл. в ідіомі) обхідним шляхом знищити державу Ґо",
+        "(перен.) змовитися з кимось, щоб зашкодити третій стороні, а потім обернутися проти спільника"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "825047f87cddb2ae",
+      "ukrainian_segments": [
+        "(досл. в ідіомі) обхідним шляхом знищити державу Ґо; (перен.) змовитися з кимось, щоб зашкодити третій стороні, а потім обернутися проти спільника"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "a11442250c323683",
+    "batch": "batch_086.json",
+    "raw": {
+      "id": "a11442250c323683",
+      "ukrainian_segments": [
+        "через; за посередництвом"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "a11442250c323683",
+      "ukrainian_segments": [
+        "через",
+        "за допомогою; шляхом"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "1dc355737f17895f",
+    "batch": "batch_086.json",
+    "raw": {
+      "id": "1dc355737f17895f",
+      "ukrainian_segments": [
+        "випадково; збігом обставин",
+        "так трапилося, що",
+        "на щастя",
+        "несподівано; наперекір очікуванням"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "1dc355737f17895f",
+      "ukrainian_segments": [
+        "заступник генерала"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "865f9569f5eee9e8",
+    "batch": "batch_086.json",
+    "raw": null,
+    "corrected": {
+      "id": "865f9569f5eee9e8",
+      "ukrainian_segments": [
+        "випадково; збігом обставин",
+        "так трапилося, що",
+        "на щастя",
+        "усупереч очікуванням"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 4,
+    "raw_record_missing": true,
+    "human_validation": false
+  },
+  {
+    "id": "475acf948193a5bb",
+    "batch": "batch_086.json",
+    "raw": {
+      "id": "475acf948193a5bb",
+      "ukrainian_segments": [
+        "упередженість",
+        "необ'єктивність",
+        "упереджено ставитися"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "475acf948193a5bb",
+      "ukrainian_segments": [
+        "ексцентриситет (мат.)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "8861e8b6046efdf7",
+    "batch": "batch_086.json",
+    "raw": {
+      "id": "8861e8b6046efdf7",
+      "ukrainian_segments": [
+        "упередженість до чогось",
+        "прихильність",
+        "віддавати перевагу",
+        "уподобання",
+        "улюбленець; фаворит"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "8861e8b6046efdf7",
+      "ukrainian_segments": [
+        "упередженість",
+        "необ'єктивність",
+        "упереджено ставитися"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 3,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "a02b96392ca99b20",
+    "batch": "batch_086.json",
+    "raw": null,
+    "corrected": {
+      "id": "a02b96392ca99b20",
+      "ukrainian_segments": [
+        "вісь ексцентриситету"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": true,
+    "human_validation": false
+  },
+  {
+    "id": "6e211d514975b94c",
+    "batch": "batch_086.json",
+    "raw": null,
+    "corrected": {
+      "id": "6e211d514975b94c",
+      "ukrainian_segments": [
+        "мати упередженість щодо чогось",
+        "віддавати перевагу",
+        "надавати перевагу",
+        "уподобання",
+        "улюбленець; фаворит"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 5,
+    "raw_record_missing": true,
+    "human_validation": false
+  },
+  {
+    "id": "70ca4968af3293c3",
+    "batch": "batch_087.json",
+    "raw": {
+      "id": "70ca4968af3293c3",
+      "ukrainian_segments": [
+        "манірний; штучний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "70ca4968af3293c3",
+      "ukrainian_segments": [
+        "манірний",
+        "штучний; неприродний"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "cc3c5997dae58e5b",
+    "batch": "batch_087.json",
+    "raw": {
+      "id": "cc3c5997dae58e5b",
+      "ukrainian_segments": [
+        "переконувати всіма можливими доводами (ідіом.); бути то «добрим», то «поганим поліцейським»",
+        "перемінно добиватися згоди суворістю й лагідністю",
+        "давати аргументи за і проти"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "cc3c5997dae58e5b",
+      "ukrainian_segments": [
+        "переконувати всіма можливими доводами (ідіом.); перемінно грати роль доброго й поганого поліцейського"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "2c5e5e315979d66f",
+    "batch": "batch_087.json",
+    "raw": {
+      "id": "2c5e5e315979d66f",
+      "ukrainian_segments": [
+        "діяти як",
+        "помилково вжите замість 作為|作为"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "2c5e5e315979d66f",
+      "ukrainian_segments": [
+        "робити необхідні приготування"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "2ec6385ed9a74075",
+    "batch": "batch_087.json",
+    "raw": null,
+    "corrected": {
+      "id": "2ec6385ed9a74075",
+      "ukrainian_segments": [
+        "святкувати місячний ювілей немовляти (часто з бенкетом або родинним зібранням)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": true,
+    "human_validation": false
+  },
+  {
+    "id": "c4f6a2ebf0143fcc",
+    "batch": "batch_087.json",
+    "raw": null,
+    "corrected": {
+      "id": "c4f6a2ebf0143fcc",
+      "ukrainian_segments": [
+        "діяти як",
+        "помилково вживати замість 作為|作为"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": true,
+    "human_validation": false
+  },
+  {
+    "id": "42e0ea130fd5deb1",
+    "batch": "batch_088.json",
+    "raw": {
+      "id": "42e0ea130fd5deb1",
+      "ukrainian_segments": [
+        "стоянка; парковка"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "42e0ea130fd5deb1",
+      "ukrainian_segments": [
+        "парковка; автостоянка",
+        "місце для стоянки автомобілів"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "d7fb077ba61762a4",
+    "batch": "batch_089.json",
+    "raw": {
+      "id": "d7fb077ba61762a4",
+      "ukrainian_segments": [
+        "головний пункт; основний наголос"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "d7fb077ba61762a4",
+      "ukrainian_segments": [
+        "головний пункт",
+        "наголос"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "9672bf08d6f17c43",
+    "batch": "batch_089.json",
+    "raw": {
+      "id": "9672bf08d6f17c43",
+      "ukrainian_segments": [
+        "випадкова аварія; випадкова подія"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "9672bf08d6f17c43",
+      "ukrainian_segments": [
+        "випадкова аварія",
+        "випадкова подія"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "a3e8ab71cf40959d",
+    "batch": "batch_089.json",
+    "raw": {
+      "id": "a3e8ab71cf40959d",
+      "ukrainian_segments": [
+        "злодій",
+        "крадій"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "a3e8ab71cf40959d",
+      "ukrainian_segments": [
+        "злодій"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 0,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "0988539e6ec870d6",
+    "batch": "batch_090.json",
+    "raw": {
+      "id": "0988539e6ec870d6",
+      "ukrainian_segments": [
+        "неякісний",
+        "фальшивий"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "0988539e6ec870d6",
+      "ukrainian_segments": [
+        "псевдокод"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "06808de097ec17ba",
+    "batch": "batch_090.json",
+    "raw": null,
+    "corrected": {
+      "id": "06808de097ec17ba",
+      "ukrainian_segments": [
+        "неякісний",
+        "фальшивий"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": true,
+    "human_validation": false
+  },
+  {
+    "id": "73a1c6164af4f4be",
+    "batch": "batch_090.json",
+    "raw": {
+      "id": "73a1c6164af4f4be",
+      "ukrainian_segments": [
+        "нелегітимна династія",
+        "династія самозванців"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "73a1c6164af4f4be",
+      "ukrainian_segments": [
+        "нелегітимна династія; династія самозванців"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "e934a93d8b741c75",
+    "batch": "batch_090.json",
+    "raw": {
+      "id": "e934a93d8b741c75",
+      "ukrainian_segments": [
+        "прикрашати; надавати гарного вигляду",
+        "маскувати; підправляти (щось)"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "e934a93d8b741c75",
+      "ukrainian_segments": [
+        "прикрашати; причепурювати; надавати щось гарного вигляду"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "499acb8477179d74",
+    "batch": "batch_090.json",
+    "raw": {
+      "id": "499acb8477179d74",
+      "ukrainian_segments": [
+        "перевернення; інверсія",
+        "помилка"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "499acb8477179d74",
+      "ukrainian_segments": [
+        "сутінки; присмерк"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "7a7a4e7b50b591c2",
+    "batch": "batch_090.json",
+    "raw": null,
+    "corrected": {
+      "id": "7a7a4e7b50b591c2",
+      "ukrainian_segments": [
+        "перевернення; інверсія",
+        "помилка"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 2,
+    "raw_record_missing": true,
+    "human_validation": false
+  },
+  {
+    "id": "cb3f940948066878",
+    "batch": "batch_094.json",
+    "raw": {
+      "id": "cb3f940948066878",
+      "ukrainian_segments": [
+        "варіант 傻帽[sha3 mao4] із закінченням -r"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "cb3f940948066878",
+      "ukrainian_segments": [
+        "варіант із еризацією 傻帽[sha3 mao4]"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "167c78148b179d99",
+    "batch": "batch_094.json",
+    "raw": {
+      "id": "167c78148b179d99",
+      "ukrainian_segments": [
+        "варений бульйонний? ні; відварена локшина без бульйону, лише з краплею олії та нарізаною зеленою цибулею; оцет, соєвий соус чи олію чилі додають за смаком"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "167c78148b179d99",
+      "ukrainian_segments": [
+        "варена локшина без бульйону, заправлена краплею олії та нарізаною зеленою цибулею; оцет, соєвий соус чи олію чилі додають за смаком"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  },
+  {
+    "id": "692ee8894e1f855a",
+    "batch": "batch_097.json",
+    "raw": {
+      "id": "692ee8894e1f855a",
+      "ukrainian_segments": [
+        "вантажити",
+        "вантаж",
+        "давній варіант 載|载[zai4]",
+        "перевозити",
+        "доставляти",
+        "нести",
+        "підтримувати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected": {
+      "id": "692ee8894e1f855a",
+      "ukrainian_segments": [
+        "вантаж; ноша",
+        "вантаж",
+        "давній варіант 載|载[zai4]",
+        "перевозити",
+        "доставляти",
+        "нести",
+        "підтримувати"
+      ],
+      "uncertainty_notes": []
+    },
+    "corrected_segments": 1,
+    "raw_record_missing": false,
+    "human_validation": false
+  }
+]

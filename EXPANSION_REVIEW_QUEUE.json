@@ -1,0 +1,4689 @@
+[
+  {
+    "id": "987b8a4aafe4cf8c",
+    "traditional": "A菜",
+    "simplified": "A菜",
+    "pinyin": "A cai4",
+    "english_segments": [
+      "(Tw) A-choy, or Taiwanese lettuce (Lactuca sativa var. sativa) (from Taiwanese 萵仔菜, Tai-lo pr. [ue-á-tshài] or [e-á-tshài])"
+    ],
+    "raw_source": "A菜 A菜 [A cai4] /(Tw) A-choy, or Taiwanese lettuce (Lactuca sativa var. sativa) (from Taiwanese 萵仔菜, Tai-lo pr. [ue-á-tshài] or [e-á-tshài])/",
+    "source_line": 55,
+    "ukrainian_segments": [
+      "(Тайвань) тайванський салат-латук (A-choy; Lactuca sativa var. sativa; з тайванського 萵仔菜, вимова тай-ло [ue-á-tshài] або [e-á-tshài])"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Taiwanese lettuce name A-choy has regional transliteration variants; kept the source Tai-lo forms."
+    ]
+  },
+  {
+    "id": "d838b09f3b7b64f4",
+    "traditional": "B站",
+    "simplified": "B站",
+    "pinyin": "B zhan4",
+    "english_segments": [
+      "(coll.) Bilibili, Chinese video-sharing website featuring scrolled user comments 彈幕|弹幕[dan4 mu4] overlaid on the videos"
+    ],
+    "raw_source": "B站 B站 [B zhan4] /(coll.) Bilibili, Chinese video-sharing website featuring scrolled user comments 彈幕|弹幕[dan4 mu4] overlaid on the videos/",
+    "source_line": 62,
+    "ukrainian_segments": [
+      "(розм.) Bilibili, китайський відеохостинг із накладеними на відео коментарями-«куленями» 彈幕|弹幕[dan4 mu4]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "“Bullet comments” is a platform-specific overlay-comment feature; retained 彈幕|弹幕[dan4 mu4] exactly."
+    ]
+  },
+  {
+    "id": "b0679e8983a2fb13",
+    "traditional": "PU",
+    "simplified": "PU",
+    "pinyin": "P U",
+    "english_segments": [
+      "the degree of suspicion that a woman might, after she marries, cheat on her husband (abbr. for \"paternity uncertainty\")"
+    ],
+    "raw_source": "PU PU [P U] /the degree of suspicion that a woman might, after she marries, cheat on her husband (abbr. for \"paternity uncertainty\")/",
+    "source_line": 108,
+    "ukrainian_segments": [
+      "ступінь підозри, що жінка може зрадити чоловікові після шлюбу (скорочення від «paternity uncertainty»)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "“Shitizen” is a derogatory pun on citizen; Ukrainian rendering is explanatory rather than a direct pun."
+    ]
+  },
+  {
+    "id": "04dd3880d46dfa3a",
+    "traditional": "□",
+    "simplified": "□",
+    "pinyin": "ging1",
+    "english_segments": [
+      "uptight; obstinate; to awkwardly force oneself to do sth (from Taiwanese, Tai-lo pr. [king], often written as ㄍㄧㄥ, no generally accepted hanzi form)"
+    ],
+    "raw_source": "□ □ [ging1] /uptight; obstinate; to awkwardly force oneself to do sth (from Taiwanese, Tai-lo pr. [king], often written as ㄍㄧㄥ, no generally accepted hanzi form)/",
+    "source_line": 154,
+    "ukrainian_segments": [
+      "скутований; упертий; ніяково силувати себе щось робити (з тайванської, вимова тай-ло [king], часто записують ㄍㄧㄥ; загальноприйнятого написання ієрогліфами немає)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The Taiwanese colloquial item ㄍㄧㄥ has a context-sensitive range; the translation preserves the supplied senses without choosing a narrower single gloss."
+    ]
+  },
+  {
+    "id": "f86ef767caed603d",
+    "traditional": "㐖",
+    "simplified": "㐖",
+    "pinyin": "xie2",
+    "english_segments": [
+      "used in 㐖毒[Xie2 du2]"
+    ],
+    "raw_source": "㐖 㐖 [xie2] /used in 㐖毒[Xie2 du2]/",
+    "source_line": 175,
+    "ukrainian_segments": [
+      "уживається у 㐖毒[Xie2 du2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The character is only identified as occurring in the archaic name 㐖毒; no independent meaning is supplied."
+    ]
+  },
+  {
+    "id": "8653422f5313fc07",
+    "traditional": "㘓",
+    "simplified": "𪢌",
+    "pinyin": "lan2",
+    "english_segments": [
+      "used in 㘓哰|𪢌哰[lan2 lao2]"
+    ],
+    "raw_source": "㘓 𪢌 [lan2] /used in 㘓哰|𪢌哰[lan2 lao2]/",
+    "source_line": 199,
+    "ukrainian_segments": [
+      "уживається у 㘓哰|𪢌哰[lan2 lao2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The rare headword 㘓 is glossed only through a fixed expression; usage beyond that expression is uncertain."
+    ]
+  },
+  {
+    "id": "11b7df9d15ebbca9",
+    "traditional": "㱾",
+    "simplified": "㱾",
+    "pinyin": "gai1",
+    "english_segments": [
+      "a kind of metal or jade ornament worn in ancient times to ward off evil spirits"
+    ],
+    "raw_source": "㱾 㱾 [gai1] /a kind of metal or jade ornament worn in ancient times to ward off evil spirits/",
+    "source_line": 267,
+    "ukrainian_segments": [
+      "різновид металевої або нефритової прикраси-оберега, яку в давнину носили для захисту від злих духів"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Source identifies only an ancient protective ornament; its precise form and material may vary."
+    ]
+  },
+  {
+    "id": "8a1ea30044b63768",
+    "traditional": "㲋",
+    "simplified": "㲋",
+    "pinyin": "chuo4",
+    "english_segments": [
+      "ancient name for an animal similar to rabbit but bigger"
+    ],
+    "raw_source": "㲋 㲋 [chuo4] /ancient name for an animal similar to rabbit but bigger/",
+    "source_line": 270,
+    "ukrainian_segments": [
+      "давня назва тварини, схожої на кролика, але більшої"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The rare historical animal name is described by comparison in the source; no modern zoological identification is given."
+    ]
+  },
+  {
+    "id": "8f34fc254104073c",
+    "traditional": "㶸",
+    "simplified": "㶸",
+    "pinyin": "xie2",
+    "english_segments": [
+      "(precise meaning unknown, relates to iron)",
+      "variant of 協|协[xie2]"
+    ],
+    "raw_source": "㶸 㶸 [xie2] /(precise meaning unknown, relates to iron)/variant of 協|协[xie2]/",
+    "source_line": 285,
+    "ukrainian_segments": [
+      "(точне значення невідоме, пов’язане із залізом)",
+      "варіант 協|协[xie2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The source explicitly says the precise sense is unknown; the translation preserves that uncertainty."
+    ]
+  },
+  {
+    "id": "8553c688b379b77d",
+    "traditional": "䂶",
+    "simplified": "䂶",
+    "pinyin": "jie2",
+    "english_segments": [
+      "variant of 蜐[jie2]"
+    ],
+    "raw_source": "䂶 䂶 [jie2] /variant of 蜐[jie2]/",
+    "source_line": 307,
+    "ukrainian_segments": [
+      "варіант 蜐[jie2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "蜐 is glossed by reference to a rare character rather than a more common headword."
+    ]
+  },
+  {
+    "id": "eeacf6a5bd922e65",
+    "traditional": "䓬",
+    "simplified": "䓬",
+    "pinyin": "zhuo2",
+    "english_segments": [
+      "(chemistry) tropylium ion"
+    ],
+    "raw_source": "䓬 䓬 [zhuo2] /(chemistry) tropylium ion/",
+    "source_line": 318,
+    "ukrainian_segments": [
+      "(хімія) тропілієвий катіон"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Tropylium ion is a specialized chemistry term."
+    ]
+  },
+  {
+    "id": "a4eee8eed594303f",
+    "traditional": "䠷",
+    "simplified": "䠷",
+    "pinyin": "tiao3",
+    "english_segments": [
+      "used in 高䠷[gao1 tiao3]"
+    ],
+    "raw_source": "䠷 䠷 [tiao3] /used in 高䠷[gao1 tiao3]/",
+    "source_line": 342,
+    "ukrainian_segments": [
+      "уживається у 高䠷[gao1 tiao3]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The entry is given only as part of 高䠷; its exact standalone sense is not specified."
+    ]
+  },
+  {
+    "id": "d6118920dcb8e4f9",
+    "traditional": "䥑",
+    "simplified": "鿏",
+    "pinyin": "mai4",
+    "english_segments": [
+      "meitnerium (chemistry)"
+    ],
+    "raw_source": "䥑 鿏 [mai4] /meitnerium (chemistry)/",
+    "source_line": 345,
+    "ukrainian_segments": [
+      "мейтнерій (хімія)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Element name transliterated as meitnerium."
+    ]
+  },
+  {
+    "id": "daf7e480f3096697",
+    "traditional": "䲘",
+    "simplified": "鳤",
+    "pinyin": "guan3",
+    "english_segments": [
+      "Ochetobius elongatus, species of cyprinid fish found in eastern Asia"
+    ],
+    "raw_source": "䲘 鳤 [guan3] /Ochetobius elongatus, species of cyprinid fish found in eastern Asia/",
+    "source_line": 361,
+    "ukrainian_segments": [
+      "Ochetobius elongatus, вид коропових риб зі Східної Азії"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The Latin binomial is retained as the source’s species identification."
+    ]
+  },
+  {
+    "id": "b334c6ffc0e0cd01",
+    "traditional": "䴈",
+    "simplified": "𬸩",
+    "pinyin": "ao3",
+    "english_segments": [
+      "used in 鶆䴈|𱉵𬸩[lai2 ao3]"
+    ],
+    "raw_source": "䴈 𬸩 [ao3] /used in 鶆䴈|𱉵𬸩[lai2 ao3]/",
+    "source_line": 365,
+    "ukrainian_segments": [
+      "уживається у 鶆䴈|𱉵𬸩[lai2 ao3]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Source gives a rare compound reference; retained exactly."
+    ]
+  },
+  {
+    "id": "f179486330149996",
+    "traditional": "一卡通",
+    "simplified": "一卡通",
+    "pinyin": "Yi1 ka3 tong1",
+    "english_segments": [
+      "the name of various contactless smart cards, notably Yikatong (mainly for public transport in Beijing) and iPASS (mainly for public transport in Taiwan)"
+    ],
+    "raw_source": "一卡通 一卡通 [Yi1 ka3 tong1] /the name of various contactless smart cards, notably Yikatong (mainly for public transport in Beijing) and iPASS (mainly for public transport in Taiwan)/",
+    "source_line": 461,
+    "ukrainian_segments": [
+      "назва різних безконтактних смарткарток, зокрема Yikatong (переважно громадський транспорт Пекіна) та iPASS (переважно громадський транспорт Тайваню)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Yikatong and iPASS are retained as official card names; regional service coverage follows the source."
+    ]
+  },
+  {
+    "id": "5b502c33d8c6af4e",
+    "traditional": "一品紅",
+    "simplified": "一品红",
+    "pinyin": "yi1 pin3 hong2",
+    "english_segments": [
+      "poinsettia (Euphorbia pulcherrima)"
+    ],
+    "raw_source": "一品紅 一品红 [yi1 pin3 hong2] /poinsettia (Euphorbia pulcherrima)/",
+    "source_line": 489,
+    "ukrainian_segments": [
+      "пуансетія (Euphorbia pulcherrima)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Botanical scientific name retained from source."
+    ]
+  },
+  {
+    "id": "553046d76b078467",
+    "traditional": "一塊",
+    "simplified": "一块",
+    "pinyin": "yi1 kuai4",
+    "english_segments": [
+      "a piece; a chunk",
+      "(fig.) (coll.) (typically preceded by a specifier such as 這|这[zhe4]) aspect; area; dimension (Example: 情感這一塊|情感这一块[qing2 gan3 zhe4 yi1 kuai4] \"the emotional aspect (of it)\")",
+      "(coll.) one yuan; a dollar",
+      "together; in the same place; in company"
+    ],
+    "raw_source": "一塊 一块 [yi1 kuai4] /a piece; a chunk/(fig.) (coll.) (typically preceded by a specifier such as 這|这[zhe4]) aspect; area; dimension (Example: 情感這一塊|情感这一块[qing2 gan3 zhe4 yi1 kuai4] \"the emotional aspect (of it)\")/(coll.) one yuan; a dollar/together; in the same place; in company/",
+    "source_line": 511,
+    "ukrainian_segments": [
+      "шматок; кусень",
+      "(перен., розм.; зазвичай після вказівного слова на зразок 這|这[zhe4]) аспект; сфера; вимір (напр. 情感這一塊|情感这一块[qing2 gan3 zhe4 yi1 kuai4] «емоційний аспект (цього)»)",
+      "(розм.) один юань; долар",
+      "разом; в одному місці; у товаристві"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The source’s example and bracketed pinyin are kept exactly; “块” here is a colloquial currency unit by context."
+    ]
+  },
+  {
+    "id": "202a73e41d9895f1",
+    "traditional": "一塵不染",
+    "simplified": "一尘不染",
+    "pinyin": "yi1 chen2 bu4 ran3",
+    "english_segments": [
+      "(idiom) untainted by even a speck of dust; spotlessly clean; (of a person) honest; incorruptible"
+    ],
+    "raw_source": "一塵不染 一尘不染 [yi1 chen2 bu4 ran3] /(idiom) untainted by even a speck of dust; spotlessly clean; (of a person) honest; incorruptible/",
+    "source_line": 514,
+    "ukrainian_segments": [
+      "(ідіома) без жодної порошинки; бездоганно чистий; (про людину) чесний; непідкупний"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "This phrase has literal and figurative readings; both are retained in the single source segment."
+    ]
+  },
+  {
+    "id": "a242668d7848e4a1",
+    "traditional": "一夔已足",
+    "simplified": "一夔已足",
+    "pinyin": "yi1 kui2 yi3 zu2",
+    "english_segments": [
+      "one talented person is enough for the job (idiom)"
+    ],
+    "raw_source": "一夔已足 一夔已足 [yi1 kui2 yi3 zu2] /one talented person is enough for the job (idiom)/",
+    "source_line": 517,
+    "ukrainian_segments": [
+      "для цієї роботи досить однієї талановитої людини (ідіома)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The idiom alludes to the ancient musician Kui; the concise gloss follows the source meaning."
+    ]
+  },
+  {
+    "id": "7d1f51478fa398b0",
+    "traditional": "一帶一路",
+    "simplified": "一带一路",
+    "pinyin": "Yi1 dai4 Yi1 lu4",
+    "english_segments": [
+      "Belt and Road Initiative (BRI), Chinese infrastructure and investment strategy launched in 2013"
+    ],
+    "raw_source": "一帶一路 一带一路 [Yi1 dai4 Yi1 lu4] /Belt and Road Initiative (BRI), Chinese infrastructure and investment strategy launched in 2013/",
+    "source_line": 583,
+    "ukrainian_segments": [
+      "Ініціатива «Пояс і шлях» (BRI), китайська інфраструктурна та інвестиційна стратегія, започаткована 2013 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Official English name retained for China’s BRI policy; the gloss follows the source description."
+    ]
+  },
+  {
+    "id": "ac6562198c421a6b",
+    "traditional": "一把屎一把尿",
+    "simplified": "一把屎一把尿",
+    "pinyin": "yi1 ba3 shi3 yi1 ba3 niao4",
+    "english_segments": [
+      "to have endured all sorts of hardships (to raise one's children) (idiom)"
+    ],
+    "raw_source": "一把屎一把尿 一把屎一把尿 [yi1 ba3 shi3 yi1 ba3 niao4] /to have endured all sorts of hardships (to raise one's children) (idiom)/",
+    "source_line": 624,
+    "ukrainian_segments": [
+      "витерпіти всілякі труднощі, виховуючи дітей (ідіома)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The expression is idiomatic and refers to the hardships of raising children; wording follows the source."
+    ]
+  },
+  {
+    "id": "c4d7a5a8cde99cdb",
+    "traditional": "一時瑜亮",
+    "simplified": "一时瑜亮",
+    "pinyin": "yi1 shi2 Yu2 Liang4",
+    "english_segments": [
+      "two remarkable persons living at the same period (as 周瑜[Zhou1 Yu2] and 諸葛亮|诸葛亮[Zhu1 ge3 Liang4])"
+    ],
+    "raw_source": "一時瑜亮 一时瑜亮 [yi1 shi2 Yu2 Liang4] /two remarkable persons living at the same period (as 周瑜[Zhou1 Yu2] and 諸葛亮|诸葛亮[Zhu1 ge3 Liang4])/",
+    "source_line": 677,
+    "ukrainian_segments": [
+      "двоє видатних людей, що жили в одну епоху (як 周瑜[Zhou1 Yu2] та 諸葛亮|诸葛亮[Zhu1 ge3 Liang4])"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The historical allusion names Zhou Yu and Zhuge Liang; names and bracketed pinyin are preserved as given."
+    ]
+  },
+  {
+    "id": "8ee58c9a4ea20a9b",
+    "traditional": "一曝十寒",
+    "simplified": "一曝十寒",
+    "pinyin": "yi1 pu4 shi2 han2",
+    "english_segments": [
+      "one day's sun, ten days' frost (idiom, from Mencius); fig. to work for a bit then skimp",
+      "sporadic effort",
+      "lack of sticking power",
+      "short attention span"
+    ],
+    "raw_source": "一曝十寒 一曝十寒 [yi1 pu4 shi2 han2] /one day's sun, ten days' frost (idiom, from Mencius); fig. to work for a bit then skimp/sporadic effort/lack of sticking power/short attention span/",
+    "source_line": 681,
+    "ukrainian_segments": [
+      "букв. один день сонця, десять днів морозу (ідіома з «Мен-цзи»); перен. трохи попрацювати, а тоді халтурити",
+      "нерегулярні зусилля",
+      "бракувати наполегливості",
+      "коротка тривалість уваги"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The Mencius allusion is retained literally; subsequent segments preserve the source’s figurative senses."
+    ]
+  },
+  {
+    "id": "600f250283d2fe25",
+    "traditional": "一氧化二氮",
+    "simplified": "一氧化二氮",
+    "pinyin": "yi1 yang3 hua4 er4 dan4",
+    "english_segments": [
+      "nitrous oxide N2O",
+      "laughing gas"
+    ],
+    "raw_source": "一氧化二氮 一氧化二氮 [yi1 yang3 hua4 er4 dan4] /nitrous oxide N2O/laughing gas/",
+    "source_line": 736,
+    "ukrainian_segments": [
+      "закис азоту N2O",
+      "звеселяльний газ"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Chemical names and formula are retained from the source."
+    ]
+  },
+  {
+    "id": "d3f03dbd801706a3",
+    "traditional": "一發",
+    "simplified": "一发",
+    "pinyin": "yi1 fa1",
+    "english_segments": [
+      "(Japanese mahjong) to complete one's hand within a single turn after declaring riichi (orthographic borrowing from Japanese 一発 \"ippatsu\")"
+    ],
+    "raw_source": "一發 一发 [yi1 fa1] /(Japanese mahjong) to complete one's hand within a single turn after declaring riichi (orthographic borrowing from Japanese 一発 \"ippatsu\")/",
+    "source_line": 774,
+    "ukrainian_segments": [
+      "(японський маджонг) завершити комбінацію в тому самому ході після оголошення річі (запозичення написання з японського 一発 «ippatsu»)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Japanese mahjong term and reading are retained from the source description."
+    ]
+  },
+  {
+    "id": "2403563ae8ca5fed",
+    "traditional": "一目十行",
+    "simplified": "一目十行",
+    "pinyin": "yi1 mu4 shi2 hang2",
+    "english_segments": [
+      "ten lines at a glance (idiom)",
+      "to read very rapidly"
+    ],
+    "raw_source": "一目十行 一目十行 [yi1 mu4 shi2 hang2] /ten lines at a glance (idiom)/to read very rapidly/",
+    "source_line": 781,
+    "ukrainian_segments": [
+      "десять рядків одним поглядом (ідіома)",
+      "читати дуже швидко"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Idiom’s literal reading is unusual; figurative sense is retained separately."
+    ]
+  },
+  {
+    "id": "d592d648f09d9428",
+    "traditional": "一碗水端平",
+    "simplified": "一碗水端平",
+    "pinyin": "yi1 wan3 shui3 duan1 ping2",
+    "english_segments": [
+      "lit. to hold a bowl of water level (idiom)",
+      "fig. to be impartial"
+    ],
+    "raw_source": "一碗水端平 一碗水端平 [yi1 wan3 shui3 duan1 ping2] /lit. to hold a bowl of water level (idiom)/fig. to be impartial/",
+    "source_line": 798,
+    "ukrainian_segments": [
+      "букв. нести чашу з водою рівно (ідіома)",
+      "перен. бути неупередженим"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The idiom’s object “house” is implicit in the source’s English gloss; rendered literally and figuratively."
+    ]
+  },
+  {
+    "id": "0168943755f632b1",
+    "traditional": "一神教",
+    "simplified": "一神教",
+    "pinyin": "yi1 shen2 jiao4",
+    "english_segments": [
+      "monotheistic religion",
+      "monotheism"
+    ],
+    "raw_source": "一神教 一神教 [yi1 shen2 jiao4] /monotheistic religion/monotheism/",
+    "source_line": 799,
+    "ukrainian_segments": [
+      "монотеїстична релігія",
+      "монотеїзм"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Theological distinction between monotheism and Unitarianism is preserved as given."
+    ]
+  },
+  {
+    "id": "3c99603c3c95afda",
+    "traditional": "一致字",
+    "simplified": "一致字",
+    "pinyin": "yi1 zhi4 zi4",
+    "english_segments": [
+      "(orthography) consistent words (e.g. \"dean\", \"bean\", and \"lean\", where \"-ean\" is pronounced the same in each case)",
+      "consistent characters (e.g. 搖|摇[yao2], 遙|遥[yao2] and 謠|谣[yao2], which share a phonetic component that reliably indicates that the pronunciation of the character is yáo)"
+    ],
+    "raw_source": "一致字 一致字 [yi1 zhi4 zi4] /(orthography) consistent words (e.g. \"dean\", \"bean\", and \"lean\", where \"-ean\" is pronounced the same in each case)/consistent characters (e.g. 搖|摇[yao2], 遙|遥[yao2] and 謠|谣[yao2], which share a phonetic component that reliably indicates that the pronunciation of the character is yáo)/",
+    "source_line": 861,
+    "ukrainian_segments": [
+      "(орфографія) слова зі сталим написанням і вимовою (напр. «dean», «bean» і «lean», де «-ean» у кожному слові вимовляється однаково)",
+      "ієрогліфи зі спільним фонетичним компонентом, який надійно вказує на вимову yáo (напр. 搖|摇[yao2], 遙|遥[yao2] і 謠|谣[yao2])"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The source’s examples and bracketed pinyin are preserved exactly."
+    ]
+  },
+  {
+    "id": "8c203804f6486016",
+    "traditional": "一般貿易",
+    "simplified": "一般贸易",
+    "pinyin": "yi1 ban1 mao4 yi4",
+    "english_segments": [
+      "general trade (i.e. importing and export without processing)"
+    ],
+    "raw_source": "一般貿易 一般贸易 [yi1 ban1 mao4 yi4] /general trade (i.e. importing and export without processing)/",
+    "source_line": 881,
+    "ukrainian_segments": [
+      "звичайна торгівля (імпорт та експорт без переробки товарів)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "“General trade” is a customs/trade category; scope is retained from the source description."
+    ]
+  },
+  {
+    "id": "0c3941f50d891062",
+    "traditional": "一著不慎，滿盤皆輸",
+    "simplified": "一着不慎，满盘皆输",
+    "pinyin": "yi1 zhao1 bu4 shen4 , man3 pan2 jie1 shu1",
+    "english_segments": [
+      "One careless move and the whole game is lost. (idiom)"
+    ],
+    "raw_source": "一著不慎，滿盤皆輸 一着不慎，满盘皆输 [yi1 zhao1 bu4 shen4 , man3 pan2 jie1 shu1] /One careless move and the whole game is lost. (idiom)/",
+    "source_line": 885,
+    "ukrainian_segments": [
+      "Одна необачна дія — і програно всю партію (ідіома)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "This is an idiomatic admonition about a careless move; retained in compact literal form."
+    ]
+  },
+  {
+    "id": "2c2f4508db2efeb9",
+    "traditional": "一覽眾山小",
+    "simplified": "一览众山小",
+    "pinyin": "yi1 lan3 zhong4 shan1 xiao3",
+    "english_segments": [
+      "(last line of the poem 望岳 by Tang poet Du Fu 杜甫[Du4 Fu3]) with one look I shall see all the smaller mountains down below (from the summit of Mt Tai 泰山[Tai4 Shan1])",
+      "(fig.) awe-inspiring view from a very high place"
+    ],
+    "raw_source": "一覽眾山小 一览众山小 [yi1 lan3 zhong4 shan1 xiao3] /(last line of the poem 望岳 by Tang poet Du Fu 杜甫[Du4 Fu3]) with one look I shall see all the smaller mountains down below (from the summit of Mt Tai 泰山[Tai4 Shan1])/(fig.) awe-inspiring view from a very high place/",
+    "source_line": 903,
+    "ukrainian_segments": [
+      "(останній рядок вірша «望岳» поета Ду Фу 杜甫[Du4 Fu3]) з вершини гори Тай 泰山[Tai4 Shan1] одним поглядом побачити всі менші гори внизу",
+      "(перен.) величний краєвид із великої висоти"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Poem title and proper names are preserved as supplied."
+    ]
+  },
+  {
+    "id": "9ac7bb9074182dc3",
+    "traditional": "一言堂",
+    "simplified": "一言堂",
+    "pinyin": "yi1 yan2 tang2",
+    "english_segments": [
+      "(sign hung in a shop) prices fixed – no bargaining (old)",
+      "having things decided by the will of a single individual",
+      "autocratic rule",
+      "(contrasted with 群言堂[qun2 yan2 tang2])"
+    ],
+    "raw_source": "一言堂 一言堂 [yi1 yan2 tang2] /(sign hung in a shop) prices fixed – no bargaining (old)/having things decided by the will of a single individual/autocratic rule/(contrasted with 群言堂[qun2 yan2 tang2])/",
+    "source_line": 916,
+    "ukrainian_segments": [
+      "(вивіска в крамниці) ціни фіксовані — торгу немає (заст.)",
+      "рішення одноосібно ухвалює одна людина",
+      "автократичне правління",
+      "(на противагу 群言堂[qun2 yan2 tang2])"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "群言堂 reference is preserved exactly; gloss is descriptive of the contrast."
+    ]
+  },
+  {
+    "id": "92b953c247ece388",
+    "traditional": "一路上",
+    "simplified": "一路上",
+    "pinyin": "yi1 lu4 shang4",
+    "english_segments": [
+      "along the way",
+      "the whole way",
+      "(fig.) the whole time"
+    ],
+    "raw_source": "一路上 一路上 [yi1 lu4 shang4] /along the way/the whole way/(fig.) the whole time/",
+    "source_line": 935,
+    "ukrainian_segments": [
+      "дорогою",
+      "усю дорогу",
+      "(перен.) увесь час"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Formula One is the established Ukrainian name for the motor-racing series."
+    ]
+  },
+  {
+    "id": "3ee7e352b216472a",
+    "traditional": "一遞一個",
+    "simplified": "一递一个",
+    "pinyin": "yi1 di4 yi1 ge4",
+    "english_segments": [
+      "one after another"
+    ],
+    "raw_source": "一遞一個 一递一个 [yi1 di4 yi1 ge4] /one after another/",
+    "source_line": 966,
+    "ukrainian_segments": [
+      "один за одним"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Orthographic terminology is rendered descriptively; examples and bracketed pinyin are preserved exactly."
+    ]
+  },
+  {
+    "id": "46e918ac49f1c4da",
+    "traditional": "一頭熱",
+    "simplified": "一头热",
+    "pinyin": "yi1 tou2 re4",
+    "english_segments": [
+      "one-sided enthusiasm (abbr. for 剃頭挑子一頭熱|剃头挑子一头热[ti4 tou2 tiao1 zi5 yi1 tou2 re4])"
+    ],
+    "raw_source": "一頭熱 一头热 [yi1 tou2 re4] /one-sided enthusiasm (abbr. for 剃頭挑子一頭熱|剃头挑子一头热[ti4 tou2 tiao1 zi5 yi1 tou2 re4])/",
+    "source_line": 1002,
+    "ukrainian_segments": [
+      "однобічний ентузіазм (скорочення від 剃頭挑子一頭熱|剃头挑子一头热[ti4 tou2 tiao1 zi5 yi1 tou2 re4])"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The source expands the idiom; retained as a one-sided-enthusiasm sense and its preserved Chinese reference."
+    ]
+  },
+  {
+    "id": "749307914428cb8a",
+    "traditional": "一鳴驚人",
+    "simplified": "一鸣惊人",
+    "pinyin": "yi1 ming2 jing1 ren2",
+    "english_segments": [
+      "to amaze the world with a single brilliant feat (idiom); an overnight celebrity"
+    ],
+    "raw_source": "一鳴驚人 一鸣惊人 [yi1 ming2 jing1 ren2] /to amaze the world with a single brilliant feat (idiom); an overnight celebrity/",
+    "source_line": 1022,
+    "ukrainian_segments": [
+      "вразити світ одним блискучим учинком (ідіома); стати знаменитістю за одну ніч"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The phrase is rendered as a fixed proverb; exact nuance may depend on context."
+    ]
+  },
+  {
+    "id": "8569b137912c0778",
+    "traditional": "丁丁",
+    "simplified": "丁丁",
+    "pinyin": "Ding1 ding1",
+    "english_segments": [
+      "Tintin, fictional comic character created by Hergé"
+    ],
+    "raw_source": "丁丁 丁丁 [Ding1 ding1] /Tintin, fictional comic character created by Hergé/",
+    "source_line": 1040,
+    "ukrainian_segments": [
+      "Тінтін, вигаданий персонаж коміксів, створений Ерже"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Tintin is the established Ukrainian transliteration of the fictional character’s name."
+    ]
+  },
+  {
+    "id": "cdb4bf1d27129ee1",
+    "traditional": "丁丁",
+    "simplified": "丁丁",
+    "pinyin": "ding1 ding1",
+    "english_segments": [
+      "(neologism) (slang) penis (丁丁 resembles \"JJ\", which is short for 雞雞|鸡鸡[ji1 ji1])"
+    ],
+    "raw_source": "丁丁 丁丁 [ding1 ding1] /(neologism) (slang) penis (丁丁 resembles \"JJ\", which is short for 雞雞|鸡鸡[ji1 ji1])/",
+    "source_line": 1041,
+    "ukrainian_segments": [
+      "(неологізм, сленг) пеніс (丁丁 нагадує «JJ» — скорочення від 雞雞|鸡鸡[ji1 ji1])"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The slang entry is a euphemistic wordplay on the cited term, preserved as explanatory context."
+    ]
+  },
+  {
+    "id": "fd35bef9cc80ac9d",
+    "traditional": "丁丑",
+    "simplified": "丁丑",
+    "pinyin": "ding1 chou3",
+    "english_segments": [
+      "fourteenth year D2 of the 60 year cycle, e.g. 1997 or 2057"
+    ],
+    "raw_source": "丁丑 丁丑 [ding1 chou3] /fourteenth year D2 of the 60 year cycle, e.g. 1997 or 2057/",
+    "source_line": 1044,
+    "ukrainian_segments": [
+      "чотирнадцятий рік циклу з 60 років, D2 (наприклад, 1997 або 2057)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Dingchou is one of the sexagenary-cycle year names; the dates are retained from source."
+    ]
+  },
+  {
+    "id": "677deb2d0fab38c6",
+    "traditional": "丁加奴",
+    "simplified": "丁加奴",
+    "pinyin": "Ding1 jia1 nu2",
+    "english_segments": [
+      "former transliteration of Terengganu, Malaysia, replaced by 登嘉樓|登嘉楼[Deng1 jia1 lou2] in 2005"
+    ],
+    "raw_source": "丁加奴 丁加奴 [Ding1 jia1 nu2] /former transliteration of Terengganu, Malaysia, replaced by 登嘉樓|登嘉楼[Deng1 jia1 lou2] in 2005/",
+    "source_line": 1051,
+    "ukrainian_segments": [
+      "колишня транслітерація назви штату Тренгану в Малайзії; у 2005 році замінено на 登嘉樓|登嘉楼[Deng1 jia1 lou2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The older transliteration and replacement place name are preserved as cited."
+    ]
+  },
+  {
+    "id": "b8586efb6164dbf5",
+    "traditional": "丁汝昌",
+    "simplified": "丁汝昌",
+    "pinyin": "Ding1 Ru3 chang1",
+    "english_segments": [
+      "Ding Ruchang (1836–1895), commander of the Qing North China Navy"
+    ],
+    "raw_source": "丁汝昌 丁汝昌 [Ding1 Ru3 chang1] /Ding Ruchang (1836–1895), commander of the Qing North China Navy/",
+    "source_line": 1074,
+    "ukrainian_segments": [
+      "Дін Жучан (1836–1895), командувач Північно-китайського флоту династії Цін"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The named Qing naval commander is transliterated as Ding Ruchang; dates follow the source."
+    ]
+  },
+  {
+    "id": "543c7dd13ebf0b8d",
+    "traditional": "丁玲",
+    "simplified": "丁玲",
+    "pinyin": "Ding1 Ling2",
+    "english_segments": [
+      "Ding Ling (1904–1986), Chinese novelist, author of the novel \"The Sun Shines over the Sanggan River\" 太陽照在桑乾河上|太阳照在桑干河上[Tai4 yang2 Zhao4 zai4 Sang1 gan1 He2 shang4], persecuted in the 1950s as \"anti-Party\""
+    ],
+    "raw_source": "丁玲 丁玲 [Ding1 Ling2] /Ding Ling (1904–1986), Chinese novelist, author of the novel \"The Sun Shines over the Sanggan River\" 太陽照在桑乾河上|太阳照在桑干河上[Tai4 yang2 Zhao4 zai4 Sang1 gan1 He2 shang4], persecuted in the 1950s as \"anti-Party\"/",
+    "source_line": 1077,
+    "ukrainian_segments": [
+      "Дін Лін (1904–1986), китайська письменниця, авторка роману «Сонце над річкою Сангань» 太陽照在桑乾河上|太阳照在桑干河上[Tai4 yang2 Zhao4 zai4 Sang1 gan1 He2 shang4]; у 1950-х роках переслідувалася як «антипартійна»"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Ding Ling’s novel title is rendered into Ukrainian while the source title and pinyin are preserved exactly."
+    ]
+  },
+  {
+    "id": "8604e9905ec50e6f",
+    "traditional": "丁磊",
+    "simplified": "丁磊",
+    "pinyin": "Ding1 Lei3",
+    "english_segments": [
+      "Ding Lei (1971–), founder and CEO of NetEase 網易|网易[Wang3 yi4]"
+    ],
+    "raw_source": "丁磊 丁磊 [Ding1 Lei3] /Ding Lei (1971–), founder and CEO of NetEase 網易|网易[Wang3 yi4]/",
+    "source_line": 1078,
+    "ukrainian_segments": [
+      "Дін Лей (1971–), засновник і генеральний директор NetEase 網易|网易[Wang3 yi4]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "NetEase is given with its source Chinese form and pinyin unchanged."
+    ]
+  },
+  {
+    "id": "4afe4f4b2b9cce70",
+    "traditional": "丁肇中",
+    "simplified": "丁肇中",
+    "pinyin": "Ding1 Zhao4 zhong1",
+    "english_segments": [
+      "Samuel C. C. Ting (1936-), American physicist, 1976 Nobel Prize laureate in physics"
+    ],
+    "raw_source": "丁肇中 丁肇中 [Ding1 Zhao4 zhong1] /Samuel C. C. Ting (1936-), American physicist, 1976 Nobel Prize laureate in physics/",
+    "source_line": 1080,
+    "ukrainian_segments": [
+      "Семюел Ч. Ч. Тін (1936–), американський фізик, лауреат Нобелівської премії з фізики 1976 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The source provides an English personal name; preserved as Samuel C. C. Ting in Latin spelling in Ukrainian transliteration."
+    ]
+  },
+  {
+    "id": "5614e543e0b826ca",
+    "traditional": "丁青縣",
+    "simplified": "丁青县",
+    "pinyin": "Ding1 qing1 Xian4",
+    "english_segments": [
+      "Dêngqên, a county in Chamdo City 昌都市[Chang1 du1 Shi4], Tibet"
+    ],
+    "raw_source": "丁青縣 丁青县 [Ding1 qing1 Xian4] /Dêngqên, a county in Chamdo City 昌都市[Chang1 du1 Shi4], Tibet/",
+    "source_line": 1089,
+    "ukrainian_segments": [
+      "Денгчен, повіт міста Чамдо 昌都市[Chang1 du1 Shi4], Тибет"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Dêngqên is the local romanization supplied by the source."
+    ]
+  },
+  {
+    "id": "ee552fc8896a62a6",
+    "traditional": "丁韙良",
+    "simplified": "丁韪良",
+    "pinyin": "Ding1 Wei3 liang2",
+    "english_segments": [
+      "William A.P. Martin (1827-1916), American missionary who lived 62 years in China between 1850 and 1916, and helped found many Chinese colleges, first president of Peking University"
+    ],
+    "raw_source": "丁韙良 丁韪良 [Ding1 Wei3 liang2] /William A.P. Martin (1827-1916), American missionary who lived 62 years in China between 1850 and 1916, and helped found many Chinese colleges, first president of Peking University/",
+    "source_line": 1090,
+    "ukrainian_segments": [
+      "Вільям А. П. Мартін (1827–1916), американський місіонер, який прожив у Китаї 62 роки між 1850 і 1916 роками, допоміг заснувати багато китайських коледжів і був першим президентом Пекінського університету"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Historical biography and institutional roles are retained as stated."
+    ]
+  },
+  {
+    "id": "8665e2fac6a8750e",
+    "traditional": "七七事變",
+    "simplified": "七七事变",
+    "pinyin": "Qi1 Qi1 Shi4 bian4",
+    "english_segments": [
+      "Marco Polo Bridge Incident of 7th July 1937, regarded as the beginning of the Second Sino-Japanese War 抗日戰爭|抗日战争[Kang4 Ri4 Zhan4 zheng1]"
+    ],
+    "raw_source": "七七事變 七七事变 [Qi1 Qi1 Shi4 bian4] /Marco Polo Bridge Incident of 7th July 1937, regarded as the beginning of the Second Sino-Japanese War 抗日戰爭|抗日战争[Kang4 Ri4 Zhan4 zheng1]/",
+    "source_line": 1098,
+    "ukrainian_segments": [
+      "Інцидент на мосту Марко Поло 7 липня 1937 року, який вважають початком Другої китайсько-японської війни 抗日戰爭|抗日战争[Kang4 Ri4 Zhan4 zheng1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The source’s historical framing is retained; the embedded Chinese war name and pinyin are preserved."
+    ]
+  },
+  {
+    "id": "9e2cb1969663823d",
+    "traditional": "七事",
+    "simplified": "七事",
+    "pinyin": "qi1 shi4",
+    "english_segments": [
+      "(archaic) the seven duties of a sovereign"
+    ],
+    "raw_source": "七事 七事 [qi1 shi4] /(archaic) the seven duties of a sovereign/",
+    "source_line": 1102,
+    "ukrainian_segments": [
+      "(заст.) сім обов’язків правителя"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The source names a group of seven sovereign duties but does not enumerate them."
+    ]
+  },
+  {
+    "id": "3a7a506e5f990db8",
+    "traditional": "七十七國集團",
+    "simplified": "七十七国集团",
+    "pinyin": "Qi1 shi2 qi1 Guo2 Ji2 tuan2",
+    "english_segments": [
+      "Group of 77, loose alliance of developing countries, founded in 1964"
+    ],
+    "raw_source": "七十七國集團 七十七国集团 [Qi1 shi2 qi1 Guo2 Ji2 tuan2] /Group of 77, loose alliance of developing countries, founded in 1964/",
+    "source_line": 1106,
+    "ukrainian_segments": [
+      "Група 77 — неформальний союз країн, що розвиваються, заснований 1964 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The Group of 77 label and source description are retained."
+    ]
+  },
+  {
+    "id": "581e2b5796811c30",
+    "traditional": "七喜",
+    "simplified": "七喜",
+    "pinyin": "Qi1 xi3",
+    "english_segments": [
+      "7 Up (soft drink)",
+      "Hedy Holding Co., PRC computer manufacturer"
+    ],
+    "raw_source": "七喜 七喜 [Qi1 xi3] /7 Up (soft drink)/Hedy Holding Co., PRC computer manufacturer/",
+    "source_line": 1109,
+    "ukrainian_segments": [
+      "7 Up (газований напій)",
+      "Hedy Holding Co., китайський виробник комп’ютерів"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The source names a Chinese manufacturer, not the soft-drink brand."
+    ]
+  },
+  {
+    "id": "2964c629b80ef235",
+    "traditional": "七夕節",
+    "simplified": "七夕节",
+    "pinyin": "Qi1 xi1 jie2",
+    "english_segments": [
+      "Qixi Festival or Double Seven Festival on the 7th day of the 7th lunar month",
+      "girls' festival",
+      "Chinese Valentine's day, when Cowherd and Weaving maid 牛郎織女|牛郎织女[niu2 lang3 zhi1 nu:3] are allowed their annual meeting"
+    ],
+    "raw_source": "七夕節 七夕节 [Qi1 xi1 jie2] /Qixi Festival or Double Seven Festival on the 7th day of the 7th lunar month/girls' festival/Chinese Valentine's day, when Cowherd and Weaving maid 牛郎織女|牛郎织女[niu2 lang3 zhi1 nu:3] are allowed their annual meeting/",
+    "source_line": 1116,
+    "ukrainian_segments": [
+      "Свято Цісі, або Свято подвійної сімки, сьомого дня сьомого місяця за місячним календарем",
+      "свято дівчат",
+      "китайський День закоханих, коли Пастух і Ткаля 牛郎織女|牛郎织女[niu2 lang3 zhi1 nu:3] щороку зустрічаються"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 1,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The mythological figures and exact bracketed pinyin are preserved."
+    ]
+  },
+  {
+    "id": "929cbf0326f51d94",
+    "traditional": "七大工業國集團",
+    "simplified": "七大工业国集团",
+    "pinyin": "qi1 da4 gong1 ye4 guo2 ji2 tuan2",
+    "english_segments": [
+      "G7, the group of 7 industrialized countries: US, Japan, Britain, Germany, France, Italy and Canada (now G8, including Russia)"
+    ],
+    "raw_source": "七大工業國集團 七大工业国集团 [qi1 da4 gong1 ye4 guo2 ji2 tuan2] /G7, the group of 7 industrialized countries: US, Japan, Britain, Germany, France, Italy and Canada (now G8, including Russia)/",
+    "source_line": 1118,
+    "ukrainian_segments": [
+      "G7 — група семи промислово розвинених країн: США, Японії, Великої Британії, Німеччини, Франції, Італії та Канади (нині G8, з Росією)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The historical parenthetical “now G8, including Russia” follows the source wording."
+    ]
+  },
+  {
+    "id": "3a3172ea056d5ed6",
+    "traditional": "七帶石斑魚",
+    "simplified": "七带石斑鱼",
+    "pinyin": "qi1 dai4 shi2 ban1 yu2",
+    "english_segments": [
+      "Epinephelus septemfasciatus"
+    ],
+    "raw_source": "七帶石斑魚 七带石斑鱼 [qi1 dai4 shi2 ban1 yu2] /Epinephelus septemfasciatus/",
+    "source_line": 1122,
+    "ukrainian_segments": [
+      "Epinephelus septemfasciatus"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Latin scientific name retained from source."
+    ]
+  },
+  {
+    "id": "15f6a37baa873ff5",
+    "traditional": "七律",
+    "simplified": "七律",
+    "pinyin": "qi1 lu:4",
+    "english_segments": [
+      "verse form consisting of 8 lines of 7 characters, with rhyme on alternate lines (abbr. for 七言律詩|七言律诗[qi1 yan2 lu : 4 shi1])"
+    ],
+    "raw_source": "七律 七律 [qi1 lu:4] /verse form consisting of 8 lines of 7 characters, with rhyme on alternate lines (abbr. for 七言律詩|七言律诗[qi1 yan2 lu : 4 shi1])/",
+    "source_line": 1127,
+    "ukrainian_segments": [
+      "віршована форма з вісьмох рядків по сім ієрогліфів із римою в кожному другому рядку (скорочення від 七言律詩|七言律诗[qi1 yan2 lu : 4 shi1])"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The classical poetry form and source reference are preserved."
+    ]
+  },
+  {
+    "id": "f0d980df3eda024a",
+    "traditional": "七情",
+    "simplified": "七情",
+    "pinyin": "qi1 qing2",
+    "english_segments": [
+      "seven emotional states",
+      "seven affects of traditional Chinese medical theory and therapy, namely: joy 喜[xi3], anger 怒[nu4], anxiety 憂|忧[you1], thought 思[si1], grief 悲[bei1], fear 恐[kong3], fright 驚|惊[jing1]",
+      "seven relations"
+    ],
+    "raw_source": "七情 七情 [qi1 qing2] /seven emotional states/seven affects of traditional Chinese medical theory and therapy, namely: joy 喜[xi3], anger 怒[nu4], anxiety 憂|忧[you1], thought 思[si1], grief 悲[bei1], fear 恐[kong3], fright 驚|惊[jing1]/seven relations/",
+    "source_line": 1128,
+    "ukrainian_segments": [
+      "сім емоційних станів",
+      "сім почуттів традиційної китайської медицини: радість 喜[xi3], гнів 怒[nu4], тривога 憂|忧[you1], задум 思[si1], скорбота 悲[bei1], страх 恐[kong3], переляк 驚|惊[jing1]",
+      "сім типів стосунків"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The Chinese medical framework’s terms and pinyin are preserved from source."
+    ]
+  },
+  {
+    "id": "0dbd944d286059aa",
+    "traditional": "七方",
+    "simplified": "七方",
+    "pinyin": "qi1 fang1",
+    "english_segments": [
+      "(Chinese medicine) the seven kinds of prescriptions 大方[da4 fang1], 小方[xiao3 fang1], 緩方|缓方[huan3 fang1], 急方[ji2 fang1], 奇方[ji1 fang1], 偶方[ou3 fang1] and 重方[chong2 fang1] or 複方|复方[fu4 fang1]"
+    ],
+    "raw_source": "七方 七方 [qi1 fang1] /(Chinese medicine) the seven kinds of prescriptions 大方[da4 fang1], 小方[xiao3 fang1], 緩方|缓方[huan3 fang1], 急方[ji2 fang1], 奇方[ji1 fang1], 偶方[ou3 fang1] and 重方[chong2 fang1] or 複方|复方[fu4 fang1]/",
+    "source_line": 1135,
+    "ukrainian_segments": [
+      "(китайська медицина) сім типів рецептів: 大方[da4 fang1], 小方[xiao3 fang1], 緩方|缓方[huan3 fang1], 急方[ji2 fang1], 奇方[ji1 fang1], 偶方[ou3 fang1] та 重方[chong2 fang1] або 複方|复方[fu4 fang1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The traditional categories are obscure; the source list is reproduced as supplied."
+    ]
+  },
+  {
+    "id": "ead4b84c1d78d2ac",
+    "traditional": "七日熱",
+    "simplified": "七日热",
+    "pinyin": "qi1 ri4 re4",
+    "english_segments": [
+      "leptospirosis"
+    ],
+    "raw_source": "七日熱 七日热 [qi1 ri4 re4] /leptospirosis/",
+    "source_line": 1136,
+    "ukrainian_segments": [
+      "лептоспіроз"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Leptospirosis is the established medical equivalent."
+    ]
+  },
+  {
+    "id": "b1a210cbba6bb0d0",
+    "traditional": "七河州",
+    "simplified": "七河州",
+    "pinyin": "Qi1 he2 zhou1",
+    "english_segments": [
+      "Semirechye region of Kazakhstan, bordering Lake Balkash 巴爾喀什湖|巴尔喀什湖[Ba1 er3 ka1 shi2 Hu2]"
+    ],
+    "raw_source": "七河州 七河州 [Qi1 he2 zhou1] /Semirechye region of Kazakhstan, bordering Lake Balkash 巴爾喀什湖|巴尔喀什湖[Ba1 er3 ka1 shi2 Hu2]/",
+    "source_line": 1147,
+    "ukrainian_segments": [
+      "історична область Семиріччя в Казахстані, біля озера Балхаш 巴爾喀什湖|巴尔喀什湖[Ba1 er3 ka1 shi2 Hu2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Semirechye is a historical regional name; retained from source."
+    ]
+  },
+  {
+    "id": "f2a48bc7388e13e4",
+    "traditional": "七里香",
+    "simplified": "七里香",
+    "pinyin": "qi1 li3 xiang1",
+    "english_segments": [
+      "orange jasmine (Murraya paniculata)",
+      "\"chicken butt\", popular Taiwan snack on a stick, made of marinated \"white cut chicken\" butt"
+    ],
+    "raw_source": "七里香 七里香 [qi1 li3 xiang1] /orange jasmine (Murraya paniculata)/\"chicken butt\", popular Taiwan snack on a stick, made of marinated \"white cut chicken\" butt/",
+    "source_line": 1167,
+    "ukrainian_segments": [
+      "оранжевий жасмин (Murraya paniculata)",
+      "«курячий задок» — популярна тайванська закуска на шпажці з маринованого за рецептом «курки в білому» задка"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The regional snack name is translated literally with the source preparation description."
+    ]
+  },
+  {
+    "id": "f1175f2b0361e97e",
+    "traditional": "七魄",
+    "simplified": "七魄",
+    "pinyin": "qi1 po4",
+    "english_segments": [
+      "seven mortal forms in Daoism, representing carnal life and desires",
+      "contrasted with 三魂 three immortal souls"
+    ],
+    "raw_source": "七魄 七魄 [qi1 po4] /seven mortal forms in Daoism, representing carnal life and desires/contrasted with 三魂 three immortal souls/",
+    "source_line": 1171,
+    "ukrainian_segments": [
+      "сім смертних душ у даосизмі, що уособлюють тілесне життя й бажання",
+      "на противагу 三魂, трьом безсмертним душам"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The Daoist concept and contrast are retained; 三魂 appears without pinyin in the source."
+    ]
+  },
+  {
+    "id": "fb44c2d3849fa5d9",
+    "traditional": "七鰓鰻",
+    "simplified": "七鳃鳗",
+    "pinyin": "qi1 sai1 man2",
+    "english_segments": [
+      "lamprey (jawless proto-fish of family Petromyzontidae)"
+    ],
+    "raw_source": "七鰓鰻 七鳃鳗 [qi1 sai1 man2] /lamprey (jawless proto-fish of family Petromyzontidae)/",
+    "source_line": 1172,
+    "ukrainian_segments": [
+      "мінога (безщелепна примітивна риба родини Petromyzontidae)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Taxonomic family retained from source."
+    ]
+  },
+  {
+    "id": "eba1a6f66b4e76e1",
+    "traditional": "万俟",
+    "simplified": "万俟",
+    "pinyin": "Mo4 qi2",
+    "english_segments": [
+      "two-character surname Moqi"
+    ],
+    "raw_source": "万俟 万俟 [Mo4 qi2] /two-character surname Moqi/",
+    "source_line": 1177,
+    "ukrainian_segments": [
+      "двоскладове прізвище Моцзі"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Moqi is a rare two-character Chinese surname; transliteration here follows the provided reading."
+    ]
+  },
+  {
+    "id": "b9ffa5d72f3cabd0",
+    "traditional": "丈二和尚，摸不著頭腦",
+    "simplified": "丈二和尚，摸不着头脑",
+    "pinyin": "zhang4 er4 he2 shang5 , mo1 bu5 zhao2 tou2 nao3",
+    "english_segments": [
+      "lit. like a three-meter high monk, you can't rub his head (idiom)",
+      "fig. at a total loss"
+    ],
+    "raw_source": "丈二和尚，摸不著頭腦 丈二和尚，摸不着头脑 [zhang4 er4 he2 shang5 , mo1 bu5 zhao2 tou2 nao3] /lit. like a three-meter high monk, you can't rub his head (idiom)/fig. at a total loss/",
+    "source_line": 1179,
+    "ukrainian_segments": [
+      "букв. мов перед триметровим монахом стоїш і не можеш намацати його голову (ідіома)",
+      "перен. бути цілковито розгубленим"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The idiom’s wording is literally unusual; the figurative gloss is preserved separately."
+    ]
+  },
+  {
+    "id": "952da3688af853e1",
+    "traditional": "丈八蛇矛",
+    "simplified": "丈八蛇矛",
+    "pinyin": "zhang4 ba1 she2 mao2",
+    "english_segments": [
+      "ancient spear-like weapon 18 Chinese feet 尺[chi3] in length, with a wavy spearhead like a snake's body"
+    ],
+    "raw_source": "丈八蛇矛 丈八蛇矛 [zhang4 ba1 she2 mao2] /ancient spear-like weapon 18 Chinese feet 尺[chi3] in length, with a wavy spearhead like a snake's body/",
+    "source_line": 1182,
+    "ukrainian_segments": [
+      "давня списоподібна зброя завдовжки 18 китайських чи 尺[chi3], з хвилястим, мов тіло змії, вістрям"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "尺 is kept verbatim as a classifier/unit reference."
+    ]
+  },
+  {
+    "id": "dbf177a066cd0001",
+    "traditional": "三七",
+    "simplified": "三七",
+    "pinyin": "san1 qi1",
+    "english_segments": [
+      "pseudoginseng (Panax pseudoginseng), hemostatic herb"
+    ],
+    "raw_source": "三七 三七 [san1 qi1] /pseudoginseng (Panax pseudoginseng), hemostatic herb/",
+    "source_line": 1192,
+    "ukrainian_segments": [
+      "псевдоженьшень (Panax pseudoginseng), кровоспинна лікарська рослина"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The herb’s common and Latin names follow the source; used traditionally as a hemostatic."
+    ]
+  },
+  {
+    "id": "dad99f295d61d14c",
+    "traditional": "三七開定論",
+    "simplified": "三七开定论",
+    "pinyin": "san1 qi1 kai1 ding4 lun4",
+    "english_segments": [
+      "thirty percent failure, seventy percent success, the official PRC verdict on Mao Zedong"
+    ],
+    "raw_source": "三七開定論 三七开定论 [san1 qi1 kai1 ding4 lun4] /thirty percent failure, seventy percent success, the official PRC verdict on Mao Zedong/",
+    "source_line": 1196,
+    "ukrainian_segments": [
+      "70 відсотків успіху й 30 відсотків невдачі — офіційний вирок КНР Мао Цзедуну"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "This is a politically specific historical formula; wording follows the source."
+    ]
+  },
+  {
+    "id": "2304769159b48a6c",
+    "traditional": "三不朽",
+    "simplified": "三不朽",
+    "pinyin": "san1 bu4 xiu3",
+    "english_segments": [
+      "the three imperishables, three ways to distinguish oneself that aren't forgotten by history: through one's virtue 立德[li4 de2], one's service 立功[li4 gong1] and one's writings 立言[li4 yan2] (from the Zuo Zhuan 左傳|左传[Zuo3 Zhuan4])"
+    ],
+    "raw_source": "三不朽 三不朽 [san1 bu4 xiu3] /the three imperishables, three ways to distinguish oneself that aren't forgotten by history: through one's virtue 立德[li4 de2], one's service 立功[li4 gong1] and one's writings 立言[li4 yan2] (from the Zuo Zhuan 左傳|左传[Zuo3 Zhuan4])/",
+    "source_line": 1202,
+    "ukrainian_segments": [
+      "три незнищенні цінності — три способи залишити слід в історії: доброчесність 立德[li4 de2], служіння 立功[li4 gong1] і писемні твори 立言[li4 yan2] (із «Цзо чжуань» 左傳|左传[Zuo3 Zhuan4])"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The three imperishables and cited source text are retained from the English gloss."
+    ]
+  },
+  {
+    "id": "c78cae2d3e5f1fb9",
+    "traditional": "三世",
+    "simplified": "三世",
+    "pinyin": "san1 shi4",
+    "english_segments": [
+      "the Third (of numbered kings)"
+    ],
+    "raw_source": "三世 三世 [san1 shi4] /the Third (of numbered kings)/",
+    "source_line": 1206,
+    "ukrainian_segments": [
+      "Третій (у нумерованому списку монархів)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The three duties are not specified in the headword gloss beyond their count."
+    ]
+  },
+  {
+    "id": "e9b45b15bcc14732",
+    "traditional": "三仇",
+    "simplified": "三仇",
+    "pinyin": "san1 chou2",
+    "english_segments": [
+      "animosity or resentment towards three groups (the bureaucrats, the wealthy, and the police) due to perceived abuse of power"
+    ],
+    "raw_source": "三仇 三仇 [san1 chou2] /animosity or resentment towards three groups (the bureaucrats, the wealthy, and the police) due to perceived abuse of power/",
+    "source_line": 1218,
+    "ukrainian_segments": [
+      "ворожість чи образа до трьох груп — чиновників, заможних і поліції — через сприймане зловживання владою"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The listed groups and framing follow the source and may reflect a specific political slogan."
+    ]
+  },
+  {
+    "id": "4bee2cdbcf6e87cc",
+    "traditional": "三伏",
+    "simplified": "三伏",
+    "pinyin": "san1 fu2",
+    "english_segments": [
+      "the three annual periods of hot weather, namely 初伏[chu1 fu2], 中伏[zhong1 fu2] and 末伏[mo4 fu2], which run consecutively over a period from mid-July to late August"
+    ],
+    "raw_source": "三伏 三伏 [san1 fu2] /the three annual periods of hot weather, namely 初伏[chu1 fu2], 中伏[zhong1 fu2] and 末伏[mo4 fu2], which run consecutively over a period from mid-July to late August/",
+    "source_line": 1223,
+    "ukrainian_segments": [
+      "три щорічні періоди спекотної погоди: 初伏[chu1 fu2], 中伏[zhong1 fu2] і 末伏[mo4 fu2], які йдуть один за одним від середини липня до кінця серпня"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "伏 terms are calendrical seasonal periods; original Chinese labels are preserved."
+    ]
+  },
+  {
+    "id": "ec66d3b31fc0ab7a",
+    "traditional": "三俠五義",
+    "simplified": "三侠五义",
+    "pinyin": "San1 xia2 wu3 yi4",
+    "english_segments": [
+      "Sanxia wuyi (lit. Three knight-errants and five righteous one), novel edited from stories of late Qing dynasty pinghua 評話|评话 master storyteller Shi Yukun 石玉昆"
+    ],
+    "raw_source": "三俠五義 三侠五义 [San1 xia2 wu3 yi4] /Sanxia wuyi (lit. Three knight-errants and five righteous one), novel edited from stories of late Qing dynasty pinghua 評話|评话 master storyteller Shi Yukun 石玉昆/",
+    "source_line": 1226,
+    "ukrainian_segments": [
+      "«Санся уї» (букв. «Троє лицарів і п’ятеро праведників»), роман, укладений із переказів майстра пінхуа 石玉昆 Ши Юкуня доби пізньої Цін 評話|评话"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Title is transliterated descriptively; the source’s genre terminology is retained."
+    ]
+  },
+  {
+    "id": "08163f66ebaaba1f",
+    "traditional": "三個世界",
+    "simplified": "三个世界",
+    "pinyin": "San1 ge5 Shi4 jie4",
+    "english_segments": [
+      "the Three Worlds (as proposed by Mao Zedong), i.e. the superpowers (USA and USSR), other wealthy countries (UK, France, Japan etc), and the developing countries of Asia, Africa and Latin America"
+    ],
+    "raw_source": "三個世界 三个世界 [San1 ge5 Shi4 jie4] /the Three Worlds (as proposed by Mao Zedong), i.e. the superpowers (USA and USSR), other wealthy countries (UK, France, Japan etc), and the developing countries of Asia, Africa and Latin America/",
+    "source_line": 1227,
+    "ukrainian_segments": [
+      "Три світи (за класифікацією Мао Цзедуна): наддержави (США й СРСР), інші заможні країни (Велика Британія, Франція, Японія тощо) та країни Азії, Африки й Латинської Америки, що розвиваються"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "This is Mao-era political terminology and is summarized as supplied."
+    ]
+  },
+  {
+    "id": "0c54edaf995e8889",
+    "traditional": "三個代表",
+    "simplified": "三个代表",
+    "pinyin": "San1 ge4 Dai4 biao3",
+    "english_segments": [
+      "the Three Represents, a set of three guiding principles for the CCP introduced by Jiang Zemin 江澤民|江泽民[Jiang1 Ze2 min2] in 2000 and enshrined in the Constitution in 2004"
+    ],
+    "raw_source": "三個代表 三个代表 [San1 ge4 Dai4 biao3] /the Three Represents, a set of three guiding principles for the CCP introduced by Jiang Zemin 江澤民|江泽民[Jiang1 Ze2 min2] in 2000 and enshrined in the Constitution in 2004/",
+    "source_line": 1228,
+    "ukrainian_segments": [
+      "«Три представництва» — три керівні принципи КПК, запроваджені Цзян Цземінем 江澤民|江泽民[Jiang1 Ze2 min2] у 2000 році та внесені до Конституції 2004 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The policy title is a proper name; Chinese name and pinyin are retained."
+    ]
+  },
+  {
+    "id": "61951c2549d38f77",
+    "traditional": "三個和尚沒水喝",
+    "simplified": "三个和尚没水喝",
+    "pinyin": "san1 ge4 he2 shang5 mei2 shui3 he1",
+    "english_segments": [
+      "lit. three monks have no water to drink (idiom)",
+      "fig. everybody's business is nobody's business",
+      "(If there is one monk, he will fetch water for himself. If there are two, they will fetch water together. But if there are three or more, none will take it upon himself to fetch water.)"
+    ],
+    "raw_source": "三個和尚沒水喝 三个和尚没水喝 [san1 ge4 he2 shang5 mei2 shui3 he1] /lit. three monks have no water to drink (idiom)/fig. everybody's business is nobody's business/(If there is one monk, he will fetch water for himself. If there are two, they will fetch water together. But if there are three or more, none will take it upon himself to fetch water.)/",
+    "source_line": 1230,
+    "ukrainian_segments": [
+      "букв. трьом ченцям нема чого пити (ідіома)",
+      "перен. спільна справа — нічия справа",
+      "(якщо один монах, він принесе собі воду; якщо двоє — принесуть удвох; але якщо їх троє чи більше, ніхто не візьметься по воду)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The proverb’s explanatory parenthetical is lengthy; all parts are preserved in one segment."
+    ]
+  },
+  {
+    "id": "20282e6a316eb737",
+    "traditional": "三個女人一個墟",
+    "simplified": "三个女人一个墟",
+    "pinyin": "san1 ge4 nu:3 ren2 yi1 ge4 xu1",
+    "english_segments": [
+      "three women makes a crowd"
+    ],
+    "raw_source": "三個女人一個墟 三个女人一个墟 [san1 ge4 nu:3 ren2 yi1 ge4 xu1] /three women makes a crowd/",
+    "source_line": 1231,
+    "ukrainian_segments": [
+      "троє жінок створюють натовп"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Regional saying is presented in the source without more context."
+    ]
+  },
+  {
+    "id": "9bdf764a5bd8a68f",
+    "traditional": "三個臭皮匠，勝過一個諸葛亮",
+    "simplified": "三个臭皮匠，胜过一个诸葛亮",
+    "pinyin": "san1 ge4 chou4 pi2 jiang5 , sheng4 guo4 yi1 ge4 Zhu1 ge3 Liang4",
+    "english_segments": [
+      "variant of 三個臭皮匠，賽過一個諸葛亮|三个臭皮匠，赛过一个诸葛亮[san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4]"
+    ],
+    "raw_source": "三個臭皮匠，勝過一個諸葛亮 三个臭皮匠，胜过一个诸葛亮 [san1 ge4 chou4 pi2 jiang5 , sheng4 guo4 yi1 ge4 Zhu1 ge3 Liang4] /variant of 三個臭皮匠，賽過一個諸葛亮|三个臭皮匠，赛过一个诸葛亮[san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4]/",
+    "source_line": 1233,
+    "ukrainian_segments": [
+      "варіант 三個臭皮匠，賽過一個諸葛亮|三个臭皮匠，赛过一个诸葛亮[san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The variant entry cross-reference is preserved exactly."
+    ]
+  },
+  {
+    "id": "ef32dcc408c27a44",
+    "traditional": "三個臭皮匠，賽過一個諸葛亮",
+    "simplified": "三个臭皮匠，赛过一个诸葛亮",
+    "pinyin": "san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4",
+    "english_segments": [
+      "lit. three ignorant cobblers add up to a genius (idiom); fig. collective wisdom",
+      "wisdom of the masses exceeds that of any individual"
+    ],
+    "raw_source": "三個臭皮匠，賽過一個諸葛亮 三个臭皮匠，赛过一个诸葛亮 [san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4] /lit. three ignorant cobblers add up to a genius (idiom); fig. collective wisdom/wisdom of the masses exceeds that of any individual/",
+    "source_line": 1235,
+    "ukrainian_segments": [
+      "букв. троє неуків-шевців дорівнюють генієві (ідіома); перен. колективна мудрість",
+      "мудрість мас переважає мудрість окремої людини"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The proverb is a common collective-wisdom saying; translation follows source."
+    ]
+  },
+  {
+    "id": "4e3c4ad52e3e4f97",
+    "traditional": "三個臭皮匠，頂個諸葛亮",
+    "simplified": "三个臭皮匠，顶个诸葛亮",
+    "pinyin": "san1 ge4 chou4 pi2 jiang5 , ding3 ge4 Zhu1 ge3 Liang4",
+    "english_segments": [
+      "lit. three ignorant cobblers add up to a genius (idiom); fig. collective wisdom",
+      "wisdom of the masses exceeds that of any individual"
+    ],
+    "raw_source": "三個臭皮匠，頂個諸葛亮 三个臭皮匠，顶个诸葛亮 [san1 ge4 chou4 pi2 jiang5 , ding3 ge4 Zhu1 ge3 Liang4] /lit. three ignorant cobblers add up to a genius (idiom); fig. collective wisdom/wisdom of the masses exceeds that of any individual/",
+    "source_line": 1237,
+    "ukrainian_segments": [
+      "букв. троє неуків-шевців дорівнюють генієві (ідіома); перен. колективна мудрість",
+      "мудрість мас переважає мудрість окремої людини"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The source idiom is the same collective-wisdom saying; preserved."
+    ]
+  },
+  {
+    "id": "9a65bfa930bbe3a1",
+    "traditional": "三元",
+    "simplified": "三元",
+    "pinyin": "san1 yuan2",
+    "english_segments": [
+      "(old) first place in civil service examinations at three levels: provincial 解元[jie4 yuan2], metropolitan 會元|会元[hui4 yuan2] and palace 狀元|状元[zhuang4 yuan2]"
+    ],
+    "raw_source": "三元 三元 [san1 yuan2] /(old) first place in civil service examinations at three levels: provincial 解元[jie4 yuan2], metropolitan 會元|会元[hui4 yuan2] and palace 狀元|状元[zhuang4 yuan2]/",
+    "source_line": 1242,
+    "ukrainian_segments": [
+      "(заст.) перше місце на кожному з трьох рівнів державних іспитів: провінційному 解元[jie4 yuan2], столичному 會元|会元[hui4 yuan2] та палацовому 狀元|状元[zhuang4 yuan2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Historical examination rank names and pinyin are preserved."
+    ]
+  },
+  {
+    "id": "3e6a705d1fc026fb",
+    "traditional": "三光政策",
+    "simplified": "三光政策",
+    "pinyin": "San1 guang1 Zheng4 ce4",
+    "english_segments": [
+      "Three Alls Policy (kill all, burn all, loot all), Japanese policy in China during WWII"
+    ],
+    "raw_source": "三光政策 三光政策 [San1 guang1 Zheng4 ce4] /Three Alls Policy (kill all, burn all, loot all), Japanese policy in China during WWII/",
+    "source_line": 1247,
+    "ukrainian_segments": [
+      "Політика трьох «усе» (усіх убити, усе спалити, усе пограбувати) — японська політика в Китаї під час Другої світової війни"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Historical wartime policy name translated literally from source."
+    ]
+  },
+  {
+    "id": "87e972dbb1b47cc9",
+    "traditional": "三八",
+    "simplified": "三八",
+    "pinyin": "san1 ba1",
+    "english_segments": [
+      "International Women's Day 婦女節|妇女节[Fu4 nu:3 jie2], 8th March",
+      "foolish",
+      "stupid"
+    ],
+    "raw_source": "三八 三八 [san1 ba1] /International Women's Day 婦女節|妇女节[Fu4 nu:3 jie2], 8th March/foolish/stupid/",
+    "source_line": 1250,
+    "ukrainian_segments": [
+      "Міжнародний жіночий день 婦女節|妇女节[Fu4 nu:3 jie2], 8 березня",
+      "дурний",
+      "нетямущий"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The DINK acronym and cited Chinese holiday name are preserved."
+    ]
+  },
+  {
+    "id": "4906847d2a73693a",
+    "traditional": "三公經費",
+    "simplified": "三公经费",
+    "pinyin": "san1 gong1 jing1 fei4",
+    "english_segments": [
+      "\"three public expenditures\" of the PRC government, i.e. air travel, food and entertainment, and public vehicles"
+    ],
+    "raw_source": "三公經費 三公经费 [san1 gong1 jing1 fei4] /\"three public expenditures\" of the PRC government, i.e. air travel, food and entertainment, and public vehicles/",
+    "source_line": 1255,
+    "ukrainian_segments": [
+      "«три види державних витрат» уряду КНР: авіаподорожі, харчування й розваги та службові автомобілі"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The “three public expenditures” is a Chinese government spending category."
+    ]
+  },
+  {
+    "id": "bba9d94af0ee8f46",
+    "traditional": "三北",
+    "simplified": "三北",
+    "pinyin": "San1 bei3",
+    "english_segments": [
+      "China's three northern regions, 東北|东北[Dong1 bei3], 華北|华北[Hua2 bei3] and 西北[Xi1 bei3]"
+    ],
+    "raw_source": "三北 三北 [San1 bei3] /China's three northern regions, 東北|东北[Dong1 bei3], 華北|华北[Hua2 bei3] and 西北[Xi1 bei3]/",
+    "source_line": 1263,
+    "ukrainian_segments": [
+      "три північні регіони Китаю: 東北|东北[Dong1 bei3], 華北|华北[Hua2 bei3] і 西北[Xi1 bei3]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The regional terms and pinyin are preserved as supplied."
+    ]
+  },
+  {
+    "id": "31938eb43ccdcbc4",
+    "traditional": "三北防護林",
+    "simplified": "三北防护林",
+    "pinyin": "San1 bei3 Fang2 hu4 lin2",
+    "english_segments": [
+      "Green Wall of China, a massive afforestation program on the eastern margin of the Gobi Desert aimed at stopping the desert's expansion, started in 1978 and planned to be completed by 2050"
+    ],
+    "raw_source": "三北防護林 三北防护林 [San1 bei3 Fang2 hu4 lin2] /Green Wall of China, a massive afforestation program on the eastern margin of the Gobi Desert aimed at stopping the desert's expansion, started in 1978 and planned to be completed by 2050/",
+    "source_line": 1264,
+    "ukrainian_segments": [
+      "«Зелена стіна Китаю» — масштабна програма заліснення на східному краї пустелі Ґобі, покликана зупинити її розширення; започаткована 1978 року, завершення заплановане до 2050 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The program’s stated target date is retained from the source."
+    ]
+  },
+  {
+    "id": "27d09b9d00b0bc15",
+    "traditional": "三十六字母",
+    "simplified": "三十六字母",
+    "pinyin": "san1 shi2 liu4 zi4 mu3",
+    "english_segments": [
+      "thirty six initial consonants of Song phonetic theory"
+    ],
+    "raw_source": "三十六字母 三十六字母 [san1 shi2 liu4 zi4 mu3] /thirty six initial consonants of Song phonetic theory/",
+    "source_line": 1268,
+    "ukrainian_segments": [
+      "тридцять шість початкових приголосних фонетичної теорії Сун"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Song phonetic theory is a specialized historical linguistic classification."
+    ]
+  },
+  {
+    "id": "56ae793ce4055f31",
+    "traditional": "三十六計",
+    "simplified": "三十六计",
+    "pinyin": "san1 shi2 liu4 ji4",
+    "english_segments": [
+      "The Thirty-Six Stratagems, a Chinese essay used to illustrate a series of stratagems used in politics, war, and in civil interaction",
+      "all the possible schemes and stratagems"
+    ],
+    "raw_source": "三十六計 三十六计 [san1 shi2 liu4 ji4] /The Thirty-Six Stratagems, a Chinese essay used to illustrate a series of stratagems used in politics, war, and in civil interaction/all the possible schemes and stratagems/",
+    "source_line": 1269,
+    "ukrainian_segments": [
+      "«Тридцять шість стратагем» — китайський трактат із низкою стратагем для політики, війни та цивільного життя",
+      "усі можливі хитрощі й стратагеми"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The work title is transliterated in Ukrainian; scope follows the source."
+    ]
+  },
+  {
+    "id": "8ceae77d8c27ccfc",
+    "traditional": "三十年河東，三十年河西",
+    "simplified": "三十年河东，三十年河西",
+    "pinyin": "san1 shi2 nian2 he2 dong1 , san1 shi2 nian2 he2 xi1",
+    "english_segments": [
+      "the river flows thirty years to the East, thirty years to the West (proverb)",
+      "change is the only constant"
+    ],
+    "raw_source": "三十年河東，三十年河西 三十年河东，三十年河西 [san1 shi2 nian2 he2 dong1 , san1 shi2 nian2 he2 xi1] /the river flows thirty years to the East, thirty years to the West (proverb)/change is the only constant/",
+    "source_line": 1272,
+    "ukrainian_segments": [
+      "ріка тридцять років тече на схід, тридцять років — на захід (прислів’я)",
+      "єдина постійна річ — зміни"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The proverb’s image is preserved literally and figuratively."
+    ]
+  },
+  {
+    "id": "4355846ebc6874c8",
+    "traditional": "三原",
+    "simplified": "三原",
+    "pinyin": "San1 yuan2",
+    "english_segments": [
+      "see 三原縣|三原县[San1 yuan2 Xian4]"
+    ],
+    "raw_source": "三原 三原 [San1 yuan2] /see 三原縣|三原县[San1 yuan2 Xian4]/",
+    "source_line": 1275,
+    "ukrainian_segments": [
+      "див. 三原縣|三原县[San1 yuan2 Xian4]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Buddhist phrase retained as an established religious term."
+    ]
+  },
+  {
+    "id": "6c0822cad2dad9a0",
+    "traditional": "中亞夜鷹",
+    "simplified": "中亚夜鹰",
+    "pinyin": "Zhong1 ya4 ye4 ying1",
+    "english_segments": [
+      "(bird species of China) Vaurie's nightjar (Caprimulgus centralasicus)"
+    ],
+    "raw_source": "中亞夜鷹 中亚夜鹰 [Zhong1 ya4 ye4 ying1] /(bird species of China) Vaurie's nightjar (Caprimulgus centralasicus)/",
+    "source_line": 3264,
+    "ukrainian_segments": [
+      "дрімлюга Ворі (Caprimulgus centralasicus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська назва виду може варіюватися; додано латинську назву для точної ідентифікації."
+    ]
+  },
+  {
+    "id": "ef0d4ec48c4f1290",
+    "traditional": "中亞鴿",
+    "simplified": "中亚鸽",
+    "pinyin": "zhong1 ya4 ge1",
+    "english_segments": [
+      "(bird species of China) yellow-eyed pigeon (Columba eversmanni)"
+    ],
+    "raw_source": "中亞鴿 中亚鸽 [zhong1 ya4 ge1] /(bird species of China) yellow-eyed pigeon (Columba eversmanni)/",
+    "source_line": 3267,
+    "ukrainian_segments": [
+      "жовтоокий голуб (Columba eversmanni)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська назва виду може варіюватися; додано латинську назву для точної ідентифікації."
+    ]
+  },
+  {
+    "id": "07a02959a82031a5",
+    "traditional": "中國白眉朱雀",
+    "simplified": "中国白眉朱雀",
+    "pinyin": "Zhong1 guo2 bai2 mei2 zhu1 que4",
+    "english_segments": [
+      "(bird species of China) Chinese white-browed rosefinch (Carpodacus dubius)"
+    ],
+    "raw_source": "中國白眉朱雀 中国白眉朱雀 [Zhong1 guo2 bai2 mei2 zhu1 que4] /(bird species of China) Chinese white-browed rosefinch (Carpodacus dubius)/",
+    "source_line": 3411,
+    "ukrainian_segments": [
+      "китайська білоброва чечевиця (Carpodacus dubius)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська назва виду може варіюватися; латинську назву не наведено у джерелі, тому назву передано описово."
+    ]
+  },
+  {
+    "id": "e73ca5509f99f801",
+    "traditional": "中山成彬",
+    "simplified": "中山成彬",
+    "pinyin": "Zhong1 shan1 Cheng2 bin1",
+    "english_segments": [
+      "NAKAYAMA Nariaki (1943–), right-wing Japanese politician and prominent denier of Japanese war crimes"
+    ],
+    "raw_source": "中山成彬 中山成彬 [Zhong1 shan1 Cheng2 bin1] /NAKAYAMA Nariaki (1943–), right-wing Japanese politician and prominent denier of Japanese war crimes/",
+    "source_line": 3529,
+    "ukrainian_segments": [
+      "Накаяма Наріакі (1943–), японський ультраправий політик, відомий запереченням японських воєнних злочинів"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська передача японського імені може мати варіанти; збережено латинську форму Nariaki в етимоні джерела."
+    ]
+  },
+  {
+    "id": "ed3c667d2147f419",
+    "traditional": "中科院",
+    "simplified": "中科院",
+    "pinyin": "Zhong1 ke1 yuan4",
+    "english_segments": [
+      "abbr. for 中國社會科學院|中国社会科学院[Zhong1 guo2 She4 hui4 Ke1 xue2 yuan4], Chinese Academy of Sciences (CAS)"
+    ],
+    "raw_source": "中科院 中科院 [Zhong1 ke1 yuan4] /abbr. for 中國社會科學院|中国社会科学院[Zhong1 guo2 She4 hui4 Ke1 xue2 yuan4], Chinese Academy of Sciences (CAS)/",
+    "source_line": 3670,
+    "ukrainian_segments": [
+      "скорочення від 中國社會科學院|中国社会科学院[Zhong1 guo2 She4 hui4 Ke1 xue2 yuan4], Китайська академія наук (CAS)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійський сегмент пов’язує 中科院 із Китайською академією наук, але наведене ним посилання 中國社會科學院 означає Китайську академію суспільних наук; збережено посилання джерела."
+    ]
+  },
+  {
+    "id": "570f22dc99c6f4d4",
+    "traditional": "丮",
+    "simplified": "丮",
+    "pinyin": "ji3",
+    "english_segments": [
+      "to catch"
+    ],
+    "raw_source": "丮 丮 [ji3] /to catch/",
+    "source_line": 3832,
+    "ukrainian_segments": [
+      "ловити"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дуже рідкісний ієрогліф 丮; глоса «ловити» взята без додаткового контексту, тому точне вживання неясне."
+    ]
+  },
+  {
+    "id": "fed846504a2bb8b4",
+    "traditional": "串串",
+    "simplified": "串串",
+    "pinyin": "chuan4 chuan4",
+    "english_segments": [
+      "(coll.) skewers; barbecued food on sticks; (in Sichuan) Sichuan-style hotpot skewers (abbr. for 串串香[chuan4 chuan4 xiang1])",
+      "(coll.) non-pedigree pet (esp. dog or cat); mutt; mixed-breed cat"
+    ],
+    "raw_source": "串串 串串 [chuan4 chuan4] /(coll.) skewers; barbecued food on sticks; (in Sichuan) Sichuan-style hotpot skewers (abbr. for 串串香[chuan4 chuan4 xiang1])/(coll.) non-pedigree pet (esp. dog or cat); mutt; mixed-breed cat/",
+    "source_line": 3839,
+    "ukrainian_segments": [
+      "(розм.) шашлички на шпажках; їжа, смажена на паличках; (у Сичуані) сичуанські шашлички для хот-поту (скорочення від 串串香[chuan4 chuan4 xiang1])",
+      "(розм.) безпородна домашня тварина (особливо собака чи кіт); дворняга; безпородний кіт"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "丱 — рідкісний ієрогліф; наведені значення відповідають саме читанню guan4."
+    ]
+  },
+  {
+    "id": "410ff3a4d8eff115",
+    "traditional": "乍看",
+    "simplified": "乍看",
+    "pinyin": "zha4 kan4",
+    "english_segments": [
+      "at first glance"
+    ],
+    "raw_source": "乍看 乍看 [zha4 kan4] /at first glance/",
+    "source_line": 4158,
+    "ukrainian_segments": [
+      "на перший погляд"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "乑 — рідкісний ієрогліф; значення «стояти поруч» відповідає поданій словниковій глосі."
+    ]
+  },
+  {
+    "id": "b8ac45eaf5cef49a",
+    "traditional": "乙酰",
+    "simplified": "乙酰",
+    "pinyin": "yi3 xian1",
+    "english_segments": [
+      "acetyl (chemistry)"
+    ],
+    "raw_source": "乙酰 乙酰 [yi3 xian1] /acetyl (chemistry)/",
+    "source_line": 4267,
+    "ukrainian_segments": [
+      "ацетил (хімія)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Хімічна формула CH3COO− відповідає ацетат-іону; назва «ацетиловий радикал» у вихідній глосі, ймовірно, неточна."
+    ]
+  },
+  {
+    "id": "97a15e73b89ed7e4",
+    "traditional": "乙酰胺吡咯烷酮",
+    "simplified": "乙酰胺吡咯烷酮",
+    "pinyin": "yi3 xian1 an4 bi3 luo4 wan2 tong2",
+    "english_segments": [
+      "(pharmacology) piracetam (C6H10N2O2), a nootropic"
+    ],
+    "raw_source": "乙酰胺吡咯烷酮 乙酰胺吡咯烷酮 [yi3 xian1 an4 bi3 luo4 wan2 tong2] /(pharmacology) piracetam (C6H10N2O2), a nootropic/",
+    "source_line": 4268,
+    "ukrainian_segments": [
+      "(фармакологія) пірацетам (C6H10N2O2), ноотроп"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Хімічна формула CH3COO− відповідає ацетат-іону; назва «ацетиловий радикал» у вихідній глосі, ймовірно, неточна."
+    ]
+  },
+  {
+    "id": "203349f934e0f706",
+    "traditional": "乳酪",
+    "simplified": "乳酪",
+    "pinyin": "ru3 lao4",
+    "english_segments": [
+      "cheese"
+    ],
+    "raw_source": "乳酪 乳酪 [ru3 lao4] /cheese/",
+    "source_line": 4443,
+    "ukrainian_segments": [
+      "сир"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назва 乳酪餅 регіональна; переклад подає опис джерела, а не усталену українську назву."
+    ]
+  },
+  {
+    "id": "646fb1cd21491905",
+    "traditional": "乾旱土",
+    "simplified": "干旱土",
+    "pinyin": "gan1 han4 tu3",
+    "english_segments": [
+      "aridisol (soil taxonomy)"
+    ],
+    "raw_source": "乾旱土 干旱土 [gan1 han4 tu3] /aridisol (soil taxonomy)/",
+    "source_line": 4487,
+    "ukrainian_segments": [
+      "аридизоль (класифікація ґрунтів)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Aridisol — таксономічна назва класу ґрунтів; український відповідник може різнитися між системами класифікації."
+    ]
+  },
+  {
+    "id": "cdf351e19875f62b",
+    "traditional": "亂局",
+    "simplified": "乱局",
+    "pinyin": "luan4 ju2",
+    "english_segments": [
+      "chaotic situation; turmoil; upheaval"
+    ],
+    "raw_source": "亂局 乱局 [luan4 ju2] /chaotic situation; turmoil; upheaval/",
+    "source_line": 4564,
+    "ukrainian_segments": [
+      "хаотична ситуація; сум’яття; потрясіння"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "亂咕攘 є діалектним висловом; передано загальною глосою «турбувати», точний регіональний відтінок неясний."
+    ]
+  },
+  {
+    "id": "e5325e86811cb722",
+    "traditional": "亃",
+    "simplified": "亃",
+    "pinyin": "lin2",
+    "english_segments": [
+      "mythical animal, said to have yellow body and white tail"
+    ],
+    "raw_source": "亃 亃 [lin2] /mythical animal, said to have yellow body and white tail/",
+    "source_line": 4597,
+    "ukrainian_segments": [
+      "міфічна тварина, якій приписують жовте тіло й білий хвіст"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дуже рідкісний міфічний зоонім 亃; словниковий опис не дає назви чи додаткової ідентифікації."
+    ]
+  },
+  {
+    "id": "c463781b3f45f093",
+    "traditional": "事實上",
+    "simplified": "事实上",
+    "pinyin": "shi4 shi2 shang4",
+    "english_segments": [
+      "in fact",
+      "in reality",
+      "actually",
+      "as a matter of fact",
+      "de facto",
+      "ipso facto"
+    ],
+    "raw_source": "事實上 事实上 [shi4 shi2 shang4] /in fact/in reality/actually/as a matter of fact/de facto/ipso facto/",
+    "source_line": 4664,
+    "ukrainian_segments": [
+      "фактично",
+      "насправді",
+      "дійсно",
+      "по суті",
+      "де-факто",
+      "у силу самого факту"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 1,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Латинський відповідник ipso facto передано за значенням як «у силу самого факту»."
+    ]
+  },
+  {
+    "id": "225973810c555ea5",
+    "traditional": "二毛子",
+    "simplified": "二毛子",
+    "pinyin": "er4 mao2 zi5",
+    "english_segments": [
+      "lit. secondary foreigner",
+      "(derogatory term for Chinese Christians and others associated with foreigners, used at the time of the Boxer Rebellion)",
+      "(coll.) westernized Chinese person",
+      "(derog.) person of mixed Chinese and Russian blood",
+      "(slang) Ukraine",
+      "German shepherd dog",
+      "(dialect) two-year-old goat"
+    ],
+    "raw_source": "二毛子 二毛子 [er4 mao2 zi5] /lit. secondary foreigner/(derogatory term for Chinese Christians and others associated with foreigners, used at the time of the Boxer Rebellion)/(coll.) westernized Chinese person/(derog.) person of mixed Chinese and Russian blood/(slang) Ukraine/German shepherd dog/(dialect) two-year-old goat/",
+    "source_line": 4802,
+    "ukrainian_segments": [
+      "букв. «другорядний чужинець»",
+      "(зневажл.; за часів Боксерського повстання) китайський християнин або інша особа, пов’язана з іноземцями",
+      "(розм.) китаєць, що перейняв західний спосіб життя",
+      "(зневажл.) людина китайського й російського походження",
+      "(сленг) Україна",
+      "німецька вівчарка",
+      "(діал.) коза двох років"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The source segment “(slang) Ukraine” appears anomalous for 二毛子; translated literally pending verification."
+    ]
+  },
+  {
+    "id": "1925342ce62edbb0",
+    "traditional": "二硫基丙磺酸鈉",
+    "simplified": "二硫基丙磺酸钠",
+    "pinyin": "er4 liu2 ji1 bing3 huang2 suan1 na4",
+    "english_segments": [
+      "sodium dimercaptosulfanate"
+    ],
+    "raw_source": "二硫基丙磺酸鈉 二硫基丙磺酸钠 [er4 liu2 ji1 bing3 huang2 suan1 na4] /sodium dimercaptosulfanate/",
+    "source_line": 4831,
+    "ukrainian_segments": [
+      "натрію димеркаптопропансульфонат"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The source name “sodium dimercaptosulfanate” is nonstandard/unclear; rendered as sodium dimercaptopropanesulfonate."
+    ]
+  },
+  {
+    "id": "147b53e80f824d26",
+    "traditional": "仙八色鶇",
+    "simplified": "仙八色鸫",
+    "pinyin": "xian1 ba1 se4 dong1",
+    "english_segments": [
+      "(bird species of China) fairy pitta (Pitta nympha)"
+    ],
+    "raw_source": "仙八色鶇 仙八色鸫 [xian1 ba1 se4 dong1] /(bird species of China) fairy pitta (Pitta nympha)/",
+    "source_line": 6255,
+    "ukrainian_segments": [
+      "(вид птаха Китаю) казкова пітта (Pitta nympha)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Наведену українську назву виду передано описово; усталена українська назва Pitta nympha може відрізнятися."
+    ]
+  },
+  {
+    "id": "e386b295695f2e1d",
+    "traditional": "仙女星座",
+    "simplified": "仙女星座",
+    "pinyin": "Xian1 nu:3 xing1 zuo4",
+    "english_segments": [
+      "Andromeda constellation (galaxy) M31"
+    ],
+    "raw_source": "仙女星座 仙女星座 [Xian1 nu:3 xing1 zuo4] /Andromeda constellation (galaxy) M31/",
+    "source_line": 6264,
+    "ukrainian_segments": [
+      "сузір’я Андромеди; галактика Андромеди M31"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійський глос змішує сузір’я Андромеди з галактикою M31; збережено обидва зазначені референти."
+    ]
+  },
+  {
+    "id": "5310e101a213b635",
+    "traditional": "仙茅",
+    "simplified": "仙茅",
+    "pinyin": "xian1 mao2",
+    "english_segments": [
+      "golden eye-grass (Curculigo orchioides)",
+      "Curculigo rhizome (used in TCM)"
+    ],
+    "raw_source": "仙茅 仙茅 [xian1 mao2] /golden eye-grass (Curculigo orchioides)/Curculigo rhizome (used in TCM)/",
+    "source_line": 6288,
+    "ukrainian_segments": [
+      "золотавоквіткова трава (Curculigo orchioides)",
+      "кореневище куркулиго (у традиційній китайській медицині)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Переклад назви рослини подано з латинською назвою; можливі інші усталені українські ботанічні назви."
+    ]
+  },
+  {
+    "id": "bf67e1c98ecf0ec2",
+    "traditional": "代利斯",
+    "simplified": "代利斯",
+    "pinyin": "Dai4 li4 si1",
+    "english_segments": [
+      "Dallys, Algerian seaport and naval base"
+    ],
+    "raw_source": "代利斯 代利斯 [Dai4 li4 si1] /Dallys, Algerian seaport and naval base/",
+    "source_line": 6314,
+    "ukrainian_segments": [
+      "Делліс, алжирський морський порт і військово-морська база"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Топонім передано як Делліс; англійський глос уживає варіант Dallys, тоді як також трапляється написання Dellys."
+    ]
+  },
+  {
+    "id": "43d1fca81f83413b",
+    "traditional": "以利亞撒",
+    "simplified": "以利亚撒",
+    "pinyin": "Yi3 li4 ya4 sa1",
+    "english_segments": [
+      "Eleazar (son of Eluid)"
+    ],
+    "raw_source": "以利亞撒 以利亚撒 [Yi3 li4 ya4 sa1] /Eleazar (son of Eluid)/",
+    "source_line": 6457,
+    "ukrainian_segments": [
+      "Елеазар (син Елуїда)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Ім’я Елеазар transliterовано відповідно до усталеної біблійної форми; написання імені батька в джерелі може бути помилковим."
+    ]
+  },
+  {
+    "id": "af7f879203f156bf",
+    "traditional": "以律",
+    "simplified": "以律",
+    "pinyin": "Yi3 lu:4",
+    "english_segments": [
+      "Eluid (son of Achim)"
+    ],
+    "raw_source": "以律 以律 [Yi3 lu:4] /Eluid (son of Achim)/",
+    "source_line": 6485,
+    "ukrainian_segments": [
+      "Елуїд (син Ахіма)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Ім’я Eluid передано як Елуїд; варіант ідентифікації може відрізнятися в біблійних джерелах."
+    ]
+  },
+  {
+    "id": "13d342849eca0bd9",
+    "traditional": "伊戈爾斯",
+    "simplified": "伊戈尔斯",
+    "pinyin": "Yi1 ge1 er3 si1",
+    "english_segments": [
+      "Eagles (name)"
+    ],
+    "raw_source": "伊戈爾斯 伊戈尔斯 [Yi1 ge1 er3 si1] /Eagles (name)/",
+    "source_line": 6762,
+    "ukrainian_segments": [
+      "Іглз (ім’я)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійський глос не уточнює, чи це прізвище, ім’я або назва гурту; подано фонетичну передачу."
+    ]
+  },
+  {
+    "id": "ed3613c2249780b1",
+    "traditional": "伊金霍洛",
+    "simplified": "伊金霍洛",
+    "pinyin": "Yi1 jin1 huo4 luo4",
+    "english_segments": [
+      "Ejin Horo banner (Ejen Khoruu khoshuu) in Ordos prefecture 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Inner Mongolia"
+    ],
+    "raw_source": "伊金霍洛 伊金霍洛 [Yi1 jin1 huo4 luo4] /Ejin Horo banner (Ejen Khoruu khoshuu) in Ordos prefecture 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Inner Mongolia/",
+    "source_line": 6819,
+    "ukrainian_segments": [
+      "прапор Еджин-Хоро (Еджен-Хору-хошуу) в окрузі Ордос 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Внутрішня Монголія"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Топонім подано як Еджин-Хоро; його транслітерація з монгольської може відрізнятися."
+    ]
+  },
+  {
+    "id": "b15f174de958d869",
+    "traditional": "伊金霍洛旗",
+    "simplified": "伊金霍洛旗",
+    "pinyin": "Yi1 jin1 huo4 luo4 qi2",
+    "english_segments": [
+      "Ejin Horo banner (Ejen Khoruu khoshuu) in Ordos prefecture 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Inner Mongolia"
+    ],
+    "raw_source": "伊金霍洛旗 伊金霍洛旗 [Yi1 jin1 huo4 luo4 qi2] /Ejin Horo banner (Ejen Khoruu khoshuu) in Ordos prefecture 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Inner Mongolia/",
+    "source_line": 6820,
+    "ukrainian_segments": [
+      "прапор Еджин-Хоро (Еджен-Хору-хошуу) в окрузі Ордос 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Внутрішня Монголія"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Топонім подано як Еджин-Хоро; його транслітерація з монгольської може відрізнятися."
+    ]
+  },
+  {
+    "id": "2864e65209800043",
+    "traditional": "休氏旋木雀",
+    "simplified": "休氏旋木雀",
+    "pinyin": "Xiu1 shi4 xuan2 mu4 que4",
+    "english_segments": [
+      "(bird species of China) Hume's treecreeper (Certhia manipurensis)"
+    ],
+    "raw_source": "休氏旋木雀 休氏旋木雀 [Xiu1 shi4 xuan2 mu4 que4] /(bird species of China) Hume's treecreeper (Certhia manipurensis)/",
+    "source_line": 6909,
+    "ukrainian_segments": [
+      "(вид птаха Китаю) підкоришник маніпурський (підкоришник Г’юма; Certhia manipurensis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Поширена українська назва цього рідкісного виду птаха не цілком певна; додано наукову назву."
+    ]
+  },
+  {
+    "id": "7af5255762962809",
+    "traditional": "休氏樹鶯",
+    "simplified": "休氏树莺",
+    "pinyin": "Xiu1 shi4 shu4 ying1",
+    "english_segments": [
+      "(bird species of China) Hume's bush warbler (Horornis brunnescens)"
+    ],
+    "raw_source": "休氏樹鶯 休氏树莺 [Xiu1 shi4 shu4 ying1] /(bird species of China) Hume's bush warbler (Horornis brunnescens)/",
+    "source_line": 6910,
+    "ukrainian_segments": [
+      "(вид птаха Китаю) кущівка Г’юма (Horornis brunnescens)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Поширена українська назва цього рідкісного виду птаха не цілком певна; додано наукову назву."
+    ]
+  },
+  {
+    "id": "29bf6d1bf6cc3b00",
+    "traditional": "伹",
+    "simplified": "伹",
+    "pinyin": "qu1",
+    "english_segments": [
+      "clumsy and dumb",
+      "slow-witted"
+    ],
+    "raw_source": "伹 伹 [qu1] /clumsy and dumb/slow-witted/",
+    "source_line": 7044,
+    "ukrainian_segments": [
+      "незграбний і нетямущий",
+      "повільний на розум"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний ієрогліф; значення подано за словниковою глосою, без установленого вживання."
+    ]
+  },
+  {
+    "id": "291739af33e992a4",
+    "traditional": "伻",
+    "simplified": "伻",
+    "pinyin": "beng1",
+    "english_segments": [
+      "to cause"
+    ],
+    "raw_source": "伻 伻 [beng1] /to cause/",
+    "source_line": 7052,
+    "ukrainian_segments": [
+      "спричиняти; примушувати"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Це рідкісне книжне значення ієрогліфа; точне вживання без контексту невизначене."
+    ]
+  },
+  {
+    "id": "f1c30de4ea51bdf9",
+    "traditional": "伽倻琴",
+    "simplified": "伽倻琴",
+    "pinyin": "jia1 ye1 qin2",
+    "english_segments": [
+      "gayageum (Korean 12-stringed zither)"
+    ],
+    "raw_source": "伽倻琴 伽倻琴 [jia1 ye1 qin2] /gayageum (Korean 12-stringed zither)/",
+    "source_line": 7070,
+    "ukrainian_segments": [
+      "каяґим (корейська дванадцятиструнна цитра)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву традиційного інструмента передано фонетично; можливий варіант українського написання «каяґим». "
+    ]
+  },
+  {
+    "id": "0e8087a4a1c04b65",
+    "traditional": "伽師縣",
+    "simplified": "伽师县",
+    "pinyin": "Jia1 shi1 Xian4",
+    "english_segments": [
+      "Payzawat, a county in Kashgar City 喀什市[Ka1 shi2 Shi4], Xinjiang"
+    ],
+    "raw_source": "伽師縣 伽师县 [Jia1 shi1 Xian4] /Payzawat, a county in Kashgar City 喀什市[Ka1 shi2 Shi4], Xinjiang/",
+    "source_line": 7075,
+    "ukrainian_segments": [
+      "Пайзават, повіт у місті Каши 喀什市[Ka1 shi2 Shi4], Сіньцзян"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Наведену в джерелі назву Payzawat передано українською фонетично; в українській може вживатися інший варіант транслітерації."
+    ]
+  },
+  {
+    "id": "e241db54cde796e5",
+    "traditional": "伾",
+    "simplified": "伾",
+    "pinyin": "pi1",
+    "english_segments": [
+      "multitudinous",
+      "powerful"
+    ],
+    "raw_source": "伾 伾 [pi1] /multitudinous/powerful/",
+    "source_line": 7084,
+    "ukrainian_segments": [
+      "численний; багатолюдний",
+      "потужний"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісне слово; значення відтворено за словниковою глосою."
+    ]
+  },
+  {
+    "id": "05e0a48667c478eb",
+    "traditional": "低能兒",
+    "simplified": "低能儿",
+    "pinyin": "di1 neng2 er2",
+    "english_segments": [
+      "retarded child",
+      "moron",
+      "idiot"
+    ],
+    "raw_source": "低能兒 低能儿 [di1 neng2 er2] /retarded child/moron/idiot/",
+    "source_line": 7210,
+    "ukrainian_segments": [
+      "розумово відстала дитина (застаріле, образливе)",
+      "недоумок (образл.)",
+      "ідіот (образл.)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійська глоса містить застарілі образливі позначення; українські відповідники позначено як образливі."
+    ]
+  },
+  {
+    "id": "b348f5d845411061",
+    "traditional": "佛媛",
+    "simplified": "佛媛",
+    "pinyin": "fo2 yuan2",
+    "english_segments": [
+      "Buddhist griftress (female Internet influencer who exploits Buddhist imagery for self-promotion or commercial purposes)"
+    ],
+    "raw_source": "佛媛 佛媛 [fo2 yuan2] /Buddhist griftress (female Internet influencer who exploits Buddhist imagery for self-promotion or commercial purposes)/",
+    "source_line": 7374,
+    "ukrainian_segments": [
+      "буддійська шахрайка-контентмейкерка (інтернет-інфлюенсерка, яка використовує буддійські образи для самореклами чи комерційної вигоди)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Неологізм із негативним відтінком; англійська глоса не усталює окремого українського відповідника."
+    ]
+  },
+  {
+    "id": "920aafb7093a58ac",
+    "traditional": "作出",
+    "simplified": "作出",
+    "pinyin": "zuo4 chu1",
+    "english_segments": [
+      "to put out",
+      "to come up with",
+      "to make (a choice, decision, proposal, response, comment etc)",
+      "to issue (a permit, statement, explanation, apology, reassurance to the public etc)",
+      "to draw (conclusion)",
+      "to deliver (speech, judgment)",
+      "to devise (explanation)",
+      "to extract"
+    ],
+    "raw_source": "作出 作出 [zuo4 chu1] /to put out/to come up with/to make (a choice, decision, proposal, response, comment etc)/to issue (a permit, statement, explanation, apology, reassurance to the public etc)/to draw (conclusion)/to deliver (speech, judgment)/to devise (explanation)/to extract/",
+    "source_line": 7437,
+    "ukrainian_segments": [
+      "створювати; видавати",
+      "пропонувати; знаходити рішення",
+      "робити вибір; ухвалювати рішення; вносити пропозицію; давати відповідь; висловлювати зауваження",
+      "видавати (дозвіл, заяву, пояснення, вибачення); запевняти громадськість",
+      "робити висновок",
+      "виголошувати промову; виносити судове рішення",
+      "розробляти пояснення",
+      "витягати; добувати"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 8,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Гола англійська глоса «to extract» неоднозначна; без додатка чи контексту незрозуміло, яке саме значення 作出 має на увазі."
+    ]
+  },
+  {
+    "id": "bc6258fa00e85404",
+    "traditional": "佧",
+    "simplified": "佧",
+    "pinyin": "ka3",
+    "english_segments": [
+      "ancient name for an ethnic group in China"
+    ],
+    "raw_source": "佧 佧 [ka3] /ancient name for an ethnic group in China/",
+    "source_line": 7548,
+    "ukrainian_segments": [
+      "давня назва одного з етносів Китаю"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі не уточнено, який саме етнос мається на увазі; подано лише загальну словникову глосу."
+    ]
+  },
+  {
+    "id": "5b56d511cea85eac",
+    "traditional": "佩蘭",
+    "simplified": "佩兰",
+    "pinyin": "pei4 lan2",
+    "english_segments": [
+      "orchid",
+      "fragrant thoroughwort",
+      "(botany) Eupatorium fortunei",
+      "Herba Eupatorii (used in Chinese medicine)"
+    ],
+    "raw_source": "佩蘭 佩兰 [pei4 lan2] /orchid/fragrant thoroughwort/(botany) Eupatorium fortunei/Herba Eupatorii (used in Chinese medicine)/",
+    "source_line": 7559,
+    "ukrainian_segments": [
+      "орхідея",
+      "пахучий Eupatorium",
+      "(бот.) Eupatorium fortunei",
+      "трава Eupatorii (у китайській медицині)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Переклад народної назви рослини «fragrant thoroughwort» не є усталеним; наведено латинську назву виду."
+    ]
+  },
+  {
+    "id": "180ab2fa93616de2",
+    "traditional": "佳里",
+    "simplified": "佳里",
+    "pinyin": "Jia1 li3",
+    "english_segments": [
+      "Jiali, a district in Tainan 台南|台南[Tai2 nan2], Taiwan"
+    ],
+    "raw_source": "佳里 佳里 [Jia1 li3] /Jiali, a district in Tainan 台南|台南[Tai2 nan2], Taiwan/",
+    "source_line": 7596,
+    "ukrainian_segments": [
+      "Цзялі, район у місті Тайнань 台南|台南[Tai2 nan2], Тайвань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі географічний референт задано як district in Tainan, але в англійському сегменті вказано назву міста 台南|台南. Залишено назву як у джерелі без додаткового уточнення."
+    ]
+  },
+  {
+    "id": "3cf31d3a4f4ba8bb",
+    "traditional": "併捲機",
+    "simplified": "并卷机",
+    "pinyin": "bing4 juan3 ji1",
+    "english_segments": [
+      "ribbon lap machine"
+    ],
+    "raw_source": "併捲機 并卷机 [bing4 juan3 ji1] /ribbon lap machine/",
+    "source_line": 7605,
+    "ukrainian_segments": [
+      "машина для складання стрічкової настилки"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний термін текстильної промисловості; переклад виконано буквально за назвою обладнання, потрібна фахова перевірка."
+    ]
+  },
+  {
+    "id": "7000e0be9ab29783",
+    "traditional": "佶",
+    "simplified": "佶",
+    "pinyin": "ji2",
+    "english_segments": [
+      "difficult to pronounce"
+    ],
+    "raw_source": "佶 佶 [ji2] /difficult to pronounce/",
+    "source_line": 7613,
+    "ukrainian_segments": [
+      "важкий для вимови"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний ієрогліф; значення подано за наявною глосою без уживаного українського відповідника."
+    ]
+  },
+  {
+    "id": "4af69af703a88daa",
+    "traditional": "侀",
+    "simplified": "侀",
+    "pinyin": "xing2",
+    "english_segments": [
+      "shape",
+      "statute"
+    ],
+    "raw_source": "侀 侀 [xing2] /shape/statute/",
+    "source_line": 7656,
+    "ukrainian_segments": [
+      "форма; обрис",
+      "закон; статут"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний ієрогліф; в англійському джерелі наведено два різні значення без контексту."
+    ]
+  },
+  {
+    "id": "ad6b51e61a1c4481",
+    "traditional": "侁",
+    "simplified": "侁",
+    "pinyin": "shen1",
+    "english_segments": [
+      "large crowd"
+    ],
+    "raw_source": "侁 侁 [shen1] /large crowd/",
+    "source_line": 7657,
+    "ukrainian_segments": [
+      "великий натовп"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний ієрогліф; значення наведено лише за словниковим джерелом."
+    ]
+  },
+  {
+    "id": "c972ee6eb7b23d19",
+    "traditional": "侅",
+    "simplified": "侅",
+    "pinyin": "gai1",
+    "english_segments": [
+      "to give",
+      "prepared for included in",
+      "embraced in"
+    ],
+    "raw_source": "侅 侅 [gai1] /to give/prepared for included in/embraced in/",
+    "source_line": 7667,
+    "ukrainian_segments": [
+      "давати",
+      "підготовлений для; передбачений для",
+      "охоплений; включений до"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний ієрогліф; джерело подає уривчасті значення, тому їхні граматичні зв'язки неясні."
+    ]
+  },
+  {
+    "id": "4c7add2c1374e41a",
+    "traditional": "來勁",
+    "simplified": "来劲",
+    "pinyin": "lai2 jin4",
+    "english_segments": [
+      "(dialect) to be full of zeal",
+      "high-spirited",
+      "exhilarating",
+      "to stir sb up"
+    ],
+    "raw_source": "來勁 来劲 [lai2 jin4] /(dialect) to be full of zeal/high-spirited/exhilarating/to stir sb up/",
+    "source_line": 7678,
+    "ukrainian_segments": [
+      "(діал.) бути сповненим запалу",
+      "жвавий; запальний",
+      "захопливий; такий, що додає запалу",
+      "розворушити когось; підбурити"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 3,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Діалектний вираз має кілька близьких значень; переклад залежить від контексту."
+    ]
+  },
+  {
+    "id": "6306bc6ad2734660",
+    "traditional": "來文",
+    "simplified": "来文",
+    "pinyin": "lai2 wen2",
+    "english_segments": [
+      "received document",
+      "sent document"
+    ],
+    "raw_source": "來文 来文 [lai2 wen2] /received document/sent document/",
+    "source_line": 7695,
+    "ukrainian_segments": [
+      "отриманий документ",
+      "надісланий документ"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Значення у джерелі двозначне щодо напрямку документа; обидва варіанти збережено."
+    ]
+  },
+  {
+    "id": "9eadd08a932b19af",
+    "traditional": "侏",
+    "simplified": "侏",
+    "pinyin": "zhu1",
+    "english_segments": [
+      "dwarf"
+    ],
+    "raw_source": "侏 侏 [zhu1] /dwarf/",
+    "source_line": 7785,
+    "ukrainian_segments": [
+      "карлик"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Окремий ієрогліф рідковживаний; значення подано за словниковим джерелом."
+    ]
+  },
+  {
+    "id": "2262d15b4a075a9d",
+    "traditional": "依地酸二鈷",
+    "simplified": "依地酸二钴",
+    "pinyin": "yi1 di4 suan1 er4 gu3",
+    "english_segments": [
+      "kelocyanor"
+    ],
+    "raw_source": "依地酸二鈷 依地酸二钴 [yi1 di4 suan1 er4 gu3] /kelocyanor/",
+    "source_line": 7854,
+    "ukrainian_segments": [
+      "келоксианор (препарат динатрієвої солі кобальту з едетатом)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Kelocyanor — рідкісна торгова назва; відповідність назви препарату потребує спеціалізованої перевірки."
+    ]
+  },
+  {
+    "id": "981919cef25eb052",
+    "traditional": "依撒格",
+    "simplified": "依撒格",
+    "pinyin": "Yi1 sa1 ge2",
+    "english_segments": [
+      "Issac (name)"
+    ],
+    "raw_source": "依撒格 依撒格 [Yi1 sa1 ge2] /Issac (name)/",
+    "source_line": 7868,
+    "ukrainian_segments": [
+      "Ісаак (ім'я)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі ім'я Isaac помилково написано Issac; китайський заголовок відповідає імені біблійного Ісаака."
+    ]
+  },
+  {
+    "id": "baaf1838aa09fea8",
+    "traditional": "依稀",
+    "simplified": "依稀",
+    "pinyin": "yi1 xi1",
+    "english_segments": [
+      "vaguely",
+      "dimly",
+      "probably",
+      "very likely"
+    ],
+    "raw_source": "依稀 依稀 [yi1 xi1] /vaguely/dimly/probably/very likely/",
+    "source_line": 7878,
+    "ukrainian_segments": [
+      "невиразно; туманно",
+      "ледь помітно",
+      "можливо; імовірно",
+      "дуже ймовірно"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Два останні англійські значення неочевидні для звичного значення слова 依稀; збережені як наведені у джерелі."
+    ]
+  },
+  {
+    "id": "6a345d34409c5aa2",
+    "traditional": "侴",
+    "simplified": "侴",
+    "pinyin": "Chou3",
+    "english_segments": [
+      "surname Chou"
+    ],
+    "raw_source": "侴 侴 [Chou3] /surname Chou/",
+    "source_line": 7910,
+    "ukrainian_segments": [
+      "прізвище Чоу"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісне китайське прізвище; передано за поданою латинською вимовою Chou."
+    ]
+  },
+  {
+    "id": "d38773338478e32d",
+    "traditional": "便嬛",
+    "simplified": "便嬛",
+    "pinyin": "pian2 xuan1",
+    "english_segments": [
+      "(old) graceful"
+    ],
+    "raw_source": "便嬛 便嬛 [pian2 xuan1] /(old) graceful/",
+    "source_line": 7958,
+    "ukrainian_segments": [
+      "(застар.) граційний; витончений"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідковживана стара форма з читанням pian2 xuan1; значення відтворено за наведеним джерелом."
+    ]
+  },
+  {
+    "id": "51cb9292b36ebc3c",
+    "traditional": "俁",
+    "simplified": "俣",
+    "pinyin": "yu3",
+    "english_segments": [
+      "big"
+    ],
+    "raw_source": "俁 俣 [yu3] /big/",
+    "source_line": 8003,
+    "ukrainian_segments": [
+      "великий"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний ієрогліф із поодиноким значенням «великий», засвідченим лише джерелом."
+    ]
+  },
+  {
+    "id": "5a50c0fd527606d4",
+    "traditional": "俄羅斯帝國",
+    "simplified": "俄罗斯帝国",
+    "pinyin": "E2 luo2 si1 Di4 guo2",
+    "english_segments": [
+      "Russian empire (1546-1917)"
+    ],
+    "raw_source": "俄羅斯帝國 俄罗斯帝国 [E2 luo2 si1 Di4 guo2] /Russian empire (1546-1917)/",
+    "source_line": 8047,
+    "ukrainian_segments": [
+      "Російська імперія (1546–1917)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дати Російської імперії в англійському джерелі спірні: зазвичай її датують 1721–1917 рр.; збережено вихідний період 1546–1917 без мовчазного виправлення."
+    ]
+  },
+  {
+    "id": "88a9619bbbf8d51d",
+    "traditional": "俅",
+    "simplified": "俅",
+    "pinyin": "qiu2",
+    "english_segments": [
+      "ornamental cap"
+    ],
+    "raw_source": "俅 俅 [qiu2] /ornamental cap/",
+    "source_line": 8057,
+    "ukrainian_segments": [
+      "декоративний головний убір"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний історичний термін; точний різновид головного убору з наведеного джерела не визначається."
+    ]
+  },
+  {
+    "id": "9b20c762eac91df2",
+    "traditional": "保惠師",
+    "simplified": "保惠师",
+    "pinyin": "Bao3 hui4 shi1",
+    "english_segments": [
+      "(Christianity) Paraclete"
+    ],
+    "raw_source": "保惠師 保惠师 [Bao3 hui4 shi1] /(Christianity) Paraclete/",
+    "source_line": 8167,
+    "ukrainian_segments": [
+      "(християнство) Параклет; Утішитель"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Термін Paraclete має різні усталені переклади в християнській традиції; наведено український відповідник і транслітерацію."
+    ]
+  },
+  {
+    "id": "81b0127a3cdf00b3",
+    "traditional": "保爾森",
+    "simplified": "保尔森",
+    "pinyin": "Bao3 er3 sen1",
+    "english_segments": [
+      "Paulson or Powellson (name)",
+      "Henry (Hank) Paulson (1946-), US banker, US Treasury Secretary 2006-2009"
+    ],
+    "raw_source": "保爾森 保尔森 [Bao3 er3 sen1] /Paulson or Powellson (name)/Henry (Hank) Paulson (1946-), US banker, US Treasury Secretary 2006-2009/",
+    "source_line": 8186,
+    "ukrainian_segments": [
+      "Полсон або Пауелсон (прізвище)",
+      "Генрі (Генк) Полсон (нар. 1946), американський банкір, міністр фінансів США у 2006–2009 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Транслітерація прізвища Paulson/Powellson залежить від особи; у другому сегменті йдеться про Генрі Полсона."
+    ]
+  },
+  {
+    "id": "614d7ac212db7f37",
+    "traditional": "保角對應",
+    "simplified": "保角对应",
+    "pinyin": "bao3 jiao3 dui4 ying4",
+    "english_segments": [
+      "(math.) distance-preserving correspondence",
+      "conformal map"
+    ],
+    "raw_source": "保角對應 保角对应 [bao3 jiao3 dui4 ying4] /(math.) distance-preserving correspondence/conformal map/",
+    "source_line": 8215,
+    "ukrainian_segments": [
+      "(мат.) відповідність, що зберігає кути",
+      "конформне відображення"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Перше англійське тлумачення «distance-preserving» не узгоджується з 保角 («збереження кутів»); тут перекладено відповідно до китайського терміна й стандартного значення conformal map."
+    ]
+  },
+  {
+    "id": "16c425c210ccc919",
+    "traditional": "俱舍宗",
+    "simplified": "俱舍宗",
+    "pinyin": "Ju4 she4 zong1",
+    "english_segments": [
+      "Kusha-shū (Japanese Buddhism school)"
+    ],
+    "raw_source": "俱舍宗 俱舍宗 [Ju4 she4 zong1] /Kusha-shū (Japanese Buddhism school)/",
+    "source_line": 8512,
+    "ukrainian_segments": [
+      "Кусю-сю (школа японського буддизму)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву японської буддійської школи передано транскрипцією Kusha-shū; українська традиційна форма може відрізнятися."
+    ]
+  },
+  {
+    "id": "b01a1135cf6e52e1",
+    "traditional": "俴",
+    "simplified": "俴",
+    "pinyin": "jian4",
+    "english_segments": [
+      "short",
+      "shallow",
+      "thin plate"
+    ],
+    "raw_source": "俴 俴 [jian4] /short/shallow/thin plate/",
+    "source_line": 8519,
+    "ukrainian_segments": [
+      "короткий",
+      "неглибокий",
+      "тонка пластина"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Ієрогліф рідкісний, значення подано за окремими словниковими тлумаченнями."
+    ]
+  },
+  {
+    "id": "ead948702bc35bb4",
+    "traditional": "倒睫",
+    "simplified": "倒睫",
+    "pinyin": "dao4 jie2",
+    "english_segments": [
+      "trichiasis (ingrown eyelashes)"
+    ],
+    "raw_source": "倒睫 倒睫 [dao4 jie2] /trichiasis (ingrown eyelashes)/",
+    "source_line": 8700,
+    "ukrainian_segments": [
+      "трихіаз (вростання вій)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Медичний термін trichiasis перекладено як «трихіаз»; у загальному вжитку можливий описовий відповідник «вростання вій». "
+    ]
+  },
+  {
+    "id": "92cdf0f18009b38b",
+    "traditional": "倫琴",
+    "simplified": "伦琴",
+    "pinyin": "Lun2 qin2",
+    "english_segments": [
+      "Wilhelm Conrad Röntgen (1845-1923), German mechanical engineer"
+    ],
+    "raw_source": "倫琴 伦琴 [Lun2 qin2] /Wilhelm Conrad Röntgen (1845-1923), German mechanical engineer/",
+    "source_line": 8908,
+    "ukrainian_segments": [
+      "Вільгельм Конрад Рентген (1845–1923), німецький інженер-механік"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає Рентгена інженером-механіком; зазвичай його визначають як фізика, але формулювання джерела збережено."
+    ]
+  },
+  {
+    "id": "4bcb78ec9b40b108",
+    "traditional": "傮",
+    "simplified": "傮",
+    "pinyin": "zao1",
+    "english_segments": [
+      "finish, to go around"
+    ],
+    "raw_source": "傮 傮 [zao1] /finish, to go around/",
+    "source_line": 9686,
+    "ukrainian_segments": [
+      "завершувати; обходити; проходити коло"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісне 傮 має кілька давніх значень; відповідники подано за наданими глосами."
+    ]
+  },
+  {
+    "id": "923e15aad2ead5bd",
+    "traditional": "傯",
+    "simplified": "偬",
+    "pinyin": "zong3",
+    "english_segments": [
+      "busy",
+      "hurried",
+      "despondent"
+    ],
+    "raw_source": "傯 偬 [zong3] /busy/hurried/despondent/",
+    "source_line": 9687,
+    "ukrainian_segments": [
+      "заклопотаний",
+      "поспішний; квапливий",
+      "пригнічений"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісне 傯 має відтінки значення «заклопотаний/поспішний»; точний нюанс залежить від контексту."
+    ]
+  },
+  {
+    "id": "35ddafb5fc7256f9",
+    "traditional": "傿",
+    "simplified": "傿",
+    "pinyin": "Yan1",
+    "english_segments": [
+      "name of an immortal",
+      "ancient place name",
+      "surname Yan"
+    ],
+    "raw_source": "傿 傿 [Yan1] /name of an immortal/ancient place name/surname Yan/",
+    "source_line": 10001,
+    "ukrainian_segments": [
+      "ім’я безсмертного",
+      "давня назва місцевості",
+      "прізвище Янь"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Передавання давнього топоніма й прізвища орієнтоване на читання Yan1; точна ідентифікація залежить від контексту."
+    ]
+  },
+  {
+    "id": "9bc8b3bd8bd1e703",
+    "traditional": "傿",
+    "simplified": "傿",
+    "pinyin": "yan4",
+    "english_segments": [
+      "fraudulent price"
+    ],
+    "raw_source": "傿 傿 [yan4] /fraudulent price/",
+    "source_line": 10002,
+    "ukrainian_segments": [
+      "шахрайська ціна"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісна глоса «fraudulent price» перекладена буквально за наданим джерелом."
+    ]
+  },
+  {
+    "id": "494f4ff5ef1f1f6e",
+    "traditional": "僎",
+    "simplified": "僎",
+    "pinyin": "zhuan4",
+    "english_segments": [
+      "collect"
+    ],
+    "raw_source": "僎 僎 [zhuan4] /collect/",
+    "source_line": 10020,
+    "ukrainian_segments": [
+      "збирати"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний знак 僎; значення подано за єдиною наданою глосою."
+    ]
+  },
+  {
+    "id": "0130f4925875d75b",
+    "traditional": "僰",
+    "simplified": "僰",
+    "pinyin": "Bo2",
+    "english_segments": [
+      "name of an ethnic group"
+    ],
+    "raw_source": "僰 僰 [Bo2] /name of an ethnic group/",
+    "source_line": 10089,
+    "ukrainian_segments": [
+      "назва етнічного народу"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі подано лише назву народу без додаткового контексту."
+    ]
+  },
+  {
+    "id": "d384c5c4ba15b15a",
+    "traditional": "僾",
+    "simplified": "僾",
+    "pinyin": "ai4",
+    "english_segments": [
+      "indistinct",
+      "hazy",
+      "misty",
+      "to seem",
+      "to appear"
+    ],
+    "raw_source": "僾 僾 [ai4] /indistinct/hazy/misty/to seem/to appear/",
+    "source_line": 10138,
+    "ukrainian_segments": [
+      "нечіткий",
+      "туманний",
+      "імлистий",
+      "здаватися",
+      "видаватися"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Для рідкісного знака 僾 наведено кілька розрізнених глос; їхній зв’язок залежить від контексту."
+    ]
+  },
+  {
+    "id": "32c3288f961ea7d7",
+    "traditional": "僿",
+    "simplified": "僿",
+    "pinyin": "sai4",
+    "english_segments": [
+      "small, minute",
+      "lacking sincerity"
+    ],
+    "raw_source": "僿 僿 [sai4] /small, minute/lacking sincerity/",
+    "source_line": 10139,
+    "ukrainian_segments": [
+      "дрібний",
+      "бракує щирості"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний глосований знак 僿; переклад відтворює надані два значення."
+    ]
+  },
+  {
+    "id": "9350153f3da653f2",
+    "traditional": "儒學",
+    "simplified": "儒学",
+    "pinyin": "Ru2 xue2",
+    "english_segments": [
+      "Confucianism"
+    ],
+    "raw_source": "儒學 儒学 [Ru2 xue2] /Confucianism/",
+    "source_line": 10196,
+    "ukrainian_segments": [
+      "конфуціанство"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не ідентифікує сучасну групу; назву передано за читанням Bo2."
+    ]
+  },
+  {
+    "id": "56ad69fe5ad68fd3",
+    "traditional": "儦",
+    "simplified": "儦",
+    "pinyin": "biao1",
+    "english_segments": [
+      "walking to and fro"
+    ],
+    "raw_source": "儦 儦 [biao1] /walking to and fro/",
+    "source_line": 10228,
+    "ukrainian_segments": [
+      "ходити туди-сюди"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний словниковий знак 儦; переклад узято за наданою глосою."
+    ]
+  },
+  {
+    "id": "630bc37952743b84",
+    "traditional": "儩",
+    "simplified": "儩",
+    "pinyin": "si4",
+    "english_segments": [
+      "the end",
+      "to finish"
+    ],
+    "raw_source": "儩 儩 [si4] /the end/to finish/",
+    "source_line": 10229,
+    "ukrainian_segments": [
+      "кінець",
+      "завершувати"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний знак 儩 має два віддалені значення у джерелі; точний контекст не вказано."
+    ]
+  },
+  {
+    "id": "7b6adc9ce2f5ddef",
+    "traditional": "儳",
+    "simplified": "儳",
+    "pinyin": "chan4",
+    "english_segments": [
+      "irregular",
+      "mixed"
+    ],
+    "raw_source": "儳 儳 [chan4] /irregular/mixed/",
+    "source_line": 10314,
+    "ukrainian_segments": [
+      "нерегулярний",
+      "змішаний"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісні значення 儳 подано за короткими словниковими глосами; контекст не уточнений."
+    ]
+  },
+  {
+    "id": "05f5cad2ecfc3e3b",
+    "traditional": "儽",
+    "simplified": "儽",
+    "pinyin": "lei3",
+    "english_segments": [
+      "lazy",
+      "tired out, worn fatigued"
+    ],
+    "raw_source": "儽 儽 [lei3] /lazy/tired out, worn fatigued/",
+    "source_line": 10327,
+    "ukrainian_segments": [
+      "ледачий",
+      "стомлений, виснажений"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний знак 儽; варіант перекладу спирається на подані синонімічні глоси."
+    ]
+  },
+  {
+    "id": "0b8066bc5e8ca7da",
+    "traditional": "兀",
+    "simplified": "兀",
+    "pinyin": "wu4",
+    "english_segments": [
+      "(literary) rising to a height; towering",
+      "(literary) bald; bare",
+      "(literary) still; yet"
+    ],
+    "raw_source": "兀 兀 [wu4] /(literary) rising to a height; towering/(literary) bald; bare/(literary) still; yet/",
+    "source_line": 10329,
+    "ukrainian_segments": [
+      "(книжн.) височіти; здійматися",
+      "(книжн.) лисий; голий",
+      "(книжн.) досі; ще"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Багатозначний класичний знак 兀; відповідники прив’язані до кожної наданої глоси."
+    ]
+  },
+  {
+    "id": "3dc684dc9803e9e7",
+    "traditional": "元朗市",
+    "simplified": "元朗市",
+    "pinyin": "Yuan2 Lang3 shi4",
+    "english_segments": [
+      "Yuen Long town, Hong Kong Island"
+    ],
+    "raw_source": "元朗市 元朗市 [Yuan2 Lang3 shi4] /Yuen Long town, Hong Kong Island/",
+    "source_line": 10382,
+    "ukrainian_segments": [
+      "місто Юенлонг, острів Гонконг"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело тут називає Юенлонг містом на острові Гонконг, тоді як попередній запис відносить його до Нових Територій; переклад зберігає формулювання цього запису."
+    ]
+  }
+]

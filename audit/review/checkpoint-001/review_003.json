@@ -1,0 +1,2353 @@
+{
+  "reviewer_model_requested": "inherited stronger-model reviewer; no independent backend attestation",
+  "human_validation": false,
+  "reviewed_at_utc": "2026-10-14T23:56:40.550461+00:00",
+  "method": "All 100 entries inspected individually with both Chinese forms, exact pinyin, every English and Ukrainian segment, and uncertainty note. Corrections are proposed separately; no source files modified. Existing uncertainty flags must not be automatically cleared.",
+  "reviewed_ids": [
+    "987b8a4aafe4cf8c",
+    "d838b09f3b7b64f4",
+    "b0679e8983a2fb13",
+    "04dd3880d46dfa3a",
+    "11b7df9d15ebbca9",
+    "8a1ea30044b63768",
+    "8f34fc254104073c",
+    "eeacf6a5bd922e65",
+    "d6118920dcb8e4f9",
+    "daf7e480f3096697",
+    "f179486330149996",
+    "5b502c33d8c6af4e",
+    "202a73e41d9895f1",
+    "a242668d7848e4a1",
+    "7d1f51478fa398b0",
+    "ac6562198c421a6b",
+    "c4d7a5a8cde99cdb",
+    "600f250283d2fe25",
+    "d3f03dbd801706a3",
+    "2403563ae8ca5fed",
+    "d592d648f09d9428",
+    "0168943755f632b1",
+    "3c99603c3c95afda",
+    "8c203804f6486016",
+    "0c3941f50d891062",
+    "2c2f4508db2efeb9",
+    "3ee7e352b216472a",
+    "46e918ac49f1c4da",
+    "749307914428cb8a",
+    "8569b137912c0778",
+    "cdb4bf1d27129ee1",
+    "fd35bef9cc80ac9d",
+    "677deb2d0fab38c6",
+    "b8586efb6164dbf5",
+    "543c7dd13ebf0b8d",
+    "8604e9905ec50e6f",
+    "4afe4f4b2b9cce70",
+    "5614e543e0b826ca",
+    "ee552fc8896a62a6",
+    "8665e2fac6a8750e",
+    "9e2cb1969663823d",
+    "3a7a506e5f990db8",
+    "581e2b5796811c30",
+    "929cbf0326f51d94",
+    "3a3172ea056d5ed6",
+    "15f6a37baa873ff5",
+    "0dbd944d286059aa",
+    "ead4b84c1d78d2ac",
+    "b1a210cbba6bb0d0",
+    "f2a48bc7388e13e4",
+    "f1175f2b0361e97e",
+    "fb44c2d3849fa5d9",
+    "eba1a6f66b4e76e1",
+    "b9ffa5d72f3cabd0",
+    "952da3688af853e1",
+    "dbf177a066cd0001",
+    "dad99f295d61d14c",
+    "2304769159b48a6c",
+    "c78cae2d3e5f1fb9",
+    "e9b45b15bcc14732",
+    "4bee2cdbcf6e87cc",
+    "ec66d3b31fc0ab7a",
+    "08163f66ebaaba1f",
+    "0c54edaf995e8889",
+    "20282e6a316eb737",
+    "ef32dcc408c27a44",
+    "4e3c4ad52e3e4f97",
+    "9a65bfa930bbe3a1",
+    "3e6a705d1fc026fb",
+    "4906847d2a73693a",
+    "bba9d94af0ee8f46",
+    "31938eb43ccdcbc4",
+    "27d09b9d00b0bc15",
+    "56ae793ce4055f31",
+    "8ceae77d8c27ccfc",
+    "6c0822cad2dad9a0",
+    "ef0d4ec48c4f1290",
+    "07a02959a82031a5",
+    "e73ca5509f99f801",
+    "ed3c667d2147f419",
+    "570f22dc99c6f4d4",
+    "fed846504a2bb8b4",
+    "410ff3a4d8eff115",
+    "b8ac45eaf5cef49a",
+    "97a15e73b89ed7e4",
+    "203349f934e0f706",
+    "646fb1cd21491905",
+    "cdf351e19875f62b",
+    "e5325e86811cb722",
+    "1925342ce62edbb0",
+    "147b53e80f824d26",
+    "e386b295695f2e1d",
+    "5310e101a213b635",
+    "bf67e1c98ecf0ec2",
+    "43d1fca81f83413b",
+    "af7f879203f156bf",
+    "13d342849eca0bd9",
+    "ed3613c2249780b1",
+    "b15f174de958d869",
+    "2864e65209800043"
+  ],
+  "entries": [
+    {
+      "id": "987b8a4aafe4cf8c",
+      "source_line": 55,
+      "traditional": "A菜",
+      "simplified": "A菜",
+      "pinyin": "A cai4",
+      "outcome": "acceptable",
+      "reason": "The lettuce description, scientific name, regional label and both Tai-lo readings match the source; the regional naming caution is relevant.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Taiwanese lettuce name A-choy has regional transliteration variants; kept the source Tai-lo forms."
+      ],
+      "source_ids": [
+        "987b8a4aafe4cf8c"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "d838b09f3b7b64f4",
+      "source_line": 62,
+      "traditional": "B站",
+      "simplified": "B站",
+      "pinyin": "B zhan4",
+      "outcome": "correction_proposed",
+      "reason": "The draft drops scrolling/user-comment specificity and uses malformed «куленями»; describe the on-screen feature directly.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(розм.) Bilibili, китайський відеохостинг із накладеними на відео коментарями-«куленями» 彈幕|弹幕[dan4 mu4]",
+          "after": "(розм.) Bilibili, китайський відеохостинг із рухомими коментарями користувачів 彈幕|弹幕[dan4 mu4], накладеними поверх відео",
+          "reason": "The draft drops scrolling/user-comment specificity and uses malformed «куленями»; describe the on-screen feature directly.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "“Bullet comments” is a platform-specific overlay-comment feature; retained 彈幕|弹幕[dan4 mu4] exactly."
+      ],
+      "source_ids": [
+        "d838b09f3b7b64f4"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "b0679e8983a2fb13",
+      "source_line": 108,
+      "traditional": "PU",
+      "simplified": "PU",
+      "pinyin": "P U",
+      "outcome": "correction_proposed",
+      "reason": "The translation matches PU, but its sole uncertainty note concerns the unrelated slang entry P民.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "“Shitizen” is a derogatory pun on citizen; Ukrainian rendering is explanatory rather than a direct pun.",
+          "after": null,
+          "reason": "The translation matches PU, but its sole uncertainty note concerns the unrelated slang entry P民.",
+          "confidence": "high",
+          "issue_type": "cross_entry_note_contamination",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [],
+      "source_ids": [
+        "b0679e8983a2fb13"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "04dd3880d46dfa3a",
+      "source_line": 154,
+      "traditional": "□",
+      "simplified": "□",
+      "pinyin": "ging1",
+      "outcome": "correction_proposed",
+      "reason": "The senses and Taiwanese reading are preserved, but «скутований» is an inappropriate lexical rendering of uptight; «скутий» is natural Ukrainian.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "скутований; упертий; ніяково силувати себе щось робити (з тайванської, вимова тай-ло [king], часто записують ㄍㄧㄥ; загальноприйнятого написання ієрогліфами немає)",
+          "after": "скутий; упертий; ніяково силувати себе щось робити (з тайванської, вимова тай-ло [king], часто записують ㄍㄧㄥ; загальноприйнятого написання ієрогліфами немає)",
+          "reason": "The senses and Taiwanese reading are preserved, but «скутований» is an inappropriate lexical rendering of uptight; «скутий» is natural Ukrainian.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The Taiwanese colloquial item ㄍㄧㄥ has a context-sensitive range; the translation preserves the supplied senses without choosing a narrower single gloss."
+      ],
+      "source_ids": [
+        "04dd3880d46dfa3a"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "11b7df9d15ebbca9",
+      "source_line": 267,
+      "traditional": "㱾",
+      "simplified": "㱾",
+      "pinyin": "gai1",
+      "outcome": "acceptable",
+      "reason": "The protective ornament, materials and ancient usage are all preserved without inventing an identification.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Source identifies only an ancient protective ornament; its precise form and material may vary."
+      ],
+      "source_ids": [
+        "11b7df9d15ebbca9"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "8a1ea30044b63768",
+      "source_line": 270,
+      "traditional": "㲋",
+      "simplified": "㲋",
+      "pinyin": "chuo4",
+      "outcome": "acceptable",
+      "reason": "The comparative historical-animal description is accurate; no modern species is asserted.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The rare historical animal name is described by comparison in the source; no modern zoological identification is given."
+      ],
+      "source_ids": [
+        "8a1ea30044b63768"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "8f34fc254104073c",
+      "source_line": 285,
+      "traditional": "㶸",
+      "simplified": "㶸",
+      "pinyin": "xie2",
+      "outcome": "acceptable",
+      "reason": "Both the explicitly unknown iron-related meaning and the variant reference are correctly retained.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source explicitly says the precise sense is unknown; the translation preserves that uncertainty."
+      ],
+      "source_ids": [
+        "8f34fc254104073c"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "eeacf6a5bd922e65",
+      "source_line": 318,
+      "traditional": "䓬",
+      "simplified": "䓬",
+      "pinyin": "zhuo2",
+      "outcome": "acceptable",
+      "reason": "The chemistry gloss is consistent with the supplied tropylium-ion sense; the note is relevant.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Tropylium ion is a specialized chemistry term."
+      ],
+      "source_ids": [
+        "eeacf6a5bd922e65"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "d6118920dcb8e4f9",
+      "source_line": 345,
+      "traditional": "䥑",
+      "simplified": "鿏",
+      "pinyin": "mai4",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian element name matches meitnerium; no translation change is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Element name transliterated as meitnerium."
+      ],
+      "source_ids": [
+        "d6118920dcb8e4f9"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "daf7e480f3096697",
+      "source_line": 361,
+      "traditional": "䲘",
+      "simplified": "鳤",
+      "pinyin": "guan3",
+      "outcome": "acceptable",
+      "reason": "Latin species, family and East Asian location are faithfully preserved.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The Latin binomial is retained as the source’s species identification."
+      ],
+      "source_ids": [
+        "daf7e480f3096697"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "f179486330149996",
+      "source_line": 461,
+      "traditional": "一卡通",
+      "simplified": "一卡通",
+      "pinyin": "Yi1 ka3 tong1",
+      "outcome": "acceptable",
+      "reason": "Both contactless-card names and their principal geographic/transport uses are preserved.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Yikatong and iPASS are retained as official card names; regional service coverage follows the source."
+      ],
+      "source_ids": [
+        "f179486330149996"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "5b502c33d8c6af4e",
+      "source_line": 489,
+      "traditional": "一品紅",
+      "simplified": "一品红",
+      "pinyin": "yi1 pin3 hong2",
+      "outcome": "acceptable",
+      "reason": "The poinsettia gloss and Latin binomial agree; the note correctly identifies the retained scientific name.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Botanical scientific name retained from source."
+      ],
+      "source_ids": [
+        "5b502c33d8c6af4e"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "202a73e41d9895f1",
+      "source_line": 514,
+      "traditional": "一塵不染",
+      "simplified": "一尘不染",
+      "pinyin": "yi1 chen2 bu4 ran3",
+      "outcome": "acceptable",
+      "reason": "Literal cleanliness and both moral senses are preserved in one aligned segment.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "This phrase has literal and figurative readings; both are retained in the single source segment."
+      ],
+      "source_ids": [
+        "202a73e41d9895f1"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "a242668d7848e4a1",
+      "source_line": 517,
+      "traditional": "一夔已足",
+      "simplified": "一夔已足",
+      "pinyin": "yi1 kui2 yi3 zu2",
+      "outcome": "acceptable",
+      "reason": "The idiomatic sufficient-talented-person meaning is preserved; the allusion note does not contradict it.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The idiom alludes to the ancient musician Kui; the concise gloss follows the source meaning."
+      ],
+      "source_ids": [
+        "a242668d7848e4a1"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "7d1f51478fa398b0",
+      "source_line": 583,
+      "traditional": "一帶一路",
+      "simplified": "一带一路",
+      "pinyin": "Yi1 dai4 Yi1 lu4",
+      "outcome": "correction_proposed",
+      "reason": "The translation is adequate, but the note falsely says the official English name was retained: only its abbreviation is present.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Official English name retained for China’s BRI policy; the gloss follows the source description.",
+          "after": "Назву ініціативи перекладено українською; абревіатуру BRI та опис джерела збережено.",
+          "reason": "The translation is adequate, but the note falsely says the official English name was retained: only its abbreviation is present.",
+          "confidence": "high",
+          "issue_type": "metadata_inaccuracy",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Назву ініціативи перекладено українською; абревіатуру BRI та опис джерела збережено."
+      ],
+      "source_ids": [
+        "7d1f51478fa398b0"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "ac6562198c421a6b",
+      "source_line": 624,
+      "traditional": "一把屎一把尿",
+      "simplified": "一把屎一把尿",
+      "pinyin": "yi1 ba3 shi3 yi1 ba3 niao4",
+      "outcome": "acceptable",
+      "reason": "The hardships-of-raising-children idiom is correctly conveyed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The expression is idiomatic and refers to the hardships of raising children; wording follows the source."
+      ],
+      "source_ids": [
+        "ac6562198c421a6b"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "c4d7a5a8cde99cdb",
+      "source_line": 677,
+      "traditional": "一時瑜亮",
+      "simplified": "一时瑜亮",
+      "pinyin": "yi1 shi2 Yu2 Liang4",
+      "outcome": "acceptable",
+      "reason": "Both historical people and exact Chinese/pinyin references are preserved; the comparative allusion remains clear.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The historical allusion names Zhou Yu and Zhuge Liang; names and bracketed pinyin are preserved as given."
+      ],
+      "source_ids": [
+        "c4d7a5a8cde99cdb"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "600f250283d2fe25",
+      "source_line": 736,
+      "traditional": "一氧化二氮",
+      "simplified": "一氧化二氮",
+      "pinyin": "yi1 yang3 hua4 er4 dan4",
+      "outcome": "acceptable",
+      "reason": "Both nitrous-oxide and laughing-gas senses, with N2O, are correct.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Chemical names and formula are retained from the source."
+      ],
+      "source_ids": [
+        "600f250283d2fe25"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "d3f03dbd801706a3",
+      "source_line": 774,
+      "traditional": "一發",
+      "simplified": "一发",
+      "pinyin": "yi1 fa1",
+      "outcome": "correction_proposed",
+      "reason": "«У тому самому ході» wrongly narrows ippatsu to the declaration move; official EMA rules specify the first uninterrupted set of turns after riichi.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(японський маджонг) завершити комбінацію в тому самому ході після оголошення річі (запозичення написання з японського 一発 «ippatsu»)",
+          "after": "(японський маджонг) завершити виграшну комбінацію протягом першого безперервного кола ходів після оголошення річі (запозичення написання з японського 一発 «ippatsu»)",
+          "reason": "«У тому самому ході» wrongly narrows ippatsu to the declaration move; official EMA rules specify the first uninterrupted set of turns after riichi.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Japanese mahjong term and reading are retained from the source description."
+      ],
+      "source_ids": [
+        "d3f03dbd801706a3"
+      ],
+      "external_sources": [
+        {
+          "title": "European Mahjong Association, Riichi rules 2025, Ippatsu",
+          "url": "https://mahjong-europe.org/portal/images/docs/Riichi-rules-2025-EN.pdf",
+          "evidence": "Official indexed rule definition: first uninterrupted set of turns after riichi. Direct PDF retrieval timed out; indexed official text read."
+        }
+      ]
+    },
+    {
+      "id": "2403563ae8ca5fed",
+      "source_line": 781,
+      "traditional": "一目十行",
+      "simplified": "一目十行",
+      "pinyin": "yi1 mu4 shi2 hang2",
+      "outcome": "acceptable",
+      "reason": "Both the ten-lines-at-a-glance image and rapid-reading sense are retained.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Idiom’s literal reading is unusual; figurative sense is retained separately."
+      ],
+      "source_ids": [
+        "2403563ae8ca5fed"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "d592d648f09d9428",
+      "source_line": 798,
+      "traditional": "一碗水端平",
+      "simplified": "一碗水端平",
+      "pinyin": "yi1 wan3 shui3 duan1 ping2",
+      "outcome": "correction_proposed",
+      "reason": "Hold has become carry, and the note refers to an unrelated house image. Correct the verb and quarantine that note.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "букв. нести чашу з водою рівно (ідіома)",
+          "after": "букв. тримати миску з водою рівно (ідіома)",
+          "reason": "Hold has become carry, and the note refers to an unrelated house image. Correct the verb and quarantine that note.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "The idiom’s object “house” is implicit in the source’s English gloss; rendered literally and figuratively.",
+          "after": null,
+          "reason": "Hold has become carry, and the note refers to an unrelated house image. Correct the verb and quarantine that note.",
+          "confidence": "high",
+          "issue_type": "cross_entry_note_contamination",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [],
+      "source_ids": [
+        "d592d648f09d9428"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "0168943755f632b1",
+      "source_line": 799,
+      "traditional": "一神教",
+      "simplified": "一神教",
+      "pinyin": "yi1 shen2 jiao4",
+      "outcome": "correction_proposed",
+      "reason": "Both monotheism senses are correctly translated, but the note invents an absent Unitarianism distinction.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Theological distinction between monotheism and Unitarianism is preserved as given.",
+          "after": null,
+          "reason": "Both monotheism senses are correctly translated, but the note invents an absent Unitarianism distinction.",
+          "confidence": "high",
+          "issue_type": "cross_entry_note_contamination",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [],
+      "source_ids": [
+        "0168943755f632b1"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "3c99603c3c95afda",
+      "source_line": 861,
+      "traditional": "一致字",
+      "simplified": "一致字",
+      "pinyin": "yi1 zhi4 zi4",
+      "outcome": "correction_proposed",
+      "reason": "The first gloss implies generally fixed spelling/pronunciation rather than consistent pronunciation of the shared letter group; the examples support a more precise description.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(орфографія) слова зі сталим написанням і вимовою (напр. «dean», «bean» і «lean», де «-ean» у кожному слові вимовляється однаково)",
+          "after": "(орфографія) слова з однаковою вимовою спільного буквосполучення (напр. «dean», «bean» і «lean», де «-ean» у кожному слові вимовляється однаково)",
+          "reason": "The first gloss implies generally fixed spelling/pronunciation rather than consistent pronunciation of the shared letter group; the examples support a more precise description.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source’s examples and bracketed pinyin are preserved exactly."
+      ],
+      "source_ids": [
+        "3c99603c3c95afda"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "8c203804f6486016",
+      "source_line": 881,
+      "traditional": "一般貿易",
+      "simplified": "一般贸易",
+      "pinyin": "yi1 ban1 mao4 yi4",
+      "outcome": "acceptable",
+      "reason": "The import/export-without-processing category is preserved; the specialized-category caution is relevant.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "“General trade” is a customs/trade category; scope is retained from the source description."
+      ],
+      "source_ids": [
+        "8c203804f6486016"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "0c3941f50d891062",
+      "source_line": 885,
+      "traditional": "一著不慎，滿盤皆輸",
+      "simplified": "一着不慎，满盘皆输",
+      "pinyin": "yi1 zhao1 bu4 shen4 , man3 pan2 jie1 shu1",
+      "outcome": "acceptable",
+      "reason": "The careless-move consequence and game metaphor are preserved; no change is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "This is an idiomatic admonition about a careless move; retained in compact literal form."
+      ],
+      "source_ids": [
+        "0c3941f50d891062"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "2c2f4508db2efeb9",
+      "source_line": 903,
+      "traditional": "一覽眾山小",
+      "simplified": "一览众山小",
+      "pinyin": "yi1 lan3 zhong4 shan1 xiao3",
+      "outcome": "correction_proposed",
+      "reason": "The quoted scene and references are preserved, but the source attribution to the Tang dynasty was omitted.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(останній рядок вірша «望岳» поета Ду Фу 杜甫[Du4 Fu3]) з вершини гори Тай 泰山[Tai4 Shan1] одним поглядом побачити всі менші гори внизу",
+          "after": "(останній рядок вірша «望岳» поета доби Тан Ду Фу 杜甫[Du4 Fu3]) з вершини гори Тай 泰山[Tai4 Shan1] одним поглядом побачити всі менші гори внизу",
+          "reason": "The quoted scene and references are preserved, but the source attribution to the Tang dynasty was omitted.",
+          "confidence": "high",
+          "issue_type": "omitted_source_detail"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Poem title and proper names are preserved as supplied."
+      ],
+      "source_ids": [
+        "2c2f4508db2efeb9"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "3ee7e352b216472a",
+      "source_line": 966,
+      "traditional": "一遞一個",
+      "simplified": "一递一个",
+      "pinyin": "yi1 di4 yi1 ge4",
+      "outcome": "correction_proposed",
+      "reason": "The one-after-another gloss is correct; its orthography/examples note belongs to another entry.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Orthographic terminology is rendered descriptively; examples and bracketed pinyin are preserved exactly.",
+          "after": null,
+          "reason": "The one-after-another gloss is correct; its orthography/examples note belongs to another entry.",
+          "confidence": "high",
+          "issue_type": "cross_entry_note_contamination",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [],
+      "source_ids": [
+        "3ee7e352b216472a"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "46e918ac49f1c4da",
+      "source_line": 1002,
+      "traditional": "一頭熱",
+      "simplified": "一头热",
+      "pinyin": "yi1 tou2 re4",
+      "outcome": "acceptable",
+      "reason": "The one-sided-enthusiasm gloss and complete expansion reference are intact.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source expands the idiom; retained as a one-sided-enthusiasm sense and its preserved Chinese reference."
+      ],
+      "source_ids": [
+        "46e918ac49f1c4da"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "749307914428cb8a",
+      "source_line": 1022,
+      "traditional": "一鳴驚人",
+      "simplified": "一鸣惊人",
+      "pinyin": "yi1 ming2 jing1 ren2",
+      "outcome": "acceptable",
+      "reason": "Both sudden-accomplishment and overnight-fame senses are conveyed; no material correction is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The phrase is rendered as a fixed proverb; exact nuance may depend on context."
+      ],
+      "source_ids": [
+        "749307914428cb8a"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "8569b137912c0778",
+      "source_line": 1040,
+      "traditional": "丁丁",
+      "simplified": "丁丁",
+      "pinyin": "Ding1 ding1",
+      "outcome": "acceptable",
+      "reason": "The fictional character, author and naming reference are coherent; no broader canonical-spelling certification is implied.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Tintin is the established Ukrainian transliteration of the fictional character’s name."
+      ],
+      "source_ids": [
+        "8569b137912c0778"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "cdb4bf1d27129ee1",
+      "source_line": 1041,
+      "traditional": "丁丁",
+      "simplified": "丁丁",
+      "pinyin": "ding1 ding1",
+      "outcome": "acceptable",
+      "reason": "The slang sense and JJ/雞雞 wordplay are accurately retained.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The slang entry is a euphemistic wordplay on the cited term, preserved as explanatory context."
+      ],
+      "source_ids": [
+        "cdb4bf1d27129ee1"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "fd35bef9cc80ac9d",
+      "source_line": 1044,
+      "traditional": "丁丑",
+      "simplified": "丁丑",
+      "pinyin": "ding1 chou3",
+      "outcome": "acceptable",
+      "reason": "The ordinal, sexagenary-cycle notation and sample years are faithfully reproduced.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Dingchou is one of the sexagenary-cycle year names; the dates are retained from source."
+      ],
+      "source_ids": [
+        "fd35bef9cc80ac9d"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "677deb2d0fab38c6",
+      "source_line": 1051,
+      "traditional": "丁加奴",
+      "simplified": "丁加奴",
+      "pinyin": "Ding1 jia1 nu2",
+      "outcome": "deferred",
+      "reason": "The older place-name spelling, replacement Chinese name and 2005 date are all retained; standard Ukrainian toponymy remains unverified.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The older transliteration and replacement place name are preserved as cited.",
+        "The older place-name spelling, replacement Chinese name and 2005 date are all retained; standard Ukrainian toponymy remains unverified."
+      ],
+      "source_ids": [
+        "677deb2d0fab38c6"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "b8586efb6164dbf5",
+      "source_line": 1074,
+      "traditional": "丁汝昌",
+      "simplified": "丁汝昌",
+      "pinyin": "Ding1 Ru3 chang1",
+      "outcome": "acceptable",
+      "reason": "The commander, dynasty, fleet and dates match the provided source; a specialist name-normalization pass is still separate.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The named Qing naval commander is transliterated as Ding Ruchang; dates follow the source."
+      ],
+      "source_ids": [
+        "b8586efb6164dbf5"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "543c7dd13ebf0b8d",
+      "source_line": 1077,
+      "traditional": "丁玲",
+      "simplified": "丁玲",
+      "pinyin": "Ding1 Ling2",
+      "outcome": "acceptable",
+      "reason": "The novelist, book, dates and persecution context are retained; the translated title is not presented as a verified published Ukrainian title.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Ding Ling’s novel title is rendered into Ukrainian while the source title and pinyin are preserved exactly."
+      ],
+      "source_ids": [
+        "543c7dd13ebf0b8d"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "8604e9905ec50e6f",
+      "source_line": 1078,
+      "traditional": "丁磊",
+      "simplified": "丁磊",
+      "pinyin": "Ding1 Lei3",
+      "outcome": "acceptable",
+      "reason": "The source biography and NetEase cross-reference are preserved. Current CEO status was not independently fact-checked in this linguistic review.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "NetEase is given with its source Chinese form and pinyin unchanged."
+      ],
+      "source_ids": [
+        "8604e9905ec50e6f"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "4afe4f4b2b9cce70",
+      "source_line": 1080,
+      "traditional": "丁肇中",
+      "simplified": "丁肇中",
+      "pinyin": "Ding1 Zhao4 zhong1",
+      "outcome": "correction_proposed",
+      "reason": "The translation is intelligible, but the note contradictorily claims Latin spelling was retained inside Ukrainian transliteration.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "The source provides an English personal name; preserved as Samuel C. C. Ting in Latin spelling in Ukrainian transliteration.",
+          "after": "Особове ім’я передано українською з англійської форми Samuel C. C. Ting; усталене українське написання потребує окремої перевірки.",
+          "reason": "The translation is intelligible, but the note contradictorily claims Latin spelling was retained inside Ukrainian transliteration.",
+          "confidence": "high",
+          "issue_type": "metadata_inaccuracy",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Особове ім’я передано українською з англійської форми Samuel C. C. Ting; усталене українське написання потребує окремої перевірки."
+      ],
+      "source_ids": [
+        "4afe4f4b2b9cce70"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "5614e543e0b826ca",
+      "source_line": 1089,
+      "traditional": "丁青縣",
+      "simplified": "丁青县",
+      "pinyin": "Ding1 qing1 Xian4",
+      "outcome": "deferred",
+      "reason": "The Tibetan county and Chamdo reference are preserved; the preferred Ukrainian rendering of the local name requires specialist confirmation.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Dêngqên is the local romanization supplied by the source.",
+        "The Tibetan county and Chamdo reference are preserved; the preferred Ukrainian rendering of the local name requires specialist confirmation."
+      ],
+      "source_ids": [
+        "5614e543e0b826ca"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "ee552fc8896a62a6",
+      "source_line": 1090,
+      "traditional": "丁韙良",
+      "simplified": "丁韪良",
+      "pinyin": "Ding1 Wei3 liang2",
+      "outcome": "acceptable",
+      "reason": "The provided biographical dates, duration and institutional roles are preserved; this is not independent historical verification.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Historical biography and institutional roles are retained as stated."
+      ],
+      "source_ids": [
+        "ee552fc8896a62a6"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "8665e2fac6a8750e",
+      "source_line": 1098,
+      "traditional": "七七事變",
+      "simplified": "七七事变",
+      "pinyin": "Qi1 Qi1 Shi4 bian4",
+      "outcome": "acceptable",
+      "reason": "Date, incident, war framing and cross-reference match the source.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source’s historical framing is retained; the embedded Chinese war name and pinyin are preserved."
+      ],
+      "source_ids": [
+        "8665e2fac6a8750e"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "9e2cb1969663823d",
+      "source_line": 1102,
+      "traditional": "七事",
+      "simplified": "七事",
+      "pinyin": "qi1 shi4",
+      "outcome": "acceptable",
+      "reason": "The archaic sovereign-duty count is preserved without inventing an enumeration.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source names a group of seven sovereign duties but does not enumerate them."
+      ],
+      "source_ids": [
+        "9e2cb1969663823d"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "3a7a506e5f990db8",
+      "source_line": 1106,
+      "traditional": "七十七國集團",
+      "simplified": "七十七国集团",
+      "pinyin": "Qi1 shi2 qi1 Guo2 Ji2 tuan2",
+      "outcome": "acceptable",
+      "reason": "Group name, developing-country composition, loose alliance and founding year are retained.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The Group of 77 label and source description are retained."
+      ],
+      "source_ids": [
+        "3a7a506e5f990db8"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "581e2b5796811c30",
+      "source_line": 1109,
+      "traditional": "七喜",
+      "simplified": "七喜",
+      "pinyin": "Qi1 xi3",
+      "outcome": "correction_proposed",
+      "reason": "Both homonymous senses are correctly translated; the note falsely denies the explicitly present soft-drink sense.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "The source names a Chinese manufacturer, not the soft-drink brand.",
+          "after": "Джерело містить два значення: назву газованого напою 7 Up і назву китайського виробника Hedy Holding Co.",
+          "reason": "Both homonymous senses are correctly translated; the note falsely denies the explicitly present soft-drink sense.",
+          "confidence": "high",
+          "issue_type": "metadata_inaccuracy",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Джерело містить два значення: назву газованого напою 7 Up і назву китайського виробника Hedy Holding Co."
+      ],
+      "source_ids": [
+        "581e2b5796811c30"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "929cbf0326f51d94",
+      "source_line": 1118,
+      "traditional": "七大工業國集團",
+      "simplified": "七大工业国集团",
+      "pinyin": "qi1 da4 gong1 ye4 guo2 ji2 tuan2",
+      "outcome": "correction_proposed",
+      "reason": "The translation reproduces an obsolete source claim that G7 is now G8 with Russia. Mark that wording explicitly as historical source text rather than present fact.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "G7 — група семи промислово розвинених країн: США, Японії, Великої Британії, Німеччини, Франції, Італії та Канади (нині G8, з Росією)",
+          "after": "G7 — група семи промислово розвинених країн: США, Японії, Великої Британії, Німеччини, Франції, Італії та Канади (застаріла примітка джерела: «нині G8, з Росією»)",
+          "reason": "The translation reproduces an obsolete source claim that G7 is now G8 with Russia. Mark that wording explicitly as historical source text rather than present fact.",
+          "confidence": "high",
+          "issue_type": "outdated_source_explicitly_labeled"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "The historical parenthetical “now G8, including Russia” follows the source wording.",
+          "after": "Примітка джерела «нині G8, з Росією» застаріла; її збережено лише як позначене історичне формулювання джерела.",
+          "reason": "The translation reproduces an obsolete source claim that G7 is now G8 with Russia. Mark that wording explicitly as historical source text rather than present fact.",
+          "confidence": "high",
+          "issue_type": "metadata_inaccuracy",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Примітка джерела «нині G8, з Росією» застаріла; її збережено лише як позначене історичне формулювання джерела."
+      ],
+      "source_ids": [
+        "929cbf0326f51d94"
+      ],
+      "external_sources": [
+        {
+          "title": "US White House archive, Background Briefing on the G7 Meeting, 24 March 2014",
+          "url": "https://obamawhitehouse.archives.gov/the-press-office/2014/03/24/background-briefing-g7-meeting/",
+          "evidence": "Official source records suspension of the G8 format with Russia and G7 participation."
+        }
+      ]
+    },
+    {
+      "id": "3a3172ea056d5ed6",
+      "source_line": 1122,
+      "traditional": "七帶石斑魚",
+      "simplified": "七带石斑鱼",
+      "pinyin": "qi1 dai4 shi2 ban1 yu2",
+      "outcome": "acceptable",
+      "reason": "The source gives only a Latin taxon; reproducing it is appropriate and the note is relevant.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Latin scientific name retained from source."
+      ],
+      "source_ids": [
+        "3a3172ea056d5ed6"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "15f6a37baa873ff5",
+      "source_line": 1127,
+      "traditional": "七律",
+      "simplified": "七律",
+      "pinyin": "qi1 lu:4",
+      "outcome": "acceptable",
+      "reason": "Line count, characters per line, alternate rhyme and exact reference are preserved.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The classical poetry form and source reference are preserved."
+      ],
+      "source_ids": [
+        "15f6a37baa873ff5"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "0dbd944d286059aa",
+      "source_line": 1135,
+      "traditional": "七方",
+      "simplified": "七方",
+      "pinyin": "qi1 fang1",
+      "outcome": "acceptable",
+      "reason": "All seven traditional prescription categories and the alternative eighth label are faithfully retained; no clinical guidance is inferred.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The traditional categories are obscure; the source list is reproduced as supplied."
+      ],
+      "source_ids": [
+        "0dbd944d286059aa"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "ead4b84c1d78d2ac",
+      "source_line": 1136,
+      "traditional": "七日熱",
+      "simplified": "七日热",
+      "pinyin": "qi1 ri4 re4",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian medical term is the supplied lexical equivalent; no treatment claim is added.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Leptospirosis is the established medical equivalent."
+      ],
+      "source_ids": [
+        "ead4b84c1d78d2ac"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "b1a210cbba6bb0d0",
+      "source_line": 1147,
+      "traditional": "七河州",
+      "simplified": "七河州",
+      "pinyin": "Qi1 he2 zhou1",
+      "outcome": "acceptable",
+      "reason": "The regional and lake references are coherent; historical framing is appropriate.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Semirechye is a historical regional name; retained from source."
+      ],
+      "source_ids": [
+        "b1a210cbba6bb0d0"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "f2a48bc7388e13e4",
+      "source_line": 1167,
+      "traditional": "七里香",
+      "simplified": "七里香",
+      "pinyin": "qi1 li3 xiang1",
+      "outcome": "correction_proposed",
+      "reason": "Orange was mistranslated as a colour. Use the taxon and an explicitly descriptive common-name rendering. The unusual snack-preparation source remains unresolved.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "оранжевий жасмин (Murraya paniculata)",
+          "after": "муррая (Murraya paniculata; англ. «orange jasmine», буквально «апельсиновий жасмин»)",
+          "reason": "Orange was mistranslated as a colour. Use the taxon and an explicitly descriptive common-name rendering. The unusual snack-preparation source remains unresolved.",
+          "confidence": "medium",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The regional snack name is translated literally with the source preparation description.",
+        "The provided snack gloss associates marinated chicken butt with white-cut chicken; verify this preparation before refining segment 1. Proposed plant rendering avoids asserting a standardized Ukrainian common name."
+      ],
+      "source_ids": [
+        "f2a48bc7388e13e4"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "f1175f2b0361e97e",
+      "source_line": 1171,
+      "traditional": "七魄",
+      "simplified": "七魄",
+      "pinyin": "qi1 po4",
+      "outcome": "acceptable",
+      "reason": "The mortal/immortal Daoist contrast is preserved; no fabricated precision about the entities is added.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The Daoist concept and contrast are retained; 三魂 appears without pinyin in the source."
+      ],
+      "source_ids": [
+        "f1175f2b0361e97e"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "fb44c2d3849fa5d9",
+      "source_line": 1172,
+      "traditional": "七鰓鰻",
+      "simplified": "七鳃鳗",
+      "pinyin": "qi1 sai1 man2",
+      "outcome": "acceptable",
+      "reason": "The lamprey gloss and provided family are retained; source taxonomy is not independently certified.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Taxonomic family retained from source."
+      ],
+      "source_ids": [
+        "fb44c2d3849fa5d9"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "eba1a6f66b4e76e1",
+      "source_line": 1177,
+      "traditional": "万俟",
+      "simplified": "万俟",
+      "pinyin": "Mo4 qi2",
+      "outcome": "deferred",
+      "reason": "The surname meaning is clear, but the claim that «Моцзі» reliably follows Moqi is not established; defer Ukrainian transcription normalization.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Moqi is a rare two-character Chinese surname; transliteration here follows the provided reading.",
+        "The surname meaning is clear, but the claim that «Моцзі» reliably follows Moqi is not established; defer Ukrainian transcription normalization."
+      ],
+      "source_ids": [
+        "eba1a6f66b4e76e1"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "b9ffa5d72f3cabd0",
+      "source_line": 1179,
+      "traditional": "丈二和尚，摸不著頭腦",
+      "simplified": "丈二和尚，摸不着头脑",
+      "pinyin": "zhang4 er4 he2 shang5 , mo1 bu5 zhao2 tou2 nao3",
+      "outcome": "acceptable",
+      "reason": "The literal monk image and bewilderment sense remain distinguishable and aligned.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The idiom’s wording is literally unusual; the figurative gloss is preserved separately."
+      ],
+      "source_ids": [
+        "b9ffa5d72f3cabd0"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "952da3688af853e1",
+      "source_line": 1182,
+      "traditional": "丈八蛇矛",
+      "simplified": "丈八蛇矛",
+      "pinyin": "zhang4 ba1 she2 mao2",
+      "outcome": "acceptable",
+      "reason": "The weapon, 18-chi length, preserved unit and serpentine blade are correctly represented.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "尺 is kept verbatim as a classifier/unit reference."
+      ],
+      "source_ids": [
+        "952da3688af853e1"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "dbf177a066cd0001",
+      "source_line": 1192,
+      "traditional": "三七",
+      "simplified": "三七",
+      "pinyin": "san1 qi1",
+      "outcome": "acceptable",
+      "reason": "The source plant identification and hemostatic descriptor are faithfully translated; botanical/clinical verification is separate.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The herb’s common and Latin names follow the source; used traditionally as a hemostatic."
+      ],
+      "source_ids": [
+        "dbf177a066cd0001"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "dad99f295d61d14c",
+      "source_line": 1196,
+      "traditional": "三七開定論",
+      "simplified": "三七开定论",
+      "pinyin": "san1 qi1 kai1 ding4 lun4",
+      "outcome": "correction_proposed",
+      "reason": "English verdict here is a political assessment, not a judicial sentence; «вирок» creates the wrong sense.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "70 відсотків успіху й 30 відсотків невдачі — офіційний вирок КНР Мао Цзедуну",
+          "after": "30 відсотків невдач і 70 відсотків успіху — офіційна оцінка Мао Цзедуна в КНР",
+          "reason": "English verdict here is a political assessment, not a judicial sentence; «вирок» creates the wrong sense.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "This is a politically specific historical formula; wording follows the source."
+      ],
+      "source_ids": [
+        "dad99f295d61d14c"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "2304769159b48a6c",
+      "source_line": 1202,
+      "traditional": "三不朽",
+      "simplified": "三不朽",
+      "pinyin": "san1 bu4 xiu3",
+      "outcome": "acceptable",
+      "reason": "The three historically lasting achievements and all source references are retained.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The three imperishables and cited source text are retained from the English gloss."
+      ],
+      "source_ids": [
+        "2304769159b48a6c"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "c78cae2d3e5f1fb9",
+      "source_line": 1206,
+      "traditional": "三世",
+      "simplified": "三世",
+      "pinyin": "san1 shi4",
+      "outcome": "correction_proposed",
+      "reason": "Regnal numbering was misleadingly described as a numbered list, and the note is about unrelated duties.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Третій (у нумерованому списку монархів)",
+          "after": "Третій (порядковий номер в іменах монархів)",
+          "reason": "Regnal numbering was misleadingly described as a numbered list, and the note is about unrelated duties.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "The three duties are not specified in the headword gloss beyond their count.",
+          "after": null,
+          "reason": "Regnal numbering was misleadingly described as a numbered list, and the note is about unrelated duties.",
+          "confidence": "high",
+          "issue_type": "cross_entry_note_contamination",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [],
+      "source_ids": [
+        "c78cae2d3e5f1fb9"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "e9b45b15bcc14732",
+      "source_line": 1218,
+      "traditional": "三仇",
+      "simplified": "三仇",
+      "pinyin": "san1 chou2",
+      "outcome": "acceptable",
+      "reason": "All three social groups and perceived abuse-of-power framing are retained; phrasing is awkward but not materially mistranslated.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The listed groups and framing follow the source and may reflect a specific political slogan."
+      ],
+      "source_ids": [
+        "e9b45b15bcc14732"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "4bee2cdbcf6e87cc",
+      "source_line": 1223,
+      "traditional": "三伏",
+      "simplified": "三伏",
+      "pinyin": "san1 fu2",
+      "outcome": "acceptable",
+      "reason": "The three named seasonal periods and source date range are retained; calendrical precision is not independently verified.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "伏 terms are calendrical seasonal periods; original Chinese labels are preserved."
+      ],
+      "source_ids": [
+        "4bee2cdbcf6e87cc"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "ec66d3b31fc0ab7a",
+      "source_line": 1226,
+      "traditional": "三俠五義",
+      "simplified": "三侠五义",
+      "pinyin": "San1 xia2 wu3 yi4",
+      "outcome": "correction_proposed",
+      "reason": "The genre cross-reference is displaced to the end near the dynasty rather than beside pinghua; restore its attachment to the storytelling genre.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "«Санся уї» (букв. «Троє лицарів і п’ятеро праведників»), роман, укладений із переказів майстра пінхуа 石玉昆 Ши Юкуня доби пізньої Цін 評話|评话",
+          "after": "«Санся уї» (букв. «Троє лицарів і п’ятеро праведників»), роман, укладений з оповідей Ши Юкуня 石玉昆, майстра оповіді пінхуа 評話|评话 доби пізньої Цін",
+          "reason": "The genre cross-reference is displaced to the end near the dynasty rather than beside pinghua; restore its attachment to the storytelling genre.",
+          "confidence": "high",
+          "issue_type": "reference_attachment"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Title is transliterated descriptively; the source’s genre terminology is retained."
+      ],
+      "source_ids": [
+        "ec66d3b31fc0ab7a"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "08163f66ebaaba1f",
+      "source_line": 1227,
+      "traditional": "三個世界",
+      "simplified": "三个世界",
+      "pinyin": "San1 ge5 Shi4 jie4",
+      "outcome": "acceptable",
+      "reason": "The three geopolitical categories match the historical Mao-era framework.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "This is Mao-era political terminology and is summarized as supplied."
+      ],
+      "source_ids": [
+        "08163f66ebaaba1f"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "0c54edaf995e8889",
+      "source_line": 1228,
+      "traditional": "三個代表",
+      "simplified": "三个代表",
+      "pinyin": "San1 ge4 Dai4 biao3",
+      "outcome": "acceptable",
+      "reason": "The policy title, official reference and supplied years are preserved.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The policy title is a proper name; Chinese name and pinyin are retained."
+      ],
+      "source_ids": [
+        "0c54edaf995e8889"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "20282e6a316eb737",
+      "source_line": 1231,
+      "traditional": "三個女人一個墟",
+      "simplified": "三个女人一个墟",
+      "pinyin": "san1 ge4 nu:3 ren2 yi1 ge4 xu1",
+      "outcome": "correction_proposed",
+      "reason": "Use the ordinary feminine numeral «три жінки» and make the proverb reading clear; retain the source stereotype as a dictionary quotation.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "троє жінок створюють натовп",
+          "after": "три жінки — уже натовп (приказка)",
+          "reason": "Use the ordinary feminine numeral «три жінки» and make the proverb reading clear; retain the source stereotype as a dictionary quotation.",
+          "confidence": "high",
+          "issue_type": "grammar"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Regional saying is presented in the source without more context."
+      ],
+      "source_ids": [
+        "20282e6a316eb737"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "ef32dcc408c27a44",
+      "source_line": 1235,
+      "traditional": "三個臭皮匠，賽過一個諸葛亮",
+      "simplified": "三个臭皮匠，赛过一个诸葛亮",
+      "pinyin": "san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4",
+      "outcome": "acceptable",
+      "reason": "The cobbler/genius comparison and collective-wisdom sense are preserved.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The proverb is a common collective-wisdom saying; translation follows source."
+      ],
+      "source_ids": [
+        "ef32dcc408c27a44"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "4e3c4ad52e3e4f97",
+      "source_line": 1237,
+      "traditional": "三個臭皮匠，頂個諸葛亮",
+      "simplified": "三个臭皮匠，顶个诸葛亮",
+      "pinyin": "san1 ge4 chou4 pi2 jiang5 , ding3 ge4 Zhu1 ge3 Liang4",
+      "outcome": "acceptable",
+      "reason": "The variant cobbler proverb has both source senses preserved without conflation.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source idiom is the same collective-wisdom saying; preserved."
+      ],
+      "source_ids": [
+        "4e3c4ad52e3e4f97"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "9a65bfa930bbe3a1",
+      "source_line": 1242,
+      "traditional": "三元",
+      "simplified": "三元",
+      "pinyin": "san1 yuan2",
+      "outcome": "acceptable",
+      "reason": "The three examination levels and all title references are intact.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Historical examination rank names and pinyin are preserved."
+      ],
+      "source_ids": [
+        "9a65bfa930bbe3a1"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "3e6a705d1fc026fb",
+      "source_line": 1247,
+      "traditional": "三光政策",
+      "simplified": "三光政策",
+      "pinyin": "San1 guang1 Zheng4 ce4",
+      "outcome": "acceptable",
+      "reason": "The policy name, three actions and wartime context are accurately conveyed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Historical wartime policy name translated literally from source."
+      ],
+      "source_ids": [
+        "3e6a705d1fc026fb"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "4906847d2a73693a",
+      "source_line": 1255,
+      "traditional": "三公經費",
+      "simplified": "三公经费",
+      "pinyin": "san1 gong1 jing1 fei4",
+      "outcome": "deferred",
+      "reason": "The draft follows the English spending-category list; precise official scope of 三公經費 needs a separate source check.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The “three public expenditures” is a Chinese government spending category.",
+        "The draft follows the English spending-category list; precise official scope of 三公經費 needs a separate source check."
+      ],
+      "source_ids": [
+        "4906847d2a73693a"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "bba9d94af0ee8f46",
+      "source_line": 1263,
+      "traditional": "三北",
+      "simplified": "三北",
+      "pinyin": "San1 bei3",
+      "outcome": "acceptable",
+      "reason": "All three northern-region names and pinyin are retained.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The regional terms and pinyin are preserved as supplied."
+      ],
+      "source_ids": [
+        "bba9d94af0ee8f46"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "31938eb43ccdcbc4",
+      "source_line": 1264,
+      "traditional": "三北防護林",
+      "simplified": "三北防护林",
+      "pinyin": "San1 bei3 Fang2 hu4 lin2",
+      "outcome": "acceptable",
+      "reason": "The afforestation program, stated aim and source dates are preserved as supplied, not as freshly verified project status.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The program’s stated target date is retained from the source."
+      ],
+      "source_ids": [
+        "31938eb43ccdcbc4"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "27d09b9d00b0bc15",
+      "source_line": 1268,
+      "traditional": "三十六字母",
+      "simplified": "三十六字母",
+      "pinyin": "san1 shi2 liu4 zi4 mu3",
+      "outcome": "correction_proposed",
+      "reason": "The dynasty should be explicit: «теорія Сун» could read as a person’s theory. Use historical phonology terminology with a plain gloss.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "тридцять шість початкових приголосних фонетичної теорії Сун",
+          "after": "тридцять шість ініціалей (початкових приголосних) у фонетичній теорії доби Сун",
+          "reason": "The dynasty should be explicit: «теорія Сун» could read as a person’s theory. Use historical phonology terminology with a plain gloss.",
+          "confidence": "high",
+          "issue_type": "terminology_clarification"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Song phonetic theory is a specialized historical linguistic classification."
+      ],
+      "source_ids": [
+        "27d09b9d00b0bc15"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "56ae793ce4055f31",
+      "source_line": 1269,
+      "traditional": "三十六計",
+      "simplified": "三十六计",
+      "pinyin": "san1 shi2 liu4 ji4",
+      "outcome": "correction_proposed",
+      "reason": "Both stratagem senses are coherent, but the note incorrectly says the translated Ukrainian title was transliterated.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "The work title is transliterated in Ukrainian; scope follows the source.",
+          "after": "Назву твору перекладено українською; обсяг значень відтворено за джерелом.",
+          "reason": "Both stratagem senses are coherent, but the note incorrectly says the translated Ukrainian title was transliterated.",
+          "confidence": "high",
+          "issue_type": "metadata_inaccuracy",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Назву твору перекладено українською; обсяг значень відтворено за джерелом."
+      ],
+      "source_ids": [
+        "56ae793ce4055f31"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "8ceae77d8c27ccfc",
+      "source_line": 1272,
+      "traditional": "三十年河東，三十年河西",
+      "simplified": "三十年河东，三十年河西",
+      "pinyin": "san1 shi2 nian2 he2 dong1 , san1 shi2 nian2 he2 xi1",
+      "outcome": "deferred",
+      "reason": "The source river image and figurative change sense are preserved. Chinese geographical nuance warrants source-editor review rather than a silent rewrite.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The proverb’s image is preserved literally and figuratively.",
+        "The source river image and figurative change sense are preserved. Chinese geographical nuance warrants source-editor review rather than a silent rewrite."
+      ],
+      "source_ids": [
+        "8ceae77d8c27ccfc"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "6c0822cad2dad9a0",
+      "source_line": 3264,
+      "traditional": "中亞夜鷹",
+      "simplified": "中亚夜鹰",
+      "pinyin": "Zhong1 ya4 ye4 ying1",
+      "outcome": "correction_proposed",
+      "reason": "The taxon and proposed common name are retained, but the source bird-of-China label was omitted.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "дрімлюга Ворі (Caprimulgus centralasicus)",
+          "after": "(вид птаха Китаю) дрімлюга Ворі (Caprimulgus centralasicus)",
+          "reason": "The taxon and proposed common name are retained, but the source bird-of-China label was omitted.",
+          "confidence": "high",
+          "issue_type": "omitted_source_label"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська назва виду може варіюватися; додано латинську назву для точної ідентифікації."
+      ],
+      "source_ids": [
+        "6c0822cad2dad9a0"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "ef0d4ec48c4f1290",
+      "source_line": 3267,
+      "traditional": "中亞鴿",
+      "simplified": "中亚鸽",
+      "pinyin": "zhong1 ya4 ge1",
+      "outcome": "correction_proposed",
+      "reason": "The taxon and descriptive common name are retained, but the source bird-of-China label was omitted.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "жовтоокий голуб (Columba eversmanni)",
+          "after": "(вид птаха Китаю) жовтоокий голуб (Columba eversmanni)",
+          "reason": "The taxon and descriptive common name are retained, but the source bird-of-China label was omitted.",
+          "confidence": "high",
+          "issue_type": "omitted_source_label"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська назва виду може варіюватися; додано латинську назву для точної ідентифікації."
+      ],
+      "source_ids": [
+        "ef0d4ec48c4f1290"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "07a02959a82031a5",
+      "source_line": 3411,
+      "traditional": "中國白眉朱雀",
+      "simplified": "中国白眉朱雀",
+      "pinyin": "Zhong1 guo2 bai2 mei2 zhu1 que4",
+      "outcome": "correction_proposed",
+      "reason": "The note falsely says no Latin name was supplied, although Carpodacus dubius is in both source and translation; the geographic label is also missing.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "китайська білоброва чечевиця (Carpodacus dubius)",
+          "after": "(вид птаха Китаю) китайська білоброва чечевиця (Carpodacus dubius)",
+          "reason": "The note falsely says no Latin name was supplied, although Carpodacus dubius is in both source and translation; the geographic label is also missing.",
+          "confidence": "high",
+          "issue_type": "omitted_source_label"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Українська назва виду може варіюватися; латинську назву не наведено у джерелі, тому назву передано описово.",
+          "after": "Українську назву виду передано описово; у джерелі наведено латинську назву Carpodacus dubius.",
+          "reason": "The note falsely says no Latin name was supplied, although Carpodacus dubius is in both source and translation; the geographic label is also missing.",
+          "confidence": "high",
+          "issue_type": "metadata_inaccuracy",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Українську назву виду передано описово; у джерелі наведено латинську назву Carpodacus dubius."
+      ],
+      "source_ids": [
+        "07a02959a82031a5"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "e73ca5509f99f801",
+      "source_line": 3529,
+      "traditional": "中山成彬",
+      "simplified": "中山成彬",
+      "pinyin": "Zhong1 shan1 Cheng2 bin1",
+      "outcome": "correction_proposed",
+      "reason": "«Ультраправий» intensifies source right-wing without evidence; use «правий».",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Накаяма Наріакі (1943–), японський ультраправий політик, відомий запереченням японських воєнних злочинів",
+          "after": "Накаяма Наріакі (1943–), японський правий політик, відомий запереченням японських воєнних злочинів",
+          "reason": "«Ультраправий» intensifies source right-wing without evidence; use «правий».",
+          "confidence": "high",
+          "issue_type": "unsupported_intensification"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська передача японського імені може мати варіанти; збережено латинську форму Nariaki в етимоні джерела."
+      ],
+      "source_ids": [
+        "e73ca5509f99f801"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "ed3c667d2147f419",
+      "source_line": 3670,
+      "traditional": "中科院",
+      "simplified": "中科院",
+      "pinyin": "Zhong1 ke1 yuan4",
+      "outcome": "deferred",
+      "reason": "The source incorrectly links the CAS abbreviation to the Academy of Social Sciences. Existing uncertainty note correctly identifies this; defer source repair.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійський сегмент пов’язує 中科院 із Китайською академією наук, але наведене ним посилання 中國社會科學院 означає Китайську академію суспільних наук; збережено посилання джерела.",
+        "The source incorrectly links the CAS abbreviation to the Academy of Social Sciences. Existing uncertainty note correctly identifies this; defer source repair."
+      ],
+      "source_ids": [
+        "ed3c667d2147f419"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "570f22dc99c6f4d4",
+      "source_line": 3832,
+      "traditional": "丮",
+      "simplified": "丮",
+      "pinyin": "ji3",
+      "outcome": "acceptable",
+      "reason": "The rare-character catch gloss is accurately reproduced with appropriate lack-of-context caution.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Дуже рідкісний ієрогліф 丮; глоса «ловити» взята без додаткового контексту, тому точне вживання неясне."
+      ],
+      "source_ids": [
+        "570f22dc99c6f4d4"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "fed846504a2bb8b4",
+      "source_line": 3839,
+      "traditional": "串串",
+      "simplified": "串串",
+      "pinyin": "chuan4 chuan4",
+      "outcome": "correction_proposed",
+      "reason": "The hotpot meaning should not imply grilled shashlik, and the uncertainty note belongs to unrelated 丱.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(розм.) шашлички на шпажках; їжа, смажена на паличках; (у Сичуані) сичуанські шашлички для хот-поту (скорочення від 串串香[chuan4 chuan4 xiang1])",
+          "after": "(розм.) їжа на шпажках; їжа, смажена на грилі на шпажках; (у Сичуані) шпажки з їжею для сичуанського хот-поту (скорочення від 串串香[chuan4 chuan4 xiang1])",
+          "reason": "The hotpot meaning should not imply grilled shashlik, and the uncertainty note belongs to unrelated 丱.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "丱 — рідкісний ієрогліф; наведені значення відповідають саме читанню guan4.",
+          "after": null,
+          "reason": "The hotpot meaning should not imply grilled shashlik, and the uncertainty note belongs to unrelated 丱.",
+          "confidence": "high",
+          "issue_type": "cross_entry_note_contamination",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [],
+      "source_ids": [
+        "fed846504a2bb8b4"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "410ff3a4d8eff115",
+      "source_line": 4158,
+      "traditional": "乍看",
+      "simplified": "乍看",
+      "pinyin": "zha4 kan4",
+      "outcome": "correction_proposed",
+      "reason": "The at-first-glance translation is correct; its uncertainty note belongs to unrelated 乑.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "乑 — рідкісний ієрогліф; значення «стояти поруч» відповідає поданій словниковій глосі.",
+          "after": null,
+          "reason": "The at-first-glance translation is correct; its uncertainty note belongs to unrelated 乑.",
+          "confidence": "high",
+          "issue_type": "cross_entry_note_contamination",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [],
+      "source_ids": [
+        "410ff3a4d8eff115"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "b8ac45eaf5cef49a",
+      "source_line": 4267,
+      "traditional": "乙酰",
+      "simplified": "乙酰",
+      "pinyin": "yi3 xian1",
+      "outcome": "correction_proposed",
+      "reason": "Acetyl is correctly translated, but the note discusses a formula and radical wording absent from this entry.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Хімічна формула CH3COO− відповідає ацетат-іону; назва «ацетиловий радикал» у вихідній глосі, ймовірно, неточна.",
+          "after": null,
+          "reason": "Acetyl is correctly translated, but the note discusses a formula and radical wording absent from this entry.",
+          "confidence": "high",
+          "issue_type": "cross_entry_note_contamination",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [],
+      "source_ids": [
+        "b8ac45eaf5cef49a"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "97a15e73b89ed7e4",
+      "source_line": 4268,
+      "traditional": "乙酰胺吡咯烷酮",
+      "simplified": "乙酰胺吡咯烷酮",
+      "pinyin": "yi3 xian1 an4 bi3 luo4 wan2 tong2",
+      "outcome": "correction_proposed",
+      "reason": "The piracetam name, formula and pharmacology label match the source; its acetyl/acetate note is unrelated.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Хімічна формула CH3COO− відповідає ацетат-іону; назва «ацетиловий радикал» у вихідній глосі, ймовірно, неточна.",
+          "after": null,
+          "reason": "The piracetam name, formula and pharmacology label match the source; its acetyl/acetate note is unrelated.",
+          "confidence": "high",
+          "issue_type": "cross_entry_note_contamination",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [],
+      "source_ids": [
+        "97a15e73b89ed7e4"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "203349f934e0f706",
+      "source_line": 4443,
+      "traditional": "乳酪",
+      "simplified": "乳酪",
+      "pinyin": "ru3 lao4",
+      "outcome": "correction_proposed",
+      "reason": "The cheese gloss is correct; its note belongs to the distinct regional pastry entry 乳酪餅.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Назва 乳酪餅 регіональна; переклад подає опис джерела, а не усталену українську назву.",
+          "after": null,
+          "reason": "The cheese gloss is correct; its note belongs to the distinct regional pastry entry 乳酪餅.",
+          "confidence": "high",
+          "issue_type": "cross_entry_note_contamination",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [],
+      "source_ids": [
+        "203349f934e0f706"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "646fb1cd21491905",
+      "source_line": 4487,
+      "traditional": "乾旱土",
+      "simplified": "干旱土",
+      "pinyin": "gan1 han4 tu3",
+      "outcome": "deferred",
+      "reason": "The soil-taxonomy concept is preserved, but the conventional Ukrainian spelling of Aridisol needs a terminology check.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Aridisol — таксономічна назва класу ґрунтів; український відповідник може різнитися між системами класифікації.",
+        "The soil-taxonomy concept is preserved, but the conventional Ukrainian spelling of Aridisol needs a terminology check."
+      ],
+      "source_ids": [
+        "646fb1cd21491905"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "cdf351e19875f62b",
+      "source_line": 4564,
+      "traditional": "亂局",
+      "simplified": "乱局",
+      "pinyin": "luan4 ju2",
+      "outcome": "correction_proposed",
+      "reason": "All three turmoil senses are correctly rendered; the dialect-note headword is unrelated.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "亂咕攘 є діалектним висловом; передано загальною глосою «турбувати», точний регіональний відтінок неясний.",
+          "after": null,
+          "reason": "All three turmoil senses are correctly rendered; the dialect-note headword is unrelated.",
+          "confidence": "high",
+          "issue_type": "cross_entry_note_contamination",
+          "disposition": "quarantine_original_preserve_flags"
+        }
+      ],
+      "remaining_uncertainty": [],
+      "source_ids": [
+        "cdf351e19875f62b"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "e5325e86811cb722",
+      "source_line": 4597,
+      "traditional": "亃",
+      "simplified": "亃",
+      "pinyin": "lin2",
+      "outcome": "acceptable",
+      "reason": "The mythological animal description is preserved without inventing a modern identification.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Дуже рідкісний міфічний зоонім 亃; словниковий опис не дає назви чи додаткової ідентифікації."
+      ],
+      "source_ids": [
+        "e5325e86811cb722"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "1925342ce62edbb0",
+      "source_line": 4831,
+      "traditional": "二硫基丙磺酸鈉",
+      "simplified": "二硫基丙磺酸钠",
+      "pinyin": "er4 liu2 ji1 bing3 huang2 suan1 na4",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian compound includes the propane group visible in Chinese; the nonstandard English naming is already transparently flagged.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source name “sodium dimercaptosulfanate” is nonstandard/unclear; rendered as sodium dimercaptopropanesulfonate."
+      ],
+      "source_ids": [
+        "1925342ce62edbb0"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "147b53e80f824d26",
+      "source_line": 6255,
+      "traditional": "仙八色鶇",
+      "simplified": "仙八色鸫",
+      "pinyin": "xian1 ba1 se4 dong1",
+      "outcome": "acceptable",
+      "reason": "The bird label and taxon are retained; the descriptive common name remains explicitly unverified.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Наведену українську назву виду передано описово; усталена українська назва Pitta nympha може відрізнятися."
+      ],
+      "source_ids": [
+        "147b53e80f824d26"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "e386b295695f2e1d",
+      "source_line": 6264,
+      "traditional": "仙女星座",
+      "simplified": "仙女星座",
+      "pinyin": "Xian1 nu:3 xing1 zuo4",
+      "outcome": "deferred",
+      "reason": "The source conflates a constellation and a galaxy; the existing note correctly explains this and should remain unresolved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійський глос змішує сузір’я Андромеди з галактикою M31; збережено обидва зазначені референти.",
+        "The source conflates a constellation and a galaxy; the existing note correctly explains this and should remain unresolved."
+      ],
+      "source_ids": [
+        "e386b295695f2e1d"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "5310e101a213b635",
+      "source_line": 6288,
+      "traditional": "仙茅",
+      "simplified": "仙茅",
+      "pinyin": "xian1 mao2",
+      "outcome": "acceptable",
+      "reason": "Both plant and medicinal-rhizome senses are retained with the taxon; Ukrainian botanical naming remains unverified.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Переклад назви рослини подано з латинською назвою; можливі інші усталені українські ботанічні назви."
+      ],
+      "source_ids": [
+        "5310e101a213b635"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "bf67e1c98ecf0ec2",
+      "source_line": 6314,
+      "traditional": "代利斯",
+      "simplified": "代利斯",
+      "pinyin": "Dai4 li4 si1",
+      "outcome": "acceptable",
+      "reason": "The port/base description is preserved and the Dallys/Dellys spelling difference is transparently noted.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Топонім передано як Делліс; англійський глос уживає варіант Dallys, тоді як також трапляється написання Dellys."
+      ],
+      "source_ids": [
+        "bf67e1c98ecf0ec2"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "43d1fca81f83413b",
+      "source_line": 6457,
+      "traditional": "以利亞撒",
+      "simplified": "以利亚撒",
+      "pinyin": "Yi3 li4 ya4 sa1",
+      "outcome": "deferred",
+      "reason": "The potential Eluid/Eliud source-name issue requires checking the intended biblical lineage and Ukrainian edition before correction.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Ім’я Елеазар transliterовано відповідно до усталеної біблійної форми; написання імені батька в джерелі може бути помилковим.",
+        "The potential Eluid/Eliud source-name issue requires checking the intended biblical lineage and Ukrainian edition before correction."
+      ],
+      "source_ids": [
+        "43d1fca81f83413b"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "af7f879203f156bf",
+      "source_line": 6485,
+      "traditional": "以律",
+      "simplified": "以律",
+      "pinyin": "Yi3 lu:4",
+      "outcome": "deferred",
+      "reason": "The Eluid/Eliud identification and Ukrainian conventional name remain uncertain; no speculative correction.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Ім’я Eluid передано як Елуїд; варіант ідентифікації може відрізнятися в біблійних джерелах.",
+        "The Eluid/Eliud identification and Ukrainian conventional name remain uncertain; no speculative correction."
+      ],
+      "source_ids": [
+        "af7f879203f156bf"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "13d342849eca0bd9",
+      "source_line": 6762,
+      "traditional": "伊戈爾斯",
+      "simplified": "伊戈尔斯",
+      "pinyin": "Yi1 ge1 er3 si1",
+      "outcome": "correction_proposed",
+      "reason": "English name does not establish a personal given name. Use the neutral «власна назва», consistent with the existing uncertainty note.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Іглз (ім’я)",
+          "after": "Іглз (власна назва)",
+          "reason": "English name does not establish a personal given name. Use the neutral «власна назва», consistent with the existing uncertainty note.",
+          "confidence": "high",
+          "issue_type": "unsupported_specificity"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійський глос не уточнює, чи це прізвище, ім’я або назва гурту; подано фонетичну передачу."
+      ],
+      "source_ids": [
+        "13d342849eca0bd9"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "ed3613c2249780b1",
+      "source_line": 6819,
+      "traditional": "伊金霍洛",
+      "simplified": "伊金霍洛",
+      "pinyin": "Yi1 jin1 huo4 luo4",
+      "outcome": "correction_proposed",
+      "reason": "Administrative banner was translated literally as a flag; the source khoshuu and Chinese place name establish an administrative unit.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "прапор Еджин-Хоро (Еджен-Хору-хошуу) в окрузі Ордос 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Внутрішня Монголія",
+          "after": "адміністративна одиниця (хошун) Еджин-Хоро (Еджен-Хору-хошуу) в окрузі Ордос 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Внутрішня Монголія",
+          "reason": "Administrative banner was translated literally as a flag; the source khoshuu and Chinese place name establish an administrative unit.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Топонім подано як Еджин-Хоро; його транслітерація з монгольської може відрізнятися."
+      ],
+      "source_ids": [
+        "ed3613c2249780b1"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "b15f174de958d869",
+      "source_line": 6820,
+      "traditional": "伊金霍洛旗",
+      "simplified": "伊金霍洛旗",
+      "pinyin": "Yi1 jin1 huo4 luo4 qi2",
+      "outcome": "correction_proposed",
+      "reason": "The explicit 旗 suffix and source khoshuu confirm an administrative banner; «прапор» is a lexical mistranslation.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "прапор Еджин-Хоро (Еджен-Хору-хошуу) в окрузі Ордос 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Внутрішня Монголія",
+          "after": "адміністративна одиниця (хошун) Еджин-Хоро (Еджен-Хору-хошуу) в окрузі Ордос 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Внутрішня Монголія",
+          "reason": "The explicit 旗 suffix and source khoshuu confirm an administrative banner; «прапор» is a lexical mistranslation.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Топонім подано як Еджин-Хоро; його транслітерація з монгольської може відрізнятися."
+      ],
+      "source_ids": [
+        "b15f174de958d869"
+      ],
+      "external_sources": []
+    },
+    {
+      "id": "2864e65209800043",
+      "source_line": 6909,
+      "traditional": "休氏旋木雀",
+      "simplified": "休氏旋木雀",
+      "pinyin": "Xiu1 shi4 xuan2 mu4 que4",
+      "outcome": "acceptable",
+      "reason": "The bird label, Latin taxon and two proposed common names are retained; nomenclature remains explicitly unverified.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Поширена українська назва цього рідкісного виду птаха не цілком певна; додано наукову назву."
+      ],
+      "source_ids": [
+        "2864e65209800043"
+      ],
+      "external_sources": []
+    }
+  ]
+}

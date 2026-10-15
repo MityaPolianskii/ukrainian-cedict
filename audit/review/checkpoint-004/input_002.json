@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "344861eaae4798f2",
+    "traditional": "藍枕花蜜鳥",
+    "simplified": "蓝枕花蜜鸟",
+    "pinyin": "lan2 zhen3 hua1 mi4 niao3",
+    "english_segments": [
+      "(bird species of China) purple-naped spiderhunter (Kurochkinegramma hypogrammicum)"
+    ],
+    "raw_source": "藍枕花蜜鳥 蓝枕花蜜鸟 [lan2 zhen3 hua1 mi4 niao3] /(bird species of China) purple-naped spiderhunter (Kurochkinegramma hypogrammicum)/",
+    "source_line": 96267,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) пурпуровопотиличний павуколов (Kurochkinegramma hypogrammicum)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву птаха подано описово за китайською й англійською назвами; усталений орнітологічний відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "a886fb8b8fe1e7db",
+    "traditional": "鍾萬學",
+    "simplified": "钟万学",
+    "pinyin": "Zhong1 Wan4 xue2",
+    "english_segments": [
+      "Basuki Tjahaja Purnama (1966-), Indonesian politician, governor of Jakarta (2014-)"
+    ],
+    "raw_source": "鍾萬學 钟万学 [Zhong1 Wan4 xue2] /Basuki Tjahaja Purnama (1966-), Indonesian politician, governor of Jakarta (2014-)/",
+    "source_line": 112469,
+    "ukrainian_segments": [
+      "Басукі Чахая Пурнама (1966–), індонезійський політик, губернатор Джакарти від 2014 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело залишає строк губернаторства відкритим; він обіймав посаду у 2014–2017 роках."
+    ]
+  },
+  {
+    "id": "7331e79a41fabf2d",
+    "traditional": "鏽臉鉤嘴鶥",
+    "simplified": "锈脸钩嘴鹛",
+    "pinyin": "xiu4 lian3 gou1 zui3 mei2",
+    "english_segments": [
+      "(bird species of China) rusty-cheeked scimitar babbler (Erythrogenys erythrogenys)"
+    ],
+    "raw_source": "鏽臉鉤嘴鶥 锈脸钩嘴鹛 [xiu4 lian3 gou1 zui3 mei2] /(bird species of China) rusty-cheeked scimitar babbler (Erythrogenys erythrogenys)/",
+    "source_line": 112703,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) тимелія-серподзьоб рудощока (Erythrogenys erythrogenys)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву передано описово; усталений відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "e9c11c34c5efa60c",
+    "traditional": "韓國瑜",
+    "simplified": "韩国瑜",
+    "pinyin": "Han2 Guo2 yu2",
+    "english_segments": [
+      "Daniel Han Kuo-yu (1957-), Taiwanese KMT politician, mayor of Kaohsiung since 2018"
+    ],
+    "raw_source": "韓國瑜 韩国瑜 [Han2 Guo2 yu2] /Daniel Han Kuo-yu (1957-), Taiwanese KMT politician, mayor of Kaohsiung since 2018/",
+    "source_line": 118401,
+    "ukrainian_segments": [
+      "Деніел Хань Гоюй (нар. 1957), тайванський політик Гоміндану, за джерелом мер Гаосюна з 2018 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Посада мера з 2018 року — датоване твердження джерела, не підтвердження поточної посади."
+    ]
+  },
+  {
+    "id": "5665b2c6eef98a01",
+    "traditional": "黑林鴿",
+    "simplified": "黑林鸽",
+    "pinyin": "hei1 lin2 ge1",
+    "english_segments": [
+      "(bird species of China) black wood pigeon; Japanese wood pigeon (Columba janthina)"
+    ],
+    "raw_source": "黑林鴿 黑林鸽 [hei1 lin2 ge1] /(bird species of China) black wood pigeon; Japanese wood pigeon (Columba janthina)/",
+    "source_line": 124283,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) чорний лісовий, або японський, голуб (Columba janthina)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "88abda63da4f87cc",
+    "traditional": "全羅南道",
+    "simplified": "全罗南道",
+    "pinyin": "Quan2 luo2 nan2 dao4",
+    "english_segments": [
+      "South Jeolla Province, in southwest South Korea, capital Gwangju 光州[Guang1 zhou1]"
+    ],
+    "raw_source": "全羅南道 全罗南道 [Quan2 luo2 nan2 dao4] /South Jeolla Province, in southwest South Korea, capital Gwangju 光州[Guang1 zhou1]/",
+    "source_line": 11428,
+    "ukrainian_segments": [
+      "провінція Південна Чолла на південному заході Південної Кореї, столиця Кванджу 光州[Guang1 zhou1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Адміністративний центр Кванджу відтворено за джерелом; це історична, а не актуальна адміністративна довідка."
+    ]
+  },
+  {
+    "id": "60e577b9013e37cf",
+    "traditional": "日知錄",
+    "simplified": "日知录",
+    "pinyin": "Ri4 zhi1 lu4",
+    "english_segments": [
+      "Rizhilu or Record of daily study, by early Confucian philosopher Gu Yanwu 顧炎武|顾炎武"
+    ],
+    "raw_source": "日知錄 日知录 [Ri4 zhi1 lu4] /Rizhilu or Record of daily study, by early Confucian philosopher Gu Yanwu 顧炎武|顾炎武/",
+    "source_line": 52704,
+    "ukrainian_segments": [
+      "«Жичжилу», або «Записи щоденного пізнання», праця конфуціанського мислителя Ґу Яньу 顧炎武|顾炎武"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське early щодо автора історично неоднозначне: Ґу Яньу жив у XVII столітті; означення не перенесено."
+    ]
+  },
+  {
+    "id": "1d116d8d783f05e6",
+    "traditional": "白羊朝",
+    "simplified": "白羊朝",
+    "pinyin": "Bai2 yang2 chao2",
+    "english_segments": [
+      "Ak Koyunlu or Aq Qoyunlu Turkoman confederation of eastern Iran (c. 1378-c. 1500)"
+    ],
+    "raw_source": "白羊朝 白羊朝 [Bai2 yang2 chao2] /Ak Koyunlu or Aq Qoyunlu Turkoman confederation of eastern Iran (c. 1378-c. 1500)/",
+    "source_line": 76749,
+    "ukrainian_segments": [
+      "Ак-Коюнлу, туркоманська конфедерація у східному Ірані (бл. 1378 — бл. 1500)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Географічне уточнення «східний Іран» у джерелі сумнівне."
+    ]
+  },
+  {
+    "id": "a56bfd4df5806e60",
+    "traditional": "莎拉·佩林",
+    "simplified": "莎拉·佩林",
+    "pinyin": "Sha1 la1 · Pei4 lin2",
+    "english_segments": [
+      "Sarah Palin (1964-), US Republican politician, State governor of Alaska from 2006"
+    ],
+    "raw_source": "莎拉·佩林 莎拉·佩林 [Sha1 la1 · Pei4 lin2] /Sarah Palin (1964-), US Republican politician, State governor of Alaska from 2006/",
+    "source_line": 94327,
+    "ukrainian_segments": [
+      "Сара Пейлін (нар. 1964), американська політикиня-республіканка, губернаторка Аляски з 2006 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі не наведено завершення каденції; Пейлін обіймала посаду губернаторки у 2006–2009 роках."
+    ]
+  },
+  {
+    "id": "1a7b6501a176e7b5",
+    "traditional": "銀耳噪鶥",
+    "simplified": "银耳噪鹛",
+    "pinyin": "yin2 er3 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) silver-eared laughingthrush (Trochalopteron melanostigma)"
+    ],
+    "raw_source": "銀耳噪鶥 银耳噪鹛 [yin2 er3 zao4 mei2] /(bird species of China) silver-eared laughingthrush (Trochalopteron melanostigma)/",
+    "source_line": 111832,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) чагарниця срібновуха (Trochalopteron melanostigma)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська видова назва потребує орнітологічної перевірки."
+    ]
+  },
+  {
+    "id": "ba4b79f30092972f",
+    "traditional": "陳巴爾虎旗",
+    "simplified": "陈巴尔虎旗",
+    "pinyin": "Chen2 Ba1 er3 hu3 Qi2",
+    "english_segments": [
+      "Old Barag Banner in Hulunbuir 呼倫貝爾市|呼伦贝尔市[Hu1 lun2 bei4 er3 Shi4], Inner Mongolia"
+    ],
+    "raw_source": "陳巴爾虎旗 陈巴尔虎旗 [Chen2 Ba1 er3 hu3 Qi2] /Old Barag Banner in Hulunbuir 呼倫貝爾市|呼伦贝尔市[Hu1 lun2 bei4 er3 Shi4], Inner Mongolia/",
+    "source_line": 115225,
+    "ukrainian_segments": [
+      "хошун Старий Барга в міському окрузі Хулунбуїр 呼倫貝爾市|呼伦贝尔市[Hu1 lun2 bei4 er3 Shi4], Внутрішня Монголія"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську форму назви хошуну передано за англійською назвою Old Barag; усталене написання потребує перевірки."
+    ]
+  },
+  {
+    "id": "7fdba653cd5c78e1",
+    "traditional": "雉鶉",
+    "simplified": "雉鹑",
+    "pinyin": "zhi4 chun2",
+    "english_segments": [
+      "(bird species of China) chestnut-throated monal-partridge (Tetraophasis obscurus)"
+    ],
+    "raw_source": "雉鶉 雉鹑 [zhi4 chun2] /(bird species of China) chestnut-throated monal-partridge (Tetraophasis obscurus)/",
+    "source_line": 116054,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) каштановогорлий тетраофазис (Tetraophasis obscurus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описову українську назву виду подано разом із точною латинською; усталений український відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "2f37edec96b77cba",
+    "traditional": "雷峰塔",
+    "simplified": "雷峰塔",
+    "pinyin": "Lei2 feng1 Ta3",
+    "english_segments": [
+      "Leifeng Pagoda, by West Lake until it was destroyed (also from Madam White Snake)"
+    ],
+    "raw_source": "雷峰塔 雷峰塔 [Lei2 feng1 Ta3] /Leifeng Pagoda, by West Lake until it was destroyed (also from Madam White Snake)/",
+    "source_line": 116958,
+    "ukrainian_segments": [
+      "пагода Лейфен біля озера Сіху, що стояла там до руйнування; також відома з легенди про Білу Змію"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Опис зруйнованої пагоди відтворено за джерелом; сучасну відбудову воно не згадує."
+    ]
+  },
+  {
+    "id": "1e7f3a48f4615bbc",
+    "traditional": "黑領噪鶥",
+    "simplified": "黑领噪鹛",
+    "pinyin": "hei1 ling3 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) greater necklaced laughingthrush (Pterorhinus pectoralis)"
+    ],
+    "raw_source": "黑領噪鶥 黑领噪鹛 [hei1 ling3 zao4 mei2] /(bird species of China) greater necklaced laughingthrush (Pterorhinus pectoralis)/",
+    "source_line": 124420,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) велика намистова чагарниця (Pterorhinus pectoralis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "80a635fa7b7be024",
+    "traditional": "塔什庫爾干塔吉克自治縣",
+    "simplified": "塔什库尔干塔吉克自治县",
+    "pinyin": "Ta3 shi2 ku4 er3 gan1 Ta3 ji2 ke4 Zi4 zhi4 xian4",
+    "english_segments": [
+      "Tashkurgan Tajik Autonomous County, in Kashgar City 喀什市[Ka1 shi2 Shi4], Xinjiang"
+    ],
+    "raw_source": "塔什庫爾干塔吉克自治縣 塔什库尔干塔吉克自治县 [Ta3 shi2 ku4 er3 gan1 Ta3 ji2 ke4 Zi4 zhi4 xian4] /Tashkurgan Tajik Autonomous County, in Kashgar City 喀什市[Ka1 shi2 Shi4], Xinjiang/",
+    "source_line": 26300,
+    "ukrainian_segments": [
+      "Ташкурган-Таджицький автономний повіт у Кашгарі 喀什市[Ka1 shi2 Shi4], Сіньцзян"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Адміністративна прив’язка до міста Кашгар у джерелі сумнівна; імовірно, мається на увазі округ Кашгар."
+    ]
+  },
+  {
+    "id": "cab288f0bc318460",
+    "traditional": "耕者有其田",
+    "simplified": "耕者有其田",
+    "pinyin": "geng4 zhe3 you3 qi2 tian2",
+    "english_segments": [
+      "\"land to the tiller\", post-Liberation land reform movement instigated by the CCP"
+    ],
+    "raw_source": "耕者有其田 耕者有其田 [geng4 zhe3 you3 qi2 tian2] /\"land to the tiller\", post-Liberation land reform movement instigated by the CCP/",
+    "source_line": 89037,
+    "ukrainian_segments": [
+      "«землю тому, хто її обробляє», рух земельної реформи, започаткований КПК після визволення"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У піньїні джерела geng4, тоді як звичайне читання 耕 — geng1."
+    ]
+  },
+  {
+    "id": "e13087f12eb597ac",
+    "traditional": "謝赫",
+    "simplified": "谢赫",
+    "pinyin": "Xie4 He4",
+    "english_segments": [
+      "Xie He (479-502), portrait painter from Qi of Southern dynasties 南齊|南齐[Nan2 Qi2]"
+    ],
+    "raw_source": "謝赫 谢赫 [Xie4 He4] /Xie He (479-502), portrait painter from Qi of Southern dynasties 南齊|南齐[Nan2 Qi2]/",
+    "source_line": 102117,
+    "ukrainian_segments": [
+      "Сє Хе (479–502), портретист Південної Ці 南齊|南齐[Nan2 Qi2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дати 479–502 у джерелі збігаються з періодом Південної Ці; їхнє тлумачення як років життя Сє Хе сумнівне."
+    ]
+  },
+  {
+    "id": "155d402c8af378f6",
+    "traditional": "賀錦麗",
+    "simplified": "贺锦丽",
+    "pinyin": "He4 Jin3 li4",
+    "english_segments": [
+      "He Jinli, Chinese name adopted by Kamala Harris (1964-), US vice president 2021-"
+    ],
+    "raw_source": "賀錦麗 贺锦丽 [He4 Jin3 li4] /He Jinli, Chinese name adopted by Kamala Harris (1964-), US vice president 2021-/",
+    "source_line": 103675,
+    "ukrainian_segments": [
+      "Хе Цзіньлі, китайське ім'я, прийняте Камалою Гарріс (нар. 1964), віцепрезиденткою США з 2021 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Незавершене датування «з 2021 року» відтворює джерело й може бути застарілим."
+    ]
+  },
+  {
+    "id": "9c4740ed42ac1116",
+    "traditional": "喜山紅眉朱雀",
+    "simplified": "喜山红眉朱雀",
+    "pinyin": "xi3 shan1 hong2 mei2 zhu1 que4",
+    "english_segments": [
+      "(bird species of China) Himalayan beautiful rosefinch (Carpodacus pulcherrimus)"
+    ],
+    "raw_source": "喜山紅眉朱雀 喜山红眉朱雀 [xi3 shan1 hong2 mei2 zhu1 que4] /(bird species of China) Himalayan beautiful rosefinch (Carpodacus pulcherrimus)/",
+    "source_line": 22597,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) гімалайська прекрасна чечевиця (Carpodacus pulcherrimus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву передано описово."
+    ]
+  },
+  {
+    "id": "c2173382f48c6bed",
+    "traditional": "四川雉鶉",
+    "simplified": "四川雉鹑",
+    "pinyin": "Si4 chuan1 zhi4 chun2",
+    "english_segments": [
+      "(bird species of China) buff-throated monal-partridge (Tetraophasis szechenyii)"
+    ],
+    "raw_source": "四川雉鶉 四川雉鹑 [Si4 chuan1 zhi4 chun2] /(bird species of China) buff-throated monal-partridge (Tetraophasis szechenyii)/",
+    "source_line": 23781,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) жовтогорлий тетраофазис (Tetraophasis szechenyii)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву не перевірено; наведено описовий відповідник."
+    ]
+  },
+  {
+    "id": "024b919c19c5e1c7",
+    "traditional": "拱廊",
+    "simplified": "拱廊",
+    "pinyin": "gong3 lang2",
+    "english_segments": [
+      "triforium (gallery of arches above side-aisle vaulting in the nave of a church)"
+    ],
+    "raw_source": "拱廊 拱廊 [gong3 lang2] /triforium (gallery of arches above side-aisle vaulting in the nave of a church)/",
+    "source_line": 46661,
+    "ukrainian_segments": [
+      "трифорій; аркова галерея над склепіннями бічних нефів церкви"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 1,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "拱廊 загалом означає аркаду або аркову галерею; джерело звужує його до трифорію."
+    ]
+  },
+  {
+    "id": "9fffd4856d5fe935",
+    "traditional": "斑胸鉤嘴鶥",
+    "simplified": "斑胸钩嘴鹛",
+    "pinyin": "ban1 xiong1 gou1 zui3 mei2",
+    "english_segments": [
+      "(bird species of China) black-streaked scimitar babbler (Erythrogenys gravivox)"
+    ],
+    "raw_source": "斑胸鉤嘴鶥 斑胸钩嘴鹛 [ban1 xiong1 gou1 zui3 mei2] /(bird species of China) black-streaked scimitar babbler (Erythrogenys gravivox)/",
+    "source_line": 51572,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) чорносмугаста серподзьоба тимелія (Erythrogenys gravivox)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "94579754ac34bbb0",
+    "traditional": "棕頭鉤嘴鶥",
+    "simplified": "棕头钩嘴鹛",
+    "pinyin": "zong1 tou2 gou1 zui3 mei2",
+    "english_segments": [
+      "(bird species of China) red-billed scimitar babbler (Pomatorhinus ochraceiceps)"
+    ],
+    "raw_source": "棕頭鉤嘴鶥 棕头钩嘴鹛 [zong1 tou2 gou1 zui3 mei2] /(bird species of China) red-billed scimitar babbler (Pomatorhinus ochraceiceps)/",
+    "source_line": 58264,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) тимелія-криводзьоб червонодзьоба (Pomatorhinus ochraceiceps)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська видова назва описова; усталений відповідник не підтверджено."
+    ]
+  },
+  {
+    "id": "8699a498f2255ce6",
+    "traditional": "歐共體",
+    "simplified": "欧共体",
+    "pinyin": "Ou1 gong4 ti3",
+    "english_segments": [
+      "abbr. for 歐洲共同體|欧洲共同体, European Community (old term for the EU, European Union)"
+    ],
+    "raw_source": "歐共體 欧共体 [Ou1 gong4 ti3] /abbr. for 歐洲共同體|欧洲共同体, European Community (old term for the EU, European Union)/",
+    "source_line": 60257,
+    "ukrainian_segments": [
+      "скор. від 歐洲共同體|欧洲共同体, Європейське співтовариство (попередня назва Європейського Союзу за джерелом)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Європейське співтовариство та ЄС не цілком тотожні інституційно; пояснення джерела спрощене."
+    ]
+  },
+  {
+    "id": "b399adb4f76cf002",
+    "traditional": "白喉噪鶥",
+    "simplified": "白喉噪鹛",
+    "pinyin": "bai2 hou2 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) white-throated laughingthrush (Pterorhinus albogularis)"
+    ],
+    "raw_source": "白喉噪鶥 白喉噪鹛 [bai2 hou2 zao4 mei2] /(bird species of China) white-throated laughingthrush (Pterorhinus albogularis)/",
+    "source_line": 76538,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) білогорла чагарниця (Pterorhinus albogularis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва потребує перевірки."
+    ]
+  },
+  {
+    "id": "69cca5bdead82cf3",
+    "traditional": "碧潭",
+    "simplified": "碧潭",
+    "pinyin": "Bi4 tan2",
+    "english_segments": [
+      "Bitan or Green Pool on Xindian Creek 新店溪[Xin1 dian4 xi1], Taipei county, Taiwan"
+    ],
+    "raw_source": "碧潭 碧潭 [Bi4 tan2] /Bitan or Green Pool on Xindian Creek 新店溪[Xin1 dian4 xi1], Taipei county, Taiwan/",
+    "source_line": 79916,
+    "ukrainian_segments": [
+      "Бітань, або Зелений плес, на річці Сіньдянь 新店溪[Xin1 dian4 xi1], повіт Тайбей, Тайвань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Адміністративну назву повіту збережено за джерелом; вона історична."
+    ]
+  },
+  {
+    "id": "da2a95acbf6fa70c",
+    "traditional": "穆沙拉夫",
+    "simplified": "穆沙拉夫",
+    "pinyin": "Mu4 sha1 la1 fu1",
+    "english_segments": [
+      "Pervez Musharraf (1943-), Pakistani general and politician, president 2001-2008"
+    ],
+    "raw_source": "穆沙拉夫 穆沙拉夫 [Mu4 sha1 la1 fu1] /Pervez Musharraf (1943-), Pakistani general and politician, president 2001-2008/",
+    "source_line": 81907,
+    "ukrainian_segments": [
+      "Первез Мушарраф (нар. 1943), пакистанський генерал і політик, президент у 2001–2008 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі відсутня дата смерті; Мушарраф помер 2023 року."
+    ]
+  },
+  {
+    "id": "6f1b7080883e9178",
+    "traditional": "綠背林鶲",
+    "simplified": "绿背林鹟",
+    "pinyin": "lu:4 bei4 lin2 weng1",
+    "english_segments": [
+      "(bird species of China) fulvous-chested jungle flycatcher (Rhinomyias olivacea)"
+    ],
+    "raw_source": "綠背林鶲 绿背林鹟 [lu:4 bei4 lin2 weng1] /(bird species of China) fulvous-chested jungle flycatcher (Rhinomyias olivacea)/",
+    "source_line": 86224,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) джунглева мухоловка вохристогруда (Rhinomyias olivacea)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву подано описово; усталений український видовий відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "d706ccd25ff5db9a",
+    "traditional": "黑額山噪鶥",
+    "simplified": "黑额山噪鹛",
+    "pinyin": "hei1 e2 shan1 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) snowy-cheeked laughingthrush (Ianthocincla sukatschewi)"
+    ],
+    "raw_source": "黑額山噪鶥 黑额山噪鹛 [hei1 e2 shan1 zao4 mei2] /(bird species of China) snowy-cheeked laughingthrush (Ianthocincla sukatschewi)/",
+    "source_line": 124442,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) білосніжнощока чагарниця (Ianthocincla sukatschewi)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "924d4fd70a26f9b9",
+    "traditional": "勒龐",
+    "simplified": "勒庞",
+    "pinyin": "Le4 Pang2",
+    "english_segments": [
+      "Jean-Marie Le Pen (1928-), French Front National extreme right-wing politician"
+    ],
+    "raw_source": "勒龐 勒庞 [Le4 Pang2] /Jean-Marie Le Pen (1928-), French Front National extreme right-wing politician/",
+    "source_line": 15580,
+    "ukrainian_segments": [
+      "Жан-Марі Ле Пен (1928–), французький ультраправий політик Національного фронту"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рік смерті в джерелі не вказано; біографічний запис потребує актуалізації."
+    ]
+  },
+  {
+    "id": "265f7fd5e22bcbb9",
+    "traditional": "小池百合子",
+    "simplified": "小池百合子",
+    "pinyin": "Xiao3 chi2 Bai3 he2 zi5",
+    "english_segments": [
+      "KOIKE Yuriko (1952-), Japanese LDP politician, minister of defense during 2008"
+    ],
+    "raw_source": "小池百合子 小池百合子 [Xiao3 chi2 Bai3 he2 zi5] /KOIKE Yuriko (1952-), Japanese LDP politician, minister of defense during 2008/",
+    "source_line": 34634,
+    "ukrainian_segments": [
+      "Коїке Юріко (1952–), японська політикиня ЛДП, міністерка оборони (у джерелі: 2008 рік)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дата міністерської каденції в джерелі, ймовірно, помилкова: відомою є її каденція 2007 року."
+    ]
+  },
+  {
+    "id": "c76cd70f09580f65",
+    "traditional": "巫統",
+    "simplified": "巫统",
+    "pinyin": "Wu1 tong3",
+    "english_segments": [
+      "UMNO (United Malays National Organization), Malaysia's largest political party"
+    ],
+    "raw_source": "巫統 巫统 [Wu1 tong3] /UMNO (United Malays National Organization), Malaysia's largest political party/",
+    "source_line": 36694,
+    "ukrainian_segments": [
+      "UMNO (Об'єднана малайська національна організація), у джерелі названа найбільшою політичною партією Малайзії"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Оцінка «найбільша партія» залежить від часу й критерію; джерело їх не уточнює."
+    ]
+  },
+  {
+    "id": "16117f3ed48229bd",
+    "traditional": "方尾鶲",
+    "simplified": "方尾鹟",
+    "pinyin": "fang1 wei3 weng1",
+    "english_segments": [
+      "(bird species of China) grey-headed canary-flycatcher (Culicicapa ceylonensis)"
+    ],
+    "raw_source": "方尾鶲 方尾鹟 [fang1 wei3 weng1] /(bird species of China) grey-headed canary-flycatcher (Culicicapa ceylonensis)/",
+    "source_line": 52258,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) сіроголова канаркова мухоловка (Culicicapa ceylonensis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; нормативний український відповідник слід звірити за Culicicapa ceylonensis."
+    ]
+  },
+  {
+    "id": "f6fc435a126ba20e",
+    "traditional": "星頭啄木鳥",
+    "simplified": "星头啄木鸟",
+    "pinyin": "xing1 tou2 zhuo2 mu4 niao3",
+    "english_segments": [
+      "(bird species of China) grey-capped pygmy woodpecker (Yungipicus canicapillus)"
+    ],
+    "raw_source": "星頭啄木鳥 星头啄木鸟 [xing1 tou2 zhuo2 mu4 niao3] /(bird species of China) grey-capped pygmy woodpecker (Yungipicus canicapillus)/",
+    "source_line": 53263,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) дятел-пігмей сіроголовий (Yungipicus canicapillus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву слід звірити з орнітологічною номенклатурою."
+    ]
+  },
+  {
+    "id": "39ce4dc37f20c2b9",
+    "traditional": "瑙蒙短尾鶥",
+    "simplified": "瑙蒙短尾鹛",
+    "pinyin": "Nao3 meng2 duan3 wei3 mei2",
+    "english_segments": [
+      "(bird species of China) Naung Mung scimitar babbler (Napothera naungmungensis)"
+    ],
+    "raw_source": "瑙蒙短尾鶥 瑙蒙短尾鹛 [Nao3 meng2 duan3 wei3 mei2] /(bird species of China) Naung Mung scimitar babbler (Napothera naungmungensis)/",
+    "source_line": 73742,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) наунгмунзька тимелія (Napothera naungmungensis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва невідома; наведено описовий відповідник."
+    ]
+  },
+  {
+    "id": "cead38cdbcdfae4d",
+    "traditional": "赤翅沙雀",
+    "simplified": "赤翅沙雀",
+    "pinyin": "chi4 chi4 sha1 que4",
+    "english_segments": [
+      "(bird species of China) Eurasian crimson-winged finch (Rhodopechys sanguineus)"
+    ],
+    "raw_source": "赤翅沙雀 赤翅沙雀 [chi4 chi4 sha1 que4] /(bird species of China) Eurasian crimson-winged finch (Rhodopechys sanguineus)/",
+    "source_line": 104269,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) снігар червонокрилий (Rhodopechys sanguineus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська видова назва потребує звірки з орнітологічною номенклатурою."
+    ]
+  },
+  {
+    "id": "2f2c0639bb89c699",
+    "traditional": "半翅目",
+    "simplified": "半翅目",
+    "pinyin": "ban4 chi4 mu4",
+    "english_segments": [
+      "Hemiptera (suborder of order Homoptera, insects including cicadas and aphids)"
+    ],
+    "raw_source": "半翅目 半翅目 [ban4 chi4 mu4] /Hemiptera (suborder of order Homoptera, insects including cicadas and aphids)/",
+    "source_line": 16912,
+    "ukrainian_segments": [
+      "Напівтвердокрилі (Hemiptera), комахи, зокрема цикади й попелиці"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело помилково називає Hemiptera підрядом Homoptera; Hemiptera є рядом."
+    ]
+  },
+  {
+    "id": "bcacfc439c888a6a",
+    "traditional": "尼米茲號",
+    "simplified": "尼米兹号",
+    "pinyin": "Ni2 mi3 zi1 Hao4",
+    "english_segments": [
+      "Nimitz class, US nuclear-powered aircraft carrier, 8 in commission since 1975"
+    ],
+    "raw_source": "尼米茲號 尼米兹号 [Ni2 mi3 zi1 Hao4] /Nimitz class, US nuclear-powered aircraft carrier, 8 in commission since 1975/",
+    "source_line": 35186,
+    "ukrainian_segments": [
+      "«Німіц», тип американських атомних авіаносців; у джерелі зазначено вісім кораблів на службі від 1975 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело змішує назву корабля й класу; кількість кораблів історична й не датована."
+    ]
+  },
+  {
+    "id": "9292dd88f1cc9bdb",
+    "traditional": "恐龍總目",
+    "simplified": "恐龙总目",
+    "pinyin": "kong3 long2 zong3 mu4",
+    "english_segments": [
+      "Dinosauria, superorder within class Sauropsida containing dinosaurs and birds"
+    ],
+    "raw_source": "恐龍總目 恐龙总目 [kong3 long2 zong3 mu4] /Dinosauria, superorder within class Sauropsida containing dinosaurs and birds/",
+    "source_line": 41869,
+    "ukrainian_segments": [
+      "Dinosauria, надряд у класі Sauropsida, що охоплює динозаврів і птахів"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Таксономічні ранги та класифікацію передано за джерелом; сучасне кладистичне трактування може відрізнятися."
+    ]
+  },
+  {
+    "id": "2f9cab8a6ea28bd8",
+    "traditional": "灰喉針尾雨燕",
+    "simplified": "灰喉针尾雨燕",
+    "pinyin": "hui1 hou2 zhen1 wei3 yu3 yan4",
+    "english_segments": [
+      "(bird species of China) silver-backed needletail (Hirundapus cochinchinensis)"
+    ],
+    "raw_source": "灰喉針尾雨燕 灰喉针尾雨燕 [hui1 hou2 zhen1 wei3 yu3 yan4] /(bird species of China) silver-backed needletail (Hirundapus cochinchinensis)/",
+    "source_line": 69144,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) колючохвіст сріблястоспинний (Hirundapus cochinchinensis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Український видовий епітет Hirundapus cochinchinensis подано описово за англійським; потрібна термінологічна звірка."
+    ]
+  },
+  {
+    "id": "04151e19d97b6d40",
+    "traditional": "灰腹噪鶥",
+    "simplified": "灰腹噪鹛",
+    "pinyin": "hui1 fu4 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) brown-cheeked laughingthrush (Trochalopteron henrici)"
+    ],
+    "raw_source": "灰腹噪鶥 灰腹噪鹛 [hui1 fu4 zao4 mei2] /(bird species of China) brown-cheeked laughingthrush (Trochalopteron henrici)/",
+    "source_line": 69205,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) чагарниця бурощока (Trochalopteron henrici)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву Trochalopteron henrici передано описово за англійським епітетом; український стандартний відповідник потребує звірки."
+    ]
+  },
+  {
+    "id": "17212717dc8dd81c",
+    "traditional": "石柱縣",
+    "simplified": "石柱县",
+    "pinyin": "Shi2 zhu4 xian4",
+    "english_segments": [
+      "Shizhu Tujia autonomous county in Qianjiang suburbs of Chongqing municipality"
+    ],
+    "raw_source": "石柱縣 石柱县 [Shi2 zhu4 xian4] /Shizhu Tujia autonomous county in Qianjiang suburbs of Chongqing municipality/",
+    "source_line": 79273,
+    "ukrainian_segments": [
+      "Шичжу-Туцзяський автономний повіт у приміській зоні Цяньцзян міста центрального підпорядкування Чунцін"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Адміністративний опис у джерелі може бути застарілим."
+    ]
+  },
+  {
+    "id": "a21a2cf3da699483",
+    "traditional": "藍翅噪鶥",
+    "simplified": "蓝翅噪鹛",
+    "pinyin": "lan2 chi4 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) blue-winged laughingthrush (Trochalopteron squamatum)"
+    ],
+    "raw_source": "藍翅噪鶥 蓝翅噪鹛 [lan2 chi4 zao4 mei2] /(bird species of China) blue-winged laughingthrush (Trochalopteron squamatum)/",
+    "source_line": 96289,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) синьокрила чагарниця (Trochalopteron squamatum)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву птаха подано описово за китайською й англійською назвами; усталений орнітологічний відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "5c9c23c06bd7dc06",
+    "traditional": "雙蕊蘭",
+    "simplified": "双蕊兰",
+    "pinyin": "shuang1 rui3 lan2",
+    "english_segments": [
+      "double-stamen orchid (Diplandrorchis sinica S.C. Chen), an endangered species"
+    ],
+    "raw_source": "雙蕊蘭 双蕊兰 [shuang1 rui3 lan2] /double-stamen orchid (Diplandrorchis sinica S.C. Chen), an endangered species/",
+    "source_line": 116290,
+    "ukrainian_segments": [
+      "двотичинкова орхідея (Diplandrorchis sinica S.C. Chen), вид під загрозою зникнення"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську назву виду подано описово; латинську назву збережено."
+    ]
+  },
+  {
+    "id": "98278b170b51d736",
+    "traditional": "雜色噪鶥",
+    "simplified": "杂色噪鹛",
+    "pinyin": "za2 se4 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) variegated laughingthrush (Trochalopteron variegatum)"
+    ],
+    "raw_source": "雜色噪鶥 杂色噪鹛 [za2 se4 zao4 mei2] /(bird species of China) variegated laughingthrush (Trochalopteron variegatum)/",
+    "source_line": 116407,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) строката чагарниця (Trochalopteron variegatum)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву подано описово, з точною латинською."
+    ]
+  },
+  {
+    "id": "985b47a5d768c565",
+    "traditional": "黃喉噪鶥",
+    "simplified": "黄喉噪鹛",
+    "pinyin": "huang2 hou2 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) yellow-throated laughingthrush (Pterorhinus galbanus)"
+    ],
+    "raw_source": "黃喉噪鶥 黄喉噪鹛 [huang2 hou2 zao4 mei2] /(bird species of China) yellow-throated laughingthrush (Pterorhinus galbanus)/",
+    "source_line": 123843,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) жовтогорла чагарниця (Pterorhinus galbanus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "37dbe8ead289a238",
+    "traditional": "黑喉噪鶥",
+    "simplified": "黑喉噪鹛",
+    "pinyin": "hei1 hou2 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) black-throated laughingthrush (Pterorhinus chinensis)"
+    ],
+    "raw_source": "黑喉噪鶥 黑喉噪鹛 [hei1 hou2 zao4 mei2] /(bird species of China) black-throated laughingthrush (Pterorhinus chinensis)/",
+    "source_line": 124212,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) чорногорла чагарниця (Pterorhinus chinensis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "3604a9cbe538c0b2",
+    "traditional": "黑眉葦鶯",
+    "simplified": "黑眉苇莺",
+    "pinyin": "hei1 mei2 wei3 ying1",
+    "english_segments": [
+      "(bird species of China) black-browed reed warbler (Acrocephalus bistrigiceps)"
+    ],
+    "raw_source": "黑眉葦鶯 黑眉苇莺 [hei1 mei2 wei3 ying1] /(bird species of China) black-browed reed warbler (Acrocephalus bistrigiceps)/",
+    "source_line": 124338,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) чорноброва очеретянка (Acrocephalus bistrigiceps)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "691f19906edaba1e",
+    "traditional": "點胸鴉雀",
+    "simplified": "点胸鸦雀",
+    "pinyin": "dian3 xiong1 ya1 que4",
+    "english_segments": [
+      "(bird species of China) spot-breasted parrotbill (Paradoxornis guttaticollis)"
+    ],
+    "raw_source": "點胸鴉雀 点胸鸦雀 [dian3 xiong1 ya1 que4] /(bird species of China) spot-breasted parrotbill (Paradoxornis guttaticollis)/",
+    "source_line": 124598,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) плямистогруда сутора (Paradoxornis guttaticollis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "b4fe3b109d751bbd",
+    "traditional": "齊武成",
+    "simplified": "齐武成",
+    "pinyin": "Qi2 Wu3 Cheng2",
+    "english_segments": [
+      "Emperor Wucheng of Qi, personal name 高湛[Gao1 Dan1] (537-568), reigned 561-565"
+    ],
+    "raw_source": "齊武成 齐武成 [Qi2 Wu3 Cheng2] /Emperor Wucheng of Qi, personal name 高湛[Gao1 Dan1] (537-568), reigned 561-565/",
+    "source_line": 124935,
+    "ukrainian_segments": [
+      "імператор Учен держави Ці, особисте ім'я Гао Чжань 高湛[Gao1 Dan1] (537–568), правив у 561–565 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Піньїнь у джерельному посиланні 高湛[Gao1 Dan1] суперечить поширеному читанню імені Гао Чжань; посилання збережено без змін."
+    ]
+  },
+  {
+    "id": "16c79a24d89b9c69",
+    "traditional": "大黃魚",
+    "simplified": "大黄鱼",
+    "pinyin": "da4 huang2 yu2",
+    "english_segments": [
+      "Croceine croaker (Pseudosciaena crocea), a fish popular in Cantonese cooking"
+    ],
+    "raw_source": "大黃魚 大黄鱼 [da4 huang2 yu2] /Croceine croaker (Pseudosciaena crocea), a fish popular in Cantonese cooking/",
+    "source_line": 28662,
+    "ukrainian_segments": [
+      "жовтий горбань (Pseudosciaena crocea), риба, популярна в кантонській кухні"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську усталену назву Pseudosciaena crocea не встановлено; використано описову назву."
+    ]
+  },
+  {
+    "id": "603610b42be6d1a5",
+    "traditional": "小鱗胸鷦鶥",
+    "simplified": "小鳞胸鹪鹛",
+    "pinyin": "xiao3 lin2 xiong1 jiao1 mei2",
+    "english_segments": [
+      "(bird species of China) pygmy cupwing; pygmy wren-babbler (Pnoepyga pusilla)"
+    ],
+    "raw_source": "小鱗胸鷦鶥 小鳞胸鹪鹛 [xiao3 lin2 xiong1 jiao1 mei2] /(bird species of China) pygmy cupwing; pygmy wren-babbler (Pnoepyga pusilla)/",
+    "source_line": 34863,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) карликова короткохвоста тимелія (Pnoepyga pusilla)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва потребує перевірки; подано описовий відповідник."
+    ]
+  },
+  {
+    "id": "5c5c8966b698a1d6",
+    "traditional": "小黑領噪鶥",
+    "simplified": "小黑领噪鹛",
+    "pinyin": "xiao3 hei1 ling3 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) lesser necklaced laughingthrush (Garrulax monileger)"
+    ],
+    "raw_source": "小黑領噪鶥 小黑领噪鹛 [xiao3 hei1 ling3 zao4 mei2] /(bird species of China) lesser necklaced laughingthrush (Garrulax monileger)/",
+    "source_line": 34885,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) мала намистова чагарниця (Garrulax monileger)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва потребує перевірки; подано описовий відповідник."
+    ]
+  },
+  {
+    "id": "4382da2406502f19",
+    "traditional": "斑翅鷯鶥",
+    "simplified": "斑翅鹩鹛",
+    "pinyin": "ban1 chi4 liao2 mei2",
+    "english_segments": [
+      "(bird species of China) bar-winged wren-babbler (Spelaeornis troglodytoides)"
+    ],
+    "raw_source": "斑翅鷯鶥 斑翅鹩鹛 [ban1 chi4 liao2 mei2] /(bird species of China) bar-winged wren-babbler (Spelaeornis troglodytoides)/",
+    "source_line": 51563,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) смугастокрила кропив'янкова тимелія (Spelaeornis troglodytoides)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+    ]
+  },
+  {
+    "id": "8c2e2aa588ac6980",
+    "traditional": "易建聯",
+    "simplified": "易建联",
+    "pinyin": "Yi4 Jian4 lian2",
+    "english_segments": [
+      "Yi Jianlian (1987-), Chinese basketball player for the New Jersey Nets (NBA)"
+    ],
+    "raw_source": "易建聯 易建联 [Yi4 Jian4 lian2] /Yi Jianlian (1987-), Chinese basketball player for the New Jersey Nets (NBA)/",
+    "source_line": 53141,
+    "ukrainian_segments": [
+      "Ї Цзяньлянь (нар. 1987), китайський баскетболіст, гравець «Нью-Джерсі Нетс» (НБА)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Командну належність наведено за джерелом як історичну, а не поточну."
+    ]
+  },
+  {
+    "id": "121c50ecd8ddf68f",
+    "traditional": "查理大帝",
+    "simplified": "查理大帝",
+    "pinyin": "Cha2 li3 Da4 di4",
+    "english_segments": [
+      "Charlemagne (c. 747-c. 814), King of the Franks, Holy Roman Emperor from 800"
+    ],
+    "raw_source": "查理大帝 查理大帝 [Cha2 li3 Da4 di4] /Charlemagne (c. 747-c. 814), King of the Franks, Holy Roman Emperor from 800/",
+    "source_line": 57117,
+    "ukrainian_segments": [
+      "Карл Великий (бл. 747–бл. 814), король франків, імператор Священної Римської імперії від 800 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назва імперії в джерелі анахронічна; титул 800 року стосувався відновленої Західної імперії."
+    ]
+  },
+  {
+    "id": "a00ed7a0dd184717",
+    "traditional": "湯川秀樹",
+    "simplified": "汤川秀树",
+    "pinyin": "Tang1 chuan1 Xiu4 shu4",
+    "english_segments": [
+      "YUKAWA Hideki (1907-1988), Japanese theoretical physicist and Nobel laureate"
+    ],
+    "raw_source": "湯川秀樹 汤川秀树 [Tang1 chuan1 Xiu4 shu4] /YUKAWA Hideki (1907-1988), Japanese theoretical physicist and Nobel laureate/",
+    "source_line": 67095,
+    "ukrainian_segments": [
+      "Юкава Хідекі (1907–1988), японський фізик-теоретик, нобелівський лауреат"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело подає 1988 як рік смерті; дату слід перевірити."
+    ]
+  },
+  {
+    "id": "4a7a012f0952e9bb",
+    "traditional": "白喉林鶲",
+    "simplified": "白喉林鹟",
+    "pinyin": "bai2 hou2 lin2 weng1",
+    "english_segments": [
+      "(bird species of China) brown-chested jungle flycatcher (Cyornis brunneatus)"
+    ],
+    "raw_source": "白喉林鶲 白喉林鹟 [bai2 hou2 lin2 weng1] /(bird species of China) brown-chested jungle flycatcher (Cyornis brunneatus)/",
+    "source_line": 76543,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) бурогруда джунглева мухоловка (Cyornis brunneatus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську назву подано описово; усталена видова назва потребує перевірки."
+    ]
+  },
+  {
+    "id": "f16f68c7817679b8",
+    "traditional": "白腰雪雀",
+    "simplified": "白腰雪雀",
+    "pinyin": "bai2 yao1 xue3 que4",
+    "english_segments": [
+      "(bird species of China) white-rumped snowfinch (Onychostruthus taczanowskii)"
+    ],
+    "raw_source": "白腰雪雀 白腰雪雀 [bai2 yao1 xue3 que4] /(bird species of China) white-rumped snowfinch (Onychostruthus taczanowskii)/",
+    "source_line": 76778,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) білогузий сніговий в'юрок (Onychostruthus taczanowskii)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва потребує перевірки."
+    ]
+  },
+  {
+    "id": "3c74f7fc3d2689e9",
+    "traditional": "眼紋黃山雀",
+    "simplified": "眼纹黄山雀",
+    "pinyin": "yan3 wen2 huang2 shan1 que4",
+    "english_segments": [
+      "(bird species of China) Himalayan black-lored tit (Machlolophus xanthogenys)"
+    ],
+    "raw_source": "眼紋黃山雀 眼纹黄山雀 [yan3 wen2 huang2 shan1 que4] /(bird species of China) Himalayan black-lored tit (Machlolophus xanthogenys)/",
+    "source_line": 78602,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) гімалайська чорновуздечкова синиця (Machlolophus xanthogenys)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву подано описово; усталена українська форма потребує перевірки."
+    ]
+  },
+  {
+    "id": "f2c5d0c2d016bb09",
+    "traditional": "臺灣白喉噪鶥",
+    "simplified": "台湾白喉噪鹛",
+    "pinyin": "Tai2 wan1 bai2 hou2 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) rufous-crowned laughingthrush (Pterorhinus ruficeps)"
+    ],
+    "raw_source": "臺灣白喉噪鶥 台湾白喉噪鹛 [Tai2 wan1 bai2 hou2 zao4 mei2] /(bird species of China) rufous-crowned laughingthrush (Pterorhinus ruficeps)/",
+    "source_line": 92305,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) рудоголова чагарниця (Pterorhinus ruficeps)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталений український видовий відповідник потребує перевірки; наукову назву збережено."
+    ]
+  },
+  {
+    "id": "baf79275c3b782d9",
+    "traditional": "蒼眉蝗鶯",
+    "simplified": "苍眉蝗莺",
+    "pinyin": "cang1 mei2 huang2 ying1",
+    "english_segments": [
+      "(bird species of China) Gray's grasshopper warbler (Helopsaltes fasciolatus)"
+    ],
+    "raw_source": "蒼眉蝗鶯 苍眉蝗莺 [cang1 mei2 huang2 ying1] /(bird species of China) Gray's grasshopper warbler (Helopsaltes fasciolatus)/",
+    "source_line": 95570,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) кобилочка Грея (Helopsaltes fasciolatus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву птаха подано описово; усталений орнітологічний відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "23aab79420bb8d34",
+    "traditional": "藍喉仙鶲",
+    "simplified": "蓝喉仙鹟",
+    "pinyin": "lan2 hou2 xian1 weng1",
+    "english_segments": [
+      "(bird species of China) blue-throated blue flycatcher (Cyornis rubeculoides)"
+    ],
+    "raw_source": "藍喉仙鶲 蓝喉仙鹟 [lan2 hou2 xian1 weng1] /(bird species of China) blue-throated blue flycatcher (Cyornis rubeculoides)/",
+    "source_line": 96250,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) синьогорла синя мухоловка (Cyornis rubeculoides)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву птаха подано описово за китайською й англійською назвами; усталений орнітологічний відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "0519380ea2fe201c",
+    "traditional": "藍胸鶉",
+    "simplified": "蓝胸鹑",
+    "pinyin": "lan2 xiong1 chun2",
+    "english_segments": [
+      "(bird species of China) king quail; blue-breasted quail (Synoicus chinensis)"
+    ],
+    "raw_source": "藍胸鶉 蓝胸鹑 [lan2 xiong1 chun2] /(bird species of China) king quail; blue-breasted quail (Synoicus chinensis)/",
+    "source_line": 96299,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) перепілка китайська; синьогруда перепілка (Synoicus chinensis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву птаха подано описово за китайською й англійською назвами; усталений орнітологічний відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "f00a2229a87970cc",
+    "traditional": "邁克爾·克萊頓",
+    "simplified": "迈克尔·克莱顿",
+    "pinyin": "Mai4 ke4 er3 · Ke4 lai2 dun4",
+    "english_segments": [
+      "Michael Crichton (1942-), US techno-thriller writer, author of Jurassic Park"
+    ],
+    "raw_source": "邁克爾·克萊頓 迈克尔·克莱顿 [Mai4 ke4 er3 · Ke4 lai2 dun4] /Michael Crichton (1942-), US techno-thriller writer, author of Jurassic Park/",
+    "source_line": 109471,
+    "ukrainian_segments": [
+      "Майкл Крайтон (1942 р. н.), американський автор технотрилерів, автор «Парку Юрського періоду»"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі немає року смерті Майкла Крайтона; він помер 2008 року."
+    ]
+  },
+  {
+    "id": "2799dd74f992de44",
+    "traditional": "金額雀鶥",
+    "simplified": "金额雀鹛",
+    "pinyin": "jin1 e2 que4 mei2",
+    "english_segments": [
+      "(bird species of China) golden-fronted fulvetta (Schoeniparus variegaticeps)"
+    ],
+    "raw_source": "金額雀鶥 金额雀鹛 [jin1 e2 que4 mei2] /(bird species of China) golden-fronted fulvetta (Schoeniparus variegaticeps)/",
+    "source_line": 111473,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) фульвета золотолоба (Schoeniparus variegaticeps)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська видова назва потребує номенклатурної перевірки."
+    ]
+  },
+  {
+    "id": "81818a720e5a1888",
+    "traditional": "陝西大地震",
+    "simplified": "陕西大地震",
+    "pinyin": "Shan3 xi1 da4 di4 zhen4",
+    "english_segments": [
+      "the great Shaanxi earthquake of 2nd February 1556 that killed 830,000 people"
+    ],
+    "raw_source": "陝西大地震 陕西大地震 [Shan3 xi1 da4 di4 zhen4] /the great Shaanxi earthquake of 2nd February 1556 that killed 830,000 people/",
+    "source_line": 114992,
+    "ukrainian_segments": [
+      "Великий шеньсійський землетрус 2 лютого 1556 року, який забрав 830 000 життів"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дата 2 лютого 1556 року може відображати календарне перерахування; у багатьох джерелах подію датують 23 січня."
+    ]
+  },
+  {
+    "id": "d9fde5a6c3709ae4",
+    "traditional": "陳谷子爛芝麻",
+    "simplified": "陈谷子烂芝麻",
+    "pinyin": "chen2 gu3 zi5 lan4 zhi1 ma5",
+    "english_segments": [
+      "lit. stale grain, overcooked sesame (idiom); fig. the same boring old gossip"
+    ],
+    "raw_source": "陳谷子爛芝麻 陈谷子烂芝麻 [chen2 gu3 zi5 lan4 zhi1 ma5] /lit. stale grain, overcooked sesame (idiom); fig. the same boring old gossip/",
+    "source_line": 115262,
+    "ukrainian_segments": [
+      "букв. залежале зерно, зіпсований кунжут (ідіома); перен. ті самі старі набридливі плітки"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське overcooked («розварений») у буквальному поясненні неочевидне: китайське 爛 у цьому вислові передано як «зіпсований»."
+    ]
+  },
+  {
+    "id": "d848e52cebc11250",
+    "traditional": "黃腹樹鶯",
+    "simplified": "黄腹树莺",
+    "pinyin": "huang2 fu4 shu4 ying1",
+    "english_segments": [
+      "(bird species of China) yellow-bellied bush warbler (Horornis acanthizoides)"
+    ],
+    "raw_source": "黃腹樹鶯 黄腹树莺 [huang2 fu4 shu4 ying1] /(bird species of China) yellow-bellied bush warbler (Horornis acanthizoides)/",
+    "source_line": 123998,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) жовточерева очеретянка (Horornis acanthizoides)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "b86475986a7841a1",
+    "traditional": "喜山白眉朱雀",
+    "simplified": "喜山白眉朱雀",
+    "pinyin": "xi3 shan1 bai2 mei2 zhu1 que4",
+    "english_segments": [
+      "(bird species of China) Himalayan white-browed rosefinch (Carpodacus thura)"
+    ],
+    "raw_source": "喜山白眉朱雀 喜山白眉朱雀 [xi3 shan1 bai2 mei2 zhu1 que4] /(bird species of China) Himalayan white-browed rosefinch (Carpodacus thura)/",
+    "source_line": 22596,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) гімалайська білоброва чечевиця (Carpodacus thura)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву передано описово."
+    ]
+  },
+  {
+    "id": "d28dd2d9a3afc86a",
+    "traditional": "大灰啄木鳥",
+    "simplified": "大灰啄木鸟",
+    "pinyin": "da4 hui1 zhuo2 mu4 niao3",
+    "english_segments": [
+      "(bird species of China) great slaty woodpecker (Mulleripicus pulverulentus)"
+    ],
+    "raw_source": "大灰啄木鳥 大灰啄木鸟 [da4 hui1 zhuo2 mu4 niao3] /(bird species of China) great slaty woodpecker (Mulleripicus pulverulentus)/",
+    "source_line": 28201,
+    "ukrainian_segments": [
+      "(вид птаха Китаю) великий сланцевий дятел (Mulleripicus pulverulentus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Видову назву передано описово; усталену українську форму не встановлено."
+    ]
+  },
+  {
+    "id": "b303bdae871a555a",
+    "traditional": "新莊",
+    "simplified": "新庄",
+    "pinyin": "Xin1 zhuang1",
+    "english_segments": [
+      "Xinzhuang or Hsinchuang city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+    ],
+    "raw_source": "新莊 新庄 [Xin1 zhuang1] /Xinzhuang or Hsinchuang city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/",
+    "source_line": 52083,
+    "ukrainian_segments": [
+      "Сіньчжуан, місто у складі Нового Тайбея 新北市[Xin1 bei3 shi4], Тайвань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Статус «місто» збережено за джерелом; Сіньчжуан нині може мати статус району."
+    ]
+  },
+  {
+    "id": "57c9dc511e01dc13",
+    "traditional": "新莊市",
+    "simplified": "新庄市",
+    "pinyin": "Xin1 zhuang1 shi4",
+    "english_segments": [
+      "Xinzhuang or Hsinchuang city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+    ],
+    "raw_source": "新莊市 新庄市 [Xin1 zhuang1 shi4] /Xinzhuang or Hsinchuang city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/",
+    "source_line": 52084,
+    "ukrainian_segments": [
+      "Сіньчжуан, місто у складі Нового Тайбея 新北市[Xin1 bei3 shi4], Тайвань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Статус «місто» збережено за джерелом; потребує актуалізації."
+    ]
+  },
+  {
+    "id": "6d6db04a6853d2ad",
+    "traditional": "棕喉雀鶥",
+    "simplified": "棕喉雀鹛",
+    "pinyin": "zong1 hou2 que4 mei2",
+    "english_segments": [
+      "(bird species of China) rufous-throated fulvetta (Schoeniparus rufogularis)"
+    ],
+    "raw_source": "棕喉雀鶥 棕喉雀鹛 [zong1 hou2 que4 mei2] /(bird species of China) rufous-throated fulvetta (Schoeniparus rufogularis)/",
+    "source_line": 58198,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) рудогорла фульвета (Schoeniparus rufogularis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська видова назва описова; усталений відповідник не підтверджено."
+    ]
+  },
+  {
+    "id": "1278a6483de3e55b",
+    "traditional": "棕腹鵙鶥",
+    "simplified": "棕腹鵙鹛",
+    "pinyin": "zong1 fu4 ju2 mei2",
+    "english_segments": [
+      "(bird species of China) black-headed shrike-babbler (Pteruthius rufiventer)"
+    ],
+    "raw_source": "棕腹鵙鶥 棕腹鵙鹛 [zong1 fu4 ju2 mei2] /(bird species of China) black-headed shrike-babbler (Pteruthius rufiventer)/",
+    "source_line": 58250,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) сорокопудова тимелія чорноголова (Pteruthius rufiventer)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська видова назва описова; усталений відповідник не підтверджено."
+    ]
+  },
+  {
+    "id": "92ce1789bda1771f",
+    "traditional": "濟州島",
+    "simplified": "济州岛",
+    "pinyin": "Ji4 zhou1 Dao3",
+    "english_segments": [
+      "Jeju Island special autonomous province, South Korea, a World Heritage site"
+    ],
+    "raw_source": "濟州島 济州岛 [Ji4 zhou1 Dao3] /Jeju Island special autonomous province, South Korea, a World Heritage site/",
+    "source_line": 68673,
+    "ukrainian_segments": [
+      "острів Чеджу, особлива автономна провінція Південної Кореї; об'єкт Світової спадщини"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Формулювання джерела про Світову спадщину узагальнене: статус стосується визначених природних об'єктів острова."
+    ]
+  },
+  {
+    "id": "2126114bccb1278e",
+    "traditional": "濟州特別自治道",
+    "simplified": "济州特别自治道",
+    "pinyin": "Ji4 zhou1 te4 bie2 zi4 zhi4 dao4",
+    "english_segments": [
+      "Jeju island special autonomous province, South Korea, a World Heritage site"
+    ],
+    "raw_source": "濟州特別自治道 济州特别自治道 [Ji4 zhou1 te4 bie2 zi4 zhi4 dao4] /Jeju island special autonomous province, South Korea, a World Heritage site/",
+    "source_line": 68674,
+    "ukrainian_segments": [
+      "Чеджу, острівна особлива автономна провінція Південної Кореї; об'єкт Світової спадщини"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Формулювання джерела про Світову спадщину узагальнене: статус стосується визначених природних об'єктів провінції."
+    ]
+  },
+  {
+    "id": "8cac7f6612381a80",
+    "traditional": "熊耳山",
+    "simplified": "熊耳山",
+    "pinyin": "Xiong2 er3 shan1",
+    "english_segments": [
+      "Mt Xiong'er national geological park in 棗莊|枣庄[Zao3 zhuang1], south Shandong"
+    ],
+    "raw_source": "熊耳山 熊耳山 [Xiong2 er3 shan1] /Mt Xiong'er national geological park in 棗莊|枣庄[Zao3 zhuang1], south Shandong/",
+    "source_line": 70607,
+    "ukrainian_segments": [
+      "національний геологічний парк гори Сюнер у Цзаочжуані 棗莊|枣庄[Zao3 zhuang1], південь Шаньдуну"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Прив'язка парку Сюнер до Цзаочжуана потребує географічної звірки; назву передано за джерелом."
+    ]
+  },
+  {
+    "id": "4165cdd87207d86d",
+    "traditional": "白冠噪鶥",
+    "simplified": "白冠噪鹛",
+    "pinyin": "bai2 guan1 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) white-crested laughingthrush (Garrulax leucolophus)"
+    ],
+    "raw_source": "白冠噪鶥 白冠噪鹛 [bai2 guan1 zao4 mei2] /(bird species of China) white-crested laughingthrush (Garrulax leucolophus)/",
+    "source_line": 76518,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) білочуба чагарниця (Garrulax leucolophus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву подано описово; усталена форма потребує перевірки."
+    ]
+  },
+  {
+    "id": "a3d628ceff219baf",
+    "traditional": "白眶鶲鶯",
+    "simplified": "白眶鹟莺",
+    "pinyin": "bai2 kuang4 weng1 ying1",
+    "english_segments": [
+      "(bird species of China) white-spectacled warbler (Phylloscopus intermedius)"
+    ],
+    "raw_source": "白眶鶲鶯 白眶鹟莺 [bai2 kuang4 weng1 ying1] /(bird species of China) white-spectacled warbler (Phylloscopus intermedius)/",
+    "source_line": 76715,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) білоокулярний вівчарик (Phylloscopus intermedius)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву подано описово; усталена українська назва потребує перевірки."
+    ]
+  },
+  {
+    "id": "98fb2708803b87bf",
+    "traditional": "白眼河燕",
+    "simplified": "白眼河燕",
+    "pinyin": "bai2 yan3 he2 yan4",
+    "english_segments": [
+      "(bird species of China) white-eyed river martin (Pseudochelidon sirintarae)"
+    ],
+    "raw_source": "白眼河燕 白眼河燕 [bai2 yan3 he2 yan4] /(bird species of China) white-eyed river martin (Pseudochelidon sirintarae)/",
+    "source_line": 76717,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) білоока річкова ластівка (Pseudochelidon sirintarae)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва потребує перевірки."
+    ]
+  },
+  {
+    "id": "d5d2a9b5fd26f7b1",
+    "traditional": "短尾鷯鶥",
+    "simplified": "短尾鹩鹛",
+    "pinyin": "duan3 wei3 liao2 mei2",
+    "english_segments": [
+      "(bird species of China) rufous-throated wren-babbler (Spelaeornis caudatus)"
+    ],
+    "raw_source": "短尾鷯鶥 短尾鹩鹛 [duan3 wei3 liao2 mei2] /(bird species of China) rufous-throated wren-babbler (Spelaeornis caudatus)/",
+    "source_line": 79099,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) рудогорла тимелія-волоочко (Spelaeornis caudatus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва; усталений видовий відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "40c9cfb06a246a93",
+    "traditional": "紅喉山鷓鴣",
+    "simplified": "红喉山鹧鸪",
+    "pinyin": "hong2 hou2 shan1 zhe4 gu1",
+    "english_segments": [
+      "(bird species of China) rufous-throated partridge (Arborophila rufogularis)"
+    ],
+    "raw_source": "紅喉山鷓鴣 红喉山鹧鸪 [hong2 hou2 shan1 zhe4 gu1] /(bird species of China) rufous-throated partridge (Arborophila rufogularis)/",
+    "source_line": 84630,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) куріпка рудогорла (Arborophila rufogularis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Видову назву подано описово; усталену українську назву слід перевірити."
+    ]
+  },
+  {
+    "id": "4bb048e5481417ff",
+    "traditional": "紅眉朱雀",
+    "simplified": "红眉朱雀",
+    "pinyin": "hong2 mei2 zhu1 que4",
+    "english_segments": [
+      "(bird species of China) Chinese beautiful rosefinch (Carpodacus davidianus)"
+    ],
+    "raw_source": "紅眉朱雀 红眉朱雀 [hong2 mei2 zhu1 que4] /(bird species of China) Chinese beautiful rosefinch (Carpodacus davidianus)/",
+    "source_line": 84745,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) китайська гарна чечевиця (Carpodacus davidianus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву подано описово; усталений відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "47afacdf17dcee74",
+    "traditional": "紅胸山鷓鴣",
+    "simplified": "红胸山鹧鸪",
+    "pinyin": "hong2 xiong1 shan1 zhe4 gu1",
+    "english_segments": [
+      "(bird species of China) chestnut-breasted partridge (Arborophila mandellii)"
+    ],
+    "raw_source": "紅胸山鷓鴣 红胸山鹧鸪 [hong2 xiong1 shan1 zhe4 gu1] /(bird species of China) chestnut-breasted partridge (Arborophila mandellii)/",
+    "source_line": 84780,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) куріпка каштановогруда (Arborophila mandellii)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву подано описово; усталений український відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "49d1a1d10d10eb22",
+    "traditional": "華南斑胸鉤嘴鶥",
+    "simplified": "华南斑胸钩嘴鹛",
+    "pinyin": "Hua2 nan2 ban1 xiong1 gou1 zui3 mei2",
+    "english_segments": [
+      "(bird species of China) grey-sided scimitar babbler (Erythrogenys swinhoei)"
+    ],
+    "raw_source": "華南斑胸鉤嘴鶥 华南斑胸钩嘴鹛 [Hua2 nan2 ban1 xiong1 gou1 zui3 mei2] /(bird species of China) grey-sided scimitar babbler (Erythrogenys swinhoei)/",
+    "source_line": 94602,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) сірощокий криводзьобий тимелієвий птах (Erythrogenys swinhoei)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську видову назву птаха подано описово; точний усталений відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "b2b425240603ecff",
+    "traditional": "遼寧古盜鳥",
+    "simplified": "辽宁古盗鸟",
+    "pinyin": "Liao2 ning2 gu3 dao4 niao3",
+    "english_segments": [
+      "Archaeoraptor liaoningensis (bird-like dinosaur found in Liaoning province)"
+    ],
+    "raw_source": "遼寧古盜鳥 辽宁古盗鸟 [Liao2 ning2 gu3 dao4 niao3] /Archaeoraptor liaoningensis (bird-like dinosaur found in Liaoning province)/",
+    "source_line": 109389,
+    "ukrainian_segments": [
+      "Archaeoraptor liaoningensis (птахоподібний динозавр, знайдений у провінції Ляонін)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Archaeoraptor liaoningensis був назвою скомпонованої підробки з викопних решток, а не чинним видом динозавра; опис у джерелі хибний."
+    ]
+  },
+  {
+    "id": "f9c326f297b74f05",
+    "traditional": "靛冠噪鶥",
+    "simplified": "靛冠噪鹛",
+    "pinyin": "dian4 guan1 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) blue-crowned laughingthrush (Pterorhinus courtoisi)"
+    ],
+    "raw_source": "靛冠噪鶥 靛冠噪鹛 [dian4 guan1 zao4 mei2] /(bird species of China) blue-crowned laughingthrush (Pterorhinus courtoisi)/",
+    "source_line": 117869,
+    "ukrainian_segments": [
+      "чагарниця синьоголова (Pterorhinus courtoisi), вид птахів Китаю"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва потребує перевірки."
+    ]
+  },
+  {
+    "id": "e9437e7681b8f498",
+    "traditional": "麗色噪鶥",
+    "simplified": "丽色噪鹛",
+    "pinyin": "li4 se4 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) red-winged laughingthrush (Trochalopteron formosum)"
+    ],
+    "raw_source": "麗色噪鶥 丽色噪鹛 [li4 se4 zao4 mei2] /(bird species of China) red-winged laughingthrush (Trochalopteron formosum)/",
+    "source_line": 123584,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) червонокрила чагарниця (Trochalopteron formosum)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "b87411a94cfd330f",
+    "traditional": "黃腹啄花鳥",
+    "simplified": "黄腹啄花鸟",
+    "pinyin": "huang2 fu4 zhuo2 hua1 niao3",
+    "english_segments": [
+      "(bird species of China) yellow-bellied flowerpecker (Dicaeum melanozanthum)"
+    ],
+    "raw_source": "黃腹啄花鳥 黄腹啄花鸟 [huang2 fu4 zhuo2 hua1 niao3] /(bird species of China) yellow-bellied flowerpecker (Dicaeum melanozanthum)/",
+    "source_line": 123994,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) жовточеревий квіткоїд (Dicaeum melanozanthum)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "265c0f08e8e3f9cd",
+    "traditional": "冠斑犀鳥",
+    "simplified": "冠斑犀鸟",
+    "pinyin": "guan1 ban1 xi1 niao3",
+    "english_segments": [
+      "(bird species of China) oriental pied hornbill (Anthracoceros albirostris)"
+    ],
+    "raw_source": "冠斑犀鳥 冠斑犀鸟 [guan1 ban1 xi1 niao3] /(bird species of China) oriental pied hornbill (Anthracoceros albirostris)/",
+    "source_line": 12496,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) східний строкатий птах-носоріг (Anthracoceros albirostris)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська назва виду є описовим перекладом; її усталеність не перевірено. Точний вид визначає збережена латинська назва."
+    ]
+  },
+  {
+    "id": "940015260b6738bc",
+    "traditional": "土洋結合",
+    "simplified": "土洋结合",
+    "pinyin": "tu3 yang2 jie2 he2",
+    "english_segments": [
+      "combining native and foreign methods (idiom); sophisticated and many-sided"
+    ],
+    "raw_source": "土洋結合 土洋结合 [tu3 yang2 jie2 he2] /combining native and foreign methods (idiom); sophisticated and many-sided/",
+    "source_line": 24854,
+    "ukrainian_segments": [
+      "поєднувати місцеві й закордонні методи (ідіома); різнобічний і витончений"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Додатковий опис sophisticated and many-sided у джерелі не є очевидним самостійним значенням ідіоми."
+    ]
+  },
+  {
+    "id": "c364f9ad220b6f87",
+    "traditional": "慶尚北道",
+    "simplified": "庆尚北道",
+    "pinyin": "Qing4 shang4 bei3 dao4",
+    "english_segments": [
+      "North Gyeongsang Province, in east South Korea, capital Daegu 大邱[Da4 qiu1]"
+    ],
+    "raw_source": "慶尚北道 庆尚北道 [Qing4 shang4 bei3 dao4] /North Gyeongsang Province, in east South Korea, capital Daegu 大邱[Da4 qiu1]/",
+    "source_line": 43208,
+    "ukrainian_segments": [
+      "Кьонсан-Пукто, провінція на сході Південної Кореї; столиця за джерелом — Тегу 大邱[Da4 qiu1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Вказівка на Тегу як столицю провінції історична; адміністративний центр перенесено до Андона."
+    ]
+  },
+  {
+    "id": "25dd9bc6b829168e",
+    "traditional": "方釳",
+    "simplified": "方𨰿",
+    "pinyin": "fang1 xi4",
+    "english_segments": [
+      "(arch.) metal horn attached as shield to horse or to the axle of a chariot"
+    ],
+    "raw_source": "方釳 方𨰿 [fang1 xi4] /(arch.) metal horn attached as shield to horse or to the axle of a chariot/",
+    "source_line": 52305,
+    "ukrainian_segments": [
+      "(архаїчне) металевий ріг-оберіг, прикріплений до коня або осі колісниці"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Точна конструкція й функція архаїчного предмета 方釳 потребує спеціального звірення; передано опис із джерела."
+    ]
+  },
+  {
+    "id": "98c3dbc745a1d80b",
+    "traditional": "楔嘴鷯鶥",
+    "simplified": "楔嘴鹩鹛",
+    "pinyin": "xie1 zui3 liao2 mei2",
+    "english_segments": [
+      "(bird species of China) Cachar wedge-billed babbler (Sphenocichla roberti)"
+    ],
+    "raw_source": "楔嘴鷯鶥 楔嘴鹩鹛 [xie1 zui3 liao2 mei2] /(bird species of China) Cachar wedge-billed babbler (Sphenocichla roberti)/",
+    "source_line": 58541,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) качарська клинодзьоба тимелія (Sphenocichla roberti)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська видова назва описова; усталений відповідник не підтверджено."
+    ]
+  },
+  {
+    "id": "c12a30e569380155",
+    "traditional": "江平",
+    "simplified": "江平",
+    "pinyin": "Jiang1 Ping2",
+    "english_segments": [
+      "Jiang Ping (1920-), academic lawyer, writer on ethnicity and legal systems"
+    ],
+    "raw_source": "江平 江平 [Jiang1 Ping2] /Jiang Ping (1920-), academic lawyer, writer on ethnicity and legal systems/",
+    "source_line": 62862,
+    "ukrainian_segments": [
+      "Цзян Пін (нар. 1920), учений-правознавець, автор праць про етнічність і правові системи"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Біографічна ідентифікація й рік народження в джерелі потребують перевірки."
+    ]
+  },
+  {
+    "id": "8c10d92606c1ddce",
+    "traditional": "灰翅噪鶥",
+    "simplified": "灰翅噪鹛",
+    "pinyin": "hui1 chi4 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) moustached laughingthrush (Ianthocincla cineracea)"
+    ],
+    "raw_source": "灰翅噪鶥 灰翅噪鹛 [hui1 chi4 zao4 mei2] /(bird species of China) moustached laughingthrush (Ianthocincla cineracea)/",
+    "source_line": 69191,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) чагарниця вусата (Ianthocincla cineracea)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву Ianthocincla cineracea передано за англійським епітетом; усталений український відповідник потребує звірки."
+    ]
+  },
+  {
+    "id": "0a68926a1c564b7f",
+    "traditional": "煙豆",
+    "simplified": "烟豆",
+    "pinyin": "yan1 dou4",
+    "english_segments": [
+      "variable glycine (Glycine tabacina), a scrambling plant in the bean family"
+    ],
+    "raw_source": "煙豆 烟豆 [yan1 dou4] /variable glycine (Glycine tabacina), a scrambling plant in the bean family/",
+    "source_line": 70400,
+    "ukrainian_segments": [
+      "соя тютюнова (Glycine tabacina; також відома як мінлива гліцина), сланка або витка рослина родини бобових"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 1,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назви «соя тютюнова» та «мінлива гліцина» передано описово за латинським епітетом і англійською назвою; усталений український видовий відповідник не встановлено."
+    ]
+  },
+  {
+    "id": "6298774c3ffc326d",
+    "traditional": "白點噪鶥",
+    "simplified": "白点噪鹛",
+    "pinyin": "bai2 dian3 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) white-speckled laughingthrush (Ianthocincla bieti)"
+    ],
+    "raw_source": "白點噪鶥 白点噪鹛 [bai2 dian3 zao4 mei2] /(bird species of China) white-speckled laughingthrush (Ianthocincla bieti)/",
+    "source_line": 76965,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) білоплямиста чагарниця (Ianthocincla bieti)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва потребує перевірки."
+    ]
+  },
+  {
+    "id": "f9f70eaf0ab8eaf2",
+    "traditional": "紅尾水鴝",
+    "simplified": "红尾水鸲",
+    "pinyin": "hong2 wei3 shui3 qu2",
+    "english_segments": [
+      "(bird species of China) plumbeous water redstart (Phoenicurus fuliginosus)"
+    ],
+    "raw_source": "紅尾水鴝 红尾水鸲 [hong2 wei3 shui3 qu2] /(bird species of China) plumbeous water redstart (Phoenicurus fuliginosus)/",
+    "source_line": 84667,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) горихвістка водяна (Phoenicurus fuliginosus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва потребує перевірки."
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "status": "private_corrected_candidate_pending_package_verification",
+  "baseline_path": "/workspace/scratch/d049744f7576/ukrainian-cedict-expansion12-9668/publish-public/dictionary.json",
+  "baseline_dictionary_sha256": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+  "corrected_dictionary_sha256": "1654a30902d133ad120128d43a8e44a4275bae440de8dc5ec7fe60a9d65c2781",
+  "baseline_immutable_verified": true,
+  "all_source_fields_records_order_preserved": true,
+  "all_uncertainty_flags_preserved": true,
+  "known_contaminated_note_ids_inactive": [
+    "0168943755f632b1",
+    "203349f934e0f706",
+    "3ee7e352b216472a",
+    "410ff3a4d8eff115",
+    "4355846ebc6874c8",
+    "87e972dbb1b47cc9",
+    "92b953c247ece388",
+    "9350153f3da653f2",
+    "97a15e73b89ed7e4",
+    "b0679e8983a2fb13",
+    "b8ac45eaf5cef49a",
+    "c78cae2d3e5f1fb9",
+    "cdf351e19875f62b",
+    "d592d648f09d9428",
+    "fed846504a2bb8b4"
+  ],
+  "human_validation": false,
+  "public_writes": false,
+  "runtime_approved": false,
+  "stats": {
+    "baseline_records": 125264,
+    "source_segments": 199737,
+    "notes_total": 2534,
+    "notes_by_disposition": {
+      "quarantine_rejected": 13,
+      "quarantine_unreviewed": 2234,
+      "replace_reviewed": 15,
+      "retain_reviewed": 272
+    },
+    "active_notes": 287,
+    "quarantined_original_notes": 2262,
+    "preserved_flagged_records": 2534,
+    "checkpoint_reviewed_records": 300,
+    "applied_segment_corrections": 42,
+    "human_validated_records": 0
+  },
+  "counts": {
+    "records": 125264,
+    "aligned_segments": 199737,
+    "model_reviewed_records": 979,
+    "corrected_segments": 548,
+    "records_with_corrections": 470,
+    "known_flagged_records": 2534,
+    "human_validated_records": 0
+  },
+  "checkpoint_selected_records": 300,
+  "checkpoint_reviewed_records": 300,
+  "checkpoint_reviewed_segments": 920,
+  "newly_model_reviewed_records": 275,
+  "review_outcomes": {
+    "acceptable": 100,
+    "deferred": 138,
+    "correction_proposed": 62
+  },
+  "proposal_count": 46,
+  "deferred_proposals": 4,
+  "review_audits": [
+    {
+      "input": "checkpoint-001/input_001.json",
+      "input_sha256": "cc27b1715c5815af33db121f50e87d0a0784fa971a7699d6ebad7902fdf4260b",
+      "review": "checkpoint-001/review_001.json",
+      "review_sha256": "686cd952c0f6517f8708fefdcf864861af1d8ba83a0e9d153c34d96b4885d13a",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-001/input_002.json",
+      "input_sha256": "7b7030c50ad16bfbcb762410e8c1d9338ec9726fa044d5db3fa7d57a03fe965d",
+      "review": "checkpoint-001/review_002.json",
+      "review_sha256": "417e08e4caa993973205510790d4ff5318606596dc1b409fb324a02c4155ac82",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-001/input_003.json",
+      "input_sha256": "c81a21dbbd808d7970e798e301cf6bb0a974e90f0c9b91b27b35843539ac36f8",
+      "review": "checkpoint-001/review_003.json",
+      "review_sha256": "7965778723dccb0c4d9cf720fa6f413d1d72cff7b4516dd755d49b10852c21cd",
+      "reviewer_model_requested": "inherited stronger-model reviewer; no independent backend attestation",
+      "human_validation": false
+    }
+  ],
+  "limits": [
+    "Model review, not human validation or a corpus-wide accuracy estimate.",
+    "Unreviewed legacy notes are quarantined by default; flags remain to signal unresolved uncertainty.",
+    "Structural provenance audit does not certify all Ukrainian glosses semantically.",
+    "Only 300 of 2534 flagged entries received this full independent Chinese/English/Ukrainian checkpoint review.",
+    "Medium-confidence and disputed source-interpretation changes remain proposals only."
+  ],
+  "artifacts": {
+    "ALL_CORRECTION_PROPOSALS.json": "0201a56556af580ba98707abbe62f293224e2b7b62411afa7637cd300531a747",
+    "NOTE_QUARANTINE.json": "ff87bb982cbf64a34a8e1bc7b643e444c86fc678205e8b4456b794df3483b20c",
+    "NOTE_REVIEW_LEDGER.json": "c39187b8a162b940457cc5562e1585f9632920fc8398fd033b9a42225aa24860",
+    "REPAIR_OVERLAY.json": "05c9be642a0d43a2724247fa79462978aa1a00c3acb7467311120e3dc6bbb01e",
+    "dictionary.json": "1654a30902d133ad120128d43a8e44a4275bae440de8dc5ec7fe60a9d65c2781"
+  }
+}

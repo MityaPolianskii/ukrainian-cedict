@@ -1,0 +1,1846 @@
+{
+  "reviewer_model_requested": "gpt-6-astra",
+  "human_validation": false,
+  "reviewed_ids": [
+    "db7d1a30e32158fd",
+    "4d376b5d35c5abb3",
+    "572a4c3fdd25b088",
+    "18798e8d6f88953d",
+    "057aed62b44094e9",
+    "b1c6c21b324373fb",
+    "0db685a589606759",
+    "9f852a33ad5517e8",
+    "e4448900279f4078",
+    "97447096c745daf9",
+    "680f16ce7fa4ecdb",
+    "badba055b2290906",
+    "19f001c0d479e3d5",
+    "ae6aa87991add455",
+    "76f74bb288a51c08",
+    "bd532e852ecbc9ce",
+    "9d736edb3ceb9e7b",
+    "ce111f4e9f0fab42",
+    "40cfbc7bf9ef9931",
+    "19979aa03a204dc0",
+    "585eec76dd1b92e7",
+    "969f1556917b684e",
+    "8ad50992aad8cc6e",
+    "2fd3ac568fdd2ee2",
+    "957c53f466d2a18a",
+    "cce9bffe82fda474",
+    "8b576d11397065d9",
+    "c4d5bfaf4e6e0a0d",
+    "adc94ebe9728a037",
+    "184db19e935d2207",
+    "9bc8b3bd8bd1e703",
+    "7440d6ea68721710",
+    "dfc13e333af7c1a6",
+    "626dabc58110e8dd",
+    "23959e8f2f1703d7",
+    "6cf09781b5e6beaa",
+    "11ce7313700b76a1",
+    "89689a30df5c3bd9",
+    "b91d426c93e7e81c",
+    "29ee6f8cfe167c73",
+    "98f6fadb78f6ff01",
+    "e4b9a8c0d1475932",
+    "12f0ba65b375981b",
+    "c231d528b29a7d53",
+    "22d3c429e4141a4f",
+    "6584d1bd79b099db",
+    "1278ff3c58d106e9",
+    "ada4d4bf79caf7b0",
+    "25d21a538011280e",
+    "979af9edf2f981d3",
+    "82db425431d908cc",
+    "c5742c8b397fc503",
+    "8f687d7a90de083b",
+    "cdb36d6b3025dcb9",
+    "3d0214287e38b273",
+    "95e72743aac7b8cf",
+    "042b6905a4c2430f",
+    "bae10af710145885",
+    "3529e2f9b846abc4",
+    "09d0d6698ce65adc",
+    "867bb33a2c821c1d",
+    "387d62ce1b8d9fd2",
+    "56a31bf912610c1b",
+    "f3779adbb669cb41",
+    "2d7bfaf64eaea69a",
+    "a83d432179cb6a9e",
+    "97a63b505bcfd9e5",
+    "0a1c3476683ba3b2",
+    "4765208d5ebc13ac",
+    "56a6e5af985ad7eb",
+    "dfa56822af25f940",
+    "a2fd10c68233e20b",
+    "5c5d3c81558a4f9a",
+    "89b76ec4bac0459e",
+    "d38773338478e32d",
+    "88a9619bbbf8d51d",
+    "5bef38e8c2fb540c",
+    "6e0ec12f1b7767f8",
+    "797ee22da4b04215",
+    "de613b09675907ef",
+    "dabcd08794793f9d",
+    "4a3e45f7484f44af",
+    "b82807a1959921bc",
+    "8d457dabc6d45c70",
+    "56648e6a5b2c0752",
+    "745354ed44c5b4fb",
+    "103d9c3776dc082f",
+    "bb7316d6ef1e2d26",
+    "46255d31acf34ed8",
+    "3bf3085a12ad4e43",
+    "67bc6d82d77453a6",
+    "9b35ad6b98d865ae",
+    "998b2476205b968d",
+    "18cb56a20891ba97",
+    "4c64876bfbdca3fd",
+    "4c2211ffbed4d5da",
+    "af4cb56d49eda98e",
+    "cf6d74188e03f6e1",
+    "5e10ad45bc912b91",
+    "6877beee9404490e"
+  ],
+  "entries": [
+    {
+      "id": "db7d1a30e32158fd",
+      "source_line": 82937,
+      "traditional": "笙管",
+      "simplified": "笙管",
+      "pinyin": "sheng1 guan3",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian correctly identifies the pipes of the sheng. The attached note correctly distinguishes a free-reed mouth organ from a panpipe; the Met identifies the instrument and its bamboo pipes: https://www.metmuseum.org/art/collection/search/505403",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "4d376b5d35c5abb3",
+      "source_line": 82938,
+      "traditional": "笙簧",
+      "simplified": "笙簧",
+      "pinyin": "sheng1 huang2",
+      "outcome": "acceptable",
+      "reason": "Язички is the correct Ukrainian term for the reeds of a sheng. The attached warning about panpipe is relevant and supported by the free-reed classification: https://www.metmuseum.org/art/collection/search/505403",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "572a4c3fdd25b088",
+      "source_line": 85639,
+      "traditional": "結核菌素",
+      "simplified": "结核菌素",
+      "pinyin": "jie2 he2 jun1 su4",
+      "outcome": "acceptable",
+      "reason": "Туберкулін correctly follows 結核菌素 rather than the erroneous bacterial English gloss. The note accurately explains the discrepancy; Taiwan CDC identifies the substance as a protein extract: https://www.cdc.gov.tw/uploads/files/201705/7c661f6b-e947-4ee1-af7d-3c44f09c028c.pdf",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "18798e8d6f88953d",
+      "source_line": 89961,
+      "traditional": "肌肉萎縮症",
+      "simplified": "肌肉萎缩症",
+      "pinyin": "ji1 rou4 wei3 suo1 zheng4",
+      "outcome": "correction_proposed",
+      "reason": "Both Ukrainian expressions can be retained, but literal decomposition alone does not make the muscular-dystrophy sense erroneous: clinical Chinese uses 肌肉萎縮症 in names of muscular dystrophies. Narrow the note to acknowledge this established usage. https://www31.ha.org.hk/hkch/Patients/DiseaseInfo/DMD",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Китайський термін буквально означає м’язову атрофію; англійське muscular dystrophy може бути вужчим і неточним.",
+          "after": "肌肉萎縮症 буквально пов’язане з атрофією м’язів, але також уживається в китайських назвах м’язових дистрофій, зокрема дистрофії Дюшенна. Джерельне muscular dystrophy є можливим клінічним значенням; конкретний діагностичний обсяг залежить від контексту.",
+          "reason": "Clinical use directly supports the dystrophy sense; the original note over-relies on literal morphology. https://www31.ha.org.hk/hkch/Patients/DiseaseInfo/DMD",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The unqualified Chinese expression can be broader than a particular muscular-dystrophy diagnosis."
+      ]
+    },
+    {
+      "id": "057aed62b44094e9",
+      "source_line": 93720,
+      "traditional": "苦蕒菜",
+      "simplified": "苦荬菜",
+      "pinyin": "ku3 mai3 cai4",
+      "outcome": "acceptable",
+      "reason": "The descriptive Ukrainian species name is linguistically reasonable, and Ixeris denticulata is preserved exactly. The attached uncertainty concerns standard Ukrainian nomenclature and does not justify deleting the descriptive equivalent.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "An established Ukrainian common name and the current botanical treatment have not been independently established."
+      ]
+    },
+    {
+      "id": "b1c6c21b324373fb",
+      "source_line": 94722,
+      "traditional": "菲律賓語",
+      "simplified": "菲律宾语",
+      "pinyin": "Fei1 lu:4 bin1 yu3",
+      "outcome": "acceptable",
+      "reason": "Тагальська мова faithfully conveys the supplied Tagalog sense. The note is correctly attached and appropriately preserves the distinction between a Filipino-language label and the source’s narrower Tagalog identification.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The intended Filipino-versus-Tagalog scope cannot be fixed from this one-sense record."
+      ]
+    },
+    {
+      "id": "0db685a589606759",
+      "source_line": 95900,
+      "traditional": "蕙",
+      "simplified": "蕙",
+      "pinyin": "hui4",
+      "outcome": "deferred",
+      "reason": "The Latin string is copied without distortion, but the entry’s identification of 蕙 with Coumarouna odorata remains unresolved. The attached note flags the actual Chinese–taxon conflict without asserting an unsupported replacement.",
+      "confidence": "low",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify which botanical or historical sense of 蕙 underlies this source identification."
+      ]
+    },
+    {
+      "id": "9f852a33ad5517e8",
+      "source_line": 97125,
+      "traditional": "蚻",
+      "simplified": "蚻",
+      "pinyin": "zha2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian explanatory phrase is compatible with the genus Aphrophora, but neither the exact source spelling Aphrophora martima nor its identification with 蚻 is established. The note is relevant; no guessed spelling correction is proposed.",
+      "confidence": "low",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the scientific spelling and the intended insect taxon independently."
+      ]
+    },
+    {
+      "id": "e4448900279f4078",
+      "source_line": 107593,
+      "traditional": "逆反心理",
+      "simplified": "逆反心理",
+      "pinyin": "ni4 fan3 xin1 li3",
+      "outcome": "acceptable",
+      "reason": "Психологічний спротив; реакція опору expresses the oppositional response denoted by 逆反心理. The attached note correctly distinguishes that response from a technique of eliciting behaviour by recommending its opposite.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "97447096c745daf9",
+      "source_line": 117063,
+      "traditional": "電子器件",
+      "simplified": "电子器件",
+      "pinyin": "dian4 zi3 qi4 jian4",
+      "outcome": "acceptable",
+      "reason": "Електронні компоненти fits 電子器件. The attached note properly identifies the English electric/electronic and equipment/component imprecision, without changing the Chinese reference.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "680f16ce7fa4ecdb",
+      "source_line": 122760,
+      "traditional": "鮿",
+      "simplified": "鮿",
+      "pinyin": "zhe2",
+      "outcome": "acceptable",
+      "reason": "The freshwater-fish gloss should not be rejected merely because 鮿 also means dried fish: Academia Sinica records a fish-name sense referring to 鰟鮍. The Ukrainian is faithful, and the note correctly says the supplied source does not specify a species. https://chardb.iis.sinica.edu.tw/char/26695",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The entry does not provide a species-level scientific identification."
+      ]
+    },
+    {
+      "id": "badba055b2290906",
+      "source_line": 122940,
+      "traditional": "鱵",
+      "simplified": "鱵",
+      "pinyin": "zhen1",
+      "outcome": "deferred",
+      "reason": "Риба is a harmless classifier and Hyporhampus sajuri is preserved exactly. The note correctly reserves judgment on the visibly uncertain scientific spelling; there is insufficient evidence to choose a replacement within this review.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify Hyporhampus sajuri against a taxonomic authority without silently normalizing the source."
+      ]
+    },
+    {
+      "id": "19f001c0d479e3d5",
+      "source_line": 124820,
+      "traditional": "鼫",
+      "simplified": "鼫",
+      "pinyin": "shi2",
+      "outcome": "deferred",
+      "reason": "Довгохвостий бабак accurately translates the English words, but the equivalence to the historical character 鼫 is not securely established. The note is attached to the correct taxonomic uncertainty.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Determine whether the English is a species identification or a loose historical animal description."
+      ]
+    },
+    {
+      "id": "ae6aa87991add455",
+      "source_line": 14200,
+      "traditional": "到那個時候",
+      "simplified": "到那个时候",
+      "pinyin": "dao4 na4 ge4 shi2 hou4",
+      "outcome": "acceptable",
+      "reason": "До того моменту correctly respects the distal 那個. The note accurately identifies the source’s this/that mismatch; neither the forms nor the pinyin requires alteration.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "76f74bb288a51c08",
+      "source_line": 15981,
+      "traditional": "包乘組",
+      "simplified": "包乘组",
+      "pinyin": "bao1 cheng2 zu3",
+      "outcome": "correction_proposed",
+      "reason": "包乘組 denotes an assigned transport crew, not a chartering fee. First-person railway testimony and a transport proposal use the term for train crews. https://mzj.sh.gov.cn/lnb-wsws/20250313/a00de6e17e00473d9360b175454f9a91.html ; https://www.cppcc.gov.cn/2011/09/21/ARTI1316574168453185.shtml",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "плата за чартерний найм",
+          "after": "бригада, закріплена за певним поїздом або транспортним засобом",
+          "reason": "The headword names a crew/group, whereas плата names a payment. Railway first-person usage confirms the crew meaning. https://mzj.sh.gov.cn/lnb-wsws/20250313/a00de6e17e00473d9360b175454f9a91.html",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайське 組 зазвичай означає «бригада, група»; англійське тлумачення «chartering charge» потребує перевірки.",
+          "after": "包乘組 означає бригаду, закріплену за певним поїздом або транспортним засобом. Джерельне chartering charge помилково називає плату замість колективу працівників.",
+          "reason": "The tentative 組-based warning is now supported by direct transport usage. https://www.cppcc.gov.cn/2011/09/21/ARTI1316574168453185.shtml",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "bd532e852ecbc9ce",
+      "source_line": 31621,
+      "traditional": "孤立子波",
+      "simplified": "孤立子波",
+      "pinyin": "gu1 li4 zi3 bo1",
+      "outcome": "correction_proposed",
+      "reason": "The attached suspicion is confirmed: 孤立子波 is a soliton wave, not an instanton. A bilingual mathematical research abstract uses 孤立子波 and soliton for the same solutions. https://lxbwk.njournal.sdu.edu.cn/CN/abstract/abstract689.shtml",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "інстантон (мат.)",
+          "after": "солітонна хвиля (мат.)",
+          "reason": "A bilingual mathematical article directly matches 孤立子波 with soliton solutions; an instanton is a different mathematical/physical object. https://lxbwk.njournal.sdu.edu.cn/CN/abstract/abstract689.shtml",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Англійський глос «instanton» не узгоджується з буквальним значенням 孤立子波 «солітонна хвиля»; термін потребує перевірки.",
+          "after": "孤立子波 — солітонна хвиля; англійське instanton у джерелі є помилковим відповідником іншого математико-фізичного поняття.",
+          "reason": "Replace the pending-check wording with the primary research confirmation. https://lxbwk.njournal.sdu.edu.cn/CN/abstract/abstract689.shtml",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "9d736edb3ceb9e7b",
+      "source_line": 45915,
+      "traditional": "抽動症",
+      "simplified": "抽动症",
+      "pinyin": "chou1 dong4 zheng4",
+      "outcome": "correction_proposed",
+      "reason": "The source narrows a tic-disorder term to Tourette syndrome. Preserve Tourette as an included condition while restoring the broader headword scope; the attached note is substantively correct. https://cmuch.cmu.edu.tw/NewsInfo/NewsArticle?no=1738 ; https://ksph.kcg.gov.tw/page05.htm",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "синдром Туретта",
+          "after": "тиковий розлад (зокрема синдром Туретта)",
+          "reason": "The clinical source distinguishes the broader tic category from Tourette syndrome; retaining Tourette as an example preserves the original narrower information. https://cmuch.cmu.edu.tw/NewsInfo/NewsArticle?no=1738",
+          "confidence": "high",
+          "issue_type": "semantic_scope"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "抽動症 ширше означає тиковий розлад; англійське джерело звужує значення до синдрому Туретта.",
+          "after": "抽動症 означає тиковий розлад; синдром Туретта, названий в англійському джерелі, є одним із тикових розладів, а не відповідником усієї категорії.",
+          "reason": "The note’s concern is supported and is made explicit without treating Tourette as unrelated. https://ksph.kcg.gov.tw/page05.htm ; https://cmuch.cmu.edu.tw/NewsInfo/NewsArticle?no=1738",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "ce111f4e9f0fab42",
+      "source_line": 53999,
+      "traditional": "暔",
+      "simplified": "暔",
+      "pinyin": "nan2",
+      "outcome": "acceptable",
+      "reason": "Назва країни reproduces the sole source sense without inventing an identity. The note correctly describes the information missing from this rare-character entry.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The named historical country is unspecified."
+      ]
+    },
+    {
+      "id": "40cfbc7bf9ef9931",
+      "source_line": 56743,
+      "traditional": "林德布拉德",
+      "simplified": "林德布拉德",
+      "pinyin": "Lin2 de2 bu4 la1 de2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian consistently transcribes the source Lindeblatt, but the note correctly identifies a possible mismatch with 林德布拉德. Neither Lindblad nor another spelling should be substituted without identifying the intended person or name.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve the source surname, including its language and pronunciation."
+      ]
+    },
+    {
+      "id": "19979aa03a204dc0",
+      "source_line": 58859,
+      "traditional": "榼",
+      "simplified": "榼",
+      "pinyin": "ke4",
+      "outcome": "deferred",
+      "reason": "Pusaetha scandens remains intact, and ліана is a plausible plant description. The attached common-name warning is relevant, but it does not resolve whether bare 榼 is being used as a shortened plant name.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the Chinese botanical sense and any established Ukrainian name; preserve the Latin reference meanwhile."
+      ]
+    },
+    {
+      "id": "585eec76dd1b92e7",
+      "source_line": 59917,
+      "traditional": "櫫",
+      "simplified": "橥",
+      "pinyin": "zhu1",
+      "outcome": "deferred",
+      "reason": "The descriptive дзельква загострена and exact Zelkova acuminata should not be deleted for lack of a standard Ukrainian name. The substantive unresolved issue is the source’s attribution of this botanical sense to 櫫/橥, as the note indicates.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Confirm the Chinese character-to-taxon mapping and the status of the descriptive Ukrainian name."
+      ]
+    },
+    {
+      "id": "969f1556917b684e",
+      "source_line": 59922,
+      "traditional": "櫸",
+      "simplified": "榉",
+      "pinyin": "ju3",
+      "outcome": "acceptable",
+      "reason": "The source string Zeikowa acuminata is preserved and the Ukrainian species description is usable as a descriptive equivalent. The attached note cautiously flags the unusual genus spelling rather than silently replacing it.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source genus spelling and a standardized Ukrainian species name remain unverified."
+      ]
+    },
+    {
+      "id": "8ad50992aad8cc6e",
+      "source_line": 61977,
+      "traditional": "氟化氫",
+      "simplified": "氟化氢",
+      "pinyin": "fu2 hua4 qing1",
+      "outcome": "acceptable",
+      "reason": "Both the compound and its acid solution are represented, and the attached note correctly distinguishes them. No further rewrite is needed merely to repeat the note inside the segment. CDC confirms that the water solution is hydrofluoric acid: https://cdc.gov/chemical-emergencies/chemical-fact-sheets/hydrogen-fluoride.html",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "2fd3ac568fdd2ee2",
+      "source_line": 74372,
+      "traditional": "生化武器",
+      "simplified": "生化武器",
+      "pinyin": "sheng1 hua4 wu3 qi4",
+      "outcome": "acceptable",
+      "reason": "Біологічна зброя preserves the supplied narrower sense. The note is correctly attached and reasonably cautions that 生化 can combine biological and chemical rather than proving this biological sense invalid.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Whether this source intended biological weapons alone or a joint biological-and-chemical category remains context-dependent."
+      ]
+    },
+    {
+      "id": "957c53f466d2a18a",
+      "source_line": 79381,
+      "traditional": "矷",
+      "simplified": "矷",
+      "pinyin": "zi3",
+      "outcome": "acceptable",
+      "reason": "The parenthesized Ukrainian is a faithful rendering of the intentionally nonspecific stone gloss. The note accurately states that no particular stone is identified.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "No specific stone is named in the source."
+      ]
+    },
+    {
+      "id": "cce9bffe82fda474",
+      "source_line": 80390,
+      "traditional": "社會事業",
+      "simplified": "社会事业",
+      "pinyin": "she4 hui4 shi4 ye4",
+      "outcome": "acceptable",
+      "reason": "Суспільно корисна діяльність; соціальна справа captures the broader social-undertakings meaning. The note is correctly attached and avoids equating every use of 社會事業 with a commercial social enterprise.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "8b576d11397065d9",
+      "source_line": 81976,
+      "traditional": "積累毒性",
+      "simplified": "积累毒性",
+      "pinyin": "ji1 lei3 du2 xing4",
+      "outcome": "acceptable",
+      "reason": "Кумулятивна токсичність correctly denotes the property in 毒性, not a poisonous substance. The note accurately explains the English source’s category error.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "c4d5bfaf4e6e0a0d",
+      "source_line": 115019,
+      "traditional": "院牧",
+      "simplified": "院牧",
+      "pinyin": "yuan4 mu4",
+      "outcome": "correction_proposed",
+      "reason": "Абат is an attested Catholic sense, not an error to replace with chaplain. The note should explicitly recognize both usages so that the alternative chaplain sense is not taken to invalidate the source. The Catholic dictionary directly equates abbot with 院牧. https://www.ccreadbible.org/chinesebible/59294e3b655982f16f22889673cd8fad5178/a",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "院牧 може означати капелана установи; джерело подає abbot.",
+          "after": "У католицькій термінології 院牧 означає абата, тому джерельне abbot є коректним. В іншому інституційному контексті це слово може означати капелана.",
+          "reason": "The original alternative-sense warning could wrongly discredit the established Catholic sense; both senses should be distinguished. https://www.ccreadbible.org/chinesebible/59294e3b655982f16f22889673cd8fad5178/a ; https://www.amdgchinese.org/?p=85152",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Institutional chaplain is a separate context-dependent usage."
+      ]
+    },
+    {
+      "id": "adc94ebe9728a037",
+      "source_line": 116574,
+      "traditional": "離離光光",
+      "simplified": "离离光光",
+      "pinyin": "li2 li2 guang1 guang1",
+      "outcome": "deferred",
+      "reason": "The two Ukrainian adjectives convey lackluster appearance, but the rare expression 離離光光 has not been independently established. Its note correctly records a lexicographic rather than a Ukrainian-style uncertainty.",
+      "confidence": "low",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Confirm the rare expression and its meaning in a primary lexicographic or textual source."
+      ]
+    },
+    {
+      "id": "184db19e935d2207",
+      "source_line": 120791,
+      "traditional": "馬檳榔",
+      "simplified": "马槟榔",
+      "pinyin": "ma3 bing1 lang5",
+      "outcome": "acceptable",
+      "reason": "The Latin-only translation faithfully preserves Capparis masaikai. The note correctly explains why no unsupported Ukrainian standard species name was supplied.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "An established Ukrainian common name is not established."
+      ]
+    },
+    {
+      "id": "9bc8b3bd8bd1e703",
+      "source_line": 10002,
+      "traditional": "傿",
+      "simplified": "傿",
+      "pinyin": "yan4",
+      "outcome": "correction_proposed",
+      "reason": "Academia Sinica gives 誑價; 抬價 for this character’s pricing sense. The existing Ukrainian turns an action into an unnatural nominal price label; render the deceptive price-raising action. https://chardb.iis.sinica.edu.tw/char/7346",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "шахрайська ціна",
+          "after": "обманно завищувати ціну",
+          "reason": "誑價; 抬價 describes an action, not a type of price. The nominal Ukrainian was produced by copying the compressed English literally. https://chardb.iis.sinica.edu.tw/char/7346",
+          "confidence": "high",
+          "issue_type": "part_of_speech"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Рідкісна глоса «fraudulent price» перекладена буквально за наданим джерелом.",
+          "after": "Цінове значення 傿 — обманно завищувати ціну; джерельне fraudulent price невдало передає дію як назву ціни.",
+          "reason": "The primary lexical entry supports replacing the literal-gloss caveat with an explanation of the verb sense. https://chardb.iis.sinica.edu.tw/char/7346",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "7440d6ea68721710",
+      "source_line": 27531,
+      "traditional": "多重國籍",
+      "simplified": "多重国籍",
+      "pinyin": "duo1 chong2 guo2 ji2",
+      "outcome": "correction_proposed",
+      "reason": "The number scope is materially too narrow: 多重 denotes multiple, which includes but is not limited to two nationalities. The note identifies the real problem, and the segment should preserve the dual case as an example rather than the whole definition.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "подвійне громадянство",
+          "after": "множинне громадянство (зокрема подвійне)",
+          "reason": "Multiple is not limited to dual; the correction preserves dual nationality as a subset.",
+          "confidence": "high",
+          "issue_type": "semantic_scope"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "多重國籍 буквально охоплює множинне громадянство, не лише подвійне; джерело подає вужче значення.",
+          "after": "多重國籍 означає множинне громадянство; подвійне громадянство, назване в джерелі, є окремим випадком.",
+          "reason": "The note remains relevant but can state the resolved number-scope distinction directly.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "dfc13e333af7c1a6",
+      "source_line": 39487,
+      "traditional": "強迫性性行為",
+      "simplified": "强迫性性行为",
+      "pinyin": "qiang3 po4 xing4 xing4 xing2 wei2",
+      "outcome": "correction_proposed",
+      "reason": "Нав’язлива сексуальна поведінка conveys compulsive behaviour adequately. The note’s claim that sexual obsession is simply broader is unsupported: preoccupation or obsessive thoughts and compulsive behaviour are different concepts. Replace that hierarchy claim with the actual distinction. https://www.leepsyclinic.com/p/icd-11-6c72.html",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Англійський сегмент sexual obsession ширший за китайське 強迫性性行為, що прямо позначає компульсивну сексуальну поведінку.",
+          "after": "強迫性性行為 позначає компульсивну сексуальну поведінку; англійське sexual obsession може натомість позначати нав’язливі сексуальні думки або зосередженість на сексі. Це не проста різниця між ширшим і вужчим поняттями.",
+          "reason": "An obsession-versus-behaviour distinction is not a substantiated superset/subset relationship; remove that overclaim while retaining the source warning. https://www.leepsyclinic.com/p/icd-11-6c72.html",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "No diagnostic label or exact clinical inclusion relation is inferred from this lexical entry."
+      ]
+    },
+    {
+      "id": "626dabc58110e8dd",
+      "source_line": 46383,
+      "traditional": "拔頂",
+      "simplified": "拔顶",
+      "pinyin": "ba2 ding3",
+      "outcome": "deferred",
+      "reason": "The Ukrainian is a plausible literal mining interpretation of topping, but the source does not establish the exact mining operation. The note is pertinent; a specialist term cannot be selected confidently.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Determine the precise technical mining sense of 拔頂."
+      ]
+    },
+    {
+      "id": "23959e8f2f1703d7",
+      "source_line": 53815,
+      "traditional": "普里切特",
+      "simplified": "普里切特",
+      "pinyin": "Pu3 li3 qie4 te4",
+      "outcome": "deferred",
+      "reason": "Пратчетт follows the English Pratchett. The note appropriately flags Pritchett as a possibility rather than rewriting an unidentified proper name from phonetics alone.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Identify the intended surname before selecting Ukrainian spelling."
+      ]
+    },
+    {
+      "id": "6cf09781b5e6beaa",
+      "source_line": 66663,
+      "traditional": "減妝",
+      "simplified": "减妆",
+      "pinyin": "jian3 zhuang1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian accurately translates makeup box (old), but no reliable evidence here confirms that unusual sense for 減妝. The note belongs to this lexical-source problem.",
+      "confidence": "low",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the historical expression and exclude a source-character error before changing it."
+      ]
+    },
+    {
+      "id": "11ce7313700b76a1",
+      "source_line": 71221,
+      "traditional": "爆肚",
+      "simplified": "爆肚",
+      "pinyin": "bao4 du3",
+      "outcome": "correction_proposed",
+      "reason": "The dish is not restricted to deep-frying: Beijing’s own cultural description lists water, oil and salt variants and explains the familiar blanched version. Broaden the preparation description without deleting the fried variant. https://japanese.beijing.gov.cn/livinginbeijing/dining/202011/t20201120_2141474.html",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "рубець, смажений у фритюрі",
+          "after": "баоду: страва з рубця, який швидко обварюють або обсмажують",
+          "reason": "The verified dish has water- and oil-prepared variants; an exclusively deep-fried definition excludes the familiar water-blanched dish. https://japanese.beijing.gov.cn/livinginbeijing/dining/202011/t20201120_2141474.html",
+          "confidence": "high",
+          "issue_type": "semantic_scope"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело описує страву як смажену у фритюрі; назва також уживається для швидко обвареного рубця, тож спосіб приготування потребує перевірки.",
+          "after": "爆肚 має варіанти приготування у воді та олії; поширений пекінський варіант — швидко обварений рубець. Англійське deep fried tripe описує лише один можливий спосіб і надто звужує назву страви.",
+          "reason": "The municipal description establishes multiple techniques, so the note should preserve the oil variant rather than imply that only blanching is valid. https://japanese.beijing.gov.cn/livinginbeijing/dining/202011/t20201120_2141474.html",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "89689a30df5c3bd9",
+      "source_line": 76807,
+      "traditional": "白花蛇舌草",
+      "simplified": "白花蛇舌草",
+      "pinyin": "bai2 hua1 she2 she2 cao3",
+      "outcome": "acceptable",
+      "reason": "Гедіотіс розлогий is an intelligible descriptive equivalent for the retained Hedyotis diffusa. The note appropriately leaves standard Ukrainian nomenclature open; lack of standardization alone is not a translation error.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "A standardized Ukrainian species name is not established."
+      ]
+    },
+    {
+      "id": "b91d426c93e7e81c",
+      "source_line": 79043,
+      "traditional": "知識工程師",
+      "simplified": "知识工程师",
+      "pinyin": "zhi1 shi5 gong1 cheng2 shi1",
+      "outcome": "correction_proposed",
+      "reason": "The professional role is knowledge engineer, not any knowledge worker. The Chinese Computer Society terminology list explicitly pairs 知識工程師 with knowledge engineer. https://www.iicm.org.tw/term/termb_K.htm",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "працівник розумової праці",
+          "after": "інженер зі знань",
+          "reason": "The Chinese expressly names the knowledge-engineering role; worker omits the professional specialization. https://www.iicm.org.tw/term/termb_K.htm",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайське слово буквально означає інженера зі знань; ширше «knowledge worker» подано за джерелом.",
+          "after": "知識工程師 — інженер зі знань; джерельне knowledge worker є надто загальним позначенням працівника розумової праці.",
+          "reason": "The official professional terminology mapping resolves the literal-meaning caveat. https://www.iicm.org.tw/term/termb_K.htm",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "29ee6f8cfe167c73",
+      "source_line": 89237,
+      "traditional": "聊賴",
+      "simplified": "聊赖",
+      "pinyin": "liao2 lai4",
+      "outcome": "correction_proposed",
+      "reason": "MOE defines 聊賴 as reliance or support. The boredom gloss confuses the standalone word with the effect of negated expressions such as 百無聊賴; the note’s concern is confirmed. https://dict.revised.moe.edu.tw/dictView.jsp?ID=63008&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "нудьгувати; знемагати від нудьги",
+          "after": "опора; підтримка; те, на що можна покластися",
+          "reason": "The standalone word is defined as 依靠、憑藉; boredom arises in negative constructions and should not be transferred to the positive headword. https://dict.revised.moe.edu.tw/dictView.jsp?ID=63008&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело подає значення «нудьгувати»; окреме слово також пов’язане з опорою чи розрадою, тому потрібна лексикографічна перевірка.",
+          "after": "聊賴 означає опору або те, на що можна покластися. Значення нудьги чи безрадісності виникає в заперечних сполуках на кшталт 百無聊賴; англійське to suffer tedium помилково переносить його на окреме слово.",
+          "reason": "The MOE definition and negated textual examples substantiate the distinction. https://dict.revised.moe.edu.tw/dictView.jsp?ID=63008&la=0&powerMode=0",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "98f6fadb78f6ff01",
+      "source_line": 90017,
+      "traditional": "肛門直腸",
+      "simplified": "肛门直肠",
+      "pinyin": "gang1 men2 zhi2 chang2",
+      "outcome": "acceptable",
+      "reason": "Анус і пряма кишка includes both explicit anatomical components of 肛門直腸. The note correctly identifies that the English rectum omits 肛門.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e4b9a8c0d1475932",
+      "source_line": 92439,
+      "traditional": "興業銀行",
+      "simplified": "兴业银行",
+      "pinyin": "Xing1 ye4 Yin2 hang2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian renders the explicitly supplied Société Générale referent correctly. The attached warning about another bank with the same unqualified Chinese name is relevant and does not invalidate this source-selected referent.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "An occurrence without a geographic or institutional qualifier may refer to a different bank."
+      ]
+    },
+    {
+      "id": "12f0ba65b375981b",
+      "source_line": 93863,
+      "traditional": "苻",
+      "simplified": "苻",
+      "pinyin": "fu2",
+      "outcome": "acceptable",
+      "reason": "The exact Angelica anomala is retained and дягель аномальний is a defensible descriptive species rendering. The note correctly reserves any claim of an established Ukrainian common name.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Standard Ukrainian species nomenclature remains unverified."
+      ]
+    },
+    {
+      "id": "c231d528b29a7d53",
+      "source_line": 94090,
+      "traditional": "荃",
+      "simplified": "荃",
+      "pinyin": "quan2",
+      "outcome": "acceptable",
+      "reason": "Запашна рослина preserves the general botanical description without inventing a species. The attached note correctly describes the source’s lack of specificity.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The botanical species is not identified."
+      ]
+    },
+    {
+      "id": "22d3c429e4141a4f",
+      "source_line": 94367,
+      "traditional": "莞",
+      "simplified": "莞",
+      "pinyin": "guan1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian is faithful to Skimmia japonica and retains the Latin taxon, but the Chinese-to-species mapping remains doubtful. The note is correctly attached to that unresolved source issue; no unsupported substitute species is proposed.",
+      "confidence": "low",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the botanical sense of 莞 at guan1 and its relation to the supplied taxon."
+      ]
+    },
+    {
+      "id": "6584d1bd79b099db",
+      "source_line": 96210,
+      "traditional": "薹",
+      "simplified": "薹",
+      "pinyin": "tai2",
+      "outcome": "deferred",
+      "reason": "Carex dispalatha has been preserved exactly. The attached spelling warning is relevant, but the intended taxon cannot be reconstructed confidently from the source string alone.",
+      "confidence": "low",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Confirm the source scientific name in a taxonomic authority."
+      ]
+    },
+    {
+      "id": "1278ff3c58d106e9",
+      "source_line": 96242,
+      "traditional": "藋",
+      "simplified": "藋",
+      "pinyin": "diao4",
+      "outcome": "deferred",
+      "reason": "Sambucu javinica is preserved rather than silently normalized. The note correctly warns of a possible source corruption; both genus and epithet need checking before any replacement.",
+      "confidence": "low",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the intended taxon and the Chinese 藋 sense."
+      ]
+    },
+    {
+      "id": "ada4d4bf79caf7b0",
+      "source_line": 108000,
+      "traditional": "速手排",
+      "simplified": "速手排",
+      "pinyin": "su4 shou3 pai2",
+      "outcome": "deferred",
+      "reason": "Передачі matches the English, but 速手排 appears morphologically incomplete. The attached note presents its fragment hypothesis as uncertain, which is appropriate; the headword and its reference must not be repaired speculatively.",
+      "confidence": "low",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Establish whether this is a fragment of a transmission specification or an independently attested expression."
+      ]
+    },
+    {
+      "id": "25d21a538011280e",
+      "source_line": 112120,
+      "traditional": "鋼化玻璃",
+      "simplified": "钢化玻璃",
+      "pinyin": "gang1 hua4 bo1 li5",
+      "outcome": "acceptable",
+      "reason": "Загартоване скло accurately expresses 鋼化玻璃. The note correctly distinguishes the specific tempering process from the ambiguous reinforced-glass English label.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "979af9edf2f981d3",
+      "source_line": 31862,
+      "traditional": "宇宙速度",
+      "simplified": "宇宙速度",
+      "pinyin": "yu3 zhou4 su4 du4",
+      "outcome": "correction_proposed",
+      "reason": "The general cosmic-speed concept should not be presented as synonymous with escape velocity. Distinguish the broader category from the second cosmic speed already intended by the English gloss. CAS distinguishes orbital and escape speeds: https://imech.cas.cn/science/lxyd/kp/202302/t20230228_6686036.html",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "космічна швидкість; швидкість подолання тяжіння",
+          "after": "космічна швидкість (зокрема друга космічна швидкість — швидкість втечі)",
+          "reason": "The current semicolon makes the broader category and one member appear interchangeable. This rendering preserves both scopes while identifying the escape-speed case. https://imech.cas.cn/science/lxyd/kp/202302/t20230228_6686036.html",
+          "confidence": "high",
+          "issue_type": "semantic_scope"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "82db425431d908cc",
+      "source_line": 36017,
+      "traditional": "島蓋部",
+      "simplified": "岛盖部",
+      "pinyin": "dao3 gai4 bu4",
+      "outcome": "correction_proposed",
+      "reason": "The existing Ukrainian anatomical identification is defensible; the note can now record confirmation rather than an open spelling question. A research text explicitly matches 岛盖部 with pars opercularis. https://faculty.ecnu.edu.cn/_upload/article/files/db/2b/c6497b87406cbba204e82c2be105/82187f93-3848-4bb7-95eb-a73a8a4ef1ae.pdf",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Латинську назву в джерелі «pars perculairs» спотворено; відповідність анатомічного терміна потребує перевірки.",
+          "after": "Джерельне pars perculairs є спотвореним написанням pars opercularis. Відповідність 岛盖部 покришковій частині підтверджується анатомічним слововживанням у науковій літературі.",
+          "reason": "The source’s exact erroneous Latin string is retained and the previously pending match is now supported. https://faculty.ecnu.edu.cn/_upload/article/files/db/2b/c6497b87406cbba204e82c2be105/82187f93-3848-4bb7-95eb-a73a8a4ef1ae.pdf",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "c5742c8b397fc503",
+      "source_line": 42891,
+      "traditional": "感光鼓",
+      "simplified": "感光鼓",
+      "pinyin": "gan3 guang1 gu3",
+      "outcome": "acceptable",
+      "reason": "Фотобарабан correctly denotes the photosensitive drum. The attached note explains the real distinction from the toner cartridge, so the mistranslated source does not require importing картридж into Ukrainian.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "8f687d7a90de083b",
+      "source_line": 54830,
+      "traditional": "月子病",
+      "simplified": "月子病",
+      "pinyin": "yue4 zi5 bing4",
+      "outcome": "deferred",
+      "reason": "Післяпологова гарячка is an accurate rendering of puerperal fever, but the source may have narrowed a broader postpartum folk/medical expression. The attached note is cautious and relevant; a replacement scope has not been established here.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify whether this dictionary sense intentionally names puerperal fever or postpartum ailments more generally."
+      ]
+    },
+    {
+      "id": "cdb36d6b3025dcb9",
+      "source_line": 56899,
+      "traditional": "枰",
+      "simplified": "枰",
+      "pinyin": "ping2",
+      "outcome": "correction_proposed",
+      "reason": "MOE defines the relevant 枰 sense as a game board, not a chess-like game. The note identifies the correct source-object mismatch. https://dict.revised.moe.edu.tw/dictView.jsp?ID=960&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "гра, подібна до шахів",
+          "after": "дошка для настільної гри",
+          "reason": "The relevant sense is 棋盤, the playing board, not the game itself. https://dict.revised.moe.edu.tw/dictView.jsp?ID=960&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело подає гру; 枰 зазвичай означає дошку для настільної гри.",
+          "after": "枰 у цьому значенні означає дошку для настільної гри; англійське chess-like game помилково називає гру замість дошки.",
+          "reason": "The primary dictionary resolves the tentative board-versus-game warning. https://dict.revised.moe.edu.tw/dictView.jsp?ID=960&la=0&powerMode=0",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "3d0214287e38b273",
+      "source_line": 60453,
+      "traditional": "正多胞形",
+      "simplified": "正多胞形",
+      "pinyin": "zheng4 duo1 bao1 xing2",
+      "outcome": "correction_proposed",
+      "reason": "正 marks regularity, whereas the existing Ukrainian merely says convex. The note correctly separates these properties but needlessly restricts the definition to higher dimensions. NTSEC research uses the regular-polytope family and its n-dimensional generalization. https://www.ntsec.edu.tw/science/detail.aspx?a=90&cat=136&sid=16501",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "опуклий багатогранник у довільній кількості вимірів",
+          "after": "правильний політоп (правильний багатогранник у довільній кількості вимірів)",
+          "reason": "正 denotes regularity; convexity alone neither supplies nor entails it. The translation must retain the defining regular property. https://www.ntsec.edu.tw/science/detail.aspx?a=90&cat=136&sid=16501",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело подає convex polytope, тоді як 正多胞形 означає правильний багатогранник вищої розмірності; «правильний» і «опуклий» не тотожні.",
+          "after": "正多胞形 означає правильний політоп, тобто узагальнення правильного багатогранника на довільну кількість вимірів. Джерельне convex polytope називає опуклість, яка не тотожна правильності.",
+          "reason": "Retain the supported regular-versus-convex distinction and remove the unnecessary restriction to higher dimensions. https://www.ntsec.edu.tw/science/detail.aspx?a=90&cat=136&sid=16501",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "95e72743aac7b8cf",
+      "source_line": 62260,
+      "traditional": "氰酸",
+      "simplified": "氰酸",
+      "pinyin": "qing2 suan1",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian correctly gives cyanic acid HOCN; the note explicitly retains the source HCN and labels that formula as erroneous. NIST independently identifies HOCN as cyanic acid. https://cccbdb.nist.gov/exp2x.asp?casno=420053&charge=0",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "042b6905a4c2430f",
+      "source_line": 70806,
+      "traditional": "熱核反應堆",
+      "simplified": "热核反应堆",
+      "pinyin": "re4 he2 fan3 ying4 dui1",
+      "outcome": "correction_proposed",
+      "reason": "The current translation follows a different reactor type. 熱核 refers to thermonuclear fusion, as the attached note says; CAS identifies the relevant thermonuclear reactor programme as fusion. https://www.ipp.cas.cn/kxcb/kpzt/kjzh/201311/t20131128_346599.html",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "реактор на теплових нейтронах",
+          "after": "термоядерний реактор",
+          "reason": "熱核 denotes fusion/thermonuclear operation, whereas the Ukrainian currently specifies a thermal-neutron fission reactor. https://www.ipp.cas.cn/kxcb/kpzt/kjzh/201311/t20131128_346599.html",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайський термін означає термоядерний реактор, а англійське thermal reactor зазвичай — реактор на теплових нейтронах; фізичні поняття різні, потрібна перевірка джерела.",
+          "after": "熱核反應堆 — термоядерний реактор. Англійське thermal reactor, яке зазвичай означає реактор на теплових нейтронах, у джерелі змішує два різні фізичні поняття.",
+          "reason": "The fusion-reactor meaning is supported by the primary research institution, so the unresolved-check wording is no longer necessary. https://www.ipp.cas.cn/kxcb/kpzt/kjzh/201311/t20131128_346599.html",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "bae10af710145885",
+      "source_line": 72183,
+      "traditional": "犵",
+      "simplified": "犵",
+      "pinyin": "qi4",
+      "outcome": "acceptable",
+      "reason": "Назва племені is faithful to the source’s deliberately unidentified ethnonym. The note correctly identifies the missing group information without inventing a modern identity.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The historical group meant by 犵 is not specified."
+      ]
+    },
+    {
+      "id": "3529e2f9b846abc4",
+      "source_line": 72197,
+      "traditional": "狁",
+      "simplified": "狁",
+      "pinyin": "yun3",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian retains the nonspecific tribal-name sense of 狁. The note correctly states what this source omits, even though fuller compounds may supply historical context.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The entry does not identify the group or compound intended."
+      ]
+    },
+    {
+      "id": "09d0d6698ce65adc",
+      "source_line": 72370,
+      "traditional": "狫",
+      "simplified": "狫",
+      "pinyin": "lao3",
+      "outcome": "acceptable",
+      "reason": "Назва племені follows the source without guessing the historical group behind 狫. The attached note is correctly scoped to the missing source detail.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The historical ethnonym needs contextual identification if greater specificity is desired."
+      ]
+    },
+    {
+      "id": "867bb33a2c821c1d",
+      "source_line": 79510,
+      "traditional": "砩",
+      "simplified": "砩",
+      "pinyin": "fu2",
+      "outcome": "acceptable",
+      "reason": "Назва каменю preserves the source’s very general mineral/stone description. The note is relevant and prevents an unsupported specific mineral from being asserted.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The precise mineral sense is unspecified."
+      ]
+    },
+    {
+      "id": "387d62ce1b8d9fd2",
+      "source_line": 79732,
+      "traditional": "硫酸鐵",
+      "simplified": "硫酸铁",
+      "pinyin": "liu2 suan1 tie3",
+      "outcome": "correction_proposed",
+      "reason": "The oxidation-state uncertainty is resolved by an official terminology entry: 硫酸鐵 is ferric sulfate. State iron(III) rather than concealing the difference behind generic iron sulfate. https://www.tlri.gov.tw/view.php?id=9250&print=Y&subtheme=&theme=dictionary",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "сульфат заліза",
+          "after": "сульфат заліза(III)",
+          "reason": "The official bilingual terminology entry gives ferric sulfate; leaving the oxidation state out obscures a chemically important source error. https://www.tlri.gov.tw/view.php?id=9250&print=Y&subtheme=&theme=dictionary",
+          "confidence": "high",
+          "issue_type": "terminology"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело вказує «ferrous sulfate» (заліза(II)), але китайська назва без 亞 зазвичай стосується сульфату заліза(III); ступінь окиснення потребує уточнення.",
+          "after": "硫酸鐵 — сульфат заліза(III), ferric sulfate. Джерельне ferrous sulfate означає сульфат заліза(II), для якого китайською вживають 硫酸亞鐵.",
+          "reason": "The authoritative term mapping resolves the oxidation-state question. https://www.tlri.gov.tw/view.php?id=9250&print=Y&subtheme=&theme=dictionary ; https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f639002834461024502",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "56a31bf912610c1b",
+      "source_line": 87431,
+      "traditional": "纖維蛋白",
+      "simplified": "纤维蛋白",
+      "pinyin": "xian1 wei2 dan4 bai2",
+      "outcome": "acceptable",
+      "reason": "The generic fibrous-protein sense is genuinely attested, for example in a university researcher’s description of tropomyosin as 纖維蛋白; fibrin is also a recognized use. Preserve фібрилярний білок and the contextual warning instead of replacing every occurrence by fibrin. https://gaweb.nutn.edu.tw/faculty/teaData.aspx?id=mingchih39 ; https://aj.xhu.edu.cn/xhdxxbzkb/article/doi/10.3969/j.issn.1673-159X.2018.04.009",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Whether an individual occurrence denotes generic fibrous protein or specifically fibrin remains domain-dependent."
+      ]
+    },
+    {
+      "id": "f3779adbb669cb41",
+      "source_line": 90798,
+      "traditional": "脫腸",
+      "simplified": "脱肠",
+      "pinyin": "tuo1 chang2",
+      "outcome": "acceptable",
+      "reason": "Both senses in the Ukrainian are supported: MOE gives rectal prolapse, while Mackay Hospital uses 脫腸 for hernia. The attached note correctly distinguishes these conditions rather than declaring them the same disease. https://dict.revised.moe.edu.tw/dictView.jsp?ID=54722&q=1&word=%E8%84%AB ; https://www.mmh.org.tw/know_health_view.php?docid=116",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The intended clinical sense is context-dependent."
+      ]
+    },
+    {
+      "id": "2d7bfaf64eaea69a",
+      "source_line": 91201,
+      "traditional": "腺垂體",
+      "simplified": "腺垂体",
+      "pinyin": "xian4 chui2 ti3",
+      "outcome": "acceptable",
+      "reason": "Аденогіпофіз is the appropriate specific anatomical term; передня частка гіпофіза is its conventional explanatory equivalent here. The note correctly identifies that the English pituitary gland is too broad.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "a83d432179cb6a9e",
+      "source_line": 92724,
+      "traditional": "舟山群島",
+      "simplified": "舟山群岛",
+      "pinyin": "Zhou1 shan1 Qun2 dao3",
+      "outcome": "acceptable",
+      "reason": "Архіпелаг Чжоушань preserves the plural-group meaning of 群島. The note correctly distinguishes an archipelago from a single island.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "97a63b505bcfd9e5",
+      "source_line": 96395,
+      "traditional": "藚",
+      "simplified": "藚",
+      "pinyin": "xu4",
+      "outcome": "acceptable",
+      "reason": "Alisma plantago is retained exactly as required. The attached note cautiously marks the scientific-name status as unresolved rather than asserting an unverified modern replacement.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Determine whether the source string is a historical botanical form or incomplete nomenclature."
+      ]
+    },
+    {
+      "id": "0a1c3476683ba3b2",
+      "source_line": 99146,
+      "traditional": "複句",
+      "simplified": "复句",
+      "pinyin": "fu4 ju4",
+      "outcome": "acceptable",
+      "reason": "Складне речення correctly renders 複句; phrase and sentence are not interchangeable in this grammatical entry. The note is attached to the correct source-level distinction.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "4765208d5ebc13ac",
+      "source_line": 106844,
+      "traditional": "辣豆醬",
+      "simplified": "辣豆酱",
+      "pinyin": "la4 dou4 jiang4",
+      "outcome": "correction_proposed",
+      "reason": "The note wrongly rejects an attested culinary meaning. An original recipe explicitly names 辣豆醬 as chili con carne, and a restaurant menu uses the same pairing. Restore that supplied dish sense as a normal definition. https://www.jzkitchen.com/%E8%BE%A3%E8%B1%86%E9%86%AC%20chilli%20con%20carne/ ; https://assets.ctfassets.net/1sem1hjnx50p/6Xfo301bPLmcEHV9nEGKZ8/7900c1e62e2a88dc472a9bb2b9e7b253/0222_CLV_SKY_Bistro_afternoon_tea_menu_inline.pdf",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "гостра бобова паста (у джерелі: чилі кон карне)",
+          "after": "чилі кон карне (гостра м’ясна страва, часто з квасолею)",
+          "reason": "The source-selected dish is attested in original Chinese recipes and menus. Labeling it merely an erroneous source alternative is unjustified. https://www.jzkitchen.com/%E8%BE%A3%E8%B1%86%E9%86%AC%20chilli%20con%20carne/",
+          "confidence": "high",
+          "issue_type": "valid_sense_restoration"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайське слово означає гострий бобовий соус або пасту; англійське chili con carne називає іншу страву. Суперечність позначено.",
+          "after": "辣豆醬 засвідчено як китайську назву страви chili con carne, тому це значення джерела не є помилковим. В інших контекстах сполука може буквально позначати гострий бобовий соус; значення визначає контекст.",
+          "reason": "The original categorical rejection is contradicted by first-party culinary usage; preserve the alternate context rather than delete the whole relevant note. https://www.jzkitchen.com/%E8%BE%A3%E8%B1%86%E9%86%AC%20chilli%20con%20carne/",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The Chinese phrase can have other literal culinary uses; that does not invalidate the source-selected dish."
+      ]
+    },
+    {
+      "id": "56a6e5af985ad7eb",
+      "source_line": 116080,
+      "traditional": "雌雄同體人",
+      "simplified": "雌雄同体人",
+      "pinyin": "ci2 xiong2 tong2 ti3 ren2",
+      "outcome": "acceptable",
+      "reason": "The translation offers a current general human referent and explicitly marks the historical term as outdated. The note is relevant; it does not claim that every intersex variation is the precise historical condition implied by hermaphrodite.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The historical label is not a precise modern medical classification."
+      ]
+    },
+    {
+      "id": "dfa56822af25f940",
+      "source_line": 120177,
+      "traditional": "餓殍",
+      "simplified": "饿殍",
+      "pinyin": "e4 piao3",
+      "outcome": "acceptable",
+      "reason": "Померлі від голоду correctly captures people who have died, not merely living people who are starving. The note correctly explains the crucial source distinction and the corpse-centred primary meaning.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "a2fd10c68233e20b",
+      "source_line": 123185,
+      "traditional": "鴽",
+      "simplified": "鴽",
+      "pinyin": "ru2",
+      "outcome": "acceptable",
+      "reason": "Птах, схожий на перепілку is an appropriately cautious description of the source’s quail-like bird. The note accurately leaves the species unspecified.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "No species-level identification is provided."
+      ]
+    },
+    {
+      "id": "5c5d3c81558a4f9a",
+      "source_line": 123324,
+      "traditional": "鷃",
+      "simplified": "鷃",
+      "pinyin": "yan4",
+      "outcome": "acceptable",
+      "reason": "The descriptive translation preserves quail-like rather than inventing a standard species name for 鷃. The note is correctly attached to the source’s lack of taxonomic detail.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "No species-level identification is provided."
+      ]
+    },
+    {
+      "id": "89b76ec4bac0459e",
+      "source_line": 124078,
+      "traditional": "黃頷蛇",
+      "simplified": "黄颔蛇",
+      "pinyin": "huang2 han4 she2",
+      "outcome": "deferred",
+      "reason": "Гадюка faithfully renders adder but may misidentify 黃頷蛇. The note flags the relevant rat-snake/colubrid issue; family-name evidence alone cannot prove a specific species replacement for this bare headword.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve the precise historical or zoological referent of 黃頷蛇 before substituting a Ukrainian animal name."
+      ]
+    },
+    {
+      "id": "d38773338478e32d",
+      "source_line": 7958,
+      "traditional": "便嬛",
+      "simplified": "便嬛",
+      "pinyin": "pian2 xuan1",
+      "outcome": "acceptable",
+      "reason": "Both Ukrainian adjectives convey old graceful usage, and the antiquated register is retained. The note is correctly attached to the uncommon form and its supplied pian2 xuan1 reading; no unsupported normalization is warranted.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "88a9619bbbf8d51d",
+      "source_line": 8057,
+      "traditional": "俅",
+      "simplified": "俅",
+      "pinyin": "qiu2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian translates ornamental cap, but the exact cap sense remains questionable: MOE redirects 俅 to the descriptive compound 俅俅. The note is relevant but does not establish that the character names a particular head covering. https://dict.revised.moe.edu.tw/dictView.jsp?ID=6436&word=%3D%E4%BF%85",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Distinguish historical adornment/appearance language from a noun denoting a cap."
+      ]
+    },
+    {
+      "id": "5bef38e8c2fb540c",
+      "source_line": 34252,
+      "traditional": "對比色",
+      "simplified": "对比色",
+      "pinyin": "dui4 bi3 se4",
+      "outcome": "acceptable",
+      "reason": "Контрастні кольори correctly names the colors denoted by 對比色 rather than the abstract contrast between them. The attached note identifies the English noun-category imprecision.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "6e0ec12f1b7767f8",
+      "source_line": 38498,
+      "traditional": "康佳",
+      "simplified": "康佳",
+      "pinyin": "Kang1 jia1",
+      "outcome": "acceptable",
+      "reason": "Konka is the company’s own spelling; the note appropriately preserves and identifies the source Kongka error. The official corporate report supplies the Chinese and Latin names. https://www.konka.com/affiche/%E6%B7%B1%E5%BA%B7%E4%BD%B3%EF%BC%A1%EF%BC%9A2022%E5%B9%B4%E5%8D%8A%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A2022-76.PDF",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "797ee22da4b04215",
+      "source_line": 41261,
+      "traditional": "快報",
+      "simplified": "快报",
+      "pinyin": "kuai4 bao4",
+      "outcome": "acceptable",
+      "reason": "Інформаційний бюлетень is a suitable rendering of the quick-news bulletin, and the note correctly distinguishes it from a physical bulletin board. No extra board sense should be imported from the source error.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "de613b09675907ef",
+      "source_line": 52597,
+      "traditional": "日冕",
+      "simplified": "日冕",
+      "pinyin": "ri4 mian3",
+      "outcome": "acceptable",
+      "reason": "Сонячна корона is the specific astronomical meaning of 日冕. The note correctly says that stellar corona is broader, rather than pretending the solar corona is not itself stellar.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "dabcd08794793f9d",
+      "source_line": 52599,
+      "traditional": "日冕層",
+      "simplified": "日冕层",
+      "pinyin": "ri4 mian3 ceng2",
+      "outcome": "acceptable",
+      "reason": "Сонячна корона correctly renders the coronal layer in 日冕層. The note is specifically attached to this layer entry and accurately identifies the wider English wording.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "4a3e45f7484f44af",
+      "source_line": 57456,
+      "traditional": "核柱",
+      "simplified": "核柱",
+      "pinyin": "he2 zhu4",
+      "outcome": "deferred",
+      "reason": "Ядерна колона is only a literal rendering. The note correctly identifies the absence of domain context needed to choose a reliable anatomical, physical, or other technical equivalent.",
+      "confidence": "low",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Identify the discipline and an attested definition of 核柱."
+      ]
+    },
+    {
+      "id": "b82807a1959921bc",
+      "source_line": 58881,
+      "traditional": "構詞",
+      "simplified": "构词",
+      "pinyin": "gou4 ci2",
+      "outcome": "correction_proposed",
+      "reason": "構詞 concerns word formation or construction, not simply one compound word. University linguistics resources explicitly pair 構詞 with word formation; the attached concern is confirmed. https://scholars.lib.ntu.edu.tw/entities/publication/e461f262-b5ff-4bfc-8a95-2412e546b491 ; https://cis.nccu.edu.tw/CourseMap/Students/CourseDetail.aspx?schSmt=1&schYy=102&smt=1&subGop=00&subNum=161922&teaNum=501047",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "складне слово",
+          "after": "словотворення; утворення слів",
+          "reason": "The phrase refers to word formation, whereas складне слово denotes one result/type of formation. https://scholars.lib.ntu.edu.tw/entities/publication/e461f262-b5ff-4bfc-8a95-2412e546b491",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело подає composite word; китайське 構詞 зазвичай означає творення або будову слів.",
+          "after": "構詞 означає словотворення або утворення слів; джерельне composite word помилково підмінює процес назвою складного слова.",
+          "reason": "Primary university linguistics resources confirm the process/category distinction. https://cis.nccu.edu.tw/CourseMap/Students/CourseDetail.aspx?schSmt=1&schYy=102&smt=1&subGop=00&subNum=161922&teaNum=501047",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "8d457dabc6d45c70",
+      "source_line": 59443,
+      "traditional": "橎",
+      "simplified": "橎",
+      "pinyin": "fan3",
+      "outcome": "acceptable",
+      "reason": "Вид дерева is a faithful nonspecific botanical definition. The attached note accurately reports that the source does not name the tree.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The specific tree is not identified."
+      ]
+    },
+    {
+      "id": "56648e6a5b2c0752",
+      "source_line": 59914,
+      "traditional": "櫧",
+      "simplified": "槠",
+      "pinyin": "zhu1",
+      "outcome": "deferred",
+      "reason": "The exact source Quercus glanca is retained and дуб follows its genus. The note correctly cautions about both spelling and mapping to 櫧/槠; neither a spelling repair nor a different genus should be guessed.",
+      "confidence": "low",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the intended botanical name and Chinese headword correspondence."
+      ]
+    },
+    {
+      "id": "745354ed44c5b4fb",
+      "source_line": 63708,
+      "traditional": "油麥菜",
+      "simplified": "油麦菜",
+      "pinyin": "you2 mai4 cai4",
+      "outcome": "correction_proposed",
+      "reason": "The Chinese crop is a narrow-leaved leaf lettuce; translating the English literally as індійський латук risks a different botanical referent. A growers’ standard defines 油麦菜 as lettuce grown for tender shoots and leaves. Use the verified crop description without inventing a standardized Ukrainian cultivar name. https://www.ttbz.org.cn/upload/file/20250416/6388039122642746148359293.pdf",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "індійський латук",
+          "after": "листовий латук із вузькими видовженими листками",
+          "reason": "A primary cultivation standard identifies the crop as leaf lettuce, allowing a safe descriptive correction without an unverified Latin or official Ukrainian cultivar name. https://www.ttbz.org.cn/upload/file/20250416/6388039122642746148359293.pdf",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайська назва вживається для листового салату; точну ботанічну відповідність англійському «Indian lettuce» не уточнено.",
+          "after": "油麥菜 — вузьколистий тип листового латуку, який вирощують заради ніжних листків і пагонів. Англійське Indian lettuce не дає надійної видової відповідності; усталену українську назву цього культурного типу не встановлено.",
+          "reason": "Narrow the unresolved taxonomy question while recording the source-supported crop description and preserving standard-name uncertainty. https://www.ttbz.org.cn/upload/file/20250416/6388039122642746148359293.pdf",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "A standardized Ukrainian cultivar/type name and exact infraspecific taxon remain unestablished."
+      ]
+    },
+    {
+      "id": "103d9c3776dc082f",
+      "source_line": 80148,
+      "traditional": "磚紅土",
+      "simplified": "砖红土",
+      "pinyin": "zhuan1 hong2 tu3",
+      "outcome": "correction_proposed",
+      "reason": "The official scientific terminology list pairs 磚紅土 with lateritic soil. It is a soil term, not clay for making red bricks; the attached suspicion can be resolved. https://teric.naer.edu.tw/wSite/DoDownload?fileName=1469516817561&format=pdf&xmlId=1888325",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "червона цегляна глина",
+          "after": "латеритний ґрунт",
+          "reason": "The scientific terminology source explicitly gives lateritic soil; цегляна глина is a literal but incorrect material interpretation. https://teric.naer.edu.tw/wSite/DoDownload?fileName=1469516817561&format=pdf&xmlId=1888325",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайське слово зазвичай означає латеритний ґрунт; джерельне «red brick clay» потребує ґрунтознавчої перевірки.",
+          "after": "磚紅土 — латеритний ґрунт; англійське red brick clay у джерелі неточно передає ґрунтознавчий термін як цегляну глину.",
+          "reason": "The official terminology list resolves the soil-science question. https://teric.naer.edu.tw/wSite/DoDownload?fileName=1469516817561&format=pdf&xmlId=1888325",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "bb7316d6ef1e2d26",
+      "source_line": 84249,
+      "traditional": "精神病患",
+      "simplified": "精神病患",
+      "pinyin": "jing1 shen2 bing4 huan4",
+      "outcome": "acceptable",
+      "reason": "Людина з психічним розладом appropriately renders the person denoted by 病患 in this phrase. The note correctly distinguishes that person from the illness named by the English.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "46255d31acf34ed8",
+      "source_line": 90646,
+      "traditional": "脈壓",
+      "simplified": "脉压",
+      "pinyin": "mai4 ya1",
+      "outcome": "acceptable",
+      "reason": "Пульсовий тиск is the correct specific term. The note’s definition as the systolic–diastolic pressure difference is supported by teaching material: https://mail.knu.edu.tw/panhpc/104/Bio/chap%203.pdf",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "3bf3085a12ad4e43",
+      "source_line": 97727,
+      "traditional": "蟣",
+      "simplified": "虮",
+      "pinyin": "ji3",
+      "outcome": "acceptable",
+      "reason": "Do not replace the immature-louse sense solely because nit is common: MOE explicitly includes 蝨的幼蟲 as well as a historical egg explanation. Німфа воші therefore remains defensible, while the note correctly flags the usual egg sense. https://dict.revised.moe.edu.tw/dictView.jsp?ID=5425&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Egg versus post-hatching immature stage depends on the lexicographic sense; the source explicitly chooses the latter."
+      ]
+    },
+    {
+      "id": "67bc6d82d77453a6",
+      "source_line": 97977,
+      "traditional": "血師",
+      "simplified": "血师",
+      "pinyin": "xue4 shi1",
+      "outcome": "correction_proposed",
+      "reason": "The rare name is confirmed rather than unrelated: the historical materia medica identifies 血師 as 代赭; HKBU identifies 赭石 as hematite with Fe2O3. Keep the segment and replace the open-ended note by that sourced explanation. https://ctext.org/wiki.pl?chapter=722094&if=gb ; https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00408",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Рідкісну назву мінералу передано за джерелом; відповідність китайського написання потребує перевірки.",
+          "after": "血師 — історична назва 代赭 (赭石), тобто гематиту; відповідність підтверджується традиційною фармакогностичною номенклатурою. Формулу Fe2O3 збережено.",
+          "reason": "A historical primary text identifies the alias and HKBU confirms the mineral and formula; the open verification request can be replaced by this explanation. https://ctext.org/wiki.pl?chapter=722094&if=gb ; https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00408",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "9b35ad6b98d865ae",
+      "source_line": 98790,
+      "traditional": "裂腦人",
+      "simplified": "裂脑人",
+      "pinyin": "lie4 nao3 ren2",
+      "outcome": "correction_proposed",
+      "reason": "The person-versus-operation correction is right, but розщепленими півкулями can imply that each hemisphere is split. State the severed connections between hemispheres explicitly. Tsinghua describes patients after cutting the corpus callosum. https://www.bms.tsinghua.edu.cn/info/1444/4473.htm",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "людина з розщепленими півкулями мозку після комісуротомії",
+          "after": "людина після хірургічного розсічення міжпівкульних зв’язків мозку (комісуротомії)",
+          "reason": "The operation disconnects connections between hemispheres; the existing wording ambiguously suggests splitting the hemispheres themselves. The person meaning and operation reference are both preserved. https://www.bms.tsinghua.edu.cn/info/1444/4473.htm",
+          "confidence": "high",
+          "issue_type": "anatomical_precision"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "998b2476205b968d",
+      "source_line": 105973,
+      "traditional": "軍令狀",
+      "simplified": "军令状",
+      "pinyin": "jun1 ling4 zhuang4",
+      "outcome": "acceptable",
+      "reason": "Письмове військове зобовʼязання виконати наказ captures the written undertaking rather than just an order. The note correctly supplies the responsibility/punishment nuance without adding it as an obligatory element of every use.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "18cb56a20891ba97",
+      "source_line": 106454,
+      "traditional": "輪轉機",
+      "simplified": "轮转机",
+      "pinyin": "lun2 zhuan3 ji1",
+      "outcome": "deferred",
+      "reason": "Карусель translates the English, but the unusual headword’s relationship to that sense has not been established. The printing-machine alternative in the note is relevant; it does not by itself authorize replacing the supplied sense.",
+      "confidence": "low",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify an attestation of the amusement-device sense of 輪轉機, or establish that the English is erroneous."
+      ]
+    },
+    {
+      "id": "4c64876bfbdca3fd",
+      "source_line": 112669,
+      "traditional": "鏡框舞台",
+      "simplified": "镜框舞台",
+      "pinyin": "jing4 kuang4 wu3 tai2",
+      "outcome": "acceptable",
+      "reason": "Both Ukrainian descriptions identify a proscenium/box stage rather than scenery. The note is supported by a venue’s own description of its 鏡框式舞台 as a Proscenium Stage. https://www.ttdac.taichung.gov.tw/a44758655726416346588/a4SPage",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "4c2211ffbed4d5da",
+      "source_line": 117830,
+      "traditional": "青鮫",
+      "simplified": "青鲛",
+      "pinyin": "qing1 jiao1",
+      "outcome": "deferred",
+      "reason": "Акула-мако is plausible, but the Chinese species identification has not been confirmed by a primary Chinese zoological source. The note is correctly attached to that exact scope issue; Japanese use of the same characters alone is insufficient to settle the Chinese entry.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the Chinese referent and whether the source means a mako species or a wider mackerel-shark category."
+      ]
+    },
+    {
+      "id": "af4cb56d49eda98e",
+      "source_line": 118778,
+      "traditional": "須丸",
+      "simplified": "须丸",
+      "pinyin": "xu1 wan2",
+      "outcome": "correction_proposed",
+      "reason": "The rare mineral name can be resolved: the historical materia medica lists 須丸 as a name of 代赭, and the modern HKBU entry identifies 赭石 as hematite with Fe2O3. Keep the formula unchanged and update the note. https://ctext.org/wiki.pl?chapter=722094&if=gb ; https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00408",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Рідкісна назва мінералу потребує перевірки.",
+          "after": "須丸 — історична назва 代赭 (赭石), тобто гематиту; її засвідчено в традиційній фармакогностичній літературі. Формулу Fe2O3 збережено.",
+          "reason": "The classical alias and modern mineral identification are corroborated, so retain the note as a sourced explanation rather than remove it. https://ctext.org/wiki.pl?chapter=722094&if=gb ; https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00408",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "cf6d74188e03f6e1",
+      "source_line": 119875,
+      "traditional": "食法",
+      "simplified": "食法",
+      "pinyin": "shi2 fa3",
+      "outcome": "acceptable",
+      "reason": "Спосіб приготування їжі faithfully preserves the source-selected culinary sense. The attached note appropriately acknowledges eating/consumption as another possible scope without claiming that every instance must have it.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Context is needed to distinguish preparation from consumption methods."
+      ]
+    },
+    {
+      "id": "5e10ad45bc912b91",
+      "source_line": 121275,
+      "traditional": "驄",
+      "simplified": "骢",
+      "pinyin": "cong1",
+      "outcome": "correction_proposed",
+      "reason": "MOE defines 驄 as a horse with mixed dark/blue-grey and white hairs, not the buckskin coloring denoted by буланий. Replace it with a grey-horse description while preserving the headword and pinyin. https://dict.revised.moe.edu.tw/dictView.jsp?ID=9939&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "буланий кінь",
+          "after": "сірий кінь (із перемішаними темними й білими волосинами)",
+          "reason": "MOE specifies mixed dark/blue-grey and white hairs. Buckskin/буланий is a different coat color. https://dict.revised.moe.edu.tw/dictView.jsp?ID=9939&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело buckskin («буланий»), тоді як 驄 може позначати сіру масть; потрібна перевірка.",
+          "after": "驄 означає коня з перемішаними темними й білими волосинами, тобто сірої масті. Джерельне buckskin («буланий») позначає іншу масть.",
+          "reason": "The primary dictionary resolves the coat-color warning. https://dict.revised.moe.edu.tw/dictView.jsp?ID=9939&la=0&powerMode=0",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "6877beee9404490e",
+      "source_line": 123271,
+      "traditional": "鶗",
+      "simplified": "鶗",
+      "pinyin": "ti2",
+      "outcome": "acceptable",
+      "reason": "The hawk meaning is not disproved by the familiar cuckoo compound. MOE records 鶙鵳, also written 鶗鵳, as 鷂 with the ti2 reading; Academia Sinica also records this sense. The Ukrainian and its nonspecific-species note can remain. https://dict.variants.moe.edu.tw/dictView.jsp?ID=77270 ; https://chardb.iis.sinica.edu.tw/char/27171",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source does not specify a modern hawk species."
+      ]
+    }
+  ]
+}

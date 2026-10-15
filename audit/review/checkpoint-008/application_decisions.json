@@ -1,0 +1,895 @@
+{
+  "checkpoint": 8,
+  "application_review_completed": true,
+  "review_type": "model",
+  "human_validation": false,
+  "review_file_sha256": {
+    "review_001.json": "25e056370eaeb70b08e3864aed7934dc3f24c9a6e2f73514f6d83bb7d0e4c231",
+    "review_002.json": "c6f300df144ba248f22cced610c8c360d09317cb24096b9c0c87a525503a38e1",
+    "review_003.json": "fc94a3049a2d3b5753255be2bc0dc4d1304e0036e32c2b01dbebb57c5960089b"
+  },
+  "decisions": [
+    {
+      "kind": "segment",
+      "id": "0130f4925875d75b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "b39b672cb13f3748",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "b39b672cb13f3748",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "5546ef3dd5819050",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "5546ef3dd5819050",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "9a2bd32905b94d73",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "d6fddf9d5617dd58",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "d6fddf9d5617dd58",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "89afba3d7eefaa94",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "89afba3d7eefaa94",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "3bcce5f0a7033ff8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "3bcce5f0a7033ff8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "25decac05bbc87ee",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "96ee76da2e1df890",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "96ee76da2e1df890",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "1a8f792d8bd0ed1b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "1a8f792d8bd0ed1b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "239decf42bdba7b3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "07aadbf43cc8895a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "0823ec57b618cabe",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "0823ec57b618cabe",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "2218071ba5f3673f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "200d4921f6097241",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "200d4921f6097241",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "4af3f2fa37607023",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "58729b50dbf20cec",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "1f3ec843f38488d8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "649ba09cd1c9d438",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "649ba09cd1c9d438",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "10e01bfda19f225c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "10e01bfda19f225c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "1d3e7e8f7d0877dd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "a67db7bb144be72f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "5b385dead2363a00",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "56c255144e7a9a37",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "fa4de57521eef52c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "324f712c60e67c83",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "a7e128edfd59dd6d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "a7e128edfd59dd6d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "7e810837eec112bf",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "8553c688b379b77d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "de4bd0c2a56a7842",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "de4bd0c2a56a7842",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "686c7c2598431e99",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "6c3069eb97c1dbdc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "6c3069eb97c1dbdc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "0dae19989900c542",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "0dae19989900c542",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "18798e8d6f88953d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "76f74bb288a51c08",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "76f74bb288a51c08",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "bd532e852ecbc9ce",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "bd532e852ecbc9ce",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "9d736edb3ceb9e7b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "9d736edb3ceb9e7b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "c4d5bfaf4e6e0a0d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "9bc8b3bd8bd1e703",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "9bc8b3bd8bd1e703",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "7440d6ea68721710",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "7440d6ea68721710",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "dfc13e333af7c1a6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "11ce7313700b76a1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "11ce7313700b76a1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "b91d426c93e7e81c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "b91d426c93e7e81c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "29ee6f8cfe167c73",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "29ee6f8cfe167c73",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "979af9edf2f981d3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "82db425431d908cc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "cdb36d6b3025dcb9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "cdb36d6b3025dcb9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "3d0214287e38b273",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "3d0214287e38b273",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "042b6905a4c2430f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "042b6905a4c2430f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "387d62ce1b8d9fd2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "387d62ce1b8d9fd2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "4765208d5ebc13ac",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "4765208d5ebc13ac",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "b82807a1959921bc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "b82807a1959921bc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "745354ed44c5b4fb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "745354ed44c5b4fb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "103d9c3776dc082f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "103d9c3776dc082f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "67bc6d82d77453a6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "9b35ad6b98d865ae",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "af4cb56d49eda98e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "5e10ad45bc912b91",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "5e10ad45bc912b91",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "fdd10e4f13bd982d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "17657c39c1e951b7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "17657c39c1e951b7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "2f75c59e173f2cc8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "981919cef25eb052",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "9350153f3da653f2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "The ethnic-group/Bo2 note is unrelated to 儒學 Ru2 xue2 Confucianism. Deactivate it without guessed reassignment, retaining the original evidence and flag."
+    },
+    {
+      "kind": "note",
+      "id": "d4105f7647123aa6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "a9f1bd61f4e39628",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "a9f1bd61f4e39628",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "4d9f202242de1900",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "3fcc255833e5cc7b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "21c606f6d30918b4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "476e33ecaf46cc55",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "7c3d218b629af654",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "bc60efc747a923f0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "bc60efc747a923f0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "0736e3d6d6592fd6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "0736e3d6d6592fd6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "2262d15b4a075a9d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "2262d15b4a075a9d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "86306630422d9634",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "83396952655245c3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "83396952655245c3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "7a48e88794e95967",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "ca0354d8f1d7950e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "85a8ee0255f89b77",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "a0dd974fdec1c4ed",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "a0dd974fdec1c4ed",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "e46c3a2a7a42d731",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "e46c3a2a7a42d731",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "276d2961afbb785f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "276d2961afbb785f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "note",
+      "id": "df387d7d5f521cc2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    },
+    {
+      "kind": "segment",
+      "id": "02ac6eeeed4b78eb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "segment",
+      "id": "893bf5d2f3dfd28c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical or source-fact correction; original source fields, protected references and flags remain intact. Formula repairs retain the exact original explicitly labeled as a source error."
+    },
+    {
+      "kind": "note",
+      "id": "893bf5d2f3dfd28c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. High-confidence revision resolves or narrows the claim, including preservation of independently attested senses that an earlier note over-rejected."
+    }
+  ]
+}

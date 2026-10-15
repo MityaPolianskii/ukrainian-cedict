@@ -1,0 +1,1 @@
+HISTORICAL / AUDIT EVIDENCE ONLY. Original notes, intermediate reviews and quarantined text in this directory are not current annotations. Use the root dictionary.json for active notes; original uncertainty flags remain preserved.

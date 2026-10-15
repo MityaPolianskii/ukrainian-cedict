@@ -1,0 +1,254 @@
+{
+  "checkpoint": 2,
+  "application_review_completed": true,
+  "review_type": "model",
+  "human_validation": false,
+  "review_file_sha256": {
+    "review_001.json": "896a862d6dd7b15d3e473a02027e5de9de21a44f70857a8de65ffd504f3fa005",
+    "review_002.json": "32954f8c38873af16d2d15b642c097273367427be719c0432907fb3938ff7fa0",
+    "review_003.json": "6afd834fa5ba519fba2658aa0691d69b32fb8b6796259eab4584b522193b3ce7"
+  },
+  "decisions": [
+    {
+      "kind": "note",
+      "id": "22e525a16e85cd1a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Reviewed the precise note assertion and evidence. High-confidence clarification or removal preserves the unresolved source issue and original flag."
+    },
+    {
+      "kind": "note",
+      "id": "587e5533ec07b49d",
+      "index": 0,
+      "decision": "hold",
+      "reason": "The note is on-topic, but its factual explanation and proposed replacement remain insufficiently verified. Keep the original in quarantine rather than reactivate it or adopt a medium-confidence revision.",
+      "original_attachment_approved": false
+    },
+    {
+      "kind": "segment",
+      "id": "7ae2ce606f94fe81",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "note",
+      "id": "aa212ec0c1336c6b",
+      "index": 0,
+      "decision": "hold",
+      "reason": "The note is on-topic, but its factual explanation and proposed replacement remain insufficiently verified. Keep the original in quarantine rather than reactivate it or adopt a medium-confidence revision.",
+      "original_attachment_approved": false
+    },
+    {
+      "kind": "segment",
+      "id": "e289615aec6cdc72",
+      "index": 1,
+      "decision": "hold",
+      "reason": "Medium-confidence proposal retained without changing the dictionary."
+    },
+    {
+      "kind": "segment",
+      "id": "ccd418e027fb7988",
+      "index": 1,
+      "decision": "hold",
+      "reason": "Medium-confidence proposal retained without changing the dictionary."
+    },
+    {
+      "kind": "note",
+      "id": "ccd418e027fb7988",
+      "index": 0,
+      "decision": "hold",
+      "reason": "The note is on-topic, but its factual explanation and proposed replacement remain insufficiently verified. Keep the original in quarantine rather than reactivate it or adopt a medium-confidence revision.",
+      "original_attachment_approved": false
+    },
+    {
+      "kind": "note",
+      "id": "95ac972f941becfd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Reviewed the precise note assertion and evidence. High-confidence clarification or removal preserves the unresolved source issue and original flag."
+    },
+    {
+      "kind": "segment",
+      "id": "6a5f7128670e21cf",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "e1a22b387793b112",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "93cb7fb9e0fc0351",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "7000515a802622e1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "4b71f27c50c934c5",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "5ab8be4e0684878e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "560f4b3be7958247",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "6d4b7088e664dd50",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "a45c0ec5cb79afa8",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "a75f5a97cc62937a",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "66e9cdab4cd47425",
+      "index": 0,
+      "decision": "hold",
+      "reason": "Medium-confidence proposal retained without changing the dictionary."
+    },
+    {
+      "kind": "note",
+      "id": "e2b943eb497a4732",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Reviewed the precise note assertion and evidence. High-confidence clarification or removal preserves the unresolved source issue and original flag."
+    },
+    {
+      "kind": "note",
+      "id": "f4a3fd6c41f3cf2c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Reviewed the precise note assertion and evidence. High-confidence clarification or removal preserves the unresolved source issue and original flag."
+    },
+    {
+      "kind": "segment",
+      "id": "e8312c3ed176d894",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "2c16dc9c26e4c9c3",
+      "index": 0,
+      "decision": "hold",
+      "reason": "Do not remove a potentially valid Ukrainian botanical name solely because standardized status is unverified; the existing note already marks nomenclature uncertainty. A botanical authority is needed before this deletion."
+    },
+    {
+      "kind": "segment",
+      "id": "6b42eefc679e5f20",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "ac554dc413b035a2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "ac554dc413b035a2",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "18c9b5923ca383ad",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "c65a2936ede9b486",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "dee59037d4880b71",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "6fc76c53a34e9c03",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "ed9cff9f9d204fa4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "c0c2a9edf5933ab7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "0303702d40ed1730",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    },
+    {
+      "kind": "segment",
+      "id": "886e2293d2a75651",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Independently inspected Chinese/pinyin, all source senses and exact before/after; clear high-confidence language or explicitly documented source-conflict correction."
+    }
+  ]
+}

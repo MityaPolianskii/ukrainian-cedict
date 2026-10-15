@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "checkpoint": 2,
+  "status": "private_versioned_review_candidate_pending_independent_verification",
+  "baseline_dictionary_sha256": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+  "previous_candidate_directory": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/corrected-candidate",
+  "previous_dictionary_sha256": "1654a30902d133ad120128d43a8e44a4275bae440de8dc5ec7fe60a9d65c2781",
+  "corrected_dictionary_sha256": "12b2741d453c3bdebc55d7b29a7eba5a56296697fc9d55443cafe16b47385c47",
+  "baseline_immutable_verified": true,
+  "previous_candidate_immutable_verified": true,
+  "all_source_fields_records_order_preserved": true,
+  "all_uncertainty_flags_preserved": true,
+  "known_contaminated_note_ids_inactive": [
+    "0168943755f632b1",
+    "203349f934e0f706",
+    "3ee7e352b216472a",
+    "410ff3a4d8eff115",
+    "4355846ebc6874c8",
+    "87e972dbb1b47cc9",
+    "92b953c247ece388",
+    "9350153f3da653f2",
+    "97a15e73b89ed7e4",
+    "b0679e8983a2fb13",
+    "b8ac45eaf5cef49a",
+    "c78cae2d3e5f1fb9",
+    "cdf351e19875f62b",
+    "d592d648f09d9428",
+    "fed846504a2bb8b4"
+  ],
+  "human_validation": false,
+  "public_writes": false,
+  "runtime_approved": false,
+  "stats": {
+    "baseline_records": 125264,
+    "source_segments": 199737,
+    "notes_total": 2534,
+    "notes_by_disposition": {
+      "quarantine_rejected": 15,
+      "quarantine_unreviewed": 1937,
+      "replace_reviewed": 17,
+      "retain_reviewed": 565
+    },
+    "active_notes": 582,
+    "quarantined_original_notes": 1969,
+    "preserved_flagged_records": 2534,
+    "checkpoint_reviewed_records": 600,
+    "applied_segment_corrections": 65,
+    "human_validated_records": 0
+  },
+  "counts": {
+    "records": 125264,
+    "aligned_segments": 199737,
+    "model_reviewed_records": 1279,
+    "corrected_segments": 571,
+    "records_with_corrections": 492,
+    "known_flagged_records": 2534,
+    "human_validated_records": 0
+  },
+  "current_checkpoint_reviewed_records": 300,
+  "current_checkpoint_reviewed_segments": 651,
+  "current_checkpoint_applied_segment_corrections": 23,
+  "current_checkpoint_review_outcomes": {
+    "deferred": 239,
+    "acceptable": 48,
+    "correction_proposed": 13
+  },
+  "cumulative_reviewed_records": 600,
+  "cumulative_reviewed_segments": 1571,
+  "remaining_flagged_entries_unreviewed": 1934,
+  "review_audits": [
+    {
+      "input": "checkpoint-001/input_001.json",
+      "input_sha256": "cc27b1715c5815af33db121f50e87d0a0784fa971a7699d6ebad7902fdf4260b",
+      "review": "checkpoint-001/review_001.json",
+      "review_sha256": "686cd952c0f6517f8708fefdcf864861af1d8ba83a0e9d153c34d96b4885d13a",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-001/input_002.json",
+      "input_sha256": "7b7030c50ad16bfbcb762410e8c1d9338ec9726fa044d5db3fa7d57a03fe965d",
+      "review": "checkpoint-001/review_002.json",
+      "review_sha256": "417e08e4caa993973205510790d4ff5318606596dc1b409fb324a02c4155ac82",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-001/input_003.json",
+      "input_sha256": "c81a21dbbd808d7970e798e301cf6bb0a974e90f0c9b91b27b35843539ac36f8",
+      "review": "checkpoint-001/review_003.json",
+      "review_sha256": "7965778723dccb0c4d9cf720fa6f413d1d72cff7b4516dd755d49b10852c21cd",
+      "reviewer_model_requested": "inherited stronger-model reviewer; no independent backend attestation",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-002/input_001.json",
+      "input_sha256": "46a423937ed21f95823aae1427f515857861773f2cc5d000fdf060391edb4680",
+      "review": "checkpoint-002/review_001.json",
+      "review_sha256": "896a862d6dd7b15d3e473a02027e5de9de21a44f70857a8de65ffd504f3fa005",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-002/input_002.json",
+      "input_sha256": "8c18a13cf38e4c4e0993b405a9c3a427df534c40b548e389578ff751d00769d1",
+      "review": "checkpoint-002/review_002.json",
+      "review_sha256": "32954f8c38873af16d2d15b642c097273367427be719c0432907fb3938ff7fa0",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-002/input_003.json",
+      "input_sha256": "ee8177b0f976e984e09cb5e3dcf4773f1122c179b0a2b3de617b37f639198804",
+      "review": "checkpoint-002/review_003.json",
+      "review_sha256": "6afd834fa5ba519fba2658aa0691d69b32fb8b6796259eab4584b522193b3ce7",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    }
+  ],
+  "application_decisions": "checkpoint-002/application_decisions.json",
+  "application_decisions_sha256": "95f490e2cfcbe756c4ca5c6fe65c76ad42f4abd0562d7c94869a4d473eb223e4",
+  "limits": [
+    "Model review, not human validation or corpus-wide accuracy estimate.",
+    "Unresolved Chinese/English source contradictions and specialist nomenclature remain flagged.",
+    "Default-quarantined notes can include reviewed entries whose note activation was withheld for unresolved evidence; entry review counts are tracked independently.",
+    "No publication or runtime approval."
+  ],
+  "artifacts": {
+    "ALL_CORRECTION_PROPOSALS.json": "8dedaf2cd479bbb9fa4f4b421a181ca04f196826b619df7610eec89f489d4d0e",
+    "NOTE_QUARANTINE.json": "0057315801764511c06f9bfe91be49187374871014db00b9d3530df5ae0c2a8b",
+    "NOTE_REVIEW_LEDGER.json": "b377e4acb597c4e30e8ad3a19766e503598296941c8beeb24fb58460116c33bf",
+    "REPAIR_OVERLAY.json": "bcb5cef7b1bca8f770014c31997ea37e325fd180d6c33f904c706351e5c24c47",
+    "dictionary.json": "12b2741d453c3bdebc55d7b29a7eba5a56296697fc9d55443cafe16b47385c47"
+  }
+}

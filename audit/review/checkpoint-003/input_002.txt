@@ -1,0 +1,644 @@
+1. ID 80e1ae8df967ee7f | line 89621 | 聲名 / 声名 [sheng1 ming2]
+  0: EN reputation
+     UK репутація
+  1: EN declaration
+     UK заява
+  NOTES ["Значення «заява» у джерелі нетипове для 聲名 і може бути змішанням з омонімом 聲明; потрібна перевірка."]
+
+2. ID 9fb3561534c5e59a | line 89955 | 肌纖蛋白 / 肌纤蛋白 [ji1 xian1 dan4 bai2]
+  0: EN myocilin
+     UK міоцилін
+  1: EN muscle fibrin
+     UK м’язовий фібрин
+  NOTES ["Джерело поєднує міоцилін і «м’язовий фібрин», що не є очевидними синонімами; потрібна біохімічна перевірка."]
+
+3. ID 9e2838c8811b1ef2 | line 110572 | 醋酸乙酯 / 醋酸乙酯 [cu4 suan1 yi3 zhi3]
+  0: EN ethyl acetate
+     UK етилацетат
+  1: EN acetidin
+     UK ацетидин (етилацетат)
+  NOTES ["Acetidin наведено як назву етилацетату в джерелі; сучасна термінологічна вживаність неясна."]
+
+4. ID 7d3646364f8ea668 | line 117296 | 電離 / 电离 [dian4 li2]
+  0: EN ion
+     UK іонізація
+  1: EN ionized (e.g. gas)
+     UK іонізований (напр. про газ)
+  NOTES ["Англійське ion не відповідає точно китайському слову «іонізувати(ся), іонізація»; перекладено за китайським терміном."]
+
+5. ID 988ff99993069a09 | line 24804 | 土地 / 土地 [tu3 di5]
+  0: EN local god
+     UK місцеве божество; дух-охоронець місцевості
+  1: EN genius loci
+     UK геній місця; дух місцевості
+  NOTES ["Рідкісний омонімний запис tu3 di5 стосується місцевого божества, а не звичайного значення «земля»."]
+
+6. ID 0638f4d163e9f7f0 | line 56531 | 杻 / 杻 [niu3]
+  0: EN handcuffs
+     UK кайдани для рук
+  1: EN red apricot
+     UK червоний абрикос
+  NOTES ["Поєднання значень із читанням niu3 потребує перевірки; джерело подає обидва."]
+
+7. ID 4ea9dade1cee413a | line 79673 | 硅酸 / 硅酸 [gui1 suan1]
+  0: EN silicic acid
+     UK кремнієва кислота
+  1: EN silicate
+     UK силікат
+  NOTES ["Другий сегмент джерела неточний: силікат — сіль кремнієвої кислоти, а не сама кислота."]
+
+8. ID 0de527b0058c0fe6 | line 79788 | 硬脂酸 / 硬脂酸 [ying4 zhi1 suan1]
+  0: EN stearic acid
+     UK стеаринова кислота
+  1: EN stearate
+     UK стеарат
+  NOTES ["Другий сегмент джерела позначає сіль або естер кислоти, а не саму кислоту."]
+
+9. ID c717f8af0004f186 | line 94499 | 菎 / 菎 [kun1]
+  0: EN beautiful jade
+     UK гарний нефрит
+  1: EN bamboo
+     UK бамбук
+  NOTES ["Значення «гарний нефрит» нетипове для 菎; можливе змішання з іншим ієрогліфом у джерелі."]
+
+10. ID 7724fd62c43f1b24 | line 94545 | 菜花 / 菜花 [cai4 hua1]
+  0: EN cauliflower
+     UK цвітна капуста
+  1: EN gonorrhea
+     UK гонорея
+  NOTES ["Значення «гонорея» у джерелі сумнівне: 菜花 також позначає кондиломи; потрібна медико-лексикографічна перевірка."]
+
+11. ID 00576cbb61d755f3 | line 103145 | 負極 / 负极 [fu4 ji2]
+  0: EN negative pole
+     UK від'ємний полюс
+  1: EN cathode
+     UK катод
+  NOTES ["Джерело зближує від’ємний полюс із катодом; це справедливо не для всіх електрохімічних систем."]
+
+12. ID faced5102fad95b6 | line 125158 | 龍豆 / 龙豆 [long2 dou4]
+  0: EN dragon bean
+     UK драконові боби
+  1: EN long bean
+     UK довга квасоля
+  NOTES ["Dragon bean і long bean можуть позначати різні бобові; точний вид за джерелом не встановлено."]
+
+13. ID 894ac9ac9be8c06d | line 32142 | 安眠酮 / 安眠酮 [an1 mian2 tong2]
+  0: EN methaqualone
+     UK метаквалон
+  1: EN hyminal
+     UK гіменал (торгова назва метаквалону)
+  NOTES ["Написання торгової назви «hyminal» українською потребує перевірки."]
+
+14. ID f994cc3ed0fa3c43 | line 56683 | 枒 / 枒 [ya2]
+  0: EN the coconut tree
+     UK кокосова пальма
+  1: EN rim
+     UK ободок
+  NOTES ["Друге значення джерела «rim» потребує перевірки для 枒."]
+
+15. ID 429ed973ddb17fa9 | line 56902 | 枳 / 枳 [zhi3]
+  0: EN (orange)
+     UK (помаранчеве дерево)
+  1: EN hedge thorn
+     UK колючий чагарник для живоплоту
+  NOTES ["Точна ботанічна відповідність нечітка; 枳 зазвичай позначає понцирус трилистий."]
+
+16. ID 4eed5dad7a02c934 | line 65648 | 涅石 / 涅石 [nie4 shi2]
+  0: EN alumen
+     UK галун
+  1: EN alunite (TCM)
+     UK алуніт (традиційна китайська медицина)
+  NOTES ["Галун і алуніт — різні речовини; джерело наводить обидві без розмежування."]
+
+17. ID ad96fc27241d1965 | line 68874 | 瀲 / 潋 [lian4]
+  0: EN full of water
+     UK повний води
+  1: EN trough
+     UK жолоб
+  NOTES ["Рідкісне значення trough передано як «жолоб» за джерелом; точний контекст потребує перевірки."]
+
+18. ID 54e3072c8a324e0b | line 68989 | 火堆 / 火堆 [huo3 dui1]
+  0: EN bonfire
+     UK багаття
+  1: EN to open fire
+     UK відкривати вогонь
+  NOTES ["Другий сегмент «відкривати вогонь» не узгоджується зі звичайним значенням китайського слова «багаття»; джерело потребує перевірки."]
+
+19. ID 56ce7d9b4dc77355 | line 112130 | 鋼柱 / 钢柱 [gang1 zhu4]
+  0: EN iron pillar
+     UK сталевий стовп
+  1: EN iron rod
+     UK сталевий стрижень
+  NOTES ["Китайське 鋼 указує на сталь; англійське iron передано як «сталевий»."]
+
+20. ID 1203473af13597e8 | line 122670 | 魴 / 鲂 [fang2]
+  0: EN bream
+     UK лящ
+  1: EN Zeus japanicus
+     UK Zeus japanicus
+  NOTES ["Джерело поєднує назву ляща з Zeus japanicus; таксономічна відповідність потребує перевірки."]
+
+21. ID abfbc1b4a6a24ce9 | line 27100 | 外八字腿 / 外八字腿 [wai4 ba1 zi4 tui3]
+  0: EN bow legs
+     UK О-подібні ноги
+  1: EN bandy legs
+     UK криві ноги
+  NOTES ["Китайське 外八字腿 може означати ноги з розвернутими назовні стопами; джерело натомість подає О-подібне викривлення."]
+
+22. ID c7013caac8c974fd | line 73502 | 琁 / 琁 [xuan2]
+  0: EN beautiful jade
+     UK прекрасний нефрит
+  1: EN star
+     UK зоря
+  NOTES ["Рідкісний ієрогліф; значення «зоря» подано за джерелом."]
+
+23. ID 014a0a6c979fcf88 | line 89991 | 肘 / 肘 [zhou3]
+  0: EN elbow
+     UK лікоть
+  1: EN pork shoulder
+     UK свиняча рулька
+  NOTES ["Англійське pork shoulder неточно відповідає китайському кулінарному терміну, який зазвичай означає рульку."]
+
+24. ID fd59f1c57985774e | line 94020 | 茶晶 / 茶晶 [cha2 jing1]
+  0: EN yellow quartz
+     UK димчастий кварц (у джерелі — «жовтий кварц»)
+  1: EN topaz
+     UK топаз (відповідник, наведений у джерелі)
+  NOTES ["茶晶 означає димчастий кварц; «жовтий кварц» і «топаз» у джерелі потребують виправлення."]
+
+25. ID 14e998c442f59f02 | line 98380 | 衛生陶瓷 / 卫生陶瓷 [wei4 sheng1 tao2 ci2]
+  0: EN chamber pot
+     UK нічний горщик
+  1: EN commode
+     UK унітаз
+  NOTES ["Китайське слово зазвичай ширше: санітарна кераміка; джерело наводить лише два вироби."]
+
+26. ID 8c213a1cb382f195 | line 28417 | 大蔥 / 大葱 [da4 cong1]
+  0: EN leek
+     UK цибуля-батун (у джерелі неточно: «порей»)
+  1: EN Chinese onion
+     UK китайська цибуля; батун
+  NOTES ["大蔥 зазвичай позначає цибулю-батун, Allium fistulosum; англійське leek («порей») у джерелі неточне."]
+
+27. ID fbc2002efd5d3017 | line 48614 | 損贈 / 损赠 [sun3 zeng4]
+  0: EN to donate
+     UK жертвувати
+  1: EN donation
+     UK пожертва
+  NOTES ["Написання 損贈 нетипове; ймовірно, у джерелі помилка замість 捐贈."]
+
+28. ID 3bcfcfda79d259c5 | line 58329 | 棫 / 棫 [yu4]
+  0: EN (oak)
+     UK (дуб)
+  1: EN thorny shrub
+     UK колючий кущ
+  NOTES ["Точний ботанічний відповідник не визначений у джерелі."]
+
+29. ID 7fd2c07c22a0e3c7 | line 72634 | 獐 / 獐 [zhang1]
+  0: EN river deer
+     UK водяний олень
+  1: EN roebuck
+     UK самець сарни
+  NOTES ["Глоси «river deer» і «roebuck» стосуються різних таксонів; точний обсяг другого значення в джерелі непевний."]
+
+30. ID a6fc70c3e9ed74ba | line 91542 | 臠 / 脔 [luan2]
+  0: EN skinny
+     UK худорлявий
+  1: EN sliced meat
+     UK нарізане м’ясо
+  NOTES ["Значення «худорлявий» для 臠 у джерелі нетипове; основне значення — шматок м’яса."]
+
+31. ID 431f38a02d22f00f | line 94536 | 菜瓜 / 菜瓜 [cai4 gua1]
+  0: EN snake melon
+     UK змієподібна диня
+  1: EN loofah
+     UK люфа
+  NOTES ["Джерело подає різні ботанічні відповідники: змієподібна диня та люфа; регіональну відповідність слід перевірити."]
+
+32. ID 6566a025d9934358 | line 123390 | 鸇 / 鹯 [zhan1]
+  0: EN sparrow hawk
+     UK яструб малий
+  1: EN swift
+     UK серпокрилець
+  NOTES ["Джерело поєднує яструба і серпокрильця; розмежування значень потребує перевірки."]
+
+33. ID 630bc37952743b84 | line 10229 | 儩 / 儩 [si4]
+  0: EN the end
+     UK кінець
+  1: EN to finish
+     UK завершувати
+  NOTES ["Рідкісний знак 儩 має два віддалені значення у джерелі; точний контекст не вказано."]
+
+34. ID 3e0e8a6800784662 | line 26470 | 填密 / 填密 [tian2 mi4]
+  0: EN packing
+     UK ущільнення
+  1: EN packaging
+     UK пакування
+  NOTES ["填密 переважно означає ущільнення; ширше значення «пакування» в джерелі потребує контексту."]
+
+35. ID 54d5dc12c141d25d | line 94005 | 茴香籽 / 茴香籽 [hui2 xiang1 zi3]
+  0: EN cumin
+     UK кумин
+  1: EN fennel seed
+     UK насіння фенхелю
+  NOTES ["Джерело поєднує кумин і фенхель, різні рослини; китайське слово без уточнень означає насіння фенхелю."]
+
+36. ID e6ecd8f60ecdbda2 | line 99194 | 複音形 / 复音形 [fu4 yin1 xing2]
+  0: EN diphthong
+     UK дифтонг
+  1: EN liaison
+     UK зв'язування звуків
+  NOTES ["Рідкісний термін і поєднання значень дифтонга та зв’язування у джерелі потребують перевірки."]
+
+37. ID 01332d912a5e8882 | line 100341 | 觱 / 觱 [bi4]
+  0: EN fever
+     UK гарячка
+  1: EN tartar horn
+     UK татарський ріг (музичний інструмент)
+  NOTES ["Рідкісні значення «гарячка» та «татарський ріг» збережено за джерелом; потребують лексикографічної перевірки."]
+
+38. ID fa21b185dd66be2a | line 110170 | 鄿 / 鄿 [qi2]
+  0: EN (herb)
+     UK (бот.) назва травʼянистої рослини
+  1: EN place name
+     UK назва місцевості
+  NOTES ["Джерело не уточнює, яку саме травʼянисту рослину позначено."]
+
+39. ID 2a86e45f034b1938 | line 121236 | 騰騰 / 腾腾 [teng2 teng2]
+  0: EN steaming
+     UK той, що парує; клубочиться
+  1: EN scathing
+     UK палючий; дошкульний
+  NOTES ["Значення «scathing» у джерелі неоднозначне; передано як палючий або дошкульний із застереженням."]
+
+40. ID 07d5a9d2ad3d2d87 | line 23894 | 回佣 / 回佣 [hui2 yong4]
+  0: EN commission
+     UK комісійна винагорода
+  1: EN sales
+     UK комісійні з продажу
+  NOTES ["Окреме sales у джерелі неповне; витлумачено в межах 回佣 як комісійні з продажу."]
+
+41. ID 558275649ced5620 | line 43523 | 懮 / 懮 [you3]
+  0: EN grievous
+     UK скорботний
+  1: EN relaxed
+     UK розслаблений
+  NOTES ["Рідкісне 懮[you3] має в джерелі протилежно забарвлені глоси; розподіл цих значень між читаннями потребує перевірки."]
+
+42. ID 24d86b9861f31574 | line 60643 | 此際 / 此际 [ci3 ji4]
+  0: EN then
+     UK тієї миті
+  1: EN as a result
+     UK унаслідок цього
+  NOTES ["Значення «унаслідок цього» в англійському джерелі нетипове для 此際, що передусім означає «у цей/той момент»."]
+
+43. ID b36f029280320e5a | line 64419 | 泵燈 / 泵灯 [beng4 deng1]
+  0: EN lamp
+     UK лампа
+  1: EN turn signal
+     UK покажчик повороту
+  NOTES ["Для 泵燈 наведені англійські значення неочевидні; технічний контекст відсутній і потребує перевірки."]
+
+44. ID 81c625769deeb7ff | line 70250 | 焦慮症 / 焦虑症 [jiao1 lu:4 zheng4]
+  0: EN neurosis
+     UK невроз
+  1: EN anxiety
+     UK тривожний розлад
+  NOTES ["Джерело подає широке й застаріле «невроз»; китайський термін зазвичай позначає тривожний розлад."]
+
+45. ID eefd08790b05c457 | line 79828 | 硾 / 硾 [zhui4]
+  0: EN iodide
+     UK йодид
+  1: EN to weight
+     UK обважнювати
+  NOTES ["Хімічне значення «iodide» в джерелі сумнівне для цього знака; потребує лексикографічної перевірки."]
+
+46. ID a89408b7c7fab0a9 | line 98253 | 行軍床 / 行军床 [xing2 jun1 chuang2]
+  0: EN camp bed
+     UK похідне ліжко
+  1: EN bivouac
+     UK похідне спальне місце
+  NOTES ["Друге англійське значення «bivouac» ширше за китайське позначення похідного ліжка; переклад зберігає зв’язок до спального місця."]
+
+47. ID b0688638c53aa73d | line 121728 | 髖關節 / 髋关节 [kuan1 guan1 jie2]
+  0: EN pelvis
+     UK таз
+  1: EN hip joint
+     UK кульшовий суглоб
+  NOTES ["Сегмент «pelvis» ширший за 髖關節; збережено як окреме джерельне значення з застереженням."]
+
+48. ID 74f73d56ef64a427 | line 123553 | 麋 / 麋 [mi2]
+  0: EN moose
+     UK лось
+  1: EN river bank
+     UK річковий берег
+  NOTES ["Значення «лось» відтворено за джерелом; відмінність від оленя Давида в спорідненому слові потребує перевірки."]
+
+49. ID 7b6adc9ce2f5ddef | line 10314 | 儳 / 儳 [chan4]
+  0: EN irregular
+     UK нерегулярний
+  1: EN mixed
+     UK змішаний
+  NOTES ["Рідкісні значення 儳 подано за короткими словниковими глосами; контекст не уточнений."]
+
+50. ID 4444b494b31007e5 | line 12411 | 冒冒失失 / 冒冒失失 [mao4 mao4 shi1 shi1]
+  0: EN bold
+     UK зухвалий; нерозважливо сміливий
+  1: EN forthright
+     UK безцеремонний; необачно прямолінійний
+  NOTES ["Англійські bold і forthright можуть мати схвальний відтінок; китайське слово означає необачність і безцеремонність, тому цей відтінок збережено в перекладі."]
+
+51. ID 06c81b98653f2821 | line 16949 | 半長軸 / 半长轴 [ban4 chang2 zhou2]
+  0: EN semiaxis
+     UK велика піввісь
+  1: EN radius
+     UK радіус
+  NOTES ["Друге тлумачення «радіус» є загальним; 半長軸 насамперед означає велику піввісь еліпса."]
+
+52. ID d12cc822b90f9981 | line 89058 | 耙 / 耙 [ba4]
+  0: EN a hoe
+     UK мотика
+  1: EN to harrow
+     UK боронувати
+  NOTES ["Іменникове «hoe» в джерелі сумнівне: для читання ba4 звичайне значення — «борона»."]
+
+53. ID 5f86d4b3fcd3bc69 | line 11986 | 公證人 / 公证人 [gong1 zheng4 ren2]
+  0: EN notary
+     UK нотаріус
+  1: EN actuary
+     UK нотаріальний службовець
+  NOTES ["Англійське actuary неоднозначне: сучасне значення «актуарій» не відповідає китайському 公證人; за китайським словом подано нотаріальну професію."]
+
+54. ID 0ccbaf58aa1bab0a | line 26744 | 壁助 / 壁助 [bi4 zhu4]
+  0: EN help
+     UK допомога
+  1: EN assistant
+     UK помічник
+  NOTES ["Рідкісне 壁助; значення наведено за джерелом, конкретний контекст уживання не встановлено."]
+
+55. ID e9631337dbdeabbf | line 37363 | 帝王 / 帝王 [di4 wang2]
+  0: EN regent
+     UK володар
+  1: EN monarch
+     UK монарх
+  NOTES ["Англійське regent у джерелі неточне: 帝王 позначає правителя-монарха, а не регента."]
+
+56. ID 2aa53206f9550bb8 | line 56949 | 柅 / 柅 [ni3]
+  0: EN (tree)
+     UK (назва дерева)
+  1: EN to stop
+     UK зупиняти
+  NOTES ["Джерело не уточнює вид дерева."]
+
+57. ID c2756c6e841a30e5 | line 60351 | 歜 / 歜 [chu4]
+  0: EN (person)
+     UK (людина)
+  1: EN angry
+     UK сердитий
+  NOTES ["Значення першого сегмента person не пояснено у джерелі."]
+
+58. ID c5fe61e10a850116 | line 75957 | 痰液 / 痰液 [tan2 ye4]
+  0: EN saliva
+     UK мокротиння (у джерелі названо слиною)
+  1: EN spittle
+     UK виплюнуте мокротиння
+  NOTES ["Китайське слово позначає мокротиння; англійське «saliva» у першому сегменті неточне."]
+
+59. ID 52fa9d4c6ddd1d87 | line 81410 | 科羅納 / 科罗纳 [Ke1 luo2 na4]
+  0: EN Corona
+     UK Корона
+  1: EN Colonna
+     UK Колонна
+  NOTES ["Без контексту неможливо визначити конкретного носія назви Corona або Colonna."]
+
+60. ID e151402567691bec | line 99610 | 西芹 / 西芹 [xi1 qin2]
+  0: EN celery
+     UK селера
+  1: EN parsley
+     UK петрушка
+  NOTES ["Значення «петрушка» наведене в джерелі, але звичайне значення цього китайського слова — селера."]
+
+61. ID 4af69af703a88daa | line 7656 | 侀 / 侀 [xing2]
+  0: EN shape
+     UK форма; обрис
+  1: EN statute
+     UK закон; статут
+  NOTES ["Рідкісний ієрогліф; в англійському джерелі наведено два різні значення без контексту."]
+
+62. ID 5be42c6963427990 | line 60320 | 歐羅巴 / 欧罗巴 [Ou1 luo2 ba1]
+  0: EN Europe
+     UK Європа
+  1: EN Europa
+     UK Європа (Europa)
+  NOTES ["Другий сегмент не уточнює, чи це міфологічна постать, супутник Юпітера або інша назва Європи."]
+
+63. ID 6241e1661b1cc0dd | line 63578 | 河濱 / 河滨 [he2 bin1]
+  0: EN brook
+     UK річкове узбережжя
+  1: EN rivulet
+     UK берег річки
+  NOTES ["Англійські сегменти «brook» і «rivulet» означають струмок, але 河濱 означає річковий берег; переклад спирається на китайський заголовок."]
+
+64. ID 9ee138008f7aa7f9 | line 93582 | 苙 / 苙 [li4]
+  0: EN (herb)
+     UK (трав’яниста рослина)
+  1: EN pigsty
+     UK свинарник
+  NOTES ["Вид трави в джерелі не уточнено."]
+
+65. ID 5c30f53267432c31 | line 118741 | 順氣 / 顺气 [shun4 qi4]
+  0: EN nice
+     UK приємний
+  1: EN pleasant
+     UK миловидний; такий, що не дратує
+  NOTES ["Англійські nice/pleasant недостатньо уточнюють значення; китайське слово також стосується заспокоєння чи вільного дихання."]
+
+66. ID a49af81ffb7f2940 | line 122882 | 鰼 / 鳛 [xi2]
+  0: EN loach
+     UK в'юн
+  1: EN mudfish
+     UK мулова риба
+  NOTES ["Назва mudfish неоднозначна; точний вид не встановлено."]
+
+67. ID 24ec5ec4fb929c9c | line 123411 | 鸛 / 鹳 [guan4]
+  0: EN crane
+     UK журавель
+  1: EN stork
+     UK лелека
+  NOTES ["Джерельне «журавель» поряд із «лелека» потребує лексикографічної перевірки."]
+
+68. ID 51211c11d4193260 | line 47768 | 掞 / 掞 [shan4]
+  0: EN easy
+     UK легкий
+  1: EN quiet
+     UK спокійний
+  NOTES ["Рідкісний ієрогліф; значення easy і quiet у джерелі не дають достатнього контексту для точного відтінку."]
+
+69. ID 6d4366ae41aca175 | line 83779 | 簻 / 簻 [ke1]
+  0: EN big
+     UK великий
+  1: EN hunger
+     UK голод
+  NOTES ["Незвичні глоси рідкісного ієрогліфа потребують перевірки."]
+
+70. ID 63afa9676a2a00e9 | line 123387 | 鸁 / 鸁 [luo2]
+  0: EN grebe
+     UK пірникоза
+  1: EN wren
+     UK волове очко
+  NOTES ["Джерело поєднує два неспоріднені види птахів; розмежування значень потребує перевірки."]
+
+71. ID 5fc0836b0fcf3538 | line 42383 | 惟 / 惟 [wei2]
+  0: EN -ism
+     UK -ізм
+  1: EN only
+     UK лише
+  NOTES ["Значення «-ізм» у джерелі не пояснено; 惟 зазвичай виражає обмеження «лише»."]
+
+72. ID 5bf0c233b7b31129 | line 50110 | 攲 / 攲 [qi1]
+  0: EN up
+     UK піднятий
+  1: EN uneven
+     UK нерівний
+  NOTES ["Англійське «up» нетипове для 攲[qi1], що зазвичай означає нахил або нерівність; значення сегмента потребує звірення."]
+
+73. ID bf22b1201d854c3a | line 112216 | 錒系元素 / 锕系元素 [a1 xi4 yuan2 su4]
+  0: EN actinoids (rare earth series), namely: actinium Ac89 錒|锕[a1], thorium Th90 釷|钍[tu3], protoactinium Pa91 鏷|镤[pu2], uranium U92 鈾|铀[you2], neptunium Ne93 鎿|镎[na2], plutonium Pu94 鈈|钚[bu4], americium Am95 鎇|镅[mei2], curium Cm96 鋦|锔[ju2], berkelium Bk97 錇|锫[pei2], californium Cf98 鐦|锎[kai1], einsteinium Es99 鎄|锿[ai1], fermium Fm100 鐨|镄[fei4], mendelevium Md101 鍆|钔[men2], nobelium No102 鍩|锘[nuo4], lawrencium Lr103 鐒|铹[lao2]
+     UK актиноїди: актиній Ac89 錒|锕[a1], торій Th90 釷|钍[tu3], протактиній Pa91 鏷|镤[pu2], уран U92 鈾|铀[you2], нептуній Np93 鎿|镎[na2], плутоній Pu94 鈈|钚[bu4], америцій Am95 鎇|镅[mei2], кюрій Cm96 鋦|锔[ju2], берклій Bk97 錇|锫[pei2], каліфорній Cf98 鐦|锎[kai1], ейнштейній Es99 鎄|锿[ai1], фермій Fm100 鐨|镄[fei4], менделєвій Md101 鍆|钔[men2], нобелій No102 鍩|锘[nuo4], лоуренсій Lr103 鐒|铹[lao2]
+  NOTES ["Джерело помилково наводить символ Ne93 для нептунію; виправлено на Np93. Актиноїди не тотожні рідкісноземельним елементам."]
+
+74. ID dade69ad2c7abee1 | line 27047 | 夏黃公 / 夏黄公 [Xia4 Huang2 gong1]
+  0: EN Xia Huanggong also known as Huang Shigong 黃石公|黄石公[Huang2 Shi2 gong1] (dates of birth and death uncertain), Daoist hermit of the Qin Dynasty 秦代[Qin2 dai4] and purported author of “Three Strategies of Huang Shigong” 黃石公三略|黄石公三略[Huang2 Shi2 gong1 San1 lu:e4], one of the Seven Military Classics of ancient China 武經七書|武经七书[Wu3 jing1 Qi1 shu1]
+     UK Ся Хуанґун, також відомий як Хуан Шиґун 黃石公|黄石公[Huang2 Shi2 gong1] (дати життя невідомі), даоський відлюдник династії Цінь 秦代[Qin2 dai4], гаданий автор «Трьох стратегій Хуан Шиґуна» 黃石公三略|黄石公三略[Huang2 Shi2 gong1 San1 lu:e4], одного із Семи військових канонів давнього Китаю 武經七書|武经七书[Wu3 jing1 Qi1 shu1]
+  NOTES ["Ототожнення Ся Хуанґуна з Хуан Шиґуном відтворено за джерелом; воно потребує історичної перевірки."]
+
+75. ID 4bc8fb202a5fec0d | line 39344 | 張志新 / 张志新 [Zhang1 Zhi4 xin1]
+  0: EN Zhang Zhixin (1930-1975) female revolutionary and martyr, who followed the true Marxist-Leninist line as a party member, and was arrested in 1969, then executed in 1975 after opposing the counterrevolutionary party-usurping conspiracies of Lin Biao and the Gang of Four, and only rehabilitated posthumously in 1979
+     UK Чжан Чжисінь (1930–1975), революціонерка, визнана мученицею; за характеристикою джерела, членкиня партії, віддана «істинній марксистсько-ленінській лінії», заарештована 1969 року й страчена 1975-го за протидію «контрреволюційним змовам» Лінь Бяо та «Банди чотирьох» щодо захоплення партії; посмертно реабілітована 1979 року
+  NOTES ["Джерело містить політично оцінні формулювання; їх передано як характеристику джерела."]
+
+76. ID 8cbc0a281378b066 | line 20821 | 呂不韋 / 吕不韦 [Lu:3 Bu4 wei2]
+  0: EN Lü Buwei (?291-235 BC), merchant and politician of the State of Qin 秦國|秦国[Qin2 guo2], subsequent Qin Dynasty 秦代[Qin2 dai4] Chancellor, allegedly the father of Ying Zheng 嬴政[Ying2 Zheng4], who subsequently became the first emperor Qin Shihuang 秦始皇[Qin2 Shi3 huang2]
+     UK Люй Бувей (імовірно 291–235 до н. е.), купець і політик держави Цінь 秦國|秦国[Qin2 guo2], згодом канцлер (у джерелі — доби Цінь 秦代[Qin2 dai4]); гаданий батько Їн Чжена 嬴政[Ying2 Zheng4], майбутнього першого імператора Цінь Шихуана 秦始皇[Qin2 Shi3 huang2]
+  NOTES ["Канцлерство Люй Бувея передувало заснуванню імператорської династії Цінь."]
+
+77. ID ed405495e3fef196 | line 32222 | 宋四大書 / 宋四大书 [Song4 si4 da4 shu1]
+  0: EN Four great compilations of Northern Song dynasty, namely: Extensive records of the Taiping era (978) 太平廣記|太平广记, Imperial readings of the Taiping era 太平御覽|太平御览, Prime tortoise of the record bureau 冊府元龜|册府元龟, Finest blossoms in the garden of literature 文苑英華|文苑英华
+     UK чотири великі зводи Північної Сун: «Широкі записи ери Тайпін» (978) 太平廣記|太平广记, «Імператорські читання ери Тайпін» 太平御覽|太平御览, «Першочергова черепаха архівного сховища» 冊府元龜|册府元龟, «Найкращі квіти літературного саду» 文苑英華|文苑英华
+  NOTES ["Українські назви зводів передано описово; усталені переклади потребують перевірки."]
+
+78. ID 8929a2285e61e89c | line 19523 | 司馬穰苴 / 司马穰苴 [Si1 ma3 Rang2 ju1]
+  0: EN Sima Rangju (c. 800 BC, dates of birth and death unknown), military strategist of the Qi State 齊國|齐国[Qi2 guo2] and author of “Methods of Sima” 司馬法|司马法[Si1 ma3 Fa3], one of the Seven Military Classics of ancient China 武經七書|武经七书[Wu3 jing1 Qi1 shu1]
+     UK Сима Жанцзюй (за джерелом, близько 800 року до н. е.; дати народження і смерті невідомі), військовий стратег держави Ці 齊國|齐国[Qi2 guo2] та автор «Методів Сима» 司馬法|司马法[Si1 ma3 Fa3], одного із семи військових канонів стародавнього Китаю 武經七書|武经七书[Wu3 jing1 Qi1 shu1]
+  NOTES ["Датування близько 800 року до н. е. у джерелі сумнівне й потребує перевірки."]
+
+79. ID d45b6ff91aafbec1 | line 21985 | 唐書 / 唐书 [Tang2 shu1]
+  0: EN same as 舊唐書|旧唐书[Jiu4 Tang2 shu1], History of the Early Tang Dynasty, sixteenth of the 24 dynastic histories 二十四史[Er4 shi2 si4 Shi3], compiled under Liu Xu 劉昫|刘昫[Liu2 Xu4] in 945 during Later Jin 後晉|后晋[Hou4 Jin4] of the Five Dynasties, 200 scrolls
+     UK те саме, що 舊唐書|旧唐书[Jiu4 Tang2 shu1], «Стара історія Тан», шістнадцята з двадцяти чотирьох династійних історій 二十四史[Er4 shi2 si4 Shi3]; укладена під керівництвом Лю Сюя 劉昫|刘昫[Liu2 Xu4] 945 року за Пізньої Цзінь 後晉|后晋[Hou4 Jin4] доби П'яти династій; 200 сувоїв
+  NOTES ["Англійське «History of the Early Tang Dynasty» неточно передає назву 舊唐書; вона означає «Стара історія Тан»."]
+
+80. ID 86a3aa86e1e846fe | line 68832 | 瀘定橋 / 泸定桥 [Lu2 ding4 qiao2]
+  0: EN Luding Bridge over Dadu river 大渡河[Da4 du4 he2] in Sichuan, built by Kangxi in 1706, linking Luding county Sichuan Luding county 瀘定縣|泸定县[Lu2 ding4 xian4] with Garze Tibetan autonomous prefecture 甘孜藏族自治州|甘孜藏族自治州[Gan1 zi1 Zang4 zu2 zi4 zhi4 zhou1]
+     UK Лудінський міст через річку Даду 大渡河[Da4 du4 he2] у Сичуані, споруджений за Кансі 1706 року; сполучає повіт Лудін у Сичуані 瀘定縣|泸定县[Lu2 ding4 xian4] з Гарцзе-Тибетською автономною префектурою 甘孜藏族自治州|甘孜藏族自治州[Gan1 zi1 Zang4 zu2 zi4 zhi4 zhou1]
+  NOTES ["Географічне пояснення джерела неясне: Лудін сам входить до Гарцзе-Тибетської автономної префектури; опис того, що сполучає міст, потребує перевірки."]
+
+81. ID b4923e63893d0f8d | line 51880 | 新唐書 / 新唐书 [Xin1 Tang2 shu1]
+  0: EN History of the Later Tang Dynasty, seventeenth of the 24 dynastic histories 二十四史[Er4 shi2 si4 Shi3], compiled under Ouyang Xiu 歐陽修|欧阳修[Ou1 yang2 Xiu1] and Song Qi 宋祁[Song4 Qi2] in 1060 during Northern Song 北宋[Bei3 Song4], 225 scrolls
+     UK «Нова історія Тан», сімнадцята з 24 династичних історій 二十四史[Er4 shi2 si4 Shi3], укладена під керівництвом Оуяна Сю 歐陽修|欧阳修[Ou1 yang2 Xiu1] і Сун Ці 宋祁[Song4 Qi2] 1060 року за Північної Сун 北宋[Bei3 Song4], 225 сувоїв
+  NOTES ["Англійське «Later Tang Dynasty» помилково натякає на Пізню Тан; 新唐書 — нова редакція історії династії Тан."]
+
+82. ID fece7a819cb5b133 | line 115202 | 陳仲琳 / 陈仲琳 [Chen2 Zhong4 lin2]
+  0: EN Chen Zhonglin, aka Xu Zhonglin 許仲琳|许仲琳[Xu3 Zhong4 lin2] (c. 1567–c. 1620), Ming novelist, to whom the fantasy novel Investiture of the Gods 封神演義|封神演义[Feng1 shen2 Yan3 yi4] is attributed, together with Lu Xixing 陸西星|陆西星[Lu4 Xi1 xing1]
+     UK Чень Чжунлінь, також відомий як Сюй Чжунлінь 許仲琳|许仲琳[Xu3 Zhong4 lin2] (бл. 1567 — бл. 1620), романіст доби Мін, якому разом із Лу Сісіном 陸西星|陆西星[Lu4 Xi1 xing1] приписують авторство фантастичного роману «Піднесення до рангу богів» 封神演義|封神演义[Feng1 shen2 Yan3 yi4]
+  NOTES ["Назву роману передано описово; усталений український варіант назви не встановлено."]
+
+83. ID 0f9c28c7d01758a7 | line 27453 | 多爾袞 / 多尔衮 [Duo1 er3 gun3]
+  0: EN Dorgon (1612-1651), fourteenth son of Nurhaci 努爾哈赤|努尔哈赤[Nu3 er3 ha1 chi4], successful general, instrumental in Manchu conquest of China, ruled China as regent 1644-1650 for his nephew Emperor Shunzhi 順治帝|顺治帝[Shun4 zhi4 di4]
+     UK Доргон (1612–1651), чотирнадцятий син Нурхаці 努爾哈赤|努尔哈赤[Nu3 er3 ha1 chi4], успішний полководець, ключовий учасник маньчжурського завоювання Китаю, регент у 1644–1650 роках за свого племінника, імператора Шуньчжи 順治帝|顺治帝[Shun4 zhi4 di4]
+  NOTES ["Рік смерті 1651 відтворено за джерелом; у поширених датуваннях Доргон помер 1650 року."]
+
+84. ID 404714500bfba62d | line 31679 | 孫武子 / 孙武子 [Sun1 Wu3 zi3]
+  0: EN Sun Wu, famous general, strategist and Legalist philosopher, contemporary with Confucius 孔子[Kong3 zi3] (551-479 BC), author of "The Art of War" 孫子兵法|孙子兵法[Sun1 zi3 Bing1 fa3], also known as Sun Tzu 孫子|孙子[Sun1 zi3]
+     UK Сунь У, видатний полководець, стратег і філософ-легіст, сучасник Конфуція 孔子[Kong3 zi3] (551–479 до н. е.), автор «Мистецтва війни» 孫子兵法|孙子兵法[Sun1 zi3 Bing1 fa3], також відомий як Сунь-цзи 孫子|孙子[Sun1 zi3]
+  NOTES ["Зарахування Сунь У до легістів у джерелі потребує історико-філософського уточнення."]
+
+85. ID d1d4a7bc9dc449a0 | line 92526 | 舊唐書 / 旧唐书 [Jiu4 Tang2 shu1]
+  0: EN History of the Early Tang Dynasty, sixteenth of the 24 dynastic histories 二十四史[Er4 shi2 si4 Shi3], compiled under Liu Xu 劉昫|刘昫[Liu2 Xu4] in 945 during Later Jin 後晉|后晋[Hou4 Jin4] of the Five Dynasties, 200 scrolls
+     UK «Стара книга Тан», шістнадцята з 24 династичних історій 二十四史[Er4 shi2 si4 Shi3], укладена під керівництвом Лю Сюя 劉昫|刘昫[Liu2 Xu4] 945 року за Пізньої Цзінь 後晉|后晋[Hou4 Jin4] періоду П’яти династій, 200 сувоїв
+  NOTES ["Англійське джерело називає її історією ранньої Тан, але 舊 у назві означає стару редакцію, а не ранній період династії."]
+
+86. ID dacd353fade57644 | line 125053 | 龍人 / 龙人 [Long2 ren2]
+  0: EN Dragon Man, the nickname of the individual whose fossilized cranium was discovered in Heilongjiang in 1933, thought to be a Denisovan 丹尼索瓦人[Dan1 ni2 suo3 wa3 ren2] or a new species of extinct human, Homo longi
+     UK «людина-дракон», назва людини, скам'янілий череп якої знайдено 1933 року в Хейлунцзяні; її вважають денисівцем 丹尼索瓦人[Dan1 ni2 suo3 wa3 ren2] або представником нового вимерлого виду Homo longi
+  NOTES ["Наукову класифікацію знахідки відтворено за джерелом; актуальні висновки не перевірено."]
+
+87. ID 5af5a9a3a7d285dd | line 34081 | 尉繚 / 尉缭 [Wei4 Liao2]
+  0: EN Wei Lao (c. 450 BC, dates of birth and death unknown), advisor to the first Qin emperor Qin Shihuang 秦始皇[Qin2 Shi3 huang2], possible author of the Wei Liaozi 尉繚子|尉缭子[Wei4 Liao2 zi5] text on military strategy
+     UK Вей Ляо (бл. 450 до н. е.; дати життя невідомі), радник першого цінського імператора Цінь Шихуана 秦始皇[Qin2 Shi3 huang2], можливий автор трактату з військової стратегії «Вей Ляо-цзи» 尉繚子|尉缭子[Wei4 Liao2 zi5]
+  NOTES ["Джерельна дата близько 450 до н. е. несумісна з діяльністю радника Цінь Шихуана у III ст. до н. е.; особу й датування слід уточнити."]
+
+88. ID a21c171135f2ded8 | line 32062 | 安德海 / 安德海 [An1 De2 hai3]
+  0: EN An Dehai (-1869), the Qing equivalent of Rasputin, all-powerful court eunuch with the dowager empress Cixi 慈禧太后[Ci2 xi3 tai4 hou4], executed in 1869 by her rival Empress Mother Empress Dowager Ci'an 慈安皇太后
+     UK Ань Дехай (пом. 1869), усесильний придворний євнух при імператриці-вдові Цисі 慈禧太后[Ci2 xi3 tai4 hou4], своєрідний «Распутін» доби Цін; страчений 1869 року за наказом її суперниці, імператриці-вдови Циань 慈安皇太后
+  NOTES ["Порівняння з Распутіним та твердження про те, хто наказав стратити Ань Дехая, походять із джерела; історичні обставини потребують уточнення."]
+
+89. ID a9c2559d86129952 | line 55966 | 李叔同 / 李叔同 [Li3 Shu1 tong2]
+  0: EN Liu Shutong (1880-1942), painter, Buddhist monk and distinguished figure in New Culture Movement 新文化運動|新文化运动[Xin1 Wen2 hua4 Yun4 dong4] after the Xinhai Revolution 辛亥革命[Xin1 hai4 Ge2 ming4] of 1911
+     UK Лі Шутун (1880–1942), художник, буддійський монах і визначний діяч Руху за нову культуру 新文化運動|新文化运动[Xin1 Wen2 hua4 Yun4 dong4] після Сіньхайської революції 辛亥革命[Xin1 hai4 Ge2 ming4] 1911 року
+  NOTES ["У джерелі помилково «Liu Shutong»; 李 і Li3 відповідають Лі."]
+
+90. ID 3b7adfd3b72ef4fb | line 115361 | 陸西星 / 陆西星 [Lu4 Xi1 xing1]
+  0: EN Lu Xixing (1520-c. 1601), Ming Daoist author, to whom the fantasy novel Investiture of the Gods 封神演義|封神演义[Feng1 shen2 Yan3 yi4] is attributed, together with Xu Zhonglin 許仲琳|许仲琳[Xu3 Zhong4 lin2]
+     UK Лу Сісін (1520 – бл. 1601), даоський письменник доби Мін, якому разом із Сюй Чжунлінем 許仲琳|许仲琳[Xu3 Zhong4 lin2] приписують фантастичний роман «Піднесення до рангу богів» 封神演義|封神演义[Feng1 shen2 Yan3 yi4]
+  NOTES ["Назву роману передано описово; усталений український переклад назви не перевірено."]
+
+91. ID 664f5f3aa837e234 | line 72771 | 獨龍江 / 独龙江 [Du2 long2 jiang1]
+  0: EN Dulong river in northwest Yunnan on border with Myanmar, tributary of Salween or Nujiang 怒江, sometimes referred to as number four of Three parallel rivers 三江並流|三江并流, wildlife protection unit
+     UK Дулунцзян, річка на північному заході Юньнаню біля кордону з М'янмою, притока Салуїну, або Нуцзяну 怒江; іноді названа четвертою річкою природоохоронного району «Три паралельні річки» 三江並流|三江并流
+  NOTES ["Твердження джерела про притоку Салуїну потребує географічної перевірки; басейн річки може бути вказано помилково."]
+
+92. ID 33ae97123871022b | line 111303 | 金永南 / 金永南 [Jin1 Yong3 nan2]
+  0: EN Kim Yong-nam (1928-), North Korean politician, foreign minister 1983-1998, president of the Supreme People's Assembly 1998-2019 (nominal head of state and described as deputy leader)
+     UK Кім Йон Нам (1928–), північнокорейський політик, міністр закордонних справ у 1983–1998 роках, голова Верховних народних зборів у 1998–2019 роках (номінальний глава держави, якого називали другим керівником)
+  NOTES ["У джерелі посада голови президії Верховних народних зборів спрощена до голови зборів; життєві дати також можуть бути застарілими."]
+
+93. ID f36298588028e42d | line 124009 | 黃興 / 黄兴 [Huang2 Xing1]
+  0: EN Huang Xing (1874-1916), revolutionary politician, close collaborator of Sun Yat-sen, prominent in the 1911 Xinhai Revolution 辛亥革命[Xin1 hai4 Ge2 ming4], murdered in Shanghai in 1916
+     UK Хуан Сін (1874–1916), революційний політик, близький соратник Сунь Ятсена, визначний учасник Сіньхайської революції 1911 року 辛亥革命[Xin1 hai4 Ge2 ming4]; за джерелом, убитий у Шанхаї 1916 року
+  NOTES ["Джерельне твердження про вбивство Хуан Сіна 1916 року потребує перевірки."]
+
+94. ID 260f5ccfb695a797 | line 89295 | 聖德太子 / 圣德太子 [Sheng4 de2 Tai4 zi3]
+  0: EN Prince Shōtoku Taiji (574-621), major Japanese statesman and reformer of the Asuka period 飛鳥時代|飞鸟时代[Fei1 niao3 Shi2 dai4], proponent of state Buddhism, portrayed as Buddhist saint
+     UK принц Сьотоку (574–621), видатний японський державний діяч і реформатор періоду Асука 飛鳥時代|飞鸟时代[Fei1 niao3 Shi2 dai4], прихильник державного буддизму, якого зображують буддійським святим
+  NOTES ["У джерелі наведено 621 рік смерті; поширене датування — 622."]
+
+95. ID 978c98a8366759b1 | line 28100 | 大東亞共榮圈 / 大东亚共荣圈 [Da4 Dong1 ya4 Gong4 rong2 quan1]
+  0: EN Great East Asia Co-Prosperity Sphere, Japanese wartime slogan for their short-lived Pacific Empire, first enunciated by Prime Minister Prince KONOE Fumimaro 近衛文麿|近卫文麿 in 1938
+     UK Велика східноазійська сфера співпроцвітання, японське воєнне гасло короткотривалої тихоокеанської імперії, вперше проголошене прем'єр-міністром князем Коное Фумімаро 近衛文麿|近卫文麿 у 1938 році
+  NOTES ["Дату 1938 відтворено за джерелом; точне датування появи назви «сфера співпроцвітання» потребує історичної перевірки."]
+
+96. ID 9233cf4ba1001738 | line 64752 | 洪武 / 洪武 [Hong2 wu3]
+  0: EN Hongwu Emperor, also written Hung-wu Ti, reign name of first Ming emperor Zhu Yuanzhang 朱元璋[Zhu1 Yuan2 zhang1] (1328-1398), reigned 1386-1398, temple name 明太祖[Ming2 Tai4 zu3]
+     UK імператор Хун’у, також Hung-wu Ti; девіз правління першого імператора Мін Чжу Юаньчжана 朱元璋[Zhu1 Yuan2 zhang1] (1328–1398), роки правління в джерелі 1386–1398, храмове ім’я 明太祖[Ming2 Tai4 zu3]
+  NOTES ["У джерелі, ймовірно, переставлено цифри: початок правління Хун’у — 1368, а не 1386 рік."]
+
+97. ID 9b9e4f75199d4f9f | line 29929 | 女書 / 女书 [nu:3 shu1]
+  0: EN nüshu writing, a phonetic syllabary for Yao ethnic group 瑤族|瑶族[Yao2 zu2] dialect designed and used by women in Jiangyong county 江永縣|江永县[Jiang1 yong3 xian4] in southern Hunan
+     UK нюйшу, фонетичне складове письмо для діалекту народу яо 瑤族|瑶族[Yao2 zu2], створене й уживане жінками повіту Цзян'юн 江永縣|江永县[Jiang1 yong3 xian4] на півдні Хунані
+  NOTES ["Опис мовної основи нюйшу як діалекту яо в джерелі потребує перевірки."]
+
+98. ID 26990912a85e37f2 | line 40699 | 德國統一社會黨 / 德国统一社会党 [De2 guo2 Tong3 yi1 She4 hui4 dang3]
+  0: EN Sozialistische Einheitspartei Deutschlands (Socialist Unity Party of Germany 1949-1990), the ruling communist party of the former German Democratic Republic (East Germany)
+     UK Соціалістична єдина партія Німеччини (1949–1990), правляча комуністична партія колишньої Німецької Демократичної Республіки (Східної Німеччини)
+  NOTES ["Дати партії 1949–1990 передано за джерелом; початковий рік потребує перевірки."]
+
+99. ID 78926b50e85b920c | line 30599 | 姜石年 / 姜石年 [Jiang1 Shi2 nian2]
+  0: EN Jiang Shinian (c. 2000 BC), birth name of Shennong 神農|神农[Sheng2 nong2] Farmer God, first of the legendary Flame Emperors 炎帝[Yan2 di4] and creator of agriculture in China
+     UK Цзян Шинянь (бл. 2000 до н. е.), ім'я при народженні Шеньнуна 神農|神农[Sheng2 nong2], бога-землероба, першого з легендарних Полум'яних імператорів 炎帝[Yan2 di4] і творця землеробства в Китаї
+  NOTES ["Датування міфічного персонажа непевне; у посиланні джерела збережено нетипове [Sheng2 nong2]."]
+
+100. ID 2c921d5ce37796c5 | line 28419 | 大藏經 / 大藏经 [Da4 zang4 jing1]
+  0: EN Tripitaka Koreana, Buddhist scriptures carved on 81,340 wooden tablets and housed in the Haein Temple 海印寺[Hai3 yin4 si4] in South Gyeongsang province of South Korea
+     UK Корейська Трипітака, буддійські писання, вирізьблені на 81 340 дерев'яних дошках і збережені в храмі Хеїнса 海印寺[Hai3 yin4 si4], провінція Південна Кьонсан, Південна Корея
+  NOTES ["大藏經 загалом означає буддійський канон; джерело звужує значення до конкретної Корейської Трипітаки."]
+

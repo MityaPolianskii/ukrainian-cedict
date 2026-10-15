@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "958c120540ff7674",
+    "traditional": "四大盆地",
+    "simplified": "四大盆地",
+    "pinyin": "si4 da4 pen2 di4",
+    "english_segments": [
+      "four great basin depressions of China, namely: Tarim 塔里木盆地 in south Xinjiang, Jungar 準葛爾盆地|准葛尔盆地 and Tsaidam or Qaidam 柴達木盆地|柴达木盆地 in north Xinjiang Sichuan 四川盆地"
+    ],
+    "raw_source": "四大盆地 四大盆地 [si4 da4 pen2 di4] /four great basin depressions of China, namely: Tarim 塔里木盆地 in south Xinjiang, Jungar 準葛爾盆地|准葛尔盆地 and Tsaidam or Qaidam 柴達木盆地|柴达木盆地 in north Xinjiang Sichuan 四川盆地/",
+    "source_line": 23757,
+    "ukrainian_segments": [
+      "чотири великі улоговини Китаю: Таримська 塔里木盆地 на півдні Сіньцзяну, Джунгарська 準葛爾盆地|准葛尔盆地, Цайдамська 柴達木盆地|柴达木盆地 та Сичуанська 四川盆地"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Географічне формулювання джерела пошкоджене: Цайдамська улоговина розташована в Цінхаї, а не на півночі Сіньцзяну."
+    ]
+  },
+  {
+    "id": "2408b2ba68ac8ded",
+    "traditional": "回良玉",
+    "simplified": "回良玉",
+    "pinyin": "Hui2 Liang2 yu4",
+    "english_segments": [
+      "Hui Liangyu (1944-) PRC Hui national career politician from Guilin, background in economics, politburo member 2002-2012, deputy chair of State Council 2003-2013"
+    ],
+    "raw_source": "回良玉 回良玉 [Hui2 Liang2 yu4] /Hui Liangyu (1944-) PRC Hui national career politician from Guilin, background in economics, politburo member 2002-2012, deputy chair of State Council 2003-2013/",
+    "source_line": 24008,
+    "ukrainian_segments": [
+      "Хуей Лян'юй (1944–), китайський політик національності хуей, за джерелом із Ґуйліна, з економічною освітою; член Політбюро у 2002–2012 роках, заступник голови Державної ради у 2003–2013 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Місце походження Guilin у джерелі сумнівне; потребує фактографічної перевірки."
+    ]
+  },
+  {
+    "id": "0faf1367ae5f8d1b",
+    "traditional": "劉淵",
+    "simplified": "刘渊",
+    "pinyin": "Liu2 Yuan1",
+    "english_segments": [
+      "Liu Yuan (c. 251–310), warlord at the end of the Western Jin dynasty 西晉|西晋[Xi1 Jin4], founder of Cheng Han of the Sixteen Kingdoms 成漢|成汉[Cheng2 Han4] (304–347)"
+    ],
+    "raw_source": "劉淵 刘渊 [Liu2 Yuan1] /Liu Yuan (c. 251–310), warlord at the end of the Western Jin dynasty 西晉|西晋[Xi1 Jin4], founder of Cheng Han of the Sixteen Kingdoms 成漢|成汉[Cheng2 Han4] (304–347)/",
+    "source_line": 15015,
+    "ukrainian_segments": [
+      "Лю Юань (близько 251–310), воєначальник кінця Західної Цзінь 西晉|西晋[Xi1 Jin4]; у джерелі названий засновником Чен-Хань із Шістнадцяти держав 成漢|成汉[Cheng2 Han4] (304–347)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело помилково пов’язує Лю Юаня з Чен-Хань; він заснував Хань-Чжао. Китайське посилання й джерельне твердження збережено з застереженням."
+    ]
+  },
+  {
+    "id": "1bd3c516026037bb",
+    "traditional": "松遼平原",
+    "simplified": "松辽平原",
+    "pinyin": "Song1 liao2 Ping2 yuan2",
+    "english_segments": [
+      "Songliao Plain of northeast China including Songhua River 松花江 through the Liaoning Peninsula, also called the Northeast Plain 東北平原|东北平原[Dong1 bei3 Ping2 yuan2]"
+    ],
+    "raw_source": "松遼平原 松辽平原 [Song1 liao2 Ping2 yuan2] /Songliao Plain of northeast China including Songhua River 松花江 through the Liaoning Peninsula, also called the Northeast Plain 東北平原|东北平原[Dong1 bei3 Ping2 yuan2]/",
+    "source_line": 56592,
+    "ukrainian_segments": [
+      "рівнина Сунляо на північному сході Китаю, від басейну Сунгарі 松花江 до Ляонінського півострова; також Північно-Східна рівнина 東北平原|东北平原[Dong1 bei3 Ping2 yuan2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Географічний опис і назва півострова в джерелі потребують перевірки."
+    ]
+  },
+  {
+    "id": "afbe47d72e43f922",
+    "traditional": "朴正熙",
+    "simplified": "朴正熙",
+    "pinyin": "Piao2 Zheng4 xi1",
+    "english_segments": [
+      "Park Chung-Hee (1917-1979), South Korean military man and dictator, president 1963-1979, influential in developing Korean industry, murdered by his bodyguard"
+    ],
+    "raw_source": "朴正熙 朴正熙 [Piao2 Zheng4 xi1] /Park Chung-Hee (1917-1979), South Korean military man and dictator, president 1963-1979, influential in developing Korean industry, murdered by his bodyguard/",
+    "source_line": 55921,
+    "ukrainian_segments": [
+      "Пак Чон Хі (1917–1979), південнокорейський військовик і диктатор, президент у 1963–1979 роках, сприяв розвитку промисловості; убитий своїм охоронцем"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає вбивцю охоронцем; історично це був керівник розвідки."
+    ]
+  },
+  {
+    "id": "a4ab60c3dd2b680d",
+    "traditional": "晏子",
+    "simplified": "晏子",
+    "pinyin": "Yan4 zi3",
+    "english_segments": [
+      "Yanzi (-c 500 BC), famous statesman from Qi of the Warring States 齊國|齐国[Qi2 guo2], also known as 晏嬰|晏婴[Yan4 Ying1], hero of book 晏子春秋[Yan4 zi3 Chun1 qiu1]"
+    ],
+    "raw_source": "晏子 晏子 [Yan4 zi3] /Yanzi (-c 500 BC), famous statesman from Qi of the Warring States 齊國|齐国[Qi2 guo2], also known as 晏嬰|晏婴[Yan4 Ying1], hero of book 晏子春秋[Yan4 zi3 Chun1 qiu1]/",
+    "source_line": 53604,
+    "ukrainian_segments": [
+      "Янь-цзи (помер бл. 500 до н. е.), відомий державний діяч держави Ці 齊國|齐国[Qi2 guo2], також знаний як Янь Їн 晏嬰|晏婴[Yan4 Ying1], герой книжки 晏子春秋[Yan4 zi3 Chun1 qiu1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело помилково відносить діяча до Воюючих царств; він належав до періоду Весен і Осеней."
+    ]
+  },
+  {
+    "id": "db55bcd53a929121",
+    "traditional": "大唐狄公案",
+    "simplified": "大唐狄公案",
+    "pinyin": "Da4 Tang2 Di2 Gong1 an4",
+    "english_segments": [
+      "Three Murder Cases Solved by Judge Dee, 1949 novel by R.H. van Gulik, featuring Tang Dynasty politician Di Renjie 狄仁傑|狄仁杰[Di2 Ren2 jie2] as master sleuth"
+    ],
+    "raw_source": "大唐狄公案 大唐狄公案 [Da4 Tang2 Di2 Gong1 an4] /Three Murder Cases Solved by Judge Dee, 1949 novel by R.H. van Gulik, featuring Tang Dynasty politician Di Renjie 狄仁傑|狄仁杰[Di2 Ren2 jie2] as master sleuth/",
+    "source_line": 27831,
+    "ukrainian_segments": [
+      "«Три вбивства, розкриті суддею Ді», роман Роберта ван Гюліка 1949 року, в якому політик доби Тан Ді Женьцзє 狄仁傑|狄仁杰[Di2 Ren2 jie2] виступає майстерним детективом"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає видання 1949 року романом ван Гюліка; воно може стосуватися його перекладу давнішого китайського твору. Назву передано описово."
+    ]
+  },
+  {
+    "id": "f11cf1fd8dc52ccd",
+    "traditional": "北洋軍",
+    "simplified": "北洋军",
+    "pinyin": "Bei3 yang2 jun1",
+    "english_segments": [
+      "north China army, a modernizing Western-style army set up during late Qing, and a breeding ground for the Northern Warlords after the Qinghai revolution"
+    ],
+    "raw_source": "北洋軍 北洋军 [Bei3 yang2 jun1] /north China army, a modernizing Western-style army set up during late Qing, and a breeding ground for the Northern Warlords after the Qinghai revolution/",
+    "source_line": 16346,
+    "ukrainian_segments": [
+      "Бейянська армія, модернізована армія західного зразка, створена наприкінці династії Цін, з якої після революції вийшли північні мілітаристи"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі «Qinghai revolution», імовірно, помилка замість Сіньхайської революції."
+    ]
+  },
+  {
+    "id": "7f7188d35fb4a880",
+    "traditional": "海上花列傳",
+    "simplified": "海上花列传",
+    "pinyin": "Hai3 shang4 Hua1 Lie4 zhuan4",
+    "english_segments": [
+      "\"The Sing-Song Girls of Shanghai\", a novel by Han Bangqing 韓邦慶|韩邦庆[Han2 Bang1 qing4] depicting the lives of Shanghai courtesans in the late Qing dynasty"
+    ],
+    "raw_source": "海上花列傳 海上花列传 [Hai3 shang4 Hua1 Lie4 zhuan4] /\"The Sing-Song Girls of Shanghai\", a novel by Han Bangqing 韓邦慶|韩邦庆[Han2 Bang1 qing4] depicting the lives of Shanghai courtesans in the late Qing dynasty/",
+    "source_line": 65292,
+    "ukrainian_segments": [
+      "«Квіти Шанхая», роман Хань Банціна 韓邦慶|韩邦庆[Han2 Bang1 qing4] про життя шанхайських куртизанок наприкінці доби Цін"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську назву роману подано перекладно; усталену назву не підтверджено."
+    ]
+  },
+  {
+    "id": "23047351f5bd9433",
+    "traditional": "鄧世昌",
+    "simplified": "邓世昌",
+    "pinyin": "Deng4 Shi4 chang1",
+    "english_segments": [
+      "Deng Shichang (1849-1894), Qing dynasty naval specialist, founded naval dockyards and two naval colleges, died heroically in action against the Japanese"
+    ],
+    "raw_source": "鄧世昌 邓世昌 [Deng4 Shi4 chang1] /Deng Shichang (1849-1894), Qing dynasty naval specialist, founded naval dockyards and two naval colleges, died heroically in action against the Japanese/",
+    "source_line": 110091,
+    "ukrainian_segments": [
+      "Ден Шичан (1849–1894), цінський фахівець із військово-морської справи, засновник військових верфей і двох військово-морських училищ, героїчно загинув у бою з японцями"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Приписані Ден Шичану заснування верфей і двох училищ потребують перевірки; джерело може змішувати його біографію з іншими діячами."
+    ]
+  },
+  {
+    "id": "12679c79c15e787a",
+    "traditional": "官渡之戰",
+    "simplified": "官渡之战",
+    "pinyin": "Guan1 du4 zhi1 Zhan4",
+    "english_segments": [
+      "Battle of Guandu of 199 that established Cao Cao's 曹操[Cao2 Cao1] domination over north China, at Guandu (near modern 許昌|许昌[Xu3 chang1] in north Henan)"
+    ],
+    "raw_source": "官渡之戰 官渡之战 [Guan1 du4 zhi1 Zhan4] /Battle of Guandu of 199 that established Cao Cao's 曹操[Cao2 Cao1] domination over north China, at Guandu (near modern 許昌|许昌[Xu3 chang1] in north Henan)/",
+    "source_line": 32390,
+    "ukrainian_segments": [
+      "битва при Ґуаньду 199 року, що утвердила панування Цао Цао 曹操[Cao2 Cao1] над Північним Китаєм; відбулася біля Ґуаньду (поблизу сучасного Сюйчана 許昌|许昌[Xu3 chang1] на півночі Хенані)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело датує битву 199 роком, хоча загальноприйнята дата — 200 рік; географічну прив'язку також варто перевірити."
+    ]
+  },
+  {
+    "id": "b4f3b266ccede18b",
+    "traditional": "義和團運動",
+    "simplified": "义和团运动",
+    "pinyin": "Yi4 he2 tuan2 Yun4 dong4",
+    "english_segments": [
+      "Boxer Rebellion (1900–1901), a peasant uprising that attempted to expel all foreigners from China, eventually suppressed by an international coalition"
+    ],
+    "raw_source": "義和團運動 义和团运动 [Yi4 he2 tuan2 Yun4 dong4] /Boxer Rebellion (1900–1901), a peasant uprising that attempted to expel all foreigners from China, eventually suppressed by an international coalition/",
+    "source_line": 88237,
+    "ukrainian_segments": [
+      "Боксерське повстання (1900–1901), селянське повстання з метою вигнання всіх іноземців із Китаю, придушене міжнародною коаліцією"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Датування джерела 1900–1901 є вузьким; початок руху часто відносять до 1899 року або раніше."
+    ]
+  },
+  {
+    "id": "7956dde230505782",
+    "traditional": "張學良",
+    "simplified": "张学良",
+    "pinyin": "Zhang1 Xue2 liang2",
+    "english_segments": [
+      "Zhang Xueliang (1901-2001) son of Fengtian clique warlord, then senior general for the Nationalists and subsequently for the People's Liberation Army"
+    ],
+    "raw_source": "張學良 张学良 [Zhang1 Xue2 liang2] /Zhang Xueliang (1901-2001) son of Fengtian clique warlord, then senior general for the Nationalists and subsequently for the People's Liberation Army/",
+    "source_line": 39323,
+    "ukrainian_segments": [
+      "Чжан Сюелян (1901–2001), син військового правителя Фентяньської кліки, згодом високопоставлений генерал націоналістів, а за джерелом — пізніше й Народно-визвольної армії"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Твердження про службу Чжан Сюеляна в НВАК сумнівне: після 1936 року він десятиліттями перебував під домашнім арештом; потребує перевірки джерела."
+    ]
+  },
+  {
+    "id": "7e0963aed1d10934",
+    "traditional": "四大佛教名山",
+    "simplified": "四大佛教名山",
+    "pinyin": "Si4 da4 Fo2 jiao4 Ming2 shan1",
+    "english_segments": [
+      "Four Sacred Mountains of Buddhism, namely: Mt Wutai 五臺山|五台山 in Shanxi, Mt Emei 峨眉山 in Sichuan, Mt Jiuhua 九華山|九华山 in Anhui, Mt Potala 普陀山 in Zhejiang"
+    ],
+    "raw_source": "四大佛教名山 四大佛教名山 [Si4 da4 Fo2 jiao4 Ming2 shan1] /Four Sacred Mountains of Buddhism, namely: Mt Wutai 五臺山|五台山 in Shanxi, Mt Emei 峨眉山 in Sichuan, Mt Jiuhua 九華山|九华山 in Anhui, Mt Potala 普陀山 in Zhejiang/",
+    "source_line": 23752,
+    "ukrainian_segments": [
+      "чотири священні буддійські гори: Утайшань 五臺山|五台山 у Шаньсі, Емейшань 峨眉山 у Сичуані, Цзюхуашань 九華山|九华山 в Аньхої та Путошань 普陀山 у Чжецзяні"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі Potala, але китайське 普陀山 означає Путошань у Чжецзяні."
+    ]
+  },
+  {
+    "id": "b61c317288d9c8a1",
+    "traditional": "驪姬之亂",
+    "simplified": "骊姬之乱",
+    "pinyin": "Li2 Ji1 zhi1 Luan4",
+    "english_segments": [
+      "Li Ji Rebellion in 657-651 BC, where concubine Li Ji tried to throne her son but was eventually defeated by Duke Wen of Jin 晉文公|晋文公[Jin4 Wen2 gong1]"
+    ],
+    "raw_source": "驪姬之亂 骊姬之乱 [Li2 Ji1 zhi1 Luan4] /Li Ji Rebellion in 657-651 BC, where concubine Li Ji tried to throne her son but was eventually defeated by Duke Wen of Jin 晉文公|晋文公[Jin4 Wen2 gong1]/",
+    "source_line": 121475,
+    "ukrainian_segments": [
+      "заколот Лі Цзі в 657–651 роках до н. е.: наложниця Лі Цзі намагалася посадити на престол свого сина, але зрештою зазнала поразки від цзінського Вень-гуна 晉文公|晋文公[Jin4 Wen2 gong1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Хронологію й причинний опис заколоту збережено за джерелом; історична точність потребує перевірки."
+    ]
+  },
+  {
+    "id": "7d2e273fb3643d73",
+    "traditional": "左丘明",
+    "simplified": "左丘明",
+    "pinyin": "Zuo3 Qiu1 ming2",
+    "english_segments": [
+      "Zuo Qiuming or Zuoqiu Ming (556-451), famous blind historian from Lu 魯國|鲁国[Lu3 guo2] to whom the history Zuo Zhuan 左傳|左传[Zuo3 Zhuan4] is attributed"
+    ],
+    "raw_source": "左丘明 左丘明 [Zuo3 Qiu1 ming2] /Zuo Qiuming or Zuoqiu Ming (556-451), famous blind historian from Lu 魯國|鲁国[Lu3 guo2] to whom the history Zuo Zhuan 左傳|左传[Zuo3 Zhuan4] is attributed/",
+    "source_line": 36532,
+    "ukrainian_segments": [
+      "Цзо Цюмін, або Цзоцю Мін (556–451 до н. е.), відомий сліпий історик із царства Лу 魯國|鲁国[Lu3 guo2], якому приписують історичний твір «Цзо чжуань» 左傳|左传[Zuo3 Zhuan4]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі біля дат не вказано еру; з історичного контексту мається на увазі до н. е."
+    ]
+  },
+  {
+    "id": "60b34e47ae9c354d",
+    "traditional": "宣德",
+    "simplified": "宣德",
+    "pinyin": "Xuan1 de2",
+    "english_segments": [
+      "Xuande Emperor, reign name of fifth Ming emperor Zhu Zhanji 朱瞻基[Zhu1 Zhan1 ji1] (1398-1435), reigned 1426-1436, temple name 明宣宗[Ming2 Xuan1 zong1]"
+    ],
+    "raw_source": "宣德 宣德 [Xuan1 de2] /Xuande Emperor, reign name of fifth Ming emperor Zhu Zhanji 朱瞻基[Zhu1 Zhan1 ji1] (1398-1435), reigned 1426-1436, temple name 明宣宗[Ming2 Xuan1 zong1]/",
+    "source_line": 32690,
+    "ukrainian_segments": [
+      "Сюаньде, девіз правління п'ятого імператора Мін Чжу Чжаньцзі 朱瞻基[Zhu1 Zhan1 ji1] (1398–1435), правив у 1426–1436 роках, храмове ім'я 明宣宗[Ming2 Xuan1 zong1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дати правління в джерелі не узгоджуються з роком смерті; їх потрібно уточнити."
+    ]
+  },
+  {
+    "id": "414ec61d1bc05ce9",
+    "traditional": "毛遂自薦",
+    "simplified": "毛遂自荐",
+    "pinyin": "Mao2 Sui4 zi4 jian4",
+    "english_segments": [
+      "Mao Sui recommends himself (idiom); to offer one's services (in the style of Mao Sui offering his services to king of Chu 楚 of the Warring states)"
+    ],
+    "raw_source": "毛遂自薦 毛遂自荐 [Mao2 Sui4 zi4 jian4] /Mao Sui recommends himself (idiom); to offer one's services (in the style of Mao Sui offering his services to king of Chu 楚 of the Warring states)/",
+    "source_line": 61750,
+    "ukrainian_segments": [
+      "Мао Суй рекомендує себе (ідіома); добровільно пропонувати свої послуги (як Мао Суй правителю Чу 楚 в період Воюючих царств)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Адресат самовисування в англійському поясненні історично сумнівний."
+    ]
+  },
+  {
+    "id": "7fe63bec370a7cf8",
+    "traditional": "蟠尾絲蟲症",
+    "simplified": "蟠尾丝虫症",
+    "pinyin": "pan2 wei3 si1 chong2 zheng4",
+    "english_segments": [
+      "\"river blindness\" or onchocerciasis, the second most common cause of blindness in humans, caused by the filarial parasite worm Onchocerca volvulus"
+    ],
+    "raw_source": "蟠尾絲蟲症 蟠尾丝虫症 [pan2 wei3 si1 chong2 zheng4] /\"river blindness\" or onchocerciasis, the second most common cause of blindness in humans, caused by the filarial parasite worm Onchocerca volvulus/",
+    "source_line": 97717,
+    "ukrainian_segments": [
+      "онхоцеркоз, або «річкова сліпота», спричинений паразитичним філярійним червом Onchocerca volvulus; у джерелі названий другою за поширеністю причиною сліпоти в людей"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Твердження джерела про друге місце серед причин сліпоти потребує перевірки й, імовірно, має вужчий контекст."
+    ]
+  },
+  {
+    "id": "2b39dabf1804d96e",
+    "traditional": "賴昌星",
+    "simplified": "赖昌星",
+    "pinyin": "Lai4 Chang1 xing1",
+    "english_segments": [
+      "Lai Changxing (1958-), notorious Xiamen mafia boss involved in large scale corruption and smuggling, extradited from Canada back to China in 2008"
+    ],
+    "raw_source": "賴昌星 赖昌星 [Lai4 Chang1 xing1] /Lai Changxing (1958-), notorious Xiamen mafia boss involved in large scale corruption and smuggling, extradited from Canada back to China in 2008/",
+    "source_line": 104064,
+    "ukrainian_segments": [
+      "Лай Чансін (нар. 1958), сумнозвісний ватажок мафії Сяменя, причетний до масштабної корупції й контрабанди; за джерелом, екстрадований із Канади до Китаю 2008 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дата екстрадиції 2008 у джерелі, ймовірно, помилкова; потребує історичної перевірки."
+    ]
+  },
+  {
+    "id": "9f1c36b9d0ca09b8",
+    "traditional": "蟠尾絲蟲",
+    "simplified": "蟠尾丝虫",
+    "pinyin": "pan2 wei3 si1 chong2",
+    "english_segments": [
+      "Onchocerca volvulus, the filarial parasite worm causing \"river blindness\" or onchocerciasis, the second most common cause of blindness in humans"
+    ],
+    "raw_source": "蟠尾絲蟲 蟠尾丝虫 [pan2 wei3 si1 chong2] /Onchocerca volvulus, the filarial parasite worm causing \"river blindness\" or onchocerciasis, the second most common cause of blindness in humans/",
+    "source_line": 97716,
+    "ukrainian_segments": [
+      "Onchocerca volvulus, паразитичний філярійний черв, що спричиняє онхоцеркоз, або «річкову сліпоту», описану в джерелі як другу за поширеністю причину сліпоти в людей"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Твердження джерела про друге місце серед причин сліпоти потребує перевірки й, імовірно, має вужчий контекст."
+    ]
+  },
+  {
+    "id": "4b37ab6b764d2141",
+    "traditional": "函谷關",
+    "simplified": "函谷关",
+    "pinyin": "Han2 gu3 Guan1",
+    "english_segments": [
+      "Hangu Pass in modern day Henan Province, strategic pass forming the eastern gate of the Qin State during the Warring States Period (770-221 BC)"
+    ],
+    "raw_source": "函谷關 函谷关 [Han2 gu3 Guan1] /Hangu Pass in modern day Henan Province, strategic pass forming the eastern gate of the Qin State during the Warring States Period (770-221 BC)/",
+    "source_line": 13373,
+    "ukrainian_segments": [
+      "прохід Ханьґу в сучасній провінції Хенань, стратегічний східний вхід до держави Цінь у період Воюючих царств (770–221 до н. е. за джерелом)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дати 770–221 до н. е. у джерелі не відповідають звичайному датуванню саме періоду Воюючих царств."
+    ]
+  },
+  {
+    "id": "da9c6d8e376425a5",
+    "traditional": "晏嬰",
+    "simplified": "晏婴",
+    "pinyin": "Yan4 Ying1",
+    "english_segments": [
+      "Yan Ying (-c 500 BC), famous statesman from Qi of the Warring States, also known as Yanzi 晏子[Yan4 zi3] , hero of book 晏子春秋[Yan4 zi3 Chun1 qiu1]"
+    ],
+    "raw_source": "晏嬰 晏婴 [Yan4 Ying1] /Yan Ying (-c 500 BC), famous statesman from Qi of the Warring States, also known as Yanzi 晏子[Yan4 zi3] , hero of book 晏子春秋[Yan4 zi3 Chun1 qiu1]/",
+    "source_line": 53603,
+    "ukrainian_segments": [
+      "Янь Їн (помер бл. 500 до н. е.), відомий державний діяч держави Ці, також знаний як Янь-цзи 晏子[Yan4 zi3], герой книжки 晏子春秋[Yan4 zi3 Chun1 qiu1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело помилково відносить діяча до Воюючих царств; він належав до періоду Весен і Осеней."
+    ]
+  },
+  {
+    "id": "293e88b41c713eb6",
+    "traditional": "白求恩",
+    "simplified": "白求恩",
+    "pinyin": "Bai2 Qiu2 en1",
+    "english_segments": [
+      "Norman Bethune (1890-1939), Canadian doctor, worked for communists in Spanish civil war and for Mao in Yan'an, where he died of blood poisoning"
+    ],
+    "raw_source": "白求恩 白求恩 [Bai2 Qiu2 en1] /Norman Bethune (1890-1939), Canadian doctor, worked for communists in Spanish civil war and for Mao in Yan'an, where he died of blood poisoning/",
+    "source_line": 76648,
+    "ukrainian_segments": [
+      "Норман Бетюн (1890–1939), канадський лікар, працював на боці комуністів під час громадянської війни в Іспанії та для Мао в Яньані, де помер від зараження крові"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Географію його смерті в джерелі, імовірно, подано неточно; збережено твердження джерела."
+    ]
+  },
+  {
+    "id": "6ef5b1e4d319ba13",
+    "traditional": "劉備",
+    "simplified": "刘备",
+    "pinyin": "Liu2 Bei4",
+    "english_segments": [
+      "Liu Bei (161-223), warlord at the end of the Han dynasty and founder of the Han kingdom of Shu 蜀漢|蜀汉 (c. 200-263), later the Shu Han dynasty"
+    ],
+    "raw_source": "劉備 刘备 [Liu2 Bei4] /Liu Bei (161-223), warlord at the end of the Han dynasty and founder of the Han kingdom of Shu 蜀漢|蜀汉 (c. 200-263), later the Shu Han dynasty/",
+    "source_line": 14988,
+    "ukrainian_segments": [
+      "Лю Бей (161–223), воєначальник кінця Хань і засновник царства Шу-Хань 蜀漢|蜀汉 (близько 200–263), згодом династії Шу-Хань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Датування заснування царства Шу-Хань у джерелі приблизне й потребує перевірки."
+    ]
+  },
+  {
+    "id": "284b461f3c2c597c",
+    "traditional": "壤塘縣",
+    "simplified": "壤塘县",
+    "pinyin": "Rang3 tang2 Xian4",
+    "english_segments": [
+      "Zamthang, a county in Ngawa Tibetan and Qiang Autonomous Prefecture 阿壩藏族羌族自治州|阿坝藏族羌族自治州[A1 ba4 Zang4 zu2 Qiang1 zu2 Zi4 zhi4 zhou1], Sichuan"
+    ],
+    "raw_source": "壤塘縣 壤塘县 [Rang3 tang2 Xian4] /Zamthang, a county in Ngawa Tibetan and Qiang Autonomous Prefecture 阿壩藏族羌族自治州|阿坝藏族羌族自治州[A1 ba4 Zang4 zu2 Qiang1 zu2 Zi4 zhi4 zhou1], Sichuan/",
+    "source_line": 26889,
+    "ukrainian_segments": [
+      "Дзамтанг, повіт Нгава-Тибетсько-Цянського автономного округу 阿壩藏族羌族自治州|阿坝藏族羌族自治州[A1 ba4 Zang4 zu2 Qiang1 zu2 Zi4 zhi4 zhou1], провінція Сичуань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську усталену форму тибетського топоніма Zamthang не встановлено."
+    ]
+  },
+  {
+    "id": "9fa67b3f6a776314",
+    "traditional": "晏平仲",
+    "simplified": "晏平仲",
+    "pinyin": "Yan4 Ping2 zhong4",
+    "english_segments": [
+      "another name for Yan Ying 晏嬰|晏婴[Yan4 Ying1] or Yanzi 晏子[Yan4 zi3] (-500 BC), famous statesman from Qi of the Warring States 齊國|齐国[Qi2 guo2]"
+    ],
+    "raw_source": "晏平仲 晏平仲 [Yan4 Ping2 zhong4] /another name for Yan Ying 晏嬰|晏婴[Yan4 Ying1] or Yanzi 晏子[Yan4 zi3] (-500 BC), famous statesman from Qi of the Warring States 齊國|齐国[Qi2 guo2]/",
+    "source_line": 53606,
+    "ukrainian_segments": [
+      "інше ім'я Янь Їна 晏嬰|晏婴[Yan4 Ying1], або Янь-цзи 晏子[Yan4 zi3] (помер бл. 500 до н. е.), відомого державного діяча Ці 齊國|齐国[Qi2 guo2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело помилково відносить діяча до Воюючих царств; він належав до періоду Весен і Осеней."
+    ]
+  },
+  {
+    "id": "f7f8ffe18e3edd45",
+    "traditional": "普氏野馬",
+    "simplified": "普氏野马",
+    "pinyin": "Pu3 shi4 ye3 ma3",
+    "english_segments": [
+      "Przevalski horse (Equus przewalskii) wild horse of Central Asia first identified in 1881 by Nikolai Mikhailovich Przevalski 普爾熱瓦爾斯基|普尔热瓦尔斯基"
+    ],
+    "raw_source": "普氏野馬 普氏野马 [Pu3 shi4 ye3 ma3] /Przevalski horse (Equus przewalskii) wild horse of Central Asia first identified in 1881 by Nikolai Mikhailovich Przevalski 普爾熱瓦爾斯基|普尔热瓦尔斯基/",
+    "source_line": 53738,
+    "ukrainian_segments": [
+      "кінь Пржевальського (Equus przewalskii), дикий кінь Центральної Азії, вперше описаний 1881 року Миколою Пржевальським 普爾熱瓦爾斯基|普尔热瓦尔斯基"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Твердження про авторство першого опису подано за джерелом; його слід відрізняти від відкриття та наукового опису виду."
+    ]
+  },
+  {
+    "id": "230236f8293302fd",
+    "traditional": "孫臏",
+    "simplified": "孙膑",
+    "pinyin": "Sun1 Bin4",
+    "english_segments": [
+      "Sun Bin (-316 BC), political strategist of the School of Diplomacy 縱橫家|纵横家[Zong4 heng2 jia1] during the Warring States Period (425-221 BC)"
+    ],
+    "raw_source": "孫臏 孙膑 [Sun1 Bin4] /Sun Bin (-316 BC), political strategist of the School of Diplomacy 縱橫家|纵横家[Zong4 heng2 jia1] during the Warring States Period (425-221 BC)/",
+    "source_line": 31685,
+    "ukrainian_segments": [
+      "Сунь Бінь (пом. 316 до н. е.), політичний стратег школи дипломатів 縱橫家|纵横家[Zong4 heng2 jia1] періоду Воюючих царств (425–221 до н. е.)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело зараховує Сунь Біня до школи дипломатів; традиційно він відомий як військовий стратег, тож атрибуція потребує перевірки."
+    ]
+  },
+  {
+    "id": "ea76f73fa5249aca",
+    "traditional": "如來",
+    "simplified": "如来",
+    "pinyin": "ru2 lai2",
+    "english_segments": [
+      "tathagata (Buddha's name for himself, having many layers of meaning - Sanskrit: thus gone, having been Brahman, gone to the absolute etc)"
+    ],
+    "raw_source": "如來 如来 [ru2 lai2] /tathagata (Buddha's name for himself, having many layers of meaning - Sanskrit: thus gone, having been Brahman, gone to the absolute etc)/",
+    "source_line": 30221,
+    "ukrainian_segments": [
+      "татхагата, самоназва Будди з багатьма тлумаченнями: санскр. «той, хто так пішов», «той, хто був Брахманом», «той, хто досяг абсолюту» тощо"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Перелік санскритських тлумачень у джерелі, особливо згадка Брахмана, потребує перевірки."
+    ]
+  },
+  {
+    "id": "d69058f89910256a",
+    "traditional": "正鑲白旗",
+    "simplified": "正镶白旗",
+    "pinyin": "Zheng4 xiang1 bai2 qi2",
+    "english_segments": [
+      "Plain and Bordered White banner or Shuluun Hövööt Chagaan khoshuu in Xilingol League 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Inner Mongolia"
+    ],
+    "raw_source": "正鑲白旗 正镶白旗 [Zheng4 xiang1 bai2 qi2] /Plain and Bordered White banner or Shuluun Hövööt Chagaan khoshuu in Xilingol League 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Inner Mongolia/",
+    "source_line": 60593,
+    "ukrainian_segments": [
+      "хошун Чженсянбайці, або Шулуун-Хевеет-Цагаан («Чисто-білий та облямований білий прапори»), в аймаку Шилін-Гол 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Внутрішня Монголія"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська форма монгольської назви потребує перевірки."
+    ]
+  },
+  {
+    "id": "a356fadc61851c2d",
+    "traditional": "斯維爾德洛夫",
+    "simplified": "斯维尔德洛夫",
+    "pinyin": "Si1 wei2 er3 de2 luo4 fu1",
+    "english_segments": [
+      "Yakov Mikhailovich Sverdlov (1885-1919), Bolshevik organizer, ordered the murder of the Tsar's family in 1918, died of Spanish influenza"
+    ],
+    "raw_source": "斯維爾德洛夫 斯维尔德洛夫 [Si1 wei2 er3 de2 luo4 fu1] /Yakov Mikhailovich Sverdlov (1885-1919), Bolshevik organizer, ordered the murder of the Tsar's family in 1918, died of Spanish influenza/",
+    "source_line": 51813,
+    "ukrainian_segments": [
+      "Яків Михайлович Свердлов (1885–1919), більшовицький організатор; за джерелом, наказав убити царську родину 1918 року; помер від іспанського грипу"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Твердження про особистий наказ убивства та причину смерті передано як дані джерела; історичні деталі потребують перевірки."
+    ]
+  },
+  {
+    "id": "07e47530fa231f96",
+    "traditional": "燕雀焉知鴻鵠之志",
+    "simplified": "燕雀焉知鸿鹄之志",
+    "pinyin": "yan4 que4 yan1 zhi1 hong2 gu3 zhi1 zhi4",
+    "english_segments": [
+      "lit. can the sparrow and swallow know the will of the great swan? (idiom); fig. how can we small fry predict the ambitions of the great?"
+    ],
+    "raw_source": "燕雀焉知鴻鵠之志 燕雀焉知鸿鹄之志 [yan4 que4 yan1 zhi1 hong2 gu3 zhi1 zhi4] /lit. can the sparrow and swallow know the will of the great swan? (idiom); fig. how can we small fry predict the ambitions of the great?/",
+    "source_line": 71070,
+    "ukrainian_segments": [
+      "букв. чи можуть горобець і ластівка знати прагнення великого лебедя? (ідіома); перен. звідки нам, дрібноті, знати задуми великих?"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі для 鵠 подано читання gu3; його розбіжність зі звичним читанням hu2 у цьому вислові потребує перевірки."
+    ]
+  },
+  {
+    "id": "a95a8142be6a1832",
+    "traditional": "射鵰英雄傳",
+    "simplified": "射雕英雄传",
+    "pinyin": "She4 Diao1 Ying1 xiong2 Zhuan4",
+    "english_segments": [
+      "Legend of the Condor Heroes, wuxia (武俠|武侠[wu3 xia2], martial arts chivalry) novel by Jin Yong 金庸[Jin1 Yong1] and its screen adaptations"
+    ],
+    "raw_source": "射鵰英雄傳 射雕英雄传 [She4 Diao1 Ying1 xiong2 Zhuan4] /Legend of the Condor Heroes, wuxia (武俠|武侠[wu3 xia2], martial arts chivalry) novel by Jin Yong 金庸[Jin1 Yong1] and its screen adaptations/",
+    "source_line": 33946,
+    "ukrainian_segments": [
+      "«Легенда про героїв-кондорів», роман Цзінь Юна 金庸[Jin1 Yong1] у жанрі уся (武俠|武侠[wu3 xia2], лицарські бойові пригоди) та його екранізації"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська назва твору потребує перевірки; наведено переклад англійської назви."
+    ]
+  },
+  {
+    "id": "991bb954e1cf6ee2",
+    "traditional": "峰火臺",
+    "simplified": "峰火台",
+    "pinyin": "feng1 huo3 tai2",
+    "english_segments": [
+      "fire beacon tower (used in frontier regions in former times to relay information about the enemy, using smoke by day and fire at night)"
+    ],
+    "raw_source": "峰火臺 峰火台 [feng1 huo3 tai2] /fire beacon tower (used in frontier regions in former times to relay information about the enemy, using smoke by day and fire at night)/",
+    "source_line": 36004,
+    "ukrainian_segments": [
+      "сигнальна вежа (у давнину передавала звістки про ворога на прикордонні: димом удень і вогнем уночі)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Написання 峰火臺, імовірно, варіант або помилка замість 烽火臺."
+    ]
+  },
+  {
+    "id": "c688d0aa648f204c",
+    "traditional": "雚菌",
+    "simplified": "雚菌",
+    "pinyin": "huan2 jun1",
+    "english_segments": [
+      "a type of poisonous fungus that grows on reeds, used in Chinese medicine to help cure patients suffering from ascaris (parasitic worms)"
+    ],
+    "raw_source": "雚菌 雚菌 [huan2 jun1] /a type of poisonous fungus that grows on reeds, used in Chinese medicine to help cure patients suffering from ascaris (parasitic worms)/",
+    "source_line": 116342,
+    "ukrainian_segments": [
+      "отруйний гриб, що росте на очереті й застосовується в китайській медицині проти аскарид"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Вид гриба в джерелі не визначено; згадку про медичне використання відтворено як лексичне пояснення."
+    ]
+  },
+  {
+    "id": "32e76ceaa598aca1",
+    "traditional": "黃花崗起義",
+    "simplified": "黄花岗起义",
+    "pinyin": "Huang2 hua1 gang3 qi3 yi4",
+    "english_segments": [
+      "Huanghuagang uprising of 23rd April 1911 in Guangzhou, one a long series of unsuccessful uprisings of Sun Yat-sen's revolutionary party"
+    ],
+    "raw_source": "黃花崗起義 黄花岗起义 [Huang2 hua1 gang3 qi3 yi4] /Huanghuagang uprising of 23rd April 1911 in Guangzhou, one a long series of unsuccessful uprisings of Sun Yat-sen's revolutionary party/",
+    "source_line": 124020,
+    "ukrainian_segments": [
+      "Хуанхуаганське повстання 23 квітня 1911 року в Гуанчжоу, одне з численних невдалих повстань революційної партії Сунь Ятсена"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дата повстання 23 квітня відтворена за джерелом; поширене датування 27 квітня потребує звірки."
+    ]
+  },
+  {
+    "id": "c26d2a5ca44e5688",
+    "traditional": "夢溪筆談",
+    "simplified": "梦溪笔谈",
+    "pinyin": "Meng4 Xi1 Bi3 tan2",
+    "english_segments": [
+      "Dream Pool Essays by Shen Kuo 沈括[Shen3 Kuo4], book on various fields of knowledge, the first to describe the magnetic needle compass"
+    ],
+    "raw_source": "夢溪筆談 梦溪笔谈 [Meng4 Xi1 Bi3 tan2] /Dream Pool Essays by Shen Kuo 沈括[Shen3 Kuo4], book on various fields of knowledge, the first to describe the magnetic needle compass/",
+    "source_line": 27653,
+    "ukrainian_segments": [
+      "«Записки біля ставка снів» Шень Ко 沈括[Shen3 Kuo4], книга з різних галузей знань, яка першою описала компас із магнітною стрілкою"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську назву твору передано описово; усталену видавничу назву не встановлено."
+    ]
+  },
+  {
+    "id": "a8f07e4a419ec460",
+    "traditional": "白鶴梁",
+    "simplified": "白鹤梁",
+    "pinyin": "Bai2 he4 liang2",
+    "english_segments": [
+      "White Crane Ridge at Fuling, Sichuan on the Changjiang River, that used to show above the water at dry periods, with famous carvings"
+    ],
+    "raw_source": "白鶴梁 白鹤梁 [Bai2 he4 liang2] /White Crane Ridge at Fuling, Sichuan on the Changjiang River, that used to show above the water at dry periods, with famous carvings/",
+    "source_line": 76953,
+    "ukrainian_segments": [
+      "Байхелян, або «Хребет Білого Журавля», скеляста гряда зі знаменитими різьбленими написами на Янцзи біля Фуліна в Сичуані, що раніше виступала над водою в посушливі періоди"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Адміністративну прив'язку до Сичуаню подано за джерелом; Фулін нині належить Чунціну."
+    ]
+  },
+  {
+    "id": "7b0ff5c7da084c9b",
+    "traditional": "林森",
+    "simplified": "林森",
+    "pinyin": "Lin2 Sen1",
+    "english_segments": [
+      "Lin Sen (1868-1943), revolutionary politician, colleague of Sun Yat-sen, chairman of the Chinese nationalist government (1928-1932)"
+    ],
+    "raw_source": "林森 林森 [Lin2 Sen1] /Lin Sen (1868-1943), revolutionary politician, colleague of Sun Yat-sen, chairman of the Chinese nationalist government (1928-1932)/",
+    "source_line": 56753,
+    "ukrainian_segments": [
+      "Лінь Сень (1868–1943), революційний політик, соратник Сунь Ятсена, голова націоналістичного уряду Китаю (1928–1932)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Роки головування в джерелі потребують перевірки."
+    ]
+  },
+  {
+    "id": "e57010965f7f2604",
+    "traditional": "西康",
+    "simplified": "西康",
+    "pinyin": "Xi1 kang1",
+    "english_segments": [
+      "historic province of Tibet in Kham region and west Sichuan, a province of Republic of China 1928-49 with capital Ya'an 雅安[Ya3 an1]"
+    ],
+    "raw_source": "西康 西康 [Xi1 kang1] /historic province of Tibet in Kham region and west Sichuan, a province of Republic of China 1928-49 with capital Ya'an 雅安[Ya3 an1]/",
+    "source_line": 99505,
+    "ukrainian_segments": [
+      "Сікан, історична провінція в тибетському регіоні Кхам і західному Сичуані; провінція Китайської Республіки у 1928–1949 роках зі столицею в Яані 雅安[Ya3 an1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дати існування та столицю провінції наведено за джерелом; історична періодизація потребує перевірки."
+    ]
+  },
+  {
+    "id": "b23c65d6d62a4cca",
+    "traditional": "護法戰爭",
+    "simplified": "护法战争",
+    "pinyin": "hu4 fa3 zhan4 zheng1",
+    "english_segments": [
+      "National protection war or Campaign to defend the republic (1915), a rebellion against the installation of Yuan Shikai as emperor"
+    ],
+    "raw_source": "護法戰爭 护法战争 [hu4 fa3 zhan4 zheng1] /National protection war or Campaign to defend the republic (1915), a rebellion against the installation of Yuan Shikai as emperor/",
+    "source_line": 102406,
+    "ukrainian_segments": [
+      "Війна за захист конституції (у джерелі ототожнена з війною 1915 року проти проголошення Юань Шикая імператором)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайська назва означає війну за захист конституції 1917–1922 років; англійське джерело плутає її з війною за захист республіки 1915–1916 років."
+    ]
+  },
+  {
+    "id": "17d7e36c7636b046",
+    "traditional": "青瓦臺",
+    "simplified": "青瓦台",
+    "pinyin": "Qing1 wa3 tai2",
+    "english_segments": [
+      "the Blue House (or Cheong Wa Dae), formerly the residence of the president of South Korea in Seoul (1948–2022), now a public park"
+    ],
+    "raw_source": "青瓦臺 青瓦台 [Qing1 wa3 tai2] /the Blue House (or Cheong Wa Dae), formerly the residence of the president of South Korea in Seoul (1948–2022), now a public park/",
+    "source_line": 117751,
+    "ukrainian_segments": [
+      "Блакитний дім (Чхонваде), колишня резиденція президента Південної Кореї в Сеулі (1948–2022), за джерелом нині громадський парк"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Відомості про нинішнє використання резиденції залежать від дати джерела й не перевірялися."
+    ]
+  },
+  {
+    "id": "ef65b39c45001500",
+    "traditional": "凍容",
+    "simplified": "冻容",
+    "pinyin": "dong4 rong2",
+    "english_segments": [
+      "\"youth freezing\", Chinese girls beginning anti-ageing treatments as young as two years old in the hope they will never look old"
+    ],
+    "raw_source": "凍容 冻容 [dong4 rong2] /\"youth freezing\", Chinese girls beginning anti-ageing treatments as young as two years old in the hope they will never look old/",
+    "source_line": 12908,
+    "ukrainian_segments": [
+      "«заморожування молодості»: початок китайськими дівчатками омолоджувальних процедур уже з дворічного віку в надії ніколи не виглядати старими"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Твердження про початок процедур із дворічного віку відтворено як опис у джерелі; достовірність і поширеність цієї практики не перевірено."
+    ]
+  },
+  {
+    "id": "77333ea700155e1e",
+    "traditional": "好學近乎知，力行近乎仁，知恥近乎勇",
+    "simplified": "好学近乎知，力行近乎仁，知耻近乎勇",
+    "pinyin": "hao4 xue2 jin4 hu1 zhi1 , li4 xing2 jin4 hu1 ren2 , zhi1 chi3 jin4 hu1 yong3",
+    "english_segments": [
+      "to love learning is akin to knowledge, to study diligently is akin to benevolence, to know shame is akin to courage (Confucius)"
+    ],
+    "raw_source": "好學近乎知，力行近乎仁，知恥近乎勇 好学近乎知，力行近乎仁，知耻近乎勇 [hao4 xue2 jin4 hu1 zhi1 , li4 xing2 jin4 hu1 ren2 , zhi1 chi3 jin4 hu1 yong3] /to love learning is akin to knowledge, to study diligently is akin to benevolence, to know shame is akin to courage (Confucius)/",
+    "source_line": 30122,
+    "ukrainian_segments": [
+      "любов до навчання близька до знання, старанна діяльність — до людяності, відчуття сорому — до мужності (Конфуцій)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «to study diligently» неточно передає 力行, яке означає старанно діяти."
+    ]
+  },
+  {
+    "id": "dbd6e492f64e2f7b",
+    "traditional": "浮生六記",
+    "simplified": "浮生六记",
+    "pinyin": "Fu2 Sheng1 Liu4 Ji4",
+    "english_segments": [
+      "Six Records of a Floating Life, autobiographical novel and description of Qing dynasty life by 沈復|沈复[Shen3 Fu4], published 1808"
+    ],
+    "raw_source": "浮生六記 浮生六记 [Fu2 Sheng1 Liu4 Ji4] /Six Records of a Floating Life, autobiographical novel and description of Qing dynasty life by 沈復|沈复[Shen3 Fu4], published 1808/",
+    "source_line": 65236,
+    "ukrainian_segments": [
+      "«Шість записів про швидкоплинне життя», автобіографічний роман і опис життя доби Цін автора 沈復|沈复[Shen3 Fu4], за джерелом виданий 1808 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерельну дату публікації 1808 року слід перевірити: вона може стосуватися написання твору."
+    ]
+  },
+  {
+    "id": "2bb9e8bb14882329",
+    "traditional": "趙樂際",
+    "simplified": "赵乐际",
+    "pinyin": "Zhao4 Le4 ji4",
+    "english_segments": [
+      "Zhao Leji (1957-), member of the Politburo Standing Committee and Secretary of the Central Commission for Discipline Inspection"
+    ],
+    "raw_source": "趙樂際 赵乐际 [Zhao4 Le4 ji4] /Zhao Leji (1957-), member of the Politburo Standing Committee and Secretary of the Central Commission for Discipline Inspection/",
+    "source_line": 104880,
+    "ukrainian_segments": [
+      "Чжао Лецзі (нар. 1957), член Постійного комітету Політбюро та секретар Центральної комісії з перевірки дисципліни"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Посади наведено за джерелом; вони можуть стосуватися минулого періоду."
+    ]
+  },
+  {
+    "id": "b597e0e1ded4f831",
+    "traditional": "抗日救亡運動",
+    "simplified": "抗日救亡运动",
+    "pinyin": "Kang4 Ri4 Jiu4 wang2 Yun4 dong4",
+    "english_segments": [
+      "the Save the Nation Anti-Japanese Protest Movement stemming from the Manchurian railway incident of 18th July 1931 九一八事變|九一八事变"
+    ],
+    "raw_source": "抗日救亡運動 抗日救亡运动 [Kang4 Ri4 Jiu4 wang2 Yun4 dong4] /the Save the Nation Anti-Japanese Protest Movement stemming from the Manchurian railway incident of 18th July 1931 九一八事變|九一八事变/",
+    "source_line": 45644,
+    "ukrainian_segments": [
+      "Рух антияпонського опору за порятунок нації, що виник після Маньчжурського інциденту на залізниці 18 вересня 1931 року 九一八事變|九一八事变"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі помилково зазначено 18 липня; 九一八 позначає інцидент 18 вересня 1931 року."
+    ]
+  },
+  {
+    "id": "3b6e9c3aa9856ec5",
+    "traditional": "溥儀",
+    "simplified": "溥仪",
+    "pinyin": "Pu3 yi2",
+    "english_segments": [
+      "Puyi, personal name of the last Qing emperor (reigned as child 1909-1911), the subject of Bertolucci's biopic The Last Emperor"
+    ],
+    "raw_source": "溥儀 溥仪 [Pu3 yi2] /Puyi, personal name of the last Qing emperor (reigned as child 1909-1911), the subject of Bertolucci's biopic The Last Emperor/",
+    "source_line": 67227,
+    "ukrainian_segments": [
+      "Пу Ї, особисте ім'я останнього імператора Цін (за джерелом, правив дитиною у 1909–1911), герой біографічного фільму Бертолуччі «Останній імператор»"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дати правління 1909–1911 у джерелі потребують історичного уточнення."
+    ]
+  },
+  {
+    "id": "7e4f126d145d73d3",
+    "traditional": "老驥伏櫪，志在千里",
+    "simplified": "老骥伏枥，志在千里",
+    "pinyin": "lao3 ji4 fu2 li4 , zhi4 zai4 qian1 li3",
+    "english_segments": [
+      "lit. an old steed in the stable still aspires to gallop 1000 miles (idiom); fig. old people may still cherish high aspirations"
+    ],
+    "raw_source": "老驥伏櫪，志在千里 老骥伏枥，志在千里 [lao3 ji4 fu2 li4 , zhi4 zai4 qian1 li3] /lit. an old steed in the stable still aspires to gallop 1000 miles (idiom); fig. old people may still cherish high aspirations/",
+    "source_line": 88847,
+    "ukrainian_segments": [
+      "букв. старий кінь у стайні й далі прагне промчати тисячу лі (ідіома); перен. літні люди також можуть плекати високі прагнення"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело передає 千里 як «1000 miles»; у китайському тексті вжито одиницю лі."
+    ]
+  },
+  {
+    "id": "a88d930a7b7a6220",
+    "traditional": "臨魁",
+    "simplified": "临魁",
+    "pinyin": "Lin2 kui2",
+    "english_segments": [
+      "Linkui (c. 2000 BC), second of the legendary Flame Emperors 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God"
+    ],
+    "raw_source": "臨魁 临魁 [Lin2 kui2] /Linkui (c. 2000 BC), second of the legendary Flame Emperors 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God/",
+    "source_line": 91730,
+    "ukrainian_segments": [
+      "Лінькуй (близько 2000 р. до н. е.), другий із легендарних Полум’яних імператорів 炎帝[Yan2 di4], нащадків бога землеробства Шеньнуна 神農|神农[Shen2 nong2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Легендарне датування та порядок правителів наведено за джерелом і не є встановленою історичною хронологією."
+    ]
+  },
+  {
+    "id": "8f51f032ef28dcd0",
+    "traditional": "工業七國集團",
+    "simplified": "工业七国集团",
+    "pinyin": "Gong1 ye4 Qi1 guo2 Ji2 tuan2",
+    "english_segments": [
+      "G7, the group of 7 industrialized countries: US, Japan, Britain, Germany, France, Italy and Canada (now G8, including Russia)"
+    ],
+    "raw_source": "工業七國集團 工业七国集团 [Gong1 ye4 Qi1 guo2 Ji2 tuan2] /G7, the group of 7 industrialized countries: US, Japan, Britain, Germany, France, Italy and Canada (now G8, including Russia)/",
+    "source_line": 36468,
+    "ukrainian_segments": [
+      "G7, група семи промислово розвинених країн: США, Японія, Велика Британія, Німеччина, Франція, Італія та Канада (у джерелі: «нині G8, включно з Росією»)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Примітка джерела про «нині G8» застаріла; її збережено як цитований історичний стан джерела."
+    ]
+  },
+  {
+    "id": "c364b9365dbb21ca",
+    "traditional": "紀昀",
+    "simplified": "纪昀",
+    "pinyin": "Ji4 Yun2",
+    "english_segments": [
+      "Ji Yun (1724-1805), Qing Dynasty writer, author of supernatural novel Notes on a Minutely Observed Thatched Hut 閱微草堂筆記|阅微草堂笔记"
+    ],
+    "raw_source": "紀昀 纪昀 [Ji4 Yun2] /Ji Yun (1724-1805), Qing Dynasty writer, author of supernatural novel Notes on a Minutely Observed Thatched Hut 閱微草堂筆記|阅微草堂笔记/",
+    "source_line": 84524,
+    "ukrainian_segments": [
+      "Цзі Юнь (1724–1805), письменник династії Цін, автор оповідань про надприродне «Нотатки з хатини споглядання малого» 閱微草堂筆記|阅微草堂笔记"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську назву твору подано описовим перекладом."
+    ]
+  },
+  {
+    "id": "247259e82617b816",
+    "traditional": "薄瑞光",
+    "simplified": "薄瑞光",
+    "pinyin": "Bo2 Rui4 guang1",
+    "english_segments": [
+      "Raymond Burghard (1945-), US diplomat and ambassador to Vietnam 2001-2004, chairman of American Institute in Taiwan from 2006"
+    ],
+    "raw_source": "薄瑞光 薄瑞光 [Bo2 Rui4 guang1] /Raymond Burghard (1945-), US diplomat and ambassador to Vietnam 2001-2004, chairman of American Institute in Taiwan from 2006/",
+    "source_line": 96008,
+    "ukrainian_segments": [
+      "Реймонд Бургардт (1945 р. н.), американський дипломат, посол у В'єтнамі у 2001–2004 роках, голова Американського інституту на Тайвані від 2006 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Біографічну посаду наведено за джерелом; її актуальність не перевірено."
+    ]
+  },
+  {
+    "id": "504a72d4000f0902",
+    "traditional": "靖國神社",
+    "simplified": "靖国神社",
+    "pinyin": "Jing4 guo2 Shen2 she4",
+    "english_segments": [
+      "Yasukuni Shrine, Shinto shrine in Tokyo to Japanese war dead, controversial as burial ground of several Class A war criminals"
+    ],
+    "raw_source": "靖國神社 靖国神社 [Jing4 guo2 Shen2 she4] /Yasukuni Shrine, Shinto shrine in Tokyo to Japanese war dead, controversial as burial ground of several Class A war criminals/",
+    "source_line": 117843,
+    "ukrainian_segments": [
+      "святилище Ясукуні в Токіо, синтоїстський храм пам’яті загиблих японських військових, суперечливий через ушанування кількох воєнних злочинців класу A"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає храм місцем поховання; точніше йдеться про релігійне вшанування, не фізичне поховання."
+    ]
+  },
+  {
+    "id": "cde5179231fe3c83",
+    "traditional": "李顯龍",
+    "simplified": "李显龙",
+    "pinyin": "Li3 Xian3 long2",
+    "english_segments": [
+      "Lee Hsien Loong (1952-), Singapore PAP politician, eldest son of Lee Kuan Yew 李光耀[Li3 Guang1 yao4], prime minister from 2004"
+    ],
+    "raw_source": "李顯龍 李显龙 [Li3 Xian3 long2] /Lee Hsien Loong (1952-), Singapore PAP politician, eldest son of Lee Kuan Yew 李光耀[Li3 Guang1 yao4], prime minister from 2004/",
+    "source_line": 56082,
+    "ukrainian_segments": [
+      "Лі Сяньлун (нар. 1952), сінгапурський політик Партії народної дії, старший син Лі Куан Ю 李光耀[Li3 Guang1 yao4], прем'єр-міністр від 2004 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не зазначає завершення прем'єрства; часовий опис може бути застарілим."
+    ]
+  },
+  {
+    "id": "56e444534985c892",
+    "traditional": "汨羅江",
+    "simplified": "汨罗江",
+    "pinyin": "Mi4 luo2 Jiang1",
+    "english_segments": [
+      "Miluo River in Hunan province, tributary of the Xiang River 湘江[Xiang1 Jiang1], flows into Dongting Lake 洞庭湖[Dong4 ting2 Hu2]"
+    ],
+    "raw_source": "汨羅江 汨罗江 [Mi4 luo2 Jiang1] /Miluo River in Hunan province, tributary of the Xiang River 湘江[Xiang1 Jiang1], flows into Dongting Lake 洞庭湖[Dong4 ting2 Hu2]/",
+    "source_line": 62970,
+    "ukrainian_segments": [
+      "річка Міло в провінції Хунань, притока Сянцзян 湘江[Xiang1 Jiang1], що впадає в озеро Дунтін 洞庭湖[Dong4 ting2 Hu2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Опис водної системи в джерелі потребує перевірки: Міло зазвичай описують як річку, що впадає безпосередньо в озеро Дунтін."
+    ]
+  },
+  {
+    "id": "155d0306c831c49e",
+    "traditional": "晏子春秋",
+    "simplified": "晏子春秋",
+    "pinyin": "Yan4 zi3 Chun1 qiu1",
+    "english_segments": [
+      "Tales of Yanzi, book describing the life and wisdom of Yanzi 晏子 (-c 500 BC), famous statesman from Qi of the Warring States"
+    ],
+    "raw_source": "晏子春秋 晏子春秋 [Yan4 zi3 Chun1 qiu1] /Tales of Yanzi, book describing the life and wisdom of Yanzi 晏子 (-c 500 BC), famous statesman from Qi of the Warring States/",
+    "source_line": 53605,
+    "ukrainian_segments": [
+      "«Оповіді про Янь-цзи», книжка про життя й мудрість Янь-цзи 晏子 (помер бл. 500 до н. е.), відомого державного діяча Ці"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело помилково відносить Янь-цзи до Воюючих царств; він належав до періоду Весен і Осеней."
+    ]
+  },
+  {
+    "id": "a38e92fb7c0caeb3",
+    "traditional": "林鄭",
+    "simplified": "林郑",
+    "pinyin": "Lin2 Zheng4",
+    "english_segments": [
+      "Carrie Lam (1957-), chief executive of Hong Kong 2017-, full name 林鄭月娥|林郑月娥[Lin2 Zheng4 Yue4 e2] Carrie Lam Cheng Yuet-ngor"
+    ],
+    "raw_source": "林鄭 林郑 [Lin2 Zheng4] /Carrie Lam (1957-), chief executive of Hong Kong 2017-, full name 林鄭月娥|林郑月娥[Lin2 Zheng4 Yue4 e2] Carrie Lam Cheng Yuet-ngor/",
+    "source_line": 56779,
+    "ukrainian_segments": [
+      "Керрі Лам (нар. 1957), голова адміністрації Гонконгу від 2017 року; повне ім'я 林鄭月娥|林郑月娥[Lin2 Zheng4 Yue4 e2], Керрі Лам Чен Юет-Нґор"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Часовий опис у джерелі незавершений і може бути застарілим."
+    ]
+  },
+  {
+    "id": "5f8f49f69da7df9a",
+    "traditional": "白香詞譜",
+    "simplified": "白香词谱",
+    "pinyin": "Bai2 xiang1 ci2 pu3",
+    "english_segments": [
+      "Anthology of ci poems tunes (1795), edited by Xu Menglan 舒夢蘭|舒梦兰, with 100 accessible poems from Tang through to Qing times"
+    ],
+    "raw_source": "白香詞譜 白香词谱 [Bai2 xiang1 ci2 pu3] /Anthology of ci poems tunes (1795), edited by Xu Menglan 舒夢蘭|舒梦兰, with 100 accessible poems from Tang through to Qing times/",
+    "source_line": 76928,
+    "ukrainian_segments": [
+      "«Байсян ципу», антологія мелодій і віршових форм ци (1795), укладена Шу Менланем 舒夢蘭|舒梦兰, зі 100 доступними віршами від доби Тан до Цін"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі романізація імені редактора «Xu» не відповідає ієрогліфу 舒; передано як Шу."
+    ]
+  },
+  {
+    "id": "6544ded0c7fb20a6",
+    "traditional": "闖王陵",
+    "simplified": "闯王陵",
+    "pinyin": "Chuang3 Wang2 ling2",
+    "english_segments": [
+      "mausoleum to the late-Ming peasant rebel leader Li Zicheng 李自成[Li3 Ze4 cheng2], nicknamed Dashing King 闖王|闯王[Chuang3 Wang2]"
+    ],
+    "raw_source": "闖王陵 闯王陵 [Chuang3 Wang2 ling2] /mausoleum to the late-Ming peasant rebel leader Li Zicheng 李自成[Li3 Ze4 cheng2], nicknamed Dashing King 闖王|闯王[Chuang3 Wang2]/",
+    "source_line": 114149,
+    "ukrainian_segments": [
+      "мавзолей вождя селянського повстання кінця доби Мін Лі Цзичена 李自成[Li3 Ze4 cheng2], прозваного Відчайдушним князем 闖王|闯王[Chuang3 Wang2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі для Лі Цзичена наведено pinyin [Li3 Ze4 cheng2]; його збережено без змін."
+    ]
+  },
+  {
+    "id": "ce6744040e14edbc",
+    "traditional": "毛遂",
+    "simplified": "毛遂",
+    "pinyin": "Mao2 Sui4",
+    "english_segments": [
+      "Mao Sui (third century BC), who proverbially offered his services to the King of Chu 楚, see 毛遂自薦|毛遂自荐[Mao2 Sui4 zi4 jian4]"
+    ],
+    "raw_source": "毛遂 毛遂 [Mao2 Sui4] /Mao Sui (third century BC), who proverbially offered his services to the King of Chu 楚, see 毛遂自薦|毛遂自荐[Mao2 Sui4 zi4 jian4]/",
+    "source_line": 61749,
+    "ukrainian_segments": [
+      "Мао Суй (III ст. до н. е.), який, за відомою історією, запропонував свої послуги правителю Чу 楚; див. 毛遂自薦|毛遂自荐[Mao2 Sui4 zi4 jian4]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Історична оповідь зазвичай пов'язує самовисування Мао Суя з князем Пін'юанем; адресат у джерелі може бути неточним."
+    ]
+  },
+  {
+    "id": "9cc10b3f92ab4620",
+    "traditional": "常德絲弦",
+    "simplified": "常德丝弦",
+    "pinyin": "Chang2 de2 si1 xian2",
+    "english_segments": [
+      "Changde sixian, theatrical folk music style with singing in Changde dialect accompanied by traditional string instruments"
+    ],
+    "raw_source": "常德絲弦 常德丝弦 [Chang2 de2 si1 xian2] /Changde sixian, theatrical folk music style with singing in Changde dialect accompanied by traditional string instruments/",
+    "source_line": 37527,
+    "ukrainian_segments": [
+      "чандеський сисянь, театралізований народний музичний жанр зі співом на діалекті Чанде під акомпанемент традиційних струнних інструментів"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 1,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталене українське передавання назви жанру не встановлено; подано транскрипцію китайського sixian."
+    ]
+  },
+  {
+    "id": "59f806308d178616",
+    "traditional": "諾矩羅",
+    "simplified": "诺矩罗",
+    "pinyin": "Nuo4 ju3 luo2",
+    "english_segments": [
+      "Nuojuluo, monk at start of Tang dynasty, possibly originally immigrant, lived in Qingshen county 青神[Qing1 shen2], Sichuan"
+    ],
+    "raw_source": "諾矩羅 诺矩罗 [Nuo4 ju3 luo2] /Nuojuluo, monk at start of Tang dynasty, possibly originally immigrant, lived in Qingshen county 青神[Qing1 shen2], Sichuan/",
+    "source_line": 101950,
+    "ukrainian_segments": [
+      "Ноцзюйло, монах початку доби Тан, можливо, переселенець, який жив у повіті Ціншень 青神[Qing1 shen2], Сичуань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська передача імені 諾矩羅 не встановлена; використано транскрипцію за піньїнем."
+    ]
+  },
+  {
+    "id": "50bacc90cd510c29",
+    "traditional": "夏敬渠",
+    "simplified": "夏敬渠",
+    "pinyin": "Xia4 Jing4 qu2",
+    "english_segments": [
+      "Xia Jingqu (1705-1787), Qing novelist, author of monumental novel 野叟曝言[Ye3 sou3 Pu4 yan2] Humble Words of a Rustic Elder"
+    ],
+    "raw_source": "夏敬渠 夏敬渠 [Xia4 Jing4 qu2] /Xia Jingqu (1705-1787), Qing novelist, author of monumental novel 野叟曝言[Ye3 sou3 Pu4 yan2] Humble Words of a Rustic Elder/",
+    "source_line": 27019,
+    "ukrainian_segments": [
+      "Ся Цзінцюй (1705–1787), романіст доби Цін, автор монументального роману 野叟曝言[Ye3 sou3 Pu4 yan2] «Відверті слова сільського старця»"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву роману передано описово; усталений український переклад не встановлено."
+    ]
+  },
+  {
+    "id": "0290f7d4274cef4a",
+    "traditional": "普陀山",
+    "simplified": "普陀山",
+    "pinyin": "Pu3 tuo2 shan1",
+    "english_segments": [
+      "Mt Potala at Zhoushan 舟山市 in Zhejiang, one of the Four Sacred Mountains and Bodhimanda of Guanyin 觀音|观音 (Avalokiteśvara)"
+    ],
+    "raw_source": "普陀山 普陀山 [Pu3 tuo2 shan1] /Mt Potala at Zhoushan 舟山市 in Zhejiang, one of the Four Sacred Mountains and Bodhimanda of Guanyin 觀音|观音 (Avalokiteśvara)/",
+    "source_line": 53818,
+    "ukrainian_segments": [
+      "гора Путо в місті Чжоушань 舟山市, провінція Чжецзян; одна з Чотирьох священних буддійських гір, місце духовної практики Ґуаньїнь 觀音|观音 (Авалокітешвари)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське джерело називає гору Potala; китайський топонім — Путошань."
+    ]
+  },
+  {
+    "id": "8acb82af68e9bb3f",
+    "traditional": "福壽螺",
+    "simplified": "福寿螺",
+    "pinyin": "fu2 shou4 luo2",
+    "english_segments": [
+      "giant Amazon snail (Ampullaria gigas spix) that has devastated rice paddies in China since its introduction in the 1980s"
+    ],
+    "raw_source": "福壽螺 福寿螺 [fu2 shou4 luo2] /giant Amazon snail (Ampullaria gigas spix) that has devastated rice paddies in China since its introduction in the 1980s/",
+    "source_line": 80918,
+    "ukrainian_segments": [
+      "гігантський амазонський равлик (Ampullaria gigas spix), який спустошує рисові поля Китаю після завезення у 1980-х роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Наукова назва в джерелі застаріла або неточна; точне видове ототожнення потребує перевірки."
+    ]
+  },
+  {
+    "id": "9ba5dc1b5db1e0ca",
+    "traditional": "衛奕信",
+    "simplified": "卫奕信",
+    "pinyin": "Wei4 yi4 xin4",
+    "english_segments": [
+      "David Clive Wilson, Baron Wilson of Tillyorn (1935-), British diplomat and China expert, Governor of Hong Kong 1986-1992"
+    ],
+    "raw_source": "衛奕信 卫奕信 [Wei4 yi4 xin4] /David Clive Wilson, Baron Wilson of Tillyorn (1935-), British diplomat and China expert, Governor of Hong Kong 1986-1992/",
+    "source_line": 98342,
+    "ukrainian_segments": [
+      "Девід Клайв Вілсон, барон Вілсон Тілліорнський (нар. 1935), британський дипломат і китаєзнавець, губернатор Гонконгу у 1986–1992 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дати губернаторства наведено за джерелом; початковий рік 1986 потребує перевірки."
+    ]
+  },
+  {
+    "id": "4f21fdd6b86eb1d8",
+    "traditional": "鐵托",
+    "simplified": "铁托",
+    "pinyin": "Tie3 tuo1",
+    "english_segments": [
+      "Marshal Josip Broz Tito (1892-1980), Yugoslav military and communist political leader, president of Yugoslavia 1945-1980"
+    ],
+    "raw_source": "鐵托 铁托 [Tie3 tuo1] /Marshal Josip Broz Tito (1892-1980), Yugoslav military and communist political leader, president of Yugoslavia 1945-1980/",
+    "source_line": 112808,
+    "ukrainian_segments": [
+      "маршал Йосип Броз Тіто (1892–1980), югославський військовий і комуністичний політичний діяч, президент Югославії (за джерелом: 1945–1980)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі президентство Тіто датовано 1945–1980; формально президентом він був із 1953 року."
+    ]
+  },
+  {
+    "id": "c6c3e35f65b22c0d",
+    "traditional": "雙子葉",
+    "simplified": "双子叶",
+    "pinyin": "shuang1 zi3 ye4",
+    "english_segments": [
+      "dicotyledon (plant family distinguished by two embryonic leaves, includes daisies, broadleaved trees, herbaceous plants)"
+    ],
+    "raw_source": "雙子葉 双子叶 [shuang1 zi3 ye4] /dicotyledon (plant family distinguished by two embryonic leaves, includes daisies, broadleaved trees, herbaceous plants)/",
+    "source_line": 116176,
+    "ukrainian_segments": [
+      "дводольні (рослини з двома зародковими листками, зокрема маргаритки, широколисті дерева, трав'янисті рослини)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі дводольні помилково названо родиною; переклад використовує нейтральне «рослини»."
+    ]
+  },
+  {
+    "id": "b348f5d845411061",
+    "traditional": "佛媛",
+    "simplified": "佛媛",
+    "pinyin": "fo2 yuan2",
+    "english_segments": [
+      "Buddhist griftress (female Internet influencer who exploits Buddhist imagery for self-promotion or commercial purposes)"
+    ],
+    "raw_source": "佛媛 佛媛 [fo2 yuan2] /Buddhist griftress (female Internet influencer who exploits Buddhist imagery for self-promotion or commercial purposes)/",
+    "source_line": 7374,
+    "ukrainian_segments": [
+      "буддійська шахрайка-контентмейкерка (інтернет-інфлюенсерка, яка використовує буддійські образи для самореклами чи комерційної вигоди)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Неологізм із негативним відтінком; англійська глоса не усталює окремого українського відповідника."
+    ]
+  },
+  {
+    "id": "17081228136e5c5a",
+    "traditional": "江南省",
+    "simplified": "江南省",
+    "pinyin": "Jiang1 nan2 sheng3",
+    "english_segments": [
+      "name of Qing dynasty province covering south Jiangsu, south Anhui and north Zhejiang provinces, with capital at Nanjing"
+    ],
+    "raw_source": "江南省 江南省 [Jiang1 nan2 sheng3] /name of Qing dynasty province covering south Jiangsu, south Anhui and north Zhejiang provinces, with capital at Nanjing/",
+    "source_line": 62835,
+    "ukrainian_segments": [
+      "Цзяннань, цінська провінція, що охоплювала південь Цзянсу, південь Аньхою й північ Чжецзяну, з центром у Нанкіні"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Територіальний опис джерела потребує історичної перевірки; звичайний опис провінції Цзяннань відрізняється."
+    ]
+  },
+  {
+    "id": "bf927267cc514eb3",
+    "traditional": "沈瑩",
+    "simplified": "沈莹",
+    "pinyin": "Shen3 Ying2",
+    "english_segments": [
+      "Shen Ying of Wu, governor (268-280) of coastal province of Wu and compiler of Seaboard Geographic Gazetteer 臨海水土誌|临海水土志"
+    ],
+    "raw_source": "沈瑩 沈莹 [Shen3 Ying2] /Shen Ying of Wu, governor (268-280) of coastal province of Wu and compiler of Seaboard Geographic Gazetteer 臨海水土誌|临海水土志/",
+    "source_line": 63144,
+    "ukrainian_segments": [
+      "Шень Їн із царства У, правитель його приморської області (268–280), укладач «Географічного опису приморського краю» 臨海水土誌|临海水土志"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську назву твору подано описово."
+    ]
+  },
+  {
+    "id": "b725a7b32bbe77fa",
+    "traditional": "鑲黃旗",
+    "simplified": "镶黄旗",
+    "pinyin": "Xiang1 huang2 qi2",
+    "english_segments": [
+      "Bordered Yellow banner or Hövööt Shar khoshuu in Xilingol League 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Inner Mongolia"
+    ],
+    "raw_source": "鑲黃旗 镶黄旗 [Xiang1 huang2 qi2] /Bordered Yellow banner or Hövööt Shar khoshuu in Xilingol League 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Inner Mongolia/",
+    "source_line": 112982,
+    "ukrainian_segments": [
+      "Сянхуанці, або Ховот-Шар, хошун в аймаку Шилін-Гол 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Внутрішня Монголія"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українське відтворення монгольської назви потребує перевірки."
+    ]
+  },
+  {
+    "id": "8aaf54f5cca0b670",
+    "traditional": "爾雅",
+    "simplified": "尔雅",
+    "pinyin": "Er3 ya3",
+    "english_segments": [
+      "\"Erya\" or \"The Ready Guide\", first extant Chinese dictionary, c. 3rd century BC, with glossaries on classical texts"
+    ],
+    "raw_source": "爾雅 尔雅 [Er3 ya3] /\"Erya\" or \"The Ready Guide\", first extant Chinese dictionary, c. 3rd century BC, with glossaries on classical texts/",
+    "source_line": 71470,
+    "ukrainian_segments": [
+      "«Ер'я» («Наближення до витонченого»), найдавніший збережений китайський словник, приблизно III ст. до н. е., із тлумаченнями слів класичних текстів"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська передача назви є пояснювальною; англійський варіант назви в джерелі — «The Ready Guide»."
+    ]
+  },
+  {
+    "id": "a97cb82543add823",
+    "traditional": "老驥伏櫪",
+    "simplified": "老骥伏枥",
+    "pinyin": "lao3 ji4 fu2 li4",
+    "english_segments": [
+      "lit. an old steed in the stable still aspires to gallop 1000 miles (idiom); fig. aged person with great aspirations"
+    ],
+    "raw_source": "老驥伏櫪 老骥伏枥 [lao3 ji4 fu2 li4] /lit. an old steed in the stable still aspires to gallop 1000 miles (idiom); fig. aged person with great aspirations/",
+    "source_line": 88846,
+    "ukrainian_segments": [
+      "букв. старий кінь у стайні й далі прагне промчати тисячу лі (ідіома); перен. літня людина з великими прагненнями"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело передає традиційну відстань як «1000 miles»; за китайським висловом маються на увазі лі."
+    ]
+  },
+  {
+    "id": "f39407a50619b779",
+    "traditional": "近衛文麿",
+    "simplified": "近卫文麿",
+    "pinyin": "Jin4 wei4 Wen2 mo3",
+    "english_segments": [
+      "Prince KONOE Fumimaro (1891-), Japanese nobleman and militarist politician, prime minister 1937-1939 and 1940-1941"
+    ],
+    "raw_source": "近衛文麿 近卫文麿 [Jin4 wei4 Wen2 mo3] /Prince KONOE Fumimaro (1891-), Japanese nobleman and militarist politician, prime minister 1937-1939 and 1940-1941/",
+    "source_line": 107147,
+    "ukrainian_segments": [
+      "князь Коное Фумімаро (нар. 1891), японський аристократ і мілітаристський політик, премʼєр-міністр у 1937–1939 і 1940–1941"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело містить лише рік народження, хоча особа померла 1945 року."
+    ]
+  },
+  {
+    "id": "6fc7594f88ecf0ce",
+    "traditional": "摩亨佐·達羅",
+    "simplified": "摩亨佐·达罗",
+    "pinyin": "Mo2 heng1 zuo3 · da2 luo2",
+    "english_segments": [
+      "Moenjo-daro, capital of Indus valley civilization c. 2000 BC, Sind province, Pakistan, UNESCO World Heritage Site"
+    ],
+    "raw_source": "摩亨佐·達羅 摩亨佐·达罗 [Mo2 heng1 zuo3 · da2 luo2] /Moenjo-daro, capital of Indus valley civilization c. 2000 BC, Sind province, Pakistan, UNESCO World Heritage Site/",
+    "source_line": 48958,
+    "ukrainian_segments": [
+      "Мохенджо-Даро, місто цивілізації долини Інду близько 2000 р. до н. е., провінція Сінд, Пакистан; об'єкт Світової спадщини ЮНЕСКО"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає місто столицею, але столичний статус цивілізації Інду не встановлений."
+    ]
+  },
+  {
+    "id": "64bfb66a9b9dca78",
+    "traditional": "雅魯藏布大峽谷",
+    "simplified": "雅鲁藏布大峡谷",
+    "pinyin": "Ya3 lu3 zang4 bu4 Da4 xia2 gu3",
+    "english_segments": [
+      "Great Canyon of Yarlung Tsangpo-Brahmaputra (through the southeast Himalayas, from Tibet to Assam and Bangladesh)"
+    ],
+    "raw_source": "雅魯藏布大峽谷 雅鲁藏布大峡谷 [Ya3 lu3 zang4 bu4 Da4 xia2 gu3] /Great Canyon of Yarlung Tsangpo-Brahmaputra (through the southeast Himalayas, from Tibet to Assam and Bangladesh)/",
+    "source_line": 115960,
+    "ukrainian_segments": [
+      "Великий каньйон Ярлунг-Цангпо–Брахмапутри (через південно-східні Гімалаї, від Тибету до Ассаму й Бангладеш)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело може поширювати опис каньйону на весь нижній басейн Брахмапутри; географічний обсяг потребує перевірки."
+    ]
+  },
+  {
+    "id": "c9ce0001910af548",
+    "traditional": "建文",
+    "simplified": "建文",
+    "pinyin": "Jian4 Wen2",
+    "english_segments": [
+      "Jianwen Emperor, reign name of second Ming Emperor Zhu Yunwen 朱允炆[Zhu1 Yun3 wen2] (1377-1402), reigned 1398-1402"
+    ],
+    "raw_source": "建文 建文 [Jian4 Wen2] /Jianwen Emperor, reign name of second Ming Emperor Zhu Yunwen 朱允炆[Zhu1 Yun3 wen2] (1377-1402), reigned 1398-1402/",
+    "source_line": 38941,
+    "ukrainian_segments": [
+      "Цзяньвень, девіз правління другого імператора Мін Чжу Юньвеня 朱允炆[Zhu1 Yun3 wen2] (1377–1402), який правив у 1398–1402 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рік смерті Чжу Юньвеня достеменно невідомий; 1402 у джерелі — рік його усунення та зникнення."
+    ]
+  },
+  {
+    "id": "8fbe471072716a56",
+    "traditional": "鹹水妹",
+    "simplified": "咸水妹",
+    "pinyin": "xian2 shui3 mei4",
+    "english_segments": [
+      "(dialect) prostitute from Guangdong (esp. one in Shanghai before the Revolution) (loanword from \"handsome maid\")"
+    ],
+    "raw_source": "鹹水妹 咸水妹 [xian2 shui3 mei4] /(dialect) prostitute from Guangdong (esp. one in Shanghai before the Revolution) (loanword from \"handsome maid\")/",
+    "source_line": 123435,
+    "ukrainian_segments": [
+      "(діал.) повія з Гуандуну (особливо в дореволюційному Шанхаї; запозичення з англійського handsome maid)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Запропонована джерелом англійська етимологія не перевірена."
+    ]
+  },
+  {
+    "id": "f4db7aaa279adf6f",
+    "traditional": "蒙代爾",
+    "simplified": "蒙代尔",
+    "pinyin": "Meng2 dai4 er3",
+    "english_segments": [
+      "Walter Mondale (1928-), US democratic politician, US vice-president 1977-1981 and ambassador to Japan 1993-1996"
+    ],
+    "raw_source": "蒙代爾 蒙代尔 [Meng2 dai4 er3] /Walter Mondale (1928-), US democratic politician, US vice-president 1977-1981 and ambassador to Japan 1993-1996/",
+    "source_line": 95384,
+    "ukrainian_segments": [
+      "Волтер Мондейл (1928 р. н.), американський політик-демократ, віцепрезидент США у 1977–1981 роках і посол у Японії у 1993–1996 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рік смерті Волтера Мондейла не зазначений у джерелі; біографічна інформація застаріла."
+    ]
+  },
+  {
+    "id": "66dae2a786979778",
+    "traditional": "許慎",
+    "simplified": "许慎",
+    "pinyin": "Xu3 Shen4",
+    "english_segments": [
+      "Xu Shen (-147) the compiler of the original Han dynasty dictionary Shuowen Jiezi 說文解字|说文解字[Shuo1 wen2 Jie3 zi4]"
+    ],
+    "raw_source": "許慎 许慎 [Xu3 Shen4] /Xu Shen (-147) the compiler of the original Han dynasty dictionary Shuowen Jiezi 說文解字|说文解字[Shuo1 wen2 Jie3 zi4]/",
+    "source_line": 100780,
+    "ukrainian_segments": [
+      "Сюй Шень (пом. 147), укладач первісного словника доби Хань «Шовень цзєцзи» 說文解字|说文解字[Shuo1 wen2 Jie3 zi4]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рік смерті 147 наведено за джерелом; датування життя Сюй Шеня потребує історичної перевірки."
+    ]
+  },
+  {
+    "id": "906f641de3a035fb",
+    "traditional": "古箏",
+    "simplified": "古筝",
+    "pinyin": "gu3 zheng1",
+    "english_segments": [
+      "guzheng (large zither with 13 to 25 strings, developed from the guqin 古琴[gu3 qin2] during Tang and Song times)"
+    ],
+    "raw_source": "古箏 古筝 [gu3 zheng1] /guzheng (large zither with 13 to 25 strings, developed from the guqin 古琴[gu3 qin2] during Tang and Song times)/",
+    "source_line": 18967,
+    "ukrainian_segments": [
+      "ґучжен (велика цитра з 13–25 струнами; за джерелом, розвинулася з ґуціня 古琴[gu3 qin2] за династій Тан і Сун)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Наведене у джерелі датування походження інструмента потребує перевірки."
+    ]
+  },
+  {
+    "id": "db67ff922b448b2b",
+    "traditional": "額爾古納河",
+    "simplified": "额尔古纳河",
+    "pinyin": "E2 er3 gu3 na4 He2",
+    "english_segments": [
+      "Argun River of Mongolia and Heilongjiang province, tributary of Heilongjiang River 黑龍江|黑龙江[Hei1 long2 jiang1]"
+    ],
+    "raw_source": "額爾古納河 额尔古纳河 [E2 er3 gu3 na4 He2] /Argun River of Mongolia and Heilongjiang province, tributary of Heilongjiang River 黑龍江|黑龙江[Hei1 long2 jiang1]/",
+    "source_line": 119257,
+    "ukrainian_segments": [
+      "річка Аргунь, за джерелом у Монголії та провінції Хейлунцзян, притока Амуру 黑龍江|黑龙江[Hei1 long2 jiang1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Географія джерела неточна: Аргунь протікає у Внутрішній Монголії та вздовж російсько-китайського кордону; не слід читати наведене як перевірену сучасну довідку."
+    ]
+  },
+  {
+    "id": "dd350fa4da30f7d3",
+    "traditional": "回腸",
+    "simplified": "回肠",
+    "pinyin": "hui2 chang2",
+    "english_segments": [
+      "ileum (segment of small intestine between the jejunum 空腸|空肠[kong1 chang2] and appendix 盲腸|盲肠[mang2 chang2])"
+    ],
+    "raw_source": "回腸 回肠 [hui2 chang2] /ileum (segment of small intestine between the jejunum 空腸|空肠[kong1 chang2] and appendix 盲腸|盲肠[mang2 chang2])/",
+    "source_line": 24005,
+    "ukrainian_segments": [
+      "клубова кишка (відділ тонкої кишки між порожньою кишкою 空腸|空肠[kong1 chang2] і сліпою кишкою 盲腸|盲肠[mang2 chang2])"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело помилково називає 盲腸 апендиксом; китайський термін означає сліпу кишку."
+    ]
+  },
+  {
+    "id": "e9a4c99b3ee14250",
+    "traditional": "扇蝦",
+    "simplified": "扇虾",
+    "pinyin": "shan4 xia1",
+    "english_segments": [
+      "fan lobster (esp. species of the genera Ibacus or Parribacus, both belonging to the slipper lobster family)"
+    ],
+    "raw_source": "扇蝦 扇虾 [shan4 xia1] /fan lobster (esp. species of the genera Ibacus or Parribacus, both belonging to the slipper lobster family)/",
+    "source_line": 44360,
+    "ukrainian_segments": [
+      "віяловий омар (особливо родів Ibacus або Parribacus, обидва з родини Scyllaridae)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська родова назва тут описова; усталений відповідник fan lobster потребує перевірки."
+    ]
+  },
+  {
+    "id": "8668ca853ae515bc",
+    "traditional": "漲停",
+    "simplified": "涨停",
+    "pinyin": "zhang3 ting2",
+    "english_segments": [
+      "(of a stock price) to rise to the daily upper limit (resulting in a temporary halt in trading of the stock)"
+    ],
+    "raw_source": "漲停 涨停 [zhang3 ting2] /(of a stock price) to rise to the daily upper limit (resulting in a temporary halt in trading of the stock)/",
+    "source_line": 68091,
+    "ukrainian_segments": [
+      "зростати до добової верхньої межі (про ціну акції; за джерелом, із тимчасовим призупиненням торгів)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Автоматичне призупинення торгів після досягнення ліміту залежить від біржових правил; узагальнення джерела потребує перевірки."
+    ]
+  },
+  {
+    "id": "044cb95f3ac10119",
+    "traditional": "石渠閣",
+    "simplified": "石渠阁",
+    "pinyin": "Shi2 qu2 ge2",
+    "english_segments": [
+      "cabinet meeting in 51 BC that established the five classics of Confucianism 五經|五经[Wu3 jing1] as state canon"
+    ],
+    "raw_source": "石渠閣 石渠阁 [Shi2 qu2 ge2] /cabinet meeting in 51 BC that established the five classics of Confucianism 五經|五经[Wu3 jing1] as state canon/",
+    "source_line": 79298,
+    "ukrainian_segments": [
+      "урядова нарада 51 р. до н. е., що встановила конфуціанське П'ятикнижжя 五經|五经[Wu3 jing1] як державний канон"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назва буквально позначає павільйон Шицюй; джерело вживає її як назву наради."
+    ]
+  },
+  {
+    "id": "cce0f11c8d2d7d91",
+    "traditional": "解深密經",
+    "simplified": "解深密经",
+    "pinyin": "Jie3 shen1 mi4 jing1",
+    "english_segments": [
+      "Sandhinir mokcana vyuha sutra, a yogic text on awareness and meditation, translated as the Wisdom of Buddha"
+    ],
+    "raw_source": "解深密經 解深密经 [Jie3 shen1 mi4 jing1] /Sandhinir mokcana vyuha sutra, a yogic text on awareness and meditation, translated as the Wisdom of Buddha/",
+    "source_line": 100279,
+    "ukrainian_segments": [
+      "«Самдгінірмочана-сутра», йогічний текст про усвідомлення та медитацію, перекладений під назвою «Мудрість Будди»"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українське написання санскритської назви й наведена англійська назва перекладу потребують перевірки."
+    ]
+  },
+  {
+    "id": "47be282a06165ced",
+    "traditional": "鹵代烴",
+    "simplified": "卤代烃",
+    "pinyin": "lu3 dai4 ting1",
+    "english_segments": [
+      "haloalkane (obtained from hydrocarbon by substituting halogen for hydrogen, e.g. chlorobenzene or the CFCs)"
+    ],
+    "raw_source": "鹵代烴 卤代烃 [lu3 dai4 ting1] /haloalkane (obtained from hydrocarbon by substituting halogen for hydrogen, e.g. chlorobenzene or the CFCs)/",
+    "source_line": 123421,
+    "ukrainian_segments": [
+      "галогенопохідний вуглеводень (утворений заміщенням водню галогеном, наприклад хлоробензен або хлорфторвуглеводні)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело вживає haloalkane, але приклад хлоробензену й китайська лексема охоплюють галогенопохідні вуглеводнів ширше."
+    ]
+  },
+  {
+    "id": "6bfdadd375022935",
+    "traditional": "小花遠志",
+    "simplified": "小花远志",
+    "pinyin": "xiao3 hua1 yuan3 zhi4",
+    "english_segments": [
+      "small-flowered milkwort (Polygala arvensis Willd. or P. telephioides), with roots used in Chinese medicine"
+    ],
+    "raw_source": "小花遠志 小花远志 [xiao3 hua1 yuan3 zhi4] /small-flowered milkwort (Polygala arvensis Willd. or P. telephioides), with roots used in Chinese medicine/",
+    "source_line": 34749,
+    "ukrainian_segments": [
+      "дрібноквітковий істод (Polygala arvensis Willd. або P. telephioides), корені якого використовують у китайській медицині"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська назва та наведена в джерелі таксономічна відповідність потребують перевірки."
+    ]
+  },
+  {
+    "id": "ee0b65fa7ad38d2d",
+    "traditional": "布哈林",
+    "simplified": "布哈林",
+    "pinyin": "Bu4 ha1 lin2",
+    "english_segments": [
+      "Nikolai Ivanovich Bukharin (1888-1938), Soviet revolutionary theorist, executed after a show trial in 1937"
+    ],
+    "raw_source": "布哈林 布哈林 [Bu4 ha1 lin2] /Nikolai Ivanovich Bukharin (1888-1938), Soviet revolutionary theorist, executed after a show trial in 1937/",
+    "source_line": 37099,
+    "ukrainian_segments": [
+      "Микола Іванович Бухарін (1888–1938), радянський революціонер-теоретик, страчений після показового суду"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело датує суд 1937 роком; показовий процес над Бухаріним відбувся 1938 року."
+    ]
+  },
+  {
+    "id": "7b0a8369b46311cc",
+    "traditional": "單子葉",
+    "simplified": "单子叶",
+    "pinyin": "dan1 zi3 ye4",
+    "english_segments": [
+      "monocotyledon (plant family distinguished by single embryonic leaf, includes grasses, orchids and lilies)"
+    ],
+    "raw_source": "單子葉 单子叶 [dan1 zi3 ye4] /monocotyledon (plant family distinguished by single embryonic leaf, includes grasses, orchids and lilies)/",
+    "source_line": 22813,
+    "ukrainian_segments": [
+      "однодольні рослини (з однією сім'ядолею; зокрема злаки, орхідеї та лілії)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «plant family» неточне: однодольні не є однією родиною."
+    ]
+  },
+  {
+    "id": "827b793e63a9dcee",
+    "traditional": "聖女貞德",
+    "simplified": "圣女贞德",
+    "pinyin": "Sheng4 nu:3 Zhen1 de2",
+    "english_segments": [
+      "Joan of Arc (1412-1431), French heroine and liberator, executed as a witch by the Burgundians and English"
+    ],
+    "raw_source": "聖女貞德 圣女贞德 [Sheng4 nu:3 Zhen1 de2] /Joan of Arc (1412-1431), French heroine and liberator, executed as a witch by the Burgundians and English/",
+    "source_line": 89281,
+    "ukrainian_segments": [
+      "Жанна д’Арк (1412–1431), французька героїня та визволителька, страчена як відьма бургундцями й англійцями"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Історичне формулювання джерела спрощує роль бургундців: вони полонили Жанну, а суд і страту організувала англійська сторона."
+    ]
+  },
+  {
+    "id": "8d13ede28d850820",
+    "traditional": "賴清德",
+    "simplified": "赖清德",
+    "pinyin": "Lai4 Qing1 de2",
+    "english_segments": [
+      "William Lai Ching-te (1959-), Taiwanese DPP politician, vice president of the Republic of China from 2020"
+    ],
+    "raw_source": "賴清德 赖清德 [Lai4 Qing1 de2] /William Lai Ching-te (1959-), Taiwanese DPP politician, vice president of the Republic of China from 2020/",
+    "source_line": 104068,
+    "ukrainian_segments": [
+      "Вільям Лай Цінде (нар. 1959), тайванський політик Демократичної прогресивної партії, віцепрезидент Китайської Республіки з 2020 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Відкрите датування посади «з 2020 року» збережено за джерелом і може бути застарілим."
+    ]
+  },
+  {
+    "id": "a8bd8ed7352ef2f9",
+    "traditional": "額爾齊斯河",
+    "simplified": "额尔齐斯河",
+    "pinyin": "E2 er3 qi2 si1 He2",
+    "english_segments": [
+      "Irtysh River, flowing from southwest Altai in Xinjiang through Kazakhstan and Siberia to the Arctic Ocean"
+    ],
+    "raw_source": "額爾齊斯河 额尔齐斯河 [E2 er3 qi2 si1 He2] /Irtysh River, flowing from southwest Altai in Xinjiang through Kazakhstan and Siberia to the Arctic Ocean/",
+    "source_line": 119259,
+    "ukrainian_segments": [
+      "річка Іртиш, що тече з південно-західного Алтаю в Сіньцзяні через Казахстан і Сибір до басейну Північного Льодовитого океану"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Іртиш впадає в Об, а не безпосередньо в океан; формулювання уточнює належність до океанічного басейну."
+    ]
+  },
+  {
+    "id": "ff6b4cbbd95b69ea",
+    "traditional": "宋祁",
+    "simplified": "宋祁",
+    "pinyin": "Song4 Qi2",
+    "english_segments": [
+      "Song Qi (998-1061), Song dynasty poet and writer, coauthor of History of the Later Tang Dynasty 新唐書|新唐书"
+    ],
+    "raw_source": "宋祁 宋祁 [Song4 Qi2] /Song Qi (998-1061), Song dynasty poet and writer, coauthor of History of the Later Tang Dynasty 新唐書|新唐书/",
+    "source_line": 32237,
+    "ukrainian_segments": [
+      "Сун Ці (998–1061), поет і письменник доби Сун, співавтор «Нової історії Тан» 新唐書|新唐书"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійський глос помилково називає твір історією «Пізньої Тан»; китайська назва означає «Нова історія Тан»."
+    ]
+  },
+  {
+    "id": "74de180a40a857a9",
+    "traditional": "行不從徑",
+    "simplified": "行不从径",
+    "pinyin": "xing2 bu4 cong2 jing4",
+    "english_segments": [
+      "lit. not following the straight path (idiom); fig. looking for a shortcut to get ahead in work or study"
+    ],
+    "raw_source": "行不從徑 行不从径 [xing2 bu4 cong2 jing4] /lit. not following the straight path (idiom); fig. looking for a shortcut to get ahead in work or study/",
+    "source_line": 98109,
+    "ukrainian_segments": [
+      "букв. не йти короткими стежками (ідіома); (перен.) діяти чесно, не шукати обхідних шляхів до успіху в роботі чи навчанні"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійський сегмент тлумачить ідіому як пошук короткого шляху, що суперечить її звичному значенню чесної поведінки; переклад орієнтовано на китайський вислів."
+    ]
+  },
+  {
+    "id": "de74bc6e9305ff16",
+    "traditional": "阿的平",
+    "simplified": "阿的平",
+    "pinyin": "a1 di4 ping2",
+    "english_segments": [
+      "atabrine or quinacrine, used as antimalarial drug and antibiotic against intestinal parasite giardiasis"
+    ],
+    "raw_source": "阿的平 阿的平 [a1 di4 ping2] /atabrine or quinacrine, used as antimalarial drug and antibiotic against intestinal parasite giardiasis/",
+    "source_line": 114737,
+    "ukrainian_segments": [
+      "атебрин, або хінакрин, протималярійний препарат і засіб проти кишкового паразитарного захворювання лямбліозу"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає хінакрин антибіотиком; у перекладі використано нейтральне «засіб», що не нав’язує цю неточну класифікацію."
+    ]
+  }
+]

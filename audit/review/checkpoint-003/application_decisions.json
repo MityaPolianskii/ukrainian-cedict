@@ -1,0 +1,412 @@
+{
+  "checkpoint": 3,
+  "application_review_completed": true,
+  "review_type": "model",
+  "human_validation": false,
+  "review_file_sha256": {
+    "review_001.json": "3e37f94cb636db40d966ecea65259c3c5b4c33136ba8f0b54d14a3429dd2fbf1",
+    "review_002.json": "2083d85fbc6d54494565bc045b50a800085898b93315289df895368a8ebc399f",
+    "review_003.json": "0acbfab301c0351f55353411c3dd9729b8927c977171aa2c59707a6dd4802be4"
+  },
+  "decisions": [
+    {
+      "kind": "note",
+      "id": "656638aa914cd4be",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "note",
+      "id": "aa988151360c2dd1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "32c3288f961ea7d7",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "c85fd1c05f583598",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "ef7eeab5305f6069",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "52476a275233d96e",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "0d84d27b4c579d78",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "e6e5f588b559428b",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "caf1caaf33692a6e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "note",
+      "id": "bb4229b99ca0c7db",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "e4cb80d6a0208173",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "e4cb80d6a0208173",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "585bd4c319e4cd6f",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "585bd4c319e4cd6f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "note",
+      "id": "988ff99993069a09",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "630bc37952743b84",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "630bc37952743b84",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "note",
+      "id": "b0688638c53aa73d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "7b6adc9ce2f5ddef",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "4444b494b31007e5",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "4444b494b31007e5",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "06c81b98653f2821",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "5c30f53267432c31",
+      "index": 1,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "63afa9676a2a00e9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "bf22b1201d854c3a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "8cbc0a281378b066",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "2408b2ba68ac8ded",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "2408b2ba68ac8ded",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "7fe63bec370a7cf8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "7fe63bec370a7cf8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "9f1c36b9d0ca09b8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "9f1c36b9d0ca09b8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "f7f8ffe18e3edd45",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "f7f8ffe18e3edd45",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "a8f07e4a419ec460",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "a8f07e4a419ec460",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "17d7e36c7636b046",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "17d7e36c7636b046",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "247259e82617b816",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "247259e82617b816",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "cde5179231fe3c83",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "cde5179231fe3c83",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "a38e92fb7c0caeb3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "a38e92fb7c0caeb3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "5f8f49f69da7df9a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "6544ded0c7fb20a6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "b348f5d845411061",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "f39407a50619b779",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "f39407a50619b779",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "f4db7aaa279adf6f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "f4db7aaa279adf6f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "note",
+      "id": "906f641de3a035fb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "note",
+      "id": "827b793e63a9dcee",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "8d13ede28d850820",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "8d13ede28d850820",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    },
+    {
+      "kind": "segment",
+      "id": "a8bd8ed7352ef2f9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese, pinyin, complete source senses and Ukrainian before/after. High-confidence language or documented source-fact correction; quoted references and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "74de180a40a857a9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and the entry-bound evidence. High-confidence clarification preserves the original source issue and flag without assigning another entry’s note."
+    }
+  ]
+}

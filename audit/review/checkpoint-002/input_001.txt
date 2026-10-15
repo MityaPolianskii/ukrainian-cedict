@@ -1,0 +1,802 @@
+1. ID 22e525a16e85cd1a | line 22647 | 喜陽 / 喜阳 [xi3 yang2]
+  0: EN heliophile
+     UK сонцелюбний
+  1: EN tending towards the sun
+     UK спрямований до сонця
+  2: EN heliotropism
+     UK геліотропізм
+  NOTES ["Значення «геліотропізм» у джерелі ширше за звичайне 喜陽 «сонцелюбний»."]
+
+2. ID 39df419fe6cfee78 | line 35384 | 屈折語 / 屈折语 [qu1 zhe2 yu3]
+  0: EN to inflect (in grammar)
+     UK флективна мова (зі словозміною)
+  1: EN to decline
+     UK мова з відмінюванням
+  2: EN to conjugate
+     UK мова з дієвідмінюванням
+  NOTES ["Джерело помилково подає дієслова; 屈折語 є назвою флективної мови. Збережено три сегменти як характеристики цього типу мови."]
+
+3. ID 7e2d825be07e156d | line 122679 | 鮀 / 𬶍 [tuo2]
+  0: EN catfish
+     UK сом
+  1: EN a kind of small fish
+     UK різновид дрібної риби
+  2: EN Chinese alligator
+     UK китайський алігатор
+  NOTES ["Джерело поєднує кілька різних зоологічних значень; точне розмежування потребує перевірки."]
+
+4. ID 12e4eb5ea47d2310 | line 55572 | 木菠蘿 / 木菠萝 [mu4 bo1 luo2]
+  0: EN jackfruit
+     UK джекфрут
+  1: EN breadfruit
+     UK хлібне дерево
+  2: EN Artocarpus heterophyllus
+     UK Artocarpus heterophyllus
+  NOTES ["Джерело змішує джекфрут із хлібним деревом; 木菠蘿 зазвичай означає джекфрут."]
+
+5. ID 0c56e52ceed91941 | line 110973 | 重臂 / 重臂 [zhong4 bi4]
+  0: EN actuator (arm of a lever)
+     UK плече навантаження (важеля)
+  1: EN lever
+     UK важіль
+  2: EN actuating arm
+     UK плече прикладання навантаження
+  NOTES ["重臂 означає плече навантаження важеля; англійські actuator/actuating arm неточні."]
+
+6. ID 2792bb04ae54805c | line 123705 | 麵包果 / 面包果 [mian4 bao1 guo3]
+  0: EN jackfruit
+     UK джекфрут
+  1: EN breadfruit
+     UK плід хлібного дерева
+  2: EN Artocarpus heterophyllus
+     UK Artocarpus heterophyllus
+  NOTES ["Джерело поєднує джекфрут із плодом хлібного дерева; це різні види, їх розмежування потребує перевірки."]
+
+7. ID c972ee6eb7b23d19 | line 7667 | 侅 / 侅 [gai1]
+  0: EN to give
+     UK давати
+  1: EN prepared for included in
+     UK підготовлений для; передбачений для
+  2: EN embraced in
+     UK охоплений; включений до
+  NOTES ["Рідкісний ієрогліф; джерело подає уривчасті значення, тому їхні граматичні зв'язки неясні."]
+
+8. ID fd37efb086db53f5 | line 49423 | 撲落 / 扑落 [pu1 luo4]
+  0: EN to fall
+     UK падати
+  1: EN to drop
+     UK опускатися
+  2: EN socket (loanword for "plug")
+     UK штепсельний роз'єм (запозичення від англ. plug)
+  NOTES ["Джерело суперечливо поєднує socket і plug; точний тип роз'єму неясний."]
+
+9. ID 3e2ebeb41d21207b | line 108669 | 過敏性 / 过敏性 [guo4 min3 xing4]
+  0: EN hypersensitive
+     UK гіперчутливий
+  1: EN allergic reaction
+     UK алергічна реакція
+  2: EN anaphylaxis
+     UK анафілаксія
+  NOTES ["Другий і третій сегменти джерела є іменниковими станами; китайська форма звичайно означає «алергічний» або «гіперчутливість»."]
+
+10. ID 587e5533ec07b49d | line 47384 | 捲餅 / 卷饼 [juan3 bing3]
+  0: EN rolled-up pastry
+     UK скручений рулетом виріб із тіста
+  1: EN roll
+     UK рулет
+  2: EN turnover (patisserie)
+     UK пиріжок зі складеного тіста з начинкою
+  NOTES ["Англійське turnover ширше за звичайне значення 捲餅 — корж із загорнутою начинкою; точний вид випічки неясний."]
+
+11. ID 7ae2ce606f94fe81 | line 65804 | 涓埃 / 涓埃 [juan1 ai1]
+  0: EN tiny stream of dust
+     UK крихітний струмінь пилу
+  1: EN tiny things
+     UK дрібниці
+  2: EN negligible
+     UK мізерний
+  NOTES ["Буквальна глоса джерела про «струмінь пилу» незвична; слово позначає щось украй мале."]
+
+12. ID 78953c5641c77f35 | line 86984 | 縱裂 / 纵裂 [zong4 lie4]
+  0: EN lobe
+     UK лопать
+  1: EN longitudinal slit
+     UK поздовжня щілина
+  2: EN vertical fracture
+     UK вертикальний розлом
+  NOTES ["Значення «lobe» у джерелі незвичне для 縱裂; відтворено окремо без уточнення домену."]
+
+13. ID aa212ec0c1336c6b | line 32990 | 容量 / 容量 [rong2 liang4]
+  0: EN capacity
+     UK місткість
+  1: EN volume
+     UK об'єм
+  2: EN quantitative (science)
+     UK кількісний (наук.)
+  NOTES ["Окремий глос «quantitative» нетиповий для 容量; найімовірніше мається на увазі об'ємний метод кількісного аналізу."]
+
+14. ID 485f5ea06ecc0e3e | line 111860 | 銀鯧 / 银鲳 [yin2 chang1]
+  0: EN silvery pomfret
+     UK пампус сріблястий
+  1: EN dollarfish
+     UK риба-долар
+  2: EN harvestfish
+     UK атлантична масляна риба
+  NOTES ["Англійські назви dollarfish і harvestfish можуть стосуватися інших видів, ніж звичайний відповідник 銀鯧 (Pampus argenteus); потрібна іхтіологічна перевірка."]
+
+15. ID e289615aec6cdc72 | line 26398 | 塘鵝 / 塘鹅 [tang2 e2]
+  0: EN pelican (Morus bassanus)
+     UK пелікан (у джерелі: Morus bassanus)
+  1: EN gannet
+     UK олуша північна
+  2: EN booby
+     UK олуша
+  NOTES ["Джерело суперечливе: Morus bassanus — олуша північна, а не пелікан; 塘鵝 вживається щодо пеліканів і олуш."]
+
+16. ID ccd418e027fb7988 | line 32076 | 安息香屬 / 安息香属 [an1 xi1 xiang1 shu3]
+  0: EN Styrax (tree genus)
+     UK стиракс (рід дерев Styrax)
+  1: EN snowdrop
+     UK стиракс із білими квітками
+  2: EN benzoin
+     UK бензойне дерево
+  NOTES ["«Snowdrop» тут є англійською назвою дерева, а не підсніжника; точний видовий відповідник не зазначено."]
+
+17. ID e9f431762bec0ade | line 97076 | 蚋 / 蚋 [rui4]
+  0: EN (mosquito)
+     UK комар
+  1: EN Simulia lugubris
+     UK Simulia lugubris
+  2: EN blackfly
+     UK мошка
+  NOTES ["Джерело поєднує назви комара та мошки; збережено всі сегменти."]
+
+18. ID af6b4f964e9c1056 | line 107095 | 迎風 / 迎风 [ying2 feng1]
+  0: EN in the wind
+     UK на вітрі
+  1: EN facing the wind
+     UK проти вітру
+  2: EN downwind
+     UK проти вітру (у джерелі: за вітром)
+  NOTES ["Третє англійське значення downwind суперечить 迎風 «назустріч вітру»; розбіжність явно позначено."]
+
+19. ID 95ac972f941becfd | line 60788 | 武警戰士 / 武警战士 [wu3 jing3 zhan4 shi4]
+  0: EN armed fighters
+     UK озброєні бійці
+  1: EN armed police
+     UK військовослужбовці озброєної поліції
+  2: EN militia
+     UK ополченці
+  NOTES ["Для 武警戰士 найточніше «військовослужбовці озброєної поліції»; англійське «militia» ширше й потребує контексту."]
+
+20. ID dc3defc13de1a7c7 | line 74279 | 甘藍 / 甘蓝 [gan1 lan2]
+  0: EN cabbage
+     UK капуста
+  1: EN Chinese broccoli
+     UK китайська броколі
+  2: EN gai larn
+     UK гайлань
+  NOTES ["Китайська броколі зазвичай позначається іншим словом; ці два синоніми збережено відповідно до джерела."]
+
+21. ID 4711d457d250076b | line 79422 | 砆 / 砆 [fu1]
+  0: EN agate
+     UK агат
+  1: EN inferior gem
+     UK самоцвіт нижчої якості
+  2: EN a kind of jade
+     UK різновид нефриту
+  NOTES ["Джерело подає різні матеріали; точну мінералогічну ідентифікацію рідкісного знака не встановлено."]
+
+22. ID b01d9b806fd40201 | line 94470 | 菉 / 菉 [lu4]
+  0: EN Arthraxon ciliare
+     UK Arthraxon ciliare
+  1: EN green
+     UK зелений
+  2: EN rhodacene
+     UK родоцен
+  NOTES ["Значення англійського rhodacene для 菉 неясне; передано транслітерацією, потрібна перевірка."]
+
+23. ID 24ee89155b149a1f | line 90462 | 胡越 / 胡越 [hu2 yue4]
+  0: EN large distance
+     UK велика відстань
+  1: EN disaster
+     UK лихо
+  2: EN calamity
+     UK нещастя
+  NOTES ["Значення «лихо» й «нещастя» для 胡越 у джерелі нетипові; потрібна історико-лексикографічна перевірка."]
+
+24. ID 8b45b10905caaa89 | line 101004 | 試杯 / 试杯 [shi4 bei1]
+  0: EN Petri dish
+     UK чашка Петрі
+  1: EN test dish
+     UK посудина для проб
+  2: EN trial slide
+     UK предметне скло для проби
+  NOTES ["Англійський перелік лабораторного посуду різнорідний; точну відповідність 試杯 кожному предмету варто перевірити."]
+
+25. ID 700a83fca74a6c55 | line 90032 | 肟 / 肟 [wo4]
+  0: EN oxime
+     UK оксим
+  1: EN oximide
+     UK оксимід
+  2: EN -oxil (chemistry)
+     UK -оксил (хімія)
+  NOTES ["Сегменти oximide та -oxil у джерелі потребують хімічної перевірки; основне значення — оксим."]
+
+26. ID 62bfa6ed435404c2 | line 50597 | 故典 / 故典 [gu4 dian3]
+  0: EN old classics
+     UK давні класичні твори
+  1: EN old customs
+     UK давні звичаї
+  2: EN cause
+     UK причина
+  NOTES ["Значення «причина» для 故典 нетипове; збережено за джерелом, потребує перевірки."]
+
+27. ID 51cfd6410d52a479 | line 56955 | 柏 / 柏 [bai3]
+  0: EN cedar
+     UK кедр
+  1: EN cypress
+     UK кипарис
+  2: EN Taiwan pr. [bo2]
+     UK тайванська вимова: [bo2]
+  NOTES ["Назва 柏 охоплює кипарисові дерева; відповідник «кедр» у джерелі може бути неточним."]
+
+28. ID 951d1d06276ff2ab | line 57944 | 梏 / 梏 [gu4]
+  0: EN braces (med.)
+     UK фіксувальні скоби (мед.)
+  1: EN fetters
+     UK кайдани
+  2: EN manacles
+     UK наручні кайдани
+  NOTES ["Медичне значення braces у джерелі нетипове для 梏; конкретний різновид фіксатора неясний."]
+
+29. ID 0f66920b7615cf86 | line 96082 | 薤 / 薤 [xie4]
+  0: EN Allium bakeri
+     UK Allium bakeri
+  1: EN shallot
+     UK цибуля-шалот
+  2: EN scallion
+     UK зелена цибуля
+  NOTES ["Allium bakeri та шалот можуть позначати різні види; джерельні ботанічні відповідники потребують уточнення."]
+
+30. ID 4e5d9626fbf8fcd5 | line 34386 | 導輪 / 导轮 [dao3 lun2]
+  0: EN guide pulley
+     UK напрямний шків
+  1: EN foreword
+     UK передмова
+  2: EN preface
+     UK вступне слово
+  NOTES ["Два останні значення в джерелі, ймовірно, помилкові: 導輪 означає напрямний шків, тоді як передмова відповідає іншому слову."]
+
+31. ID c9b0308b504d36d3 | line 122190 | 髳 / 髳 [mao2]
+  0: EN bang (hair)
+     UK чубчик
+  1: EN fashionable
+     UK модний
+  2: EN mane
+     UK грива
+  NOTES ["Значення 髳 у джерелі збігаються з 髦, що може бути джерельним змішанням; передано всі сегменти з застереженням."]
+
+32. ID 700a20192897c5a9 | line 36067 | 崋 / 崋 [hua2]
+  0: EN flowery
+     UK квітчастий
+  1: EN illustrious
+     UK славетний
+  2: EN Chinese
+     UK китайський
+  NOTES ["Подані значення схожі на 華, а не на рідкісний гірський ієрогліф 崋; запис потребує перевірки."]
+
+33. ID 05e0a48667c478eb | line 7210 | 低能兒 / 低能儿 [di1 neng2 er2]
+  0: EN retarded child
+     UK розумово відстала дитина (застаріле, образливе)
+  1: EN moron
+     UK недоумок (образл.)
+  2: EN idiot
+     UK ідіот (образл.)
+  NOTES ["Англійська глоса містить застарілі образливі позначення; українські відповідники позначено як образливі."]
+
+34. ID 0e857e59408070c3 | line 13838 | 列侯 / 列侯 [lie4 hou2]
+  0: EN duke (old)
+     UK герцог (заст.; за джерелом)
+  1: EN nobleman
+     UK вельможа
+  2: EN gentry
+     UK знать
+  NOTES ["Англійське duke для 列侯 потребує уточнення: китайський історичний титул зазвичай передають як маркіз, а не герцог."]
+
+35. ID 46035c05f5ac099e | line 21329 | 咒文 / 咒文 [zhou4 wen2]
+  0: EN incantation
+     UK текст заклинання
+  1: EN spell
+     UK закляття
+  2: EN to curse
+     UK проклинати
+  NOTES ["Дієслівне значення джерела нетипове для 咒文, що зазвичай означає текст заклинання."]
+
+36. ID c44fafcfcf4825c3 | line 90256 | 背囊 / 背囊 [bei4 nang2]
+  0: EN backpack
+     UK рюкзак
+  1: EN knapsack
+     UK ранець
+  2: EN rucksack
+     UK наплічник
+  NOTES ["Джерело подає bei4; для значення «наплічник» можливе читання bei1, потрібна перевірка."]
+
+37. ID e38025c4846976f7 | line 102848 | 豝 / 豝 [ba1]
+  0: EN corned beef
+     UK солонина з яловичини
+  1: EN female pig
+     UK самиця свині
+  2: EN sow
+     UK свиноматка
+  NOTES ["Рідкісне значення «солонина з яловичини» передано за джерелом; потребує лексикографічної перевірки."]
+
+38. ID d478b53b43428713 | line 116514 | 雟 / 雟 [sui2]
+  0: EN sparrow
+     UK горобець
+  1: EN revolve
+     UK обертатися
+  2: EN place name
+     UK географічна назва
+  NOTES ["Рідкісний знак; конкретну географічну назву й зв’язок значень джерело не уточнює."]
+
+39. ID 2362f426c1fb4ea2 | line 40825 | 心切 / 心切 [xin1 qie4]
+  0: EN eager
+     UK палко охочий
+  1: EN impatient
+     UK нетерплячий
+  2: EN guileless
+     UK щирий; нехитрий
+  NOTES ["Значення guileless («щирий; нехитрий») слабко узгоджується зі звичним значенням 心切; потребує перевірки."]
+
+40. ID 04388302f7d1a091 | line 53282 | 昡 / 昡 [xuan4]
+  0: EN long day
+     UK довгий день
+  1: EN extended
+     UK подовжений
+  2: EN relaxed
+     UK невимушений
+  NOTES ["Рідкісні значення 昡 подано за джерелом; потребують лексикографічної перевірки."]
+
+41. ID ab82dd1c07adf579 | line 120464 | 馗 / 馗 [kui2]
+  0: EN cheekbone
+     UK вилиця
+  1: EN crossroads
+     UK перехрестя
+  2: EN high
+     UK високий
+  NOTES ["Рідкісний ієрогліф; три різнорідні значення передано за джерелом."]
+
+42. ID b01a1135cf6e52e1 | line 8519 | 俴 / 俴 [jian4]
+  0: EN short
+     UK короткий
+  1: EN shallow
+     UK неглибокий
+  2: EN thin plate
+     UK тонка пластина
+  NOTES ["Ієрогліф рідкісний, значення подано за окремими словниковими тлумаченнями."]
+
+43. ID f81b9840c16e8438 | line 108492 | 遊艇 / 游艇 [you2 ting3]
+  0: EN barge
+     UK прогулянкове судно
+  1: EN yacht
+     UK яхта
+  2: EN CL:隻|只[zhi1]
+     UK лічильне слово: 隻|只[zhi1]
+  NOTES ["Англійське barge нетипове для 遊艇; тут передано як прогулянкове судно відповідно до китайського слова."]
+
+44. ID 923e15aad2ead5bd | line 9687 | 傯 / 偬 [zong3]
+  0: EN busy
+     UK заклопотаний
+  1: EN hurried
+     UK поспішний; квапливий
+  2: EN despondent
+     UK пригнічений
+  NOTES ["Рідкісне 傯 має відтінки значення «заклопотаний/поспішний»; точний нюанс залежить від контексту."]
+
+45. ID 4dbca9cf4add10cd | line 100970 | 詡 / 诩 [xu3]
+  0: EN to brag
+     UK вихвалятися
+  1: EN popular
+     UK популярний
+  2: EN lovely
+     UK милий
+  NOTES ["Значення «популярний» і «милий» подано за джерелом; для 詡 вони нетипові й потребують перевірки."]
+
+46. ID 9eccb2656f4f3935 | line 56560 | 松木 / 松木 [song1 mu4]
+  0: EN pine wood
+     UK соснова деревина
+  1: EN deal
+     UK хвойні пиломатеріали
+  2: EN larch
+     UK модрина
+  NOTES ["Модрина в джерелі є сумнівним відповідником 松木, яке зазвичай означає соснову деревину."]
+
+47. ID 972f82256b13c638 | line 63127 | 沆 / 沆 [hang4]
+  0: EN a ferry
+     UK переправа
+  1: EN fog
+     UK туман
+  2: EN flowing
+     UK текучий
+  NOTES ["Рідковживаний ієрогліф; відповідники «переправа» й «текучий» передають наведені в джерелі окремі значення, контекст яких не подано."]
+
+48. ID 307b05cf07934e55 | line 23038 | 嗛 / 嗛 [qian4]
+  0: EN pouch
+     UK мішечок
+  1: EN hold
+     UK тримати
+  2: EN content
+     UK задовольнятися
+  NOTES ["Короткі англійські глоси «pouch, hold, content» не уточнюють функції й контексту рідкісного 嗛; потрібна лексикографічна перевірка."]
+
+49. ID b4b06a54a27596bc | line 118638 | 頂目 / 顶目 [ding3 mu4]
+  0: EN item
+     UK пункт
+  1: EN event
+     UK захід
+  2: EN project
+     UK проєкт
+  NOTES ["Схоже на помилкове написання 項目; значення збережено за джерелом."]
+
+50. ID 4229d4af72ec4b06 | line 64580 | 洗練 / 洗练 [xi3 lian4]
+  0: EN agile
+     UK вправний
+  1: EN nimble
+     UK спритний
+  2: EN deft
+     UK майстерний
+  NOTES ["Англійські відповідники описують спритність; для китайського слова також характерна ідея відточеності й лаконічності, але такого окремого значення в джерелі немає."]
+
+51. ID 9abea464054a359c | line 101005 | 試樣 / 试样 [shi4 yang4]
+  0: EN style
+     UK зразок фасону
+  1: EN type
+     UK зразок типу
+  2: EN model
+     UK модель; зразок
+  NOTES ["Китайське 試樣 звичайно означає випробувальний зразок; англійські «style/type/model» передано як різновиди зразка."]
+
+52. ID 5f1abf45d7e447b1 | line 101914 | 諸子十家 / 诸子十家 [zhu1 zi3 shi2 jia1]
+  0: EN various sages and ten schools of thought
+     UK різні мудреці й десять філософських шкіл
+  1: EN refers to the classical schools of thought, e.g. Confucianism 儒[ru2] represented by Confucius 孔子[Kong3 zi3] and Mencius 孟子[Meng4 zi3], Daoism 道[dao4] by Laozi 老子[Lao3 zi3] and Zhuangzi 莊子|庄子[Zhuang1 zi3], Mohism 墨[mo4] by Mozi 墨子[Mo4 zi3], Legalism 法[fa3] by Sunzi 孫子|孙子[Sun1 zi3] and Han Feizi 韓非子|韩非子[Han2 Fei1 zi3], and numerous others
+     UK класичні філософські школи: конфуціанство 儒[ru2], представлене Конфуцієм 孔子[Kong3 zi3] і Мен-цзи 孟子[Meng4 zi3]; даосизм 道[dao4] — Лао-цзи 老子[Lao3 zi3] і Чжуан-цзи 莊子|庄子[Zhuang1 zi3]; моїзм 墨[mo4] — Мо-цзи 墨子[Mo4 zi3]; легізм 法[fa3] — Сунь-цзи 孫子|孙子[Sun1 zi3] і Хань Фей-цзи 韓非子|韩非子[Han2 Fei1 zi3], та багато інших
+  NOTES ["Джерело зараховує Сунь-цзи до легістів; таке віднесення потребує перевірки."]
+
+53. ID 8c76388661db4f6b | line 101913 | 諸子 / 诸子 [zhu1 zi3]
+  0: EN various sages
+     UK різні мудреці
+  1: EN refers to the classical schools of thought, e.g. Confucianism 儒[ru2] represented by Confucius 孔子[Kong3 zi3] and Mencius 孟子[Meng4 zi3], Daoism 道[dao4] by Laozi 老子[Lao3 zi3] and Zhuangzi 莊子|庄子[Zhuang1 zi3], Mohism 墨[mo4] by Mozi 墨子[Mo4 zi3], Legalism 法[fa3] by Sunzi 孫子|孙子[Sun1 zi3] and Han Feizi 韓非子|韩非子[Han2 Fei1 zi3], and numerous others
+     UK класичні філософські школи: конфуціанство 儒[ru2], представлене Конфуцієм 孔子[Kong3 zi3] і Мен-цзи 孟子[Meng4 zi3]; даосизм 道[dao4] — Лао-цзи 老子[Lao3 zi3] і Чжуан-цзи 莊子|庄子[Zhuang1 zi3]; моїзм 墨[mo4] — Мо-цзи 墨子[Mo4 zi3]; легізм 法[fa3] — Сунь-цзи 孫子|孙子[Sun1 zi3] і Хань Фей-цзи 韓非子|韩非子[Han2 Fei1 zi3], та багато інших
+  NOTES ["Джерело зараховує Сунь-цзи до легістів; таке віднесення потребує перевірки."]
+
+54. ID 5017db1eab93c5f2 | line 96941 | 虛歲 / 虚岁 [xu1 sui4]
+  0: EN one's age, according to the traditional Chinese method of reckoning (i.e. the number of Chinese calendar years in which one has lived) – In this system, a person's age at birth is one, and increases by one at the beginning of the first solar term 立春[Li4 chun1] each year, rather than on one's birthday.
+     UK вік за традиційним китайським рахунком, тобто кількість календарних років, у яких людина жила: при народженні їй один рік, а кожного року на початку першого сонячного сезону 立春[Li4 chun1], а не в день народження, додається ще один
+  1: EN contrasted with 實歲|实岁[shi2 sui4]
+     UK протиставляється 實歲|实岁[shi2 sui4]
+  NOTES ["Традиційний перехід віку часто пов’язують із місячним Новим роком; твердження джерела про універсальний відлік від 立春 потребує перевірки."]
+
+55. ID 8cf94c705c45729d | line 32230 | 宋書 / 宋书 [Song4 shu1]
+  0: EN History of Song of the Southern Dynasties 南朝宋[Nan2 chao2 Song4] or Liu Song 劉宋|刘宋[Liu2 Song4], sixth of the 24 dynastic histories 二十四史[Er4 shi2 si4 Shi3], compiled by Shen Yue 沈約|沈约[Shen3 Yue1] in 488 during Liang of the Southern Dynasties 南朝梁[Nan2 chao2 Liang2], 100 scrolls
+     UK «Історія Сун» Південних династій 南朝宋[Nan2 chao2 Song4], або Лю Сун 劉宋|刘宋[Liu2 Song4], шоста з 24 династійних історій 二十四史[Er4 shi2 si4 Shi3], укладена Шень Юе 沈約|沈约[Shen3 Yue1] 488 року за Лян Південних династій 南朝梁[Nan2 chao2 Liang2], 100 сувоїв
+  1: EN (not to be confused with 宋史[Song4 shi3])
+     UK (не плутати з 宋史[Song4 shi3])
+  NOTES ["У джерелі хронологічна неузгодженість: 488 рік передує заснуванню династії Лян."]
+
+56. ID 55b12cac1b6e2f4e | line 72245 | 狄仁傑 / 狄仁杰 [Di2 Ren2 jie2]
+  0: EN Di Renjie (607-700), Tang dynasty politician, prime minister under Wu Zetian, subsequently hero of legends
+     UK Ді Женьцзє (607–700), політик доби Тан, головний міністр У Цзетянь, згодом герой легенд
+  1: EN master sleuth Judge Dee, aka Chinese Sherlock Holmes, in novel Three murder cases solved by Judge Dee 狄公案[Di2 gong1 an4] translated by Dutch sinologist R.H. van Gulik 高羅珮|高罗佩[Gao1 Luo2 pei4]
+     UK майстер-детектив суддя Ді, «китайський Шерлок Голмс», у романі «Три справи про вбивство, розкриті суддею Ді» 狄公案[Di2 gong1 an4], перекладеному нідерландським синологом Р. Г. ван Гюліком 高羅珮|高罗佩[Gao1 Luo2 pei4]
+  NOTES ["Рік народження 607 передано за джерелом; він потребує історичної перевірки."]
+
+57. ID 0289911f2bf5ef6b | line 104244 | 赤壁之戰 / 赤壁之战 [Chi4 bi4 zhi1 Zhan4]
+  0: EN Battle of Redcliff of 208 at Chibi in Huangzhou district 黃州區|黄州区[Huang2 zhou1 qu1] of Huanggang city 黃岡|黄冈[Huang2 gang1], a decisive defeat of Cao Cao 曹操[Cao2 Cao1] at the hands of southern kingdom of Wu
+     UK битва біля Червоних скель 208 року при Чибі в районі Хуанчжоу 黃州區|黄州区[Huang2 zhou1 qu1] міста Хуанган 黃岡|黄冈[Huang2 gang1], де Цао Цао 曹操[Cao2 Cao1] зазнав вирішальної поразки від південного царства У
+  1: EN famous episode in the Romance of the Three Kingdoms 三國演義|三国演义[San1 guo2 Yan3 yi4]
+     UK відомий епізод «Трицарства» 三國演義|三国演义[San1 guo2 Yan3 yi4]
+  NOTES ["Географічну прив’язку битви до Хуанчжоу відтворено за джерелом; вона спірна."]
+
+58. ID 8814e802fe97aeb0 | line 25638 | 埃爾金 / 埃尔金 [Ai1 er3 jin1]
+  0: EN James Bruce, 8th Earl of Elgin (1811-1863), British High Commissioner to China who ordered the looting and destruction of the Old Winter Palace Yuanmingyuan 圓明園|圆明园 in 1860
+     UK Джеймс Брюс, 8-й граф Елґін (1811–1863), британський верховний комісар у Китаї, який наказав розграбувати й зруйнувати Юаньмін'юань 圓明園|圆明园 1860 року
+  1: EN Thomas Bruce, 7th Earl of Elgin (1766-1841), who stole the Parthenon Marbles in 1801-1810
+     UK Томас Брюс, 7-й граф Елґін (1766–1841), який вивіз скульптури Парфенона у 1801–1810 роках (у джерелі — викрав)
+  NOTES ["Джерело називає Юаньмін’юань Old Winter Palace, але усталена назва — Старий літній палац."]
+
+59. ID 6a5f7128670e21cf | line 119258 | 額爾金 / 额尔金 [E2 er3 jin1]
+  0: EN James Bruce, 8th Earl of Elgin (1811-1863), British High Commissioner to China who ordered the looting and destruction of the Old Winter Palace Yuanmingyuan 圓明園|圆明园 in 1860
+     UK Джеймс Брюс, 8-й граф Елгін (1811–1863), британський верховний комісар у Китаї, який наказав пограбувати й зруйнувати Старий літній палац Юаньмін’юань 圓明園|圆明园 1860 року
+  1: EN Thomas Bruce, 7th Earl of Elgin (1766-1841), who stole the Parthenon Marbles in 1801-1810
+     UK Томас Брюс, 7-й граф Елгін (1766–1841), який вивіз мармурові скульптури Парфенона в 1801–1810 роках, охарактеризовано в джерелі як крадіжку
+  NOTES ["Джерело помилково називає Юаньмін’юань Старим зимовим палацом; українською використано усталену назву Старий літній палац."]
+
+60. ID 9e36ad32604136f9 | line 77192 | 皇太極 / 皇太极 [Huang2 Tai4 ji2]
+  0: EN Hong Taiji (1592-1643), eighth son of Nurhaci 努爾哈赤|努尔哈赤[Nu3 er3 ha1 chi4], reigned 1626-1636 as Second Khan of Later Jin dynasty 後金|后金[Hou4 Jin1], then founded the Qing dynasty 大清[Da4 Qing1] and reigned 1636-1643 as Emperor
+     UK Хунтайцзі (1592–1643), восьмий син Нурхаці 努爾哈赤|努尔哈赤[Nu3 er3 ha1 chi4], у 1626–1636 роках другий хан Пізньої Цзінь 後金|后金[Hou4 Jin1], потім заснував династію Цін 大清[Da4 Qing1] і правив як імператор у 1636–1643 роках
+  1: EN posthumous name 清太宗[Qing1 Tai4 zong1]
+     UK посмертне ім'я 清太宗[Qing1 Tai4 zong1]
+  NOTES ["Джерело називає Цін Тайцзун посмертним ім'ям; точніше це храмове ім'я."]
+
+61. ID 7d370def5cce5ceb | line 116263 | 雙碳 / 双碳 [shuang1 tan4]
+  0: EN "double carbon", i.e. peak carbon 碳達峰|碳达峰[tan4 da2 feng1] and carbon neutrality 碳中和[tan4 zhong1 he2]
+     UK «подвійна вуглецева мета»: пік викидів вуглецю 碳達峰|碳达峰[tan4 da2 feng1] і вуглецева нейтральність 碳中和[tan4 zhong1 he2]
+  1: EN China's double carbon policy, announced in 2020, which aims to reach peak carbon use by 2030 and achieve carbon neutrality by 2060
+     UK оголошена 2020 року політика Китаю щодо досягнення піку використання вуглецю до 2030 року та вуглецевої нейтральності до 2060 року
+  NOTES ["Джерело змішує пік використання вуглецю з піком викидів; другий сегмент збережено за його формулюванням."]
+
+62. ID c562e9143b51dd3e | line 109572 | 邊緣人 / 边缘人 [bian1 yuan2 ren2]
+  0: EN marginalized people (not part of mainstream society)
+     UK маргіналізовані люди поза суспільним мейнстримом
+  1: EN marginal man (term coined by social psychologist Kurt Lewin, referring to a person in transition between two cultures or social groups, not fully belonging to either)
+     UK маргінальна людина (термін соціального психолога Курта Левіна: особа між двома культурами або соціальними групами, яка не належить повністю до жодної)
+  NOTES ["Авторство поняття «маргінальна людина» у джерелі приписане Курту Левіну; цю атрибуцію слід перевірити."]
+
+63. ID 2c29a89ed1d81610 | line 83933 | 米歇爾 / 米歇尔 [Mi3 xie1 er3]
+  0: EN Michel or Mitchell (name)
+     UK Мішель або Мітчелл (ім'я чи прізвище)
+  1: EN George Mitchell (1933-), US Democratic party politician and diplomat, influential in brokering Northern Ireland peace deal in 1990s, US Middle East special envoy from 2009
+     UK Джордж Мітчелл (нар. 1933), американський політик-демократ і дипломат, важливий посередник мирного врегулювання в Північній Ірландії у 1990-х, спеціальний посланник США на Близькому Сході від 2009 року
+  NOTES ["Посада спеціального посланника вказана за історичним станом джерела, а не як поточна."]
+
+64. ID cc18cef64a6150df | line 104243 | 赤壁 / 赤壁 [Chi4 bi4]
+  0: EN Red Cliffs, historic battlefield in Huangzhou District 黃州區|黄州区[Huang2 zhou1 Qu1], Huanggang 黃岡市|黄冈市[Huang2 gang1 Shi4], Hubei, site of the Battle of Red Cliffs in 208 AD
+     UK Червоні скелі, історичне поле битви в районі Хуанчжоу 黃州區|黄州区[Huang2 zhou1 Qu1] міста Хуанган 黃岡市|黄冈市[Huang2 gang1 Shi4], провінція Хубей; за джерелом, місце битви 208 року
+  1: EN see 赤壁市[Chi4 bi4 Shi4]
+     UK див. 赤壁市[Chi4 bi4 Shi4]
+  NOTES ["Джерело ототожнює Червоні скелі в Хуанчжоу з місцем битви 208 року; ця локалізація спірна."]
+
+65. ID a1c023d04dc709ba | line 103111 | 貞德 / 贞德 [Zhen1 de2]
+  0: EN Jeanne d'Arc (1412-1431), French heroine and liberator, executed as a witch by the Burgundians and English
+     UK Жанна д'Арк (1412–1431), французька героїня й визволителька, страчена як відьма бургундцями й англійцями
+  1: EN also called Jehanne Darc, the Maid or Orleans, Joan of Arc or St Joan
+     UK також відома як Жанна Дарк, Орлеанська діва, Joan of Arc або свята Жанна
+  NOTES ["Атрибуцію страти бургундцям і англійцям збережено за джерелом; історично роль цих сторін була різною."]
+
+66. ID ba885774a1972857 | line 66137 | 淫羊藿 / 淫羊藿 [yin2 yang2 huo4]
+  0: EN Epimedium, genus of herbaceous flowering plant, cultivated in the Far East as aphrodisiac
+     UK епімедіум (Epimedium), рід трав'янистих квіткових рослин, вирощуваних на Далекому Сході як афродизіак
+  1: EN also called barrenwort or horny goatweed (said to resemble crushed goat's testicles)
+     UK також англ. barrenwort або horny goatweed («хтива козяча трава»; за джерелом, нагадує розчавлені козячі яєчка)
+  NOTES ["Наведене джерелом пояснення назви через козячі яєчка потребує етимологічної перевірки."]
+
+67. ID 319f74cd7930446d | line 20437 | 吖嗪 / 吖嗪 [a1 qin2]
+  0: EN -azine
+     UK -азин
+  1: EN heterocyclic compound containing nitrogen in their ring such as pyridine 吡啶[bi3 ding4] C5H5N, pyrazine 噠嗪|哒嗪[da1 qin2] C4H4N2 or pyrimidine 嘧啶[mi4 ding4] C4H4N2
+     UK гетероциклічна сполука з азотом у кільці, наприклад піридин 吡啶[bi3 ding4] C5H5N, піразин 噠嗪|哒嗪[da1 qin2] C4H4N2 або піримідин 嘧啶[mi4 ding4] C4H4N2
+  NOTES ["Джерело помилково поєднує англійське pyrazine з 噠嗪, що означає піридазин; китайське посилання збережено без змін."]
+
+68. ID a653be74979fffed | line 72938 | 玉人吹簫 / 玉人吹箫 [yu4 ren2 chui1 xiao1]
+  0: EN virtuoso piper wins a beauty
+     UK віртуоз гри на флейті здобуває красуню
+  1: EN the xiao 簫|箫[xiao1] (mouth organ) virtuoso 蕭史|萧史[Xiao1 Shi3] won for his wife the beautiful daughter of Duke Mu of Qin 秦穆公[Qin2 Mu4 gong1]
+     UK віртуоз гри на сяо 簫|箫[xiao1] Сяо Ши 蕭史|萧史[Xiao1 Shi3] одружився з прекрасною дочкою ціньського гуна Му 秦穆公[Qin2 Mu4 gong1]
+  NOTES ["Джерело називає сяо ротовим органом; за китайською назвою це поздовжня флейта, тому помилкове пояснення інструмента не перенесено."]
+
+69. ID bf0d1a4a5c705971 | line 117895 | 靜山 / 静山 [Jing4 Shan1]
+  0: EN Cheng San (precinct in Ang Mo Kio, Singapore)
+     UK Ченг-Сан (квартал в Анг-Мо-Кіо, Сінгапур)
+  1: EN Cheng Shan GRC, formerly (until the 1997 elections) a group representation constituency (electoral division) in Singapore
+     UK Ченг-Сан, колишній багатомандатний виборчий округ у Сінгапурі (за джерелом, до виборів 1997 року)
+  NOTES ["Наведена в джерелі кінцева дата існування виборчого округу потребує перевірки."]
+
+70. ID 0cdfb4b2cdd54802 | line 36339 | 川震 / 川震 [Chuan1 zhen4]
+  0: EN Sichuan great earthquake, the magnitude 8 earthquake of May 2008 at Wenchuan 汶川, Sichuan, that killed more than 80,000 people
+     UK Великий сичуанський землетрус магнітудою 8 у травні 2008 року у Веньчуані 汶川, Сичуань; за джерелом, загинуло понад 80 000 людей
+  1: EN same as 四川大地震[Si4 chuan1 Da4 di4 zhen4]
+     UK те саме, що 四川大地震[Si4 chuan1 Da4 di4 zhen4]
+  NOTES ["Число жертв передано за джерелом; воно може включати зниклих безвісти."]
+
+71. ID 8f02305f9b8017ae | line 31688 | 孫誅 / 孙诛 [Sun1 Zhu1]
+  0: EN Sun Zhu (1711-1778), poet and compiler of Three Hundred Tang Poems 唐詩三百首|唐诗三百首[Tang2 shi1 San1 bai3 Shou3]
+     UK Сунь Чжу (1711–1778), поет і укладач «Трьохсот танських віршів» 唐詩三百首|唐诗三百首[Tang2 shi1 San1 bai3 Shou3]
+  1: EN also known by assumed name 蘅塘退士[Heng2 tang2 Tui4 shi4]
+     UK також відомий під псевдонімом 蘅塘退士[Heng2 tang2 Tui4 shi4]
+  NOTES ["У заголовку 孫誅, імовірно, помилка замість імені 孫洙; переклад передає зазначену особу."]
+
+72. ID 4bfeb022c4d2ea39 | line 87682 | 羅伯斯庇爾 / 罗伯斯庇尔 [Luo2 bo2 si1 bi4 er3]
+  0: EN Robespierre (name)
+     UK Робесп'єр (прізвище)
+  1: EN Maximilien François Marie Isidore de Robespierre (1758-1794), French revolutionary leader, enthusiastic advocate of reign of terror 1791-1794
+     UK Максиміліан Франсуа Марі Ізидор де Робесп'єр (1758–1794), діяч Французької революції, палкий прихильник терору 1791–1794 років
+  NOTES ["Датування терору в джерелі неточне: період якобінського терору зазвичай датують 1793–1794 роками."]
+
+73. ID 3f885c8bf4cd106c | line 37254 | 希格斯 / 希格斯 [Xi1 ge2 si1]
+  0: EN Higgs (name)
+     UK Гіггс (прізвище)
+  1: EN Peter Higgs (1929-), British theoretical physicist, one proposer of the Higgs mechanism or Higgs boson to explain the mass of elementary particles
+     UK Пітер Гіггс (нар. 1929), британський фізик-теоретик, один з авторів механізму Гіггса та передбачення бозона Гіггса для пояснення маси елементарних частинок
+  NOTES ["У джерелі не зазначено року смерті Пітера Гіггса (2024)."]
+
+74. ID aa1fbe2c670dc01a | line 106257 | 輔仁大學 / 辅仁大学 [Fu3 ren2 Da4 xue2]
+  0: EN Fu Jen Catholic University of Peking (from 1925), forerunner of Beijing Normal University 北京師範大學|北京师范大学
+     UK Католицький університет Фужень у Пекіні, заснований 1925 року, попередник Пекінського педагогічного університету 北京師範大學|北京师范大学
+  1: EN Fu Jen Catholic University in New Taipei City, Taiwan
+     UK Католицький університет Фужень у Новому Тайбеї, Тайвань
+  NOTES ["Твердження про попередництво Пекінського педагогічного університету відтворено з джерела; історичний звʼязок потребує уточнення."]
+
+75. ID e1a22b387793b112 | line 51127 | 整風 / 整风 [zheng3 feng1]
+  0: EN Rectification or Rectifying incorrect work styles, Maoist slogan
+     UK виправлення стилю роботи, маоїстське гасло
+  1: EN cf Rectification campaign 整風運動|整风运动, army purge of 1942-44 and anti-rightist purge of 1957
+     UK пор. кампанію виправлення стилю 整風運動|整风运动, чистку в армії 1942–1944 років і антиправу чистку 1957 року
+  NOTES ["Історичні кампанії та дати збережено за джерелом; зведення різних чисток під 整風 потребує історичної перевірки."]
+
+76. ID 1e62f940208815f7 | line 52897 | 昂納克 / 昂纳克 [Ang2 na4 ke4]
+  0: EN Honecker (name)
+     UK Гонеккер (прізвище)
+  1: EN Erich Honecker (1912-1994), East German communist politician, party general secretary 1971-1989, tried for treason after German unification
+     UK Еріх Гонеккер (1912–1994), східнонімецький комуністичний політик, генеральний секретар партії у 1971–1989 роках; після об'єднання Німеччини постав перед судом за звинуваченням у державній зраді
+  NOTES ["Формулювання звинувачення подано за джерелом; історичну точність «державної зради» слід перевірити."]
+
+77. ID 93cb7fb9e0fc0351 | line 51310 | 數黑論白 / 数黑论白 [shu3 hei1 lun4 bai2]
+  0: EN to enumerate what is black and yellow (idiom); to criticize sb behind his back to incite quarrels
+     UK перелічувати чорне й жовте (ідіома); лихословити за спиною, розпалюючи сварки
+  1: EN also written 數黑論黃|数黑论黄[shu3 hei1 lun4 huang2]
+     UK також пишеться 數黑論黃|数黑论黄[shu3 hei1 lun4 huang2]
+  NOTES ["Джерело дослівно подає «чорне й жовте», хоча 數黑論白 містить 白 «біле»; імовірна помилка скопійованої глоси."]
+
+78. ID 27ac63d7acd22289 | line 96808 | 虎父無犬子 / 虎父无犬子 [hu3 fu4 wu2 quan3 zi3]
+  0: EN lit. father a lion, son cannot be a dog (honorific); With a distinguished father such as you, the son is sure to do well.
+     UK букв. у батька-тигра не може бути сина-собаки (шанобливий вислів); у такого визначного батька, як ви, син неодмінно досягне успіху
+  1: EN like father, like son
+     UK який батько, такий син
+  NOTES ["Англійське буквальне пояснення згадує лева, але китайське 虎 означає тигра; перекладено за китайським."]
+
+79. ID ecc6392cea6ac34e | line 99506 | 西康省 / 西康省 [Xi1 kang1 sheng3]
+  0: EN western Kham
+     UK західний Кхам
+  1: EN historic province of Tibet in Kham region and west Sichuan, a province of Republic of China 1928-49 with capital Ya'an 雅安[Ya3 an1]
+     UK Сікан, історична провінція в тибетському регіоні Кхам і західному Сичуані; провінція Китайської Республіки у 1928–1949 роках зі столицею в Яані 雅安[Ya3 an1]
+  NOTES ["Дати існування та столицю провінції наведено за джерелом; історична періодизація потребує перевірки."]
+
+80. ID 7000515a802622e1 | line 19582 | 吃屎都趕不上熱乎的 / 吃屎都赶不上热乎的 [chi1 shi3 dou1 gan3 bu5 shang4 re4 hu5 de5]
+  0: EN (lit.) if you were eating warm shit, it'd be stone cold by the time you finished it (saying)
+     UK букв. навіть тепле лайно охололо б, поки ти його доїси (приказка, за джерелом)
+  1: EN (fig.) (of a person) too slow; can't keep up
+     UK перен. надто повільний; не встигає за іншими
+  NOTES ["Китайський буквальний образ: не встигнути навіть до теплого лайна; джерело змінює його на повільне доїдання."]
+
+81. ID 4b71f27c50c934c5 | line 114633 | 阿斗 / 阿斗 [A1 dou3]
+  0: EN A-dou, nickname of Liu Shan 劉禪|刘禅[Liu2 Shan4] (207-271), son of Liu Bei, reigned as Shu Han emperor 233-263
+     UK А-Доу, прізвисько Лю Шаня 劉禪|刘禅[Liu2 Shan4] (207–271), сина Лю Бея, імператора Шу-Хань (у джерелі: 233–263)
+  1: EN (fig.) weak and inept person
+     UK (перен.) слабка й нездатна людина
+  NOTES ["У джерелі початок правління Лю Шаня помилково датовано 233 роком замість 223."]
+
+82. ID 43e868fffd399dd9 | line 72024 | 特魯多 / 特鲁多 [Te4 lu3 duo1]
+  0: EN Pierre Trudeau (1919-2000), prime minister of Canada 1980-1984 and 1968-1979
+     UK П'єр Трюдо (1919–2000), прем'єр-міністр Канади у 1980–1984 та 1968–1979 роках
+  1: EN Justin Trudeau (1971-), prime minister of Canada from 2015
+     UK Джастін Трюдо (нар. 1971), прем'єр-міністр Канади від 2015 року
+  NOTES ["Джерело не вказує завершення прем'єрства Джастіна Трюдо; часовий опис передано за джерелом і потребує актуалізації."]
+
+83. ID fb63dcd492123481 | line 122622 | 魚麗 / 鱼丽 [yu2 li4]
+  0: EN "fish" battle formation in ancient times: chariots in front, infantry behind
+     UK давній «рибний» бойовий порядок: колісниці попереду, піхота позаду
+  1: EN The Fish Enter the Trap (title of Ode 170 in the Shijing)
+     UK «Риба потрапляє в пастку» (назва оди № 170 у «Шицзіні»)
+  NOTES ["Назву оди подано описовим перекладом; усталений український заголовок не перевірено."]
+
+84. ID 976103a462f12a0f | line 83035 | 第三紀 / 第三纪 [di4 san1 ji4]
+  0: EN third period
+     UK третій період
+  1: EN tertiary (geological era since the extinction of the dinosaurs at the Cretaceous-Tertiary boundary 65 million years ago)
+     UK третинний період (геологічна епоха після вимирання динозаврів на крейдово-третинній межі 65 млн років тому)
+  NOTES ["Геохронологічне формулювання та датування джерела застарілі; термін «третинний» нині неформальний."]
+
+85. ID 365a24fc98f8d613 | line 114043 | 閱微草堂筆記 / 阅微草堂笔记 [Yue4 wei1 Cao3 tang2 Bi3 ji4]
+  0: EN Notes on a Minutely Observed Thatched Hut by Ji Yun 紀昀|纪昀[Ji4 Yun2], novel of the supernatural
+     UK «Нотатки з хатини пильного спостереження» Цзі Юня 紀昀|纪昀[Ji4 Yun2], твір про надприродне
+  1: EN The Thatched Study of Close Scrutiny
+     UK «Солом'яний кабінет уважного споглядання»
+  NOTES ["Назви твору перекладено описово; усталений український заголовок не підтверджено."]
+
+86. ID 036588a7a142f653 | line 23718 | 四一二事變 / 四一二事变 [si4 yi1 er4 shi4 bian4]
+  0: EN the coup of 12th Mar 1927, an attempt by Chiang Kai-shek to suppress the communists
+     UK переворот 12 квітня 1927 року, спроба Чан Кайші придушити комуністів
+  1: EN called 反革命政變|反革命政变 or 慘案|惨案 in PRC literature
+     UK у літературі КНР називається 反革命政變|反革命政变 або 慘案|惨案
+  NOTES ["«12th Mar» у джерелі суперечить китайському 四一二; подію датовано 12 квітня відповідно до китайської назви."]
+
+87. ID b05d535f6516e3a6 | line 25034 | 地動儀 / 地动仪 [di4 dong4 yi2]
+  0: EN the world's first seismograph invented by Zhang Heng 張衡|张衡[Zhang1 Heng2] in 132
+     UK перший у світі сейсмограф, винайдений Чжан Хеном 張衡|张衡[Zhang1 Heng2] 132 року
+  1: EN abbr. for 候風地動儀|候风地动仪[hou4 feng1 di4 dong4 yi2]
+     UK скор. від 候風地動儀|候风地动仪[hou4 feng1 di4 dong4 yi2]
+  NOTES ["Прилад Чжан Хена точніше називати сейсмоскопом; джерело вживає seismograph."]
+
+88. ID e1822f96a255140c | line 57900 | 梅德韋傑夫 / 梅德韦杰夫 [Mei2 de2 wei2 jie2 fu1]
+  0: EN Medvedyev (name)
+     UK Медведєв (прізвище)
+  1: EN Dmitry Anatolyevich Medvedev (1965-), Russian lawyer and politician, president of Russian Federation from 2008
+     UK Дмитро Анатолійович Медведєв (1965–), російський юрист і політик, президент Російської Федерації з 2008 року
+  NOTES ["У джерелі наведено лише початок президентського терміну; формулювання історичне."]
+
+89. ID 7dc58abcf1845307 | line 77709 | 盧因 / 卢因 [Lu2 yin1]
+  0: EN Lewin (name)
+     UK Левін (прізвище)
+  1: EN Kurt Lewin (1890-1944), German-American psychologist of the Gestalt school known for his field theory of behavior
+     UK Курт Левін (1890–1944), німецько-американський психолог гештальт-школи, відомий теорією поля в поведінці
+  NOTES ["Рік смерті в джерелі помилковий: Курт Левін помер 1947 року."]
+
+90. ID a28d92c881937a05 | line 110763 | 釋迦佛 / 释迦佛 [shi4 jia1 fo2]
+  0: EN Sakyamuni Buddha (Sanskrit: sage of the Sakya)
+     UK Будда Шакʼямуні (санскр. «мудрець із роду шакʼя»)
+  1: EN Siddhartha Gautama (563-485 BC), the historical Buddha and founder of Buddhism
+     UK Сіддгартха Ґаутама (563–485 до н. е.), історичний Будда й засновник буддизму
+  NOTES ["Дати життя Будди наведено за джерелом; історичне датування дискусійне."]
+
+91. ID 6c68cc4d6183db9c | line 110765 | 釋迦牟尼佛 / 释迦牟尼佛 [Shi4 jia1 mou2 ni2 fo2]
+  0: EN Sakyamuni Buddha (Sanskrit: sage of the Sakya)
+     UK Будда Шакʼямуні (санскр. «мудрець із роду шакʼя»)
+  1: EN Siddhartha Gautama (563-485 BC), the historical Buddha and founder of Buddhism
+     UK Сіддгартха Ґаутама (563–485 до н. е.), історичний Будда й засновник буддизму
+  NOTES ["Дати життя Будди наведено за джерелом; історичне датування дискусійне."]
+
+92. ID fa87d978919f23c6 | line 111447 | 金門 / 金门 [Jin1 men2]
+  0: EN Kinmen or Quemoy islands off the Fujian coast, administered by Taiwan
+     UK острови Цзіньмень, або Кемой, біля узбережжя Фуцзяні, під управлінням Тайваню
+  1: EN Jinmen county in Quanzhou 泉州[Quan2 zhou1], Fujian, PRC
+     UK повіт Цзіньмень у складі Цюаньчжоу 泉州[Quan2 zhou1], Фуцзянь, КНР
+  NOTES ["Другий сегмент відбиває адміністративну претензію КНР; фактичне управління островами здійснює Тайвань."]
+
+93. ID 94719dc83eb74f8f | line 111449 | 金門縣 / 金门县 [Jin1 men2 xian4]
+  0: EN Kinmen County, Taiwan (the Kinmen or Quemoy islands off the Fujian coast)
+     UK повіт Цзіньмень, Тайвань (острови Цзіньмень, або Кемой, біля узбережжя Фуцзяні)
+  1: EN Jinmen county in Quanzhou 泉州[Quan2 zhou1], Fujian
+     UK повіт Цзіньмень у складі Цюаньчжоу 泉州[Quan2 zhou1], Фуцзянь
+  NOTES ["Другий сегмент відбиває адміністративну претензію КНР; фактичне управління островами здійснює Тайвань."]
+
+94. ID 518c332a7f72d61e | line 56210 | 杞婦 / 杞妇 [Qi3 fu4]
+  0: EN the wife of 杞梁[Qi3 Liang2], a senior official of the state of Qi 杞[Qi3] who died on a military expedition
+     UK дружина Ці Ляна 杞梁[Qi3 Liang2], високопосадовця держави Ці 杞[Qi3], загиблого у військовому поході
+  1: EN (fig.) a widow
+     UK (перен.) вдова
+  NOTES ["Джерело, ймовірно, плутає держави 杞 і 齊; історичну атрибуцію слід перевірити."]
+
+95. ID 79a63a25cdb7f1f8 | line 31503 | 孝廉 / 孝廉 [xiao4 lian2]
+  0: EN xiaolian, two examination subjects in Han, later a single subject in Ming and Qing
+     UK сяолянь, два напрями добору за династії Хань, згодом один іспитовий напрям за Мін і Цін
+  1: EN successful second degree candidate
+     UK кандидат, який здобув другий учений ступінь
+  NOTES ["Англійське визначення сяолянь як іспитових предметів спрощує історичну систему рекомендацій і ступенів."]
+
+96. ID 20ef145ecda15ce6 | line 61073 | 死緩 / 死缓 [si3 huan3]
+  0: EN deferred death sentence
+     UK смертний вирок із відстроченням виконання
+  1: EN commuted death sentence with forced labor and judicial review after two years (PRC) (legal)
+     UK смертний вирок, пом'якшений до примусової праці із судовим переглядом через два роки (КНР, юрид.)
+  NOTES ["Другий англійський сегмент спрощує правовий механізм: відстрочення виконання не обов'язково означає негайну заміну покарання."]
+
+97. ID 270e94a637eab1dc | line 56009 | 李斯特 / 李斯特 [Li3 si1 te4]
+  0: EN Ferenc (Franz) Liszt (1811-1886), Hungarian composer
+     UK Ференц (Франц) Ліст (1811–1886), угорський композитор
+  1: EN Joseph Lister (1883-1897), British surgeon and bacteriologist
+     UK Джозеф Лістер (1883–1897), британський хірург і бактеріолог
+  NOTES ["Дати життя Джозефа Лістера в джерелі помилкові; загальновідомі дати — 1827–1912."]
+
+98. ID 0d5be0ef8f669477 | line 99514 | 西戎 / 西戎 [Xi1 rong2]
+  0: EN the Xirong, an ancient ethnic group of Western China from the Zhou Dynasty onwards
+     UK сіжуни, давня етнічна група Західного Китаю від доби Чжоу
+  1: EN Xionites (Central Asian nomads)
+     UK хіоніти (центральноазійські кочовики)
+  NOTES ["Ототожнення сіжунів із хіонітами в другому сегменті потребує історичної перевірки."]
+
+99. ID db1a3539335b484a | line 94442 | 莫霍洛維奇不連續面 / 莫霍洛维奇不连续面 [Mo4 huo4 luo4 wei2 qi2 bu4 lian2 xu4 mian4]
+  0: EN Moho (aka Mohorovičić discontinuity, the lower boundary of the earth's lithosphere)
+     UK Мохо (поверхня Мохоровичича; у джерелі визначена як нижня межа літосфери Землі)
+  1: EN abbr. to 莫霍面[Mo4 huo4 mian4]
+     UK скорочено 莫霍面[Mo4 huo4 mian4]
+  NOTES ["У джерелі Мохо помилково названо нижньою межею літосфери; це межа земної кори й мантії."]
+
+100. ID fb917e7be7acbff5 | line 114656 | 阿普爾頓 / 阿普尔顿 [A1 pu3 er3 dun4]
+  0: EN Appleton (name)
+     UK Епплтон (прізвище)
+  1: EN Sir Edward Appleton (1892-1965), British physicist, Nobel laureate who discovered the ionosphere
+     UK сер Едвард Епплтон (1892–1965), британський фізик, нобелівський лауреат, який, за джерелом, відкрив іоносферу
+  NOTES ["Внесок Епплтона точніше пов’язаний із дослідженням іоносфери та відкриттям її шару; твердження джерела спрощене."]
+

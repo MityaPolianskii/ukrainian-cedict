@@ -1,0 +1,700 @@
+1. ID 9e86a58f731403b6 | line 99596 | 西科爾斯基 / 西科尔斯基 [Xi1 ke1 er3 si1 ji1]
+  0: EN Sikorski (name)
+     UK Сікорський (прізвище)
+  1: EN Radosław Sikorski (1950-), Polish conservative politician, foreign minister of Poland from 2007
+     UK Радослав Сікорський (1950–), польський консервативний політик, міністр закордонних справ Польщі з 2007 року
+  NOTES ["Рік народження 1950 наведено за джерелом; він, імовірно, помилковий для Радослава Сікорського."]
+
+2. ID 689eebb9fd7a7f72 | line 107611 | 逆斷層 / 逆断层 [ni4 duan4 ceng2]
+  0: EN reverse fault (geology)
+     UK зворотний розлом; підкид (геологія)
+  1: EN compression fault, where one block pushes over the other at dip of less than 45 degrees
+     UK насув: розлом стиснення, за якого один блок насувається на інший під кутом менш як 45 градусів
+  NOTES ["Другий сегмент описує насув із малим кутом, тоді як китайський термін охоплює зворотні розломи ширше."]
+
+3. ID 364a14308b95a49f | line 118205 | 革蘭氏 / 革兰氏 [Ge2 lan2 shi4]
+  0: EN Mr Gram
+     UK пан Грам
+  1: EN Dr. Hans Christian Jaochim Gram (1953-1938), Danish doctor and inventor of the Gram stain 革蘭氏染色法|革兰氏染色法
+     UK Ганс Крістіан Йоахім Грам (1853–1938), данський лікар, винахідник фарбування за Грамом 革蘭氏染色法|革兰氏染色法
+  NOTES ["У джерелі очевидна помилка року народження 1953 замість 1853; у перекладі виправлено."]
+
+4. ID bfd5601112dcbf36 | line 104904 | 趨之若鶩 / 趋之若鹜 [qu1 zhi1 ruo4 wu4]
+  0: EN to rush like ducks (idiom); the mob scrabbles madly for sth unobtainable
+     UK мчати, мов качки (ідіома); шалено юрмитися заради недосяжного
+  1: EN an unruly crowd on a wild goose chase
+     UK нестримний натовп у марній гонитві
+  NOTES ["Англійські пояснення звужують ідіому до марної гонитви; загалом китайський вислів означає масово й жадібно кидатися до чогось."]
+
+5. ID affd3bbc9901179e | line 27743 | 大公報 / 大公报 [Da4 gong1 Bao4]
+  0: EN Dagong Bao, popular newspaper name
+     UK «Даґун бао», поширена назва газет
+  1: EN Ta Kung Pao, newspaper founded 1902 in Beijing, now published in Hong Kong
+     UK «Та Кун Пао», газета, заснована 1902 року в Пекіні, нині виходить у Гонконгу
+  NOTES ["Місце заснування в джерелі сумнівне: «Та Кун Пао» зазвичай пов'язують із заснуванням у Тяньцзіні."]
+
+6. ID 58f67413386c5554 | line 97670 | 螻蛄 / 蝼蛄 [lou2 gu1]
+  0: EN mole cricket
+     UK вовчок
+  1: EN Gryllolaptaptidae, family of burrowing insects of order Orthoptera (a serious agricultural pest)
+     UK родина риючих прямокрилих Gryllolaptaptidae (небезпечні сільськогосподарські шкідники)
+  NOTES ["Назва родини Gryllolaptaptidae відтворена з джерела; стандартне написання — Gryllotalpidae."]
+
+7. ID ee5a74e1018ce1e3 | line 116631 | 難經 / 难经 [Nan4 jing1]
+  0: EN Classic on Medical Problems, c. 1st century AD
+     UK «Канон складних медичних питань», бл. I століття н. е.
+  1: EN abbr. for 黃帝八十一難經|黄帝八十一难经[Huang2 di4 Ba1 shi2 yi1 Nan4 jing1]
+     UK скор. від 黃帝八十一難經|黄帝八十一难经[Huang2 di4 Ba1 shi2 yi1 Nan4 jing1]
+  NOTES ["Назву трактату перекладено описово."]
+
+8. ID 1b17d839decd5a50 | line 120957 | 馮武 / 冯武 [Feng2 Wu3]
+  0: EN Feng Doubo or Feng Wu (1672-), calligrapher of the Ming-Qing transition
+     UK Фен Доубо, або Фен У (1672–), каліграф перехідного періоду Мін–Цін
+  1: EN also called 馮竇伯|冯窦伯[Feng2 Dou4 bo2]
+     UK також 馮竇伯|冯窦伯[Feng2 Dou4 bo2]
+  NOTES ["Джерело поєднує дату народження 1672 року з переходом Мін–Цін; хронологічна неузгодженість збережена."]
+
+9. ID 90d0a5898b4e5d42 | line 23720 | 四一二慘案 / 四一二惨案 [si4 yi1 er4 can3 an4]
+  0: EN the massacre of 12th Mar 1927
+     UK різанина 12 квітня 1927 року
+  1: EN the Shanghai coup of 12th Mar 1927 by Chiang Kai-shek against the communists
+     UK шанхайський переворот Чан Кайші проти комуністів 12 квітня 1927 року
+  NOTES ["«12th Mar» у двох сегментах джерела суперечить китайському 四一二; використано 12 квітня."]
+
+10. ID 11bf0ded35a07ed2 | line 89332 | 聖祖 / 圣祖 [Sheng4 zu3]
+  0: EN Shengzu, temple name of the second Qing emperor, known as the Kangxi Emperor (1654-1722)
+     UK Шенцзу, храмове ім’я другого імператора династії Цін, відомого як Кансі (1654–1722)
+  1: EN cf. 康熙[Kang1 xi1]
+     UK пор. 康熙[Kang1 xi1]
+  NOTES ["Порядковий номер імператора залежить від відліку: Кансі був другим цінським імператором, що правив Китаєм, але четвертим у династії загалом."]
+
+11. ID 9118926f795da1b8 | line 95137 | 葉卡捷琳娜 / 叶卡捷琳娜 [Ye4 ka3 jie2 lin2 na4]
+  0: EN Yekaterina or Ekaterina (name)
+     UK Катерина (ім'я)
+  1: EN Catherine the Great or Catherine the Second (1684-1727), Empress of Russia
+     UK Катерина Велика, або Катерина II, російська імператриця (у джерелі дати 1684–1727)
+  NOTES ["Джерело змішує Катерину II з датами Катерини I: 1684–1727 не є роками життя Катерини II."]
+
+12. ID c0f5b9af5848236f | line 27526 | 多那太羅 / 多那太罗 [Duo1 na3 tai4 luo2]
+  0: EN Donatello (c. 1386-1466)
+     UK Донателло (бл. 1386–1466)
+  1: EN Donato di Niccolò di Betto Bardi, famous early Renaissance painter and sculptor
+     UK Донато ді Нікколо ді Бетто Барді, відомий живописець і скульптор раннього Відродження
+  NOTES ["Джерело називає Донателло також живописцем; він відомий насамперед як скульптор."]
+
+13. ID 5ab8be4e0684878e | line 20388 | 吐血 / 吐血 [tu4 xie3]
+  0: EN to cough up blood
+     UK блювати або відкашлювати кров
+  1: EN (coll.) (used figuratively to indicate an extreme degree of anger or frustration etc)
+     UK (розм., перен.) вираз крайнього гніву, розпачу тощо
+  NOTES ["Китайське 吐血 насамперед означає блювання кров'ю; джерело подає відкашлювання крові."]
+
+14. ID b816a69454b72b73 | line 36846 | 巴山夜雨 / 巴山夜雨 [Ba1 shan1 ye4 yu3]
+  0: EN rain on Mt Ba (idiom); lonely in a strange land
+     UK дощ на горі Ба (ідіома); самотність на чужині
+  1: EN Evening Rain, 1980 movie about the Cultural Revolution
+     UK «Вечірній дощ», фільм 1980 року про Культурну революцію
+  NOTES ["Усталена українська назва фільму не підтверджена; подано переклад англійської назви."]
+
+15. ID 7c7a8d0c34f7e44c | line 73648 | 琉球海 / 琉球海 [Liu2 qiu2 Hai3]
+  0: EN Ryūkyū Sea
+     UK море Рюкю
+  1: EN refers to the Ryūkyū Islands 琉球群島|琉球群岛[Liu2 qiu2 Qun2 dao3] stretching from Japan to Taiwan
+     UK назва, пов'язана з островами Рюкю 琉球群島|琉球群岛[Liu2 qiu2 Qun2 dao3], що простягаються від Японії до Тайваню
+  NOTES ["У джерелі другий сегмент описує острови, хоча заголовне слово називає море."]
+
+16. ID d25d0a6a4f7e6f08 | line 83065 | 第四紀 / 第四纪 [di4 si4 ji4]
+  0: EN fourth period
+     UK четвертий період
+  1: EN quaternary (geological period covering the recent ice ages over the last 180,000 years)
+     UK четвертинний період (геологічний період останніх льодовикових епох за минулі 180 000 років)
+  NOTES ["Межі періоду в джерелі помилкові: четвертинний період почався приблизно 2,58 млн років тому."]
+
+17. ID 4634748d53388631 | line 115286 | 陵水 / 陵水 [Ling2 shui3]
+  0: EN Lingshui Lizu Autonomous County, Hainan
+     UK Ліншуй-Ліський автономний повіт, провінція Хайнань
+  1: EN abbr. for 陵水黎族自治縣|陵水黎族自治县[Ling2 shui3 Li2 zu2 Zi4 zhi4 xian4]
+     UK скор. від 陵水黎族自治縣|陵水黎族自治县[Ling2 shui3 Li2 zu2 Zi4 zhi4 xian4]
+  NOTES ["Усталене українське написання назви автономного повіту потребує перевірки."]
+
+18. ID cf45dcca3c55f525 | line 115287 | 陵水縣 / 陵水县 [Ling2 shui3 xian4]
+  0: EN Lingshui Lizu Autonomous County, Hainan
+     UK Ліншуй-Ліський автономний повіт, провінція Хайнань
+  1: EN abbr. for 陵水黎族自治縣|陵水黎族自治县[Ling2 shui3 Li2 zu2 Zi4 zhi4 xian4]
+     UK скор. від 陵水黎族自治縣|陵水黎族自治县[Ling2 shui3 Li2 zu2 Zi4 zhi4 xian4]
+  NOTES ["Усталене українське написання назви автономного повіту потребує перевірки."]
+
+19. ID 81b0127a3cdf00b3 | line 8186 | 保爾森 / 保尔森 [Bao3 er3 sen1]
+  0: EN Paulson or Powellson (name)
+     UK Полсон або Пауелсон (прізвище)
+  1: EN Henry (Hank) Paulson (1946-), US banker, US Treasury Secretary 2006-2009
+     UK Генрі (Генк) Полсон (нар. 1946), американський банкір, міністр фінансів США у 2006–2009 роках
+  NOTES ["Транслітерація прізвища Paulson/Powellson залежить від особи; у другому сегменті йдеться про Генрі Полсона."]
+
+20. ID 420a713bb17bfa48 | line 30473 | 姆拉迪奇 / 姆拉迪奇 [Mu3 la1 di2 qi2]
+  0: EN Mladić (name)
+     UK Младич (прізвище)
+  1: EN Ratko Mladić (1942-), army chief of Bosnian Serbs 1965-1996 and convicted war criminal
+     UK Ратко Младич (нар. 1942), воєначальник боснійських сербів у 1965–1996 роках і засуджений воєнний злочинець
+  NOTES ["Дати 1965–1996 у джерелі, імовірно, стосуються військової служби, а не всього періоду командування армією боснійських сербів."]
+
+21. ID b58aaac405b1e767 | line 120959 | 馮竇伯 / 冯窦伯 [Feng2 Dou4 bo2]
+  0: EN Feng Doubo or Feng Wu (1672-), calligrapher of the Ming-Qing transition
+     UK Фен Доубо, або Фен У (1672–), каліграф перехідного періоду Мін–Цін
+  1: EN also called 馮武|冯武[Feng2 Wu3]
+     UK також 馮武|冯武[Feng2 Wu3]
+  NOTES ["Джерело поєднує дату народження 1672 року з переходом Мін–Цін; хронологічна неузгодженість збережена."]
+
+22. ID 560f4b3be7958247 | line 120705 | 馬失前蹄 / 马失前蹄 [ma3 shi1 qian2 ti2]
+  0: EN lit. the horse loses its front hooves
+     UK (букв.) кінь підкошується на передні ноги
+  1: EN fig. sudden failure through miscalculation or inattentiveness
+     UK (перен.) раптова невдача через прорахунок або неуважність
+  NOTES ["Буквальний образ 馬失前蹄 означає, що кінь спіткнувся; англійське «loses its front hooves» не перекладено як фізичну втрату копит."]
+
+23. ID 231fda0d65fd7599 | line 13715 | 切尼 / 切尼 [Qie1 ni2]
+  0: EN Cheney (name)
+     UK Чейні (прізвище)
+  1: EN Richard B. "Dick" Cheney (1941-), US Republican politician, vice-president 2001-2008
+     UK Річард Б. «Дік» Чейні (1941–), американський політик-республіканець, віцепрезидент у 2001–2008 роках (за джерелом)
+  NOTES ["Дати каденції та відкриту дату життя збережено за джерелом; біографічні дані потребують перевірки."]
+
+24. ID 5832bdb9eac1f496 | line 43705 | 戈爾巴喬夫 / 戈尔巴乔夫 [Ge1 er3 ba1 qiao2 fu1]
+  0: EN Gorbachev
+     UK Горбачов
+  1: EN Mikhail Sergeyevich Gorbachev (1931–2022), last president of the Soviet Union 1991–1995
+     UK Михайло Сергійович Горбачов (1931–2022), останній президент Радянського Союзу, 1990–1991
+  NOTES ["Джерело помилково подає період президентства 1991–1995; посаду президента СРСР Горбачов обіймав у 1990–1991 роках."]
+
+25. ID 67202d819db36295 | line 94559 | 菟 / 菟 [tu4]
+  0: EN dodder (Cuscuta sinensis, a parasitic vine with seeds having medicinal uses)
+     UK повитиця (Cuscuta sinensis, паразитична витка рослина з лікарським насінням)
+  1: EN also called 菟絲子|菟丝子
+     UK також 菟絲子|菟丝子
+  NOTES ["Наведене в джерелі латинське написання Cuscuta sinensis потребує таксономічної перевірки."]
+
+26. ID b21eda94a08fbe2e | line 15017 | 劉禪 / 刘禅 [Liu2 Shan4]
+  0: EN Liu Shan (207-271), son of Liu Bei, reigned as Shu Han emperor 233-263
+     UK Лю Шань (207–271), син Лю Бея, імператор Шу-Хань у 233–263 роках (за джерелом)
+  1: EN Taiwan pr. [Liu2 Chan2]
+     UK тайванська вимова: [Liu2 Chan2]
+  NOTES ["У джерелі початок правління зазначено як 233; загальноприйнята дата — 223."]
+
+27. ID 0c3050ebab2b8375 | line 121652 | 體恤入微 / 体恤入微 [ti3 xu4 ru4 wei1]
+  0: EN to emphasize down to last detail (idiom); to show every possible consideration
+     UK (ідіома) виявляти турботу до найдрібніших деталей; бути якнайуважнішим
+  1: EN meticulous care
+     UK дбайливе піклування
+  NOTES ["Англійське emphasize, імовірно, помилкове замість empathize; зміст визначено за китайською ідіомою."]
+
+28. ID 3118488cd8651b2d | line 22869 | 單眼 / 单眼 [dan1 yan3]
+  0: EN ommatidium (single component of insect's compound eye)
+     UK оматидій (окрема складова фасеткового ока комахи)
+  1: EN one eye (i.e. one's left or right eye)
+     UK одне око (ліве або праве)
+  NOTES ["Джерело ототожнює 單眼 з оматидієм; у зоології 單眼 зазвичай означає просте вічко, не складову фасеткового ока."]
+
+29. ID e0147d21ea0a5078 | line 90542 | 胸椎 / 胸椎 [xiong1 zhui1]
+  0: EN thoracic vertebra
+     UK грудний хребець
+  1: EN the twelve thoracic vertebras behind the ribcage of humans and most mammals
+     UK дванадцять грудних хребців позаду грудної клітки в людини й більшості ссавців
+  NOTES ["Кількість грудних хребців у ссавців варіює; твердження джерела про дванадцять у більшості видів неточне."]
+
+30. ID 98be9ae4f566472a | line 49011 | 摩羯 / 摩羯 [Mo2 jie2]
+  0: EN Capricorn (star sign)
+     UK Козоріг (знак зодіаку)
+  1: EN northern people in classical times, a branch of the Huns or Xiongnu 匈奴
+     UK північний народ давнини, відгалуження гунів або хунну 匈奴
+  NOTES ["Друге значення незвичне для 摩羯; можливе змішання з назвою народу 羯 у джерелі."]
+
+31. ID 558f7ffe38ce9a1e | line 83593 | 篝火狐鳴 / 篝火狐鸣 [gou1 huo3 hu2 ming2]
+  0: EN to tell fox ghost stories around a bonfire and incite rebellion
+     UK розповідати біля багаття історії про лисячих духів, підбурюючи до повстання
+  1: EN an uprising is afoot (idiom)
+     UK назріває повстання (ідіома)
+  NOTES ["Походження вислову пов'язане з вогнями та імітацією лисячих криків; опис у джерелі може бути неточним."]
+
+32. ID 9b4d67bbf884021b | line 94290 | 荻 / 荻 [di2]
+  0: EN Anaphalis yedoensis (pearly everlasting reed)
+     UK анафаліс (Anaphalis yedoensis), у джерелі описаний як очеретяна рослина
+  1: EN used in Japanese names with phonetic value Ogi
+     UK уживається в японських іменах із читанням Оґі
+  NOTES ["荻 звичайно позначає міскантус; ботанічне ототожнення Anaphalis yedoensis та опис у джерелі сумнівні."]
+
+33. ID 30b4c621bf76f2ea | line 97646 | 螺旋體 / 螺旋体 [luo2 xuan2 ti3]
+  0: EN Spirochaetes, phylum of extremophile bacteria
+     UK спірохети (Spirochaetes), тип бактерій, у джерелі описаних як екстремофільні
+  1: EN spiral-shaped bacterium, e.g. causing syphilis
+     UK спіралеподібна бактерія, наприклад збудник сифілісу
+  NOTES ["Загальна характеристика спірохет як екстремофілів у джерелі неточна."]
+
+34. ID 0193c0d6de6d6890 | line 121189 | 騎驢找驢 / 骑驴找驴 [qi2 lu:2 zhao3 lu:2]
+  0: EN lit. to search for the mule while riding on it (idiom)
+     UK (букв., ідіома) шукати осла, сидячи на ньому верхи
+  1: EN fig. to look for what one already has
+     UK (перен.) шукати те, що вже маєш
+  NOTES ["У джерелі mule, але китайське 驢 позначає осла; буквальний образ передано за китайським текстом."]
+
+35. ID 55188c0cbecdba83 | line 23754 | 四大天王 / 四大天王 [si4 da4 tian1 wang2]
+  0: EN the four heavenly kings (Sanskrit vajra)
+     UK чотири небесні царі (санскр. vajra, за джерелом)
+  1: EN the four guardians or warrior attendants of Buddha
+     UK чотири охоронці, або воїни-супутники Будди
+  NOTES ["Санскритське vajra у джерелі не є назвою Чотирьох небесних царів; відповідник сумнівний."]
+
+36. ID 4299ad592aef4743 | line 87787 | 羅琳 / 罗琳 [Luo2 lin2]
+  0: EN Rowling (name)
+     UK Ролінґ (прізвище)
+  1: EN Joanne Kathleen Rowling (1965-), author of the Harry Potter series of novels
+     UK Джоан Кетлін Ролінґ (нар. 1965), авторка романів про Гаррі Поттера
+  NOTES ["«Кетлін» — ім'я, використане в літературному псевдонімі; у джерелі його подано як частину особового імені."]
+
+37. ID b5b260b3c1d89e64 | line 122179 | 髮菜 / 发菜 [fa4 cai4]
+  0: EN long thread moss (Nostoc flagelliforme), an edible algae
+     UK їстівна нитчаста водорість Nostoc flagelliforme
+  1: EN also called faat choy or hair moss
+     UK також фат-чой, або «волосяний мох»
+  NOTES ["Nostoc flagelliforme нині класифікують як ціанобактерію; назву «водорість» збережено відповідно до джерела."]
+
+38. ID 72d9a6fd7ee51c6f | line 67094 | 湯川 / 汤川 [Tang1 chuan1]
+  0: EN Yukawa (name)
+     UK Юкава (прізвище)
+  1: EN YUKAWA Hideki (1907-1988), Japanese theoretical physicist and Nobel laureate
+     UK Юкава Хідекі (1907–1988), японський фізик-теоретик, нобелівський лауреат
+  NOTES ["Джерело подає 1988 як рік смерті; дату слід перевірити."]
+
+39. ID 3451a0e686b2788a | line 74787 | 甬 / 甬 [tong3]
+  0: EN variant of 桶[tong3], bucket
+     UK варіант 桶[tong3]; відро
+  1: EN (classifier) cubic dry measure (5 pecks 五斗, approx half-liter)
+     UK (лічильне слово) міра об'єму сипких речовин: п'ять доу 五斗, за джерелом — приблизно пів літра
+  NOTES ["Співвідношення «п'ять доу» і «пів літра» у джерелі неузгоджене."]
+
+40. ID ba79b3e0ae7e7ee0 | line 96432 | 藤森 / 藤森 [Teng2 sen1]
+  0: EN Fujimori (Japanese surname)
+     UK Фудзіморі (японське прізвище)
+  1: EN Alberto Ken'ya Fujimori (1938–), president of Peru 1990–2000
+     UK Альберто Кен'я Фухіморі (1938 р. н.), президент Перу у 1990–2000 роках
+  NOTES ["Рік смерті Альберто Фухіморі не зазначений у джерелі; біографічні дані застарілі."]
+
+41. ID 6d4b7088e664dd50 | line 87762 | 羅格 / 罗格 [Luo2 ge2]
+  0: EN Logue or Rogge (name)
+     UK Лоґ або Роґґе (прізвище)
+  1: EN Jacques Rogge, president of International Olympic Committee (IOC)
+     UK Жак Роґґе, президент Міжнародного олімпійського комітету (МОК)
+  NOTES ["Посаду наведено історично, як у джерелі: Жак Роґґе очолював МОК у 2001–2013 роках."]
+
+42. ID cc83dda1f72e025c | line 94929 | 萬戶侯 / 万户侯 [wan4 hu4 hou2]
+  0: EN Marquis (highest Han dynasty ducal title meaning lord of 10,000 households)
+     UK маркіз (найвищий аристократичний титул доби Хань зі значенням «володар десяти тисяч дворів»)
+  1: EN high nobles
+     UK вища знать
+  NOTES ["Англійська характеристика титулу як найвищого герцогського титулу доби Хань спрощена; потрібна історична перевірка."]
+
+43. ID 03280807df38ee7c | line 116999 | 雷鳥 / 雷鸟 [lei2 niao3]
+  0: EN capercaillie (Lagopus, several species)
+     UK біла куріпка (кілька видів роду Lagopus)
+  1: EN thunderbird (in native American mythology)
+     UK громовий птах (у міфології корінних народів Америки)
+  NOTES ["Англійське «capercaillie» суперечить роду Lagopus; переклад спирається на латинську назву й китайський термін."]
+
+44. ID 23c0e7ffcc74c8ee | line 65507 | 海納百川 / 海纳百川 [hai3 na4 bai3 chuan1]
+  0: EN all rivers run into the sea
+     UK усі річки впадають у море
+  1: EN use different means to obtain the same result (idiom)
+     UK різними шляхами досягати одного результату (ідіома, за джерелом)
+  NOTES ["Друге глосування сумнівне: китайська ідіома зазвичай наголошує на широті й терпимості, як море, що приймає всі річки."]
+
+45. ID cdf6b1159b7d9c28 | line 92773 | 航空母艦戰鬥群 / 航空母舰战斗群 [hang2 kong1 mu3 jian4 zhan4 dou4 qun2]
+  0: EN carrier-based vanguard group (CBVG)
+     UK авіаносна передова група (CBVG)
+  1: EN naval battle group led by an aircraft carrier
+     UK бойова група кораблів на чолі з авіаносцем
+  NOTES ["Перша англійська назва та абревіатура нетипові; китайський термін звичайно означає авіаносну бойову групу."]
+
+46. ID 331dab12b319cb84 | line 28334 | 大紅鼻子 / 大红鼻子 [da4 hong2 bi2 zi5]
+  0: EN rhinophyma (red nose, often related to rosacea or excessive alcohol)
+     UK ринофіма (червоний потовщений ніс, у джерелі пов'язаний із розацеа або надмірним алкоголем)
+  1: EN brandy nose
+     UK «п'яний ніс»
+  NOTES ["Зв'язок із надмірним уживанням алкоголю в джерелі може відбивати стереотип; ринофіма є проявом розацеа."]
+
+47. ID 39d8c264234cd721 | line 97691 | 蟈螽 / 蝈螽 [guo1 zhong1]
+  0: EN insect of the Gampsocleis genus (grasshoppers and crickets)
+     UK комаха роду Gampsocleis (коники та, за джерелом, цвіркуни)
+  1: EN Gampsocleis sinensis
+     UK Gampsocleis sinensis
+  NOTES ["Англійський опис роду змішує коників із цвіркунами."]
+
+48. ID a45c0ec5cb79afa8 | line 83911 | 米利班德 / 米利班德 [Mi3 li4 ban1 de2]
+  0: EN Milliband (name)
+     UK Мілібенд (прізвище)
+  1: EN Ed Milliband, UK labor politician, opposition leader from 2010
+     UK Ед Мілібенд, британський лейбористський політик, лідер опозиції від 2010 року
+  NOTES ["Відомості джерела про посаду історичні: його лідерство завершилося 2015 року."]
+
+49. ID bbb774a290c2553b | line 97671 | 螻蛄科 / 蝼蛄科 [lou2 gu1 ke1]
+  0: EN Gryllolaptaptidae family of burrowing insects of order Orthoptera
+     UK родина риючих прямокрилих Gryllolaptaptidae
+  1: EN mole crickets
+     UK вовчки
+  NOTES ["Назва родини Gryllolaptaptidae відтворена з джерела; стандартне написання — Gryllotalpidae."]
+
+50. ID d3cee77e8a8f1b76 | line 99478 | 西學 / 西学 [Xi1 xue2]
+  0: EN Western learning (intellectual movement in the late Qing)
+     UK західні знання (інтелектуальний рух пізньої Цін)
+  1: EN also called 洋務運動|洋务运动
+     UK також називається 洋務運動|洋务运动
+  NOTES ["Західні знання та рух самопосилення не є точними синонімами; другий сегмент збережено за джерелом."]
+
+51. ID 78c8f1393097034c | line 20978 | 周朝 / 周朝 [Zhou1 chao2]
+  0: EN Zhou Dynasty
+     UK династія Чжоу
+  1: EN Western Zhou 西周 (1046-771 BC) and Eastern Zhou 東周|东周 (770-221 BC)
+     UK Західна Чжоу 西周 (1046–771 до н. е.) і Східна Чжоу 東周|东周 (770–221 до н. е., за джерелом)
+  NOTES ["Датування кінця Східної Чжоу у джерелі неточне; загальноприйнята дата — 256 рік до н. е."]
+
+52. ID d4e6217e9f157914 | line 37261 | 希爾 / 希尔 [Xi1 er3]
+  0: EN Hill (name)
+     UK Гілл (прізвище)
+  1: EN Christopher Hill, US undersecretary of state of East Asian affairs
+     UK Крістофер Гілл, заступник держсекретаря США з питань Східної Азії
+  NOTES ["Назву посади подано за джерелом; точний ранг і період не уточнено."]
+
+53. ID a75f5a97cc62937a | line 46618 | 拜登 / 拜登 [Bai4 deng1]
+  0: EN Biden (name)
+     UK Байден (прізвище)
+  1: EN Joe Biden (1942-), US president (2021-), vice-president 2009-2017
+     UK Джо Байден (нар. 1942), президент США від 2021 року, віцепрезидент у 2009–2017 роках
+  NOTES ["Джерело не вказує кінця президентського терміну; біографічні дати потребують актуалізації, це не твердження про нинішню посаду."]
+
+54. ID 59275deeeaad4419 | line 69952 | 無患子 / 无患子 [wu2 huan4 zi3]
+  0: EN Sapindales
+     UK сапіндоцвіті (Sapindales)
+  1: EN order of scented bushes and trees, includes citrus fruit and lychee
+     UK порядок пахучих кущів і дерев, до якого належать цитрусові та лічі
+  NOTES ["Китайське слово зазвичай означає сапіндус або його плоди, тоді як джерело описує весь порядок Sapindales; таксономічний рівень суперечливий."]
+
+55. ID 2a64c5d884865ebf | line 110950 | 重眼皮 / 重眼皮 [chong2 yan3 pi2]
+  0: EN double eyelid
+     UK подвійна верхня повіка; верхня повіка зі складкою
+  1: EN epicanthal fold of upper eyelid (characteristic of Asian people)
+     UK складка верхньої повіки (у джерелі названа епікантусом, характерним для азійських народів)
+  NOTES ["Епікантус і складка, що утворює «подвійну повіку», анатомічно різні; другий англійський сегмент неточний."]
+
+56. ID bdbd2b89d9c39ff9 | line 110951 | 重眼皮兒 / 重眼皮儿 [chong2 yan3 pi2 r5]
+  0: EN double eyelid
+     UK подвійна верхня повіка; верхня повіка зі складкою
+  1: EN epicanthal fold of upper eyelid (characteristic of Asian people)
+     UK складка верхньої повіки (у джерелі названа епікантусом, характерним для азійських народів)
+  NOTES ["Епікантус і складка, що утворює «подвійну повіку», анатомічно різні; другий англійський сегмент неточний."]
+
+57. ID 1841e0d47d0aa744 | line 114423 | 防風 / 防风 [fang2 feng1]
+  0: EN to protect from wind
+     UK захищати від вітру
+  1: EN fangfeng (Saposhnikovia divaricata), its root used in TCM
+     UK фанфен (Saposhnikovia divaricata), корінь якого застосовують у традиційній китайській медицині
+  NOTES ["Українська ботанічна назва Saposhnikovia divaricata не підтверджена; збережено китайську назву й латинську ідентифікацію."]
+
+58. ID 4cd8d540a5304252 | line 40727 | 德意志聯邦共和國 / 德意志联邦共和国 [De2 yi4 zhi4 Lian2 bang1 Gong4 he2 guo2]
+  0: EN Federal Republic of Germany
+     UK Федеративна Республіка Німеччина
+  1: EN former West Germany 1945-1990, now simply Germany
+     UK колишня Західна Німеччина (1945–1990), тепер просто Німеччина
+  NOTES ["Джерело вказує 1945 рік; ФРН як держава заснована 1949 року. Дату джерела збережено з застереженням."]
+
+59. ID 2f0d72435de20d0d | line 111338 | 金瓜 / 金瓜 [jin1 gua1]
+  0: EN pumpkin (Gymnopetalum chinense)
+     UK гарбуз; Gymnopetalum chinense
+  1: EN a mace with a brass head resembling a pumpkin
+     UK булава з латунною головкою у формі гарбуза
+  NOTES ["Англійське pumpkin і латинське Gymnopetalum chinense не є точними таксономічними відповідниками."]
+
+60. ID 1897c887bbca00f7 | line 44224 | 戾龍 / 戾龙 [li4 long2]
+  0: EN mythical evil serpent
+     UK міфічний злий змій
+  1: EN evil dragon in Western mythology, cf Revelations 14:12
+     UK злий дракон західної міфології; пор. Одкровення 14:12
+  NOTES ["Біблійне посилання джерела потребує перевірки: Одкровення 14:12 не є описом дракона."]
+
+61. ID 47d061054ea67341 | line 117657 | 靈貓類 / 灵猫类 [ling2 mao1 lei4]
+  0: EN a civet (arboreal cat)
+     UK цивета (деревний хижий ссавець)
+  1: EN viverrid (mammal group including mongoose and civet)
+     UK віверові (за джерелом, група охоплює мангустів і цивет)
+  NOTES ["Джерело включає мангустів до віверових; сучасна класифікація зазвичай виділяє їх в окрему родину."]
+
+62. ID 8ed4af6840e61977 | line 35224 | 尾蚴 / 尾蚴 [wei3 you4]
+  0: EN tailed larva
+     UK хвостата личинка
+  1: EN Cercaria (microscopic larva of parasitic Miracidium flatworm)
+     UK церкарія (мікроскопічна личинка паразитичного плоского черва)
+  NOTES ["Джерело помилково називає Miracidium червом; мірацидій є іншою личинковою стадією трематод."]
+
+63. ID 90428108f26d6258 | line 84839 | 紅軍 / 红军 [Hong2 jun1]
+  0: EN Red Army (1928-1937), predecessor of the PLA
+     UK Червона армія Китаю (1928–1937), попередниця НВАК
+  1: EN (Soviet) Red Army (1917-1946)
+     UK радянська Червона армія (1917–1946)
+  NOTES ["Початкову дату радянської Червоної армії 1917 подано за джерелом; офіційне заснування зазвичай датують 1918 роком."]
+
+64. ID abfb01dd3d4cbdf9 | line 116238 | 雙流 / 双流 [Shuang1 liu2]
+  0: EN Shuangliu county in Chengdu 成都[Cheng2 du1], Sichuan
+     UK повіт Шуанлю в Ченду 成都[Cheng2 du1], Сичуань
+  1: EN Chengdu's main airport
+     UK головний аеропорт Ченду
+  NOTES ["Адміністративний статус повіту й означення аеропорту як головного збережено за джерелом; можливі застарілі дані."]
+
+65. ID 19fd5a5a426384d2 | line 65642 | 涅 / 涅 [nie4]
+  0: EN (literary) alunite (formerly used as a black dye)
+     UK (літ.) алуніт, колись уживаний як чорний барвник
+  1: EN (literary) to dye black
+     UK (літ.) фарбувати в чорне
+  NOTES ["Джерело ототожнює речовину з алунітом; мінерал, що мається на увазі як давній чорний барвник, потребує уточнення."]
+
+66. ID 66e9cdab4cd47425 | line 93229 | 芨 / 芨 [ji2]
+  0: EN Bletilla hyacinthina (mucilaginous)
+     UK блетила гіацинтова (Bletilla hyacinthina), слизиста рослина
+  1: EN Acronym for the Chinese Elder tree 菫草
+     UK скорочена назва китайської бузини 菫草
+  NOTES ["Друге ботанічне ототожнення й формулювання «скорочена назва» в джерелі неясні."]
+
+67. ID 382aa04e136dd0b2 | line 117656 | 靈貓 / 灵猫 [ling2 mao1]
+  0: EN civet (arboreal cat)
+     UK цивета (деревний хижий ссавець)
+  1: EN viverrid (mammal group including mongoose and civet)
+     UK віверовий ссавець (за джерелом, група охоплює мангустів і цивет)
+  NOTES ["Джерело включає мангустів до віверових; сучасна класифікація зазвичай виділяє їх в окрему родину."]
+
+68. ID ec416cba2844647c | line 75222 | 畝 / 亩 [mu3]
+  0: EN mu, Chinese unit of area equal to 1
+     UK му; китайська одиниця площі, що дорівнює одній
+  1: EN 15 hectare (about 667 square meters)
+     UK п'ятнадцятій гектара (близько 667 квадратних метрів)
+  NOTES ["У джерелі дріб 1/15 розділено між двома сегментами; межу сегментів збережено."]
+
+69. ID 2389d1d11b246696 | line 28451 | 大觀園 / 大观园 [Da4 guan1 yuan2]
+  0: EN Prospect Garden
+     UK Сад споглядання
+  1: EN Grand View Garden, a garden in Dream of the Red Chamber
+     UK Сад величного видовища, сад у романі «Сон у червоному теремі»
+  NOTES ["Усталені українські варіанти назви саду не встановлено; англійські варіанти передано описово."]
+
+70. ID a5e7a690eac59f09 | line 35025 | 尜尜 / 尜尜 [ga2 ga5]
+  0: EN toy formed of a spindle with two sharp ends
+     UK іграшка у формі веретена з двома загостреними кінцями
+  1: EN brochette (such as corncob)
+     UK веретеноподібний предмет (напр., кукурудзяний качан)
+  NOTES ["Англійське «brochette» неясне; китайське слово й приклад качана радше вказують на веретеноподібну форму."]
+
+71. ID f244a077cceab819 | line 25941 | 基質 / 基质 [ji1 zhi4]
+  0: EN base solvent (of chemical compound)
+     UK основний розчинник хімічної сполуки
+  1: EN stroma (framing biological tissue)
+     UK строма, опорна тканина
+  NOTES ["Перший джерельний сегмент base solvent неточний або надто вузький для 基質, звичайного терміна «матриця; субстрат»."]
+
+72. ID 3fa2edd862740f63 | line 123954 | 黃白交點 / 黄白交点 [huang2 bai2 jiao1 dian3]
+  0: EN ecliptic line
+     UK лінія екліптики
+  1: EN intersection of the ecliptic with the moon's orbit plane
+     UK перетин екліптики з площиною місячної орбіти; місячний вузол
+  NOTES ["Джерело змішує лінію екліптики та її перетин із площиною місячної орбіти; китайська лексема позначає місячний вузол."]
+
+73. ID b838d3c637a075d9 | line 41866 | 恐鳥 / 恐鸟 [kong3 niao3]
+  0: EN monstrous bird
+     UK страхітливий птах
+  1: EN moa (genus Dinornithidae, extinct bird of New Zealand)
+     UK моа (Dinornithidae, вимерлі птахи Нової Зеландії)
+  NOTES ["Джерело помилково називає Dinornithidae родом; у перекладі ранг не уточнено."]
+
+74. ID 03239e6d762f4890 | line 65987 | 淘客 / 淘客 [tao2 ke4]
+  0: EN talk (loanword)
+     UK розмова (запозичення)
+  1: EN chatline of PRC Internet company Taobao, taokshop.com
+     UK чат китайської інтернет-компанії Taobao, taokshop.com
+  NOTES ["Подане джерелом значення назви чату та запозичення потребує перевірки."]
+
+75. ID ddfa0588c24ceb01 | line 88969 | 耍私情 / 耍私情 [shua3 si1 qing2]
+  0: EN the play of passions
+     UK гра пристрастей
+  1: EN carried away by passion (e.g. to commit a crime)
+     UK піддатися пристрасті (наприклад, скоїти злочин)
+  NOTES ["Рідкісний вислів; значення джерела «гра пристрастей» потребує звіряння з контекстом китайського вживання."]
+
+76. ID 0350fecb90f4cf1c | line 93781 | 英噸 / 英吨 [Ying1 dun1]
+  0: EN tonne
+     UK тонна
+  1: EN imperial or US tonne, equal to 2240 pounds or 1.016 metric tons
+     UK британська, або довга, тонна — 2240 фунтів, або 1,016 метричної тонни
+  NOTES ["Джерело називає одиницю також американською; звичайна американська коротка тонна дорівнює 2000 фунтів, а наведене значення стосується довгої тонни."]
+
+77. ID 8abcf6f862ec36fd | line 106713 | 轉輪王 / 转轮王 [Zhuan3 lun2 Wang2]
+  0: EN Chakravarti raja (Sanskrit: King of Kings)
+     UK чакравартін (санскрит: цар царів)
+  1: EN emperor in Hindu mythology
+     UK імператор в індуїстській міфології
+  NOTES ["Етимологічне пояснення «цар царів» відтворено за джерелом; буквальне значення санскритського титулу повʼязане з обертанням колеса."]
+
+78. ID 7bc6a53b9ba0b1cf | line 106715 | 轉輪聖王 / 转轮圣王 [Zhuan4 lun2 sheng4 Wang2]
+  0: EN Chakravarti raja (Sanskrit: King of Kings)
+     UK чакравартін (санскрит: цар царів)
+  1: EN emperor in Hindu mythology
+     UK імператор в індуїстській міфології
+  NOTES ["Етимологічне пояснення «цар царів» відтворено за джерелом; буквальне значення санскритського титулу повʼязане з обертанням колеса."]
+
+79. ID 59f53360a223d0b2 | line 88039 | 美智子 / 美智子 [Mei3 zhi4 zi3]
+  0: EN Michiko, Japanese female given name
+     UK Мітіко, японське жіноче ім'я
+  1: EN Empress Michiko of Japan (1934-)
+     UK імператриця Японії Мітіко (нар. 1934)
+  NOTES ["Титул у джерелі історичний: з 2019 року Мітіко є почесною імператрицею."]
+
+80. ID 43114c16ad286aa2 | line 113087 | 長夜難明 / 长夜难明 [chang2 ye4 nan2 ming2]
+  0: EN lit. many nights under a harsh moon
+     UK букв. довга ніч, якій важко дочекатися світанку
+  1: EN long years of oppression (idiom)
+     UK довгі роки гноблення (ідіома)
+  NOTES ["Буквальна англійська глоса «many nights under a harsh moon» не відповідає китайському вислову; переклад спирається на китайський текст."]
+
+81. ID aa80476fe575214c | line 71664 | 牛溲馬勃 / 牛溲马勃 [niu2 sou1 ma3 bo2]
+  0: EN cow's piss, horse's ulcer (idiom); worthless nonsense
+     UK коров'яча сеча, кінська виразка (ідіома); нікчемна маячня
+  1: EN insignificant
+     UK незначний
+  NOTES ["Буквальний англійський глос «horse's ulcer» сумнівний: 馬勃 зазвичай позначає гриб-дощовик; буквальне тлумачення потребує перевірки."]
+
+82. ID 53c9919e434aee35 | line 120308 | 餾分 / 馏分 [liu2 fen4]
+  0: EN fraction (of a distillate)
+     UK фракція дистиляту
+  1: EN key (one component part of a distillate)
+     UK окремий складник дистиляту
+  NOTES ["Англійське key у значенні складника дистиляту нетипове; перекладено за поясненням у дужках."]
+
+83. ID 214f21d109d0e841 | line 123516 | 鹽酸克侖特羅 / 盐酸克仑特罗 [yan2 suan1 ke4 lun2 te4 luo2]
+  0: EN clenbuterol hydrochloride (diet pill that burns fat)
+     UK кленбутеролу гідрохлорид (у джерелі: препарат для схуднення, що спалює жир)
+  1: EN e.g. Spiropent
+     UK наприклад «Спіропент»
+  NOTES ["Медичне тлумачення джерела як засобу для схуднення не є підтвердженням показань чи безпеки застосування; потребує фахової перевірки."]
+
+84. ID acca4a7851b1d309 | line 25645 | 埃蕾 / 埃蕾 [ai1 lei3]
+  0: EN centaury herb with flowers (TCM)
+     UK трава золототисячника з квітками (традиц. кит. медицина)
+  1: EN Herba Centaurii altaici cum flore
+     UK Herba Centaurii altaici cum flore, латинська назва лікарської сировини
+  NOTES ["Точний ботанічний відповідник лікарської сировини потребує перевірки."]
+
+85. ID 10106e80334171f4 | line 12402 | 冏 / 冏 [jiong3]
+  0: EN velvetleaf (Abutilon avicennae), plant of the jute family
+     UK канатник (Abutilon avicennae), рослина з родини джуту
+  1: EN bright
+     UK яскравий
+  NOTES ["У джерелі рослину віднесено до «родини джуту»; це не уточнена сучасна ботанічна класифікація. Латинську назву збережено."]
+
+86. ID b1d97a4e4dde0e8a | line 42287 | 情急智生 / 情急智生 [qing2 ji2 zhi4 sheng1]
+  0: EN inspiration in a moment of desperation (idiom)
+     UK винахідливість у хвилину розпачу (ідіома)
+  1: EN also written 情急之下
+     UK також пишеться 情急之下
+  NOTES ["Джерело подає 情急之下 як альтернативне написання, хоча цей вислів означає «у хвилину розпачу», без складника винахідливості."]
+
+87. ID c1dc0a670a4b7ae1 | line 48292 | 提督 / 提督 [ti2 du1]
+  0: EN the local commander
+     UK місцевий командувач
+  1: EN provincial governor (in Qing and Ming times)
+     UK провінційний губернатор (за династій Цін і Мін)
+  NOTES ["Джерельне provincial governor неточне: 提督 насамперед військова посада командувача, а не цивільного губернатора."]
+
+88. ID f83b8c714132c2d2 | line 66501 | 清拆戶 / 清拆户 [qing1 chai1 hu4]
+  0: EN demolition of homes
+     UK знесення житла
+  1: EN to destroy homes (for new building projects)
+     UK зносити будинки під нову забудову
+  NOTES ["Глоси джерела описують знесення, але кінцевий компонент китайського слова вказує на домогосподарства; потрібне уточнення значення."]
+
+89. ID 5edbc7e9dc0cc20e | line 58080 | 梵天 / 梵天 [Fan4 tian1]
+  0: EN Nirvana (in Buddhist scripture)
+     UK нірвана (у буддійських писаннях)
+  1: EN Lord Brahma (the Hindu Creator)
+     UK бог Брахма (творець в індуїзмі)
+  NOTES ["Значення «нірвана» у джерелі нетипове: 梵天 зазвичай означає Брахму або його небесний світ."]
+
+90. ID e3d6c40d9cc660fa | line 106649 | 轉法輪 / 转法轮 [zhuan3 fa3 lun2]
+  0: EN to transmit Buddhist teaching
+     UK передавати буддійське вчення
+  1: EN chakram or chakka (throwing disk)
+     UK чакрам, або чакка, метальний диск (так у джерелі)
+  NOTES ["Другий англійський сенс про метальний диск не узгоджується з буддійським 轉法輪; його збережено з явною позначкою джерела."]
+
+91. ID 829756bb66c2786c | line 110389 | 酚醛 / 酚醛 [fen1 quan2]
+  0: EN phenolic aldehyde
+     UK фенолальдегідна сполука
+  1: EN phenolic resin (used to manufacture bakelite)
+     UK фенольна смола (для виготовлення бакеліту)
+  NOTES ["Англійське phenolic aldehyde нечітке; в цьому терміні йдеться про фенолальдегідні сполуки або смолу."]
+
+92. ID edc52a897a94176a | line 52827 | 旬始 / 旬始 [xun2 shi3]
+  0: EN comet from Saturn, traditionally described as yellow
+     UK Сюньши, комета, пов'язувана із Сатурном і традиційно описувана як жовта
+  1: EN evil omen
+     UK лихе знамення
+  NOTES ["Точне астрономічне ототожнення давньої назви 旬始 невизначене."]
+
+93. ID eeacf851b92be5c2 | line 78150 | 盼星星盼月亮 / 盼星星盼月亮 [pan4 xing1 xing1 pan4 yue4 liang4]
+  0: EN to wish for the stars and the moon
+     UK чекати зірок і місяця
+  1: EN to have unreal expectations
+     UK з нетерпінням очікувати
+  NOTES ["Другий англійський сегмент про нереалістичні очікування не відповідає звичайному китайському значенню; передано напружене очікування."]
+
+94. ID 3e38b6a874061831 | line 93619 | 苣蕒菜 / 苣荬菜 [qu3 mai5 cai4]
+  0: EN endive (Cichorium endivia)
+     UK ендівій (Cichorium endivia)
+  1: EN field sowthistle (Sonchus arvensis)
+     UK осот польовий (Sonchus arvensis)
+  NOTES ["Джерело наводить дві різні рослини; точність першого ототожнення для цього китайського слова потребує перевірки."]
+
+95. ID f30de5c011fb076a | line 34335 | 對頂角 / 对顶角 [dui4 ding3 jiao3]
+  0: EN angle to the vertical
+     UK вертикальний кут
+  1: EN angle (between two lines or two planes)
+     UK кут, утворений перетином прямих або площин
+  NOTES ["Джерело неточне: 對頂角 означає вертикальні кути, а не кут до вертикалі; згадка площин також потребує перевірки."]
+
+96. ID 81805d5c24e08a14 | line 110088 | 鄦 / 鄦 [Xu3]
+  0: EN surname Xu
+     UK Сюй (прізвище)
+  1: EN vassal state during the Zhou Dynasty (1046–221 BC)
+     UK васальна держава доби Чжоу (1046–221 до н. е.)
+  NOTES ["Дата завершення династії Чжоу в джерелі подана як 221 до н. е.; загальноприйнята дата — 256 до н. е."]
+
+97. ID e2b943eb497a4732 | line 120939 | 馬鹿易形 / 马鹿易形 [ma3 lu4 yi4 xing2]
+  0: EN to distinguish horse and deer easily
+     UK легко відрізняти коня від оленя
+  1: EN to know right from wrong
+     UK розрізняти правильне й хибне
+  NOTES ["Значення ідіоми в англійському джерелі передано буквально; тлумачення потребує окремої лексикографічної перевірки."]
+
+98. ID f4a3fd6c41f3cf2c | line 25552 | 垚 / 垚 [yao2]
+  0: EN variant of 堯|尧, legendary emperor Yao, c. 2200 BC
+     UK варіант 堯|尧, легендарний імператор Яо, близько 2200 року до н. е.
+  1: EN embankment
+     UK насип
+  NOTES ["Значення «варіант 堯» сумнівне для 垚; джерело потребує перевірки."]
+
+99. ID 1e448bf0443b0c4c | line 26269 | 塌棵菜 / 塌棵菜 [ta1 ke1 cai4]
+  0: EN Brassica narinosa (broadbeaked mustard)
+     UK Brassica narinosa, різновид листової капусти
+  1: EN Chinese flat cabbage
+     UK китайська пласка капуста, татсой
+  NOTES ["Назву Brassica narinosa відтворено за джерелом; таксономічний статус потребує перевірки."]
+
+100. ID 51c7c5ed8e62893c | line 59703 | 橫結腸 / 横结肠 [heng2 jie2 chang2]
+  0: EN transverse colon (anatomy)
+     UK поперечна ободова кишка (анат.)
+  1: EN second section of large intestine
+     UK друга частина товстої кишки
+  NOTES ["Другий сегмент неточний: ідеться про ділянку ободової кишки, а не загалом другу частину товстої кишки."]
+

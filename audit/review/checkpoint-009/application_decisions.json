@@ -1,0 +1,573 @@
+{
+  "checkpoint": 9,
+  "application_review_completed": true,
+  "review_type": "model",
+  "human_validation": false,
+  "review_file_sha256": {
+    "review_001.json": "801a9b94229b2de6e231da3a82859fa0cf67a7467b8bf7c45c717a66e8248111",
+    "review_002.json": "be2ba042ddc7f4f95a7efda12028ddca300ceab13c1f948d0bd3bd05cafa6e81",
+    "review_003.json": "d95be7c69ebc2d85ed49629dccccfe1cb3a858c1278a211c0c210a690a3cce15"
+  },
+  "decisions": [
+    {
+      "kind": "note",
+      "id": "cadf14b4bdb281c1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "5c60fb2a32dacd8f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "87c3adaf032bff9a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "7a172af6d60eb586",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "87b80937e3ff00b3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "9d8eca2b2ecce3cb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "9d8eca2b2ecce3cb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "c6ba16da9b453f22",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "21bc081f20d2f402",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "974c45903c7476eb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "76265ac2324bd2f1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "76265ac2324bd2f1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "a0a2c155f7d89c3a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "a0a2c155f7d89c3a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "4b32447debc56727",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "c19effb199309c63",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "c19effb199309c63",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "d3e6e64109ca4070",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "447cdaa3a4eddc39",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "01352763e1137c7c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "40c3190ecacf5564",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "7a0fc6e51996838a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "faeab2d490006ebb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "eb2d92e81d0d59a0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "eac8c33d32948644",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "eac8c33d32948644",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "e5955e840e313a42",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "e5955e840e313a42",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "7217cba1674847a4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "ed9b21aa873fdabc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "6bf03625023136a3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "6bf03625023136a3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "4c0bd4866ebaf6db",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "4c0bd4866ebaf6db",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "d8854ff87bffae4b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "d8854ff87bffae4b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "0840bec60d142968",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "0840bec60d142968",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "0b9e046b62190f04",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "0b9e046b62190f04",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "d02b2100c0898a97",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "d02b2100c0898a97",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "759e6beace2ebd98",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "759e6beace2ebd98",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "409ef3e05f1d6a5e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "409ef3e05f1d6a5e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "d8e51341954eb184",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "1ff0e5bb622f725c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "1ff0e5bb622f725c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "5498567eca3f1e5d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "5498567eca3f1e5d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "f953d6e228baeb44",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "676b2b94e1e706c6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "7fe0549baf7a1df8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "7fe0549baf7a1df8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "011a67883bf46939",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "0858b2c31a8deb00",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "0858b2c31a8deb00",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "66c958d72332cf3a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "66c958d72332cf3a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "ef6ee9b547cef1b6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "ef6ee9b547cef1b6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "c44db1b9967162cb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "3cd58fdb8660d869",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "756f2b182f6c3cf4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "ac6b239b225c994d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "ac6b239b225c994d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "26da95f359a934eb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "26da95f359a934eb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "c6a964e74270b5fe",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "c6a964e74270b5fe",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "39f25a75055ed5fb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "39f25a75055ed5fb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "adde4328df314219",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "segment",
+      "id": "5dd8ff1693d054fa",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "segment",
+      "id": "8c0a47d8734fb8ed",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "segment",
+      "id": "90ca0921ef6d7faa",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "51cb9292b36ebc3c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "6b0ae508666e9d57",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected exact Chinese and pinyin, all source senses, Ukrainian before and after, and cited evidence. High-confidence lexical or source correction; original source fields, protected references and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "6b0ae508666e9d57",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the entry-bound assertion and evidence. The high-confidence note replacement resolves or narrows the issue while preserving supported alternatives and unresolved uncertainty."
+    }
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "reviewer_model_requested": "gpt-6-astra",
+  "human_validation": false,
+  "reviewed_ids": [
+    "a2ad6bebb6f26a6c",
+    "c89525ff886e35b5",
+    "03b6d0f8796471bc",
+    "e58cd6b97d55621d",
+    "e49978403648521a",
+    "45e1c0d3c2b3312c",
+    "d591e7c59f23956c",
+    "707b0ff8cac10c68",
+    "5be152c7694f82e8",
+    "691b3bb1d5bb1958",
+    "7cbe35941fbd2027",
+    "0858b2c31a8deb00",
+    "68b2c131dd0f7a4a",
+    "66c958d72332cf3a",
+    "3803ae43e7315f32",
+    "9eadd08a932b19af",
+    "ce7bc70fbb1dd702",
+    "ef6ee9b547cef1b6",
+    "83622be43e4aa708",
+    "e02a5a5ab2015717",
+    "c44db1b9967162cb",
+    "c32700116a9fb777",
+    "eabec95d212cb20f",
+    "3cd58fdb8660d869",
+    "756f2b182f6c3cf4",
+    "eb44329e20b25f32",
+    "41c8e283e444be48",
+    "ac6b239b225c994d",
+    "262743d2c382f37a",
+    "26da95f359a934eb",
+    "c6a964e74270b5fe",
+    "39f25a75055ed5fb",
+    "adde4328df314219",
+    "2ad080e64694bf7e",
+    "5dd8ff1693d054fa",
+    "8c0a47d8734fb8ed",
+    "05746e1daca39816",
+    "fb15b791f276c1a0",
+    "132097525cf1f4fd",
+    "90ca0921ef6d7faa",
+    "51cb9292b36ebc3c",
+    "eeedf35a30a7c517",
+    "c021c37944b1c672",
+    "6b0ae508666e9d57"
+  ],
+  "entries": [
+    {
+      "id": "a2ad6bebb6f26a6c",
+      "source_line": 58590,
+      "traditional": "楩",
+      "simplified": "楩",
+      "pinyin": "pian2",
+      "outcome": "acceptable",
+      "reason": "Для 楩 [pian2] українське «(вид дерева)» точно зберігає невизначеність глоса (tree). Примітка прикріплена правильно і буквально відповідає наданому джерелу.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Вид або історична ботанічна ідентифікація 楩 у цьому записі не визначені."
+      ]
+    },
+    {
+      "id": "c89525ff886e35b5",
+      "source_line": 58627,
+      "traditional": "楰",
+      "simplified": "楰",
+      "pinyin": "yu2",
+      "outcome": "acceptable",
+      "reason": "Для 楰 [yu2] описовий переклад не додає ненаведеного виду. Примітка правильно стосується саме відсутності конкретизації в англійському глосі (tree).",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Конкретний таксон 楰 потребував би окремого ботанічного й історико-лексикографічного дослідження."
+      ]
+    },
+    {
+      "id": "03b6d0f8796471bc",
+      "source_line": 58997,
+      "traditional": "槾",
+      "simplified": "槾",
+      "pinyin": "man2",
+      "outcome": "acceptable",
+      "reason": "槾 [man2] передано на тому самому загальному рівні, що й (tree); не підставлено значення іншого читання. Примітка про неповноту джерела правильна.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело не встановлює конкретного виду дерева для читання man2."
+      ]
+    },
+    {
+      "id": "e58cd6b97d55621d",
+      "source_line": 59404,
+      "traditional": "樿",
+      "simplified": "椫",
+      "pinyin": "zhan3",
+      "outcome": "acceptable",
+      "reason": "«(Деревина)» відповідає (wood) у записі 樿 / 椫 [zhan3]. Примітка доречно залишає невстановленими породу дерева й точний обсяг назви матеріалу.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Не уточнено породу та співвідношення значень «дерево» і «деревина»."
+      ]
+    },
+    {
+      "id": "e49978403648521a",
+      "source_line": 59780,
+      "traditional": "檖",
+      "simplified": "檖",
+      "pinyin": "sui4",
+      "outcome": "acceptable",
+      "reason": "Переклад 檖 [sui4] не претендує на точний таксон і відповідає єдиному глосу (tree). Примітка описує реальне обмеження саме цього запису.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Ботанічну ідентифікацію 檖 не слід додавати з одного глоса (tree)."
+      ]
+    },
+    {
+      "id": "45e1c0d3c2b3312c",
+      "source_line": 59861,
+      "traditional": "檴",
+      "simplified": "檴",
+      "pinyin": "huo4",
+      "outcome": "acceptable",
+      "reason": "Для 檴 [huo4] «(вид дерева)» є коректним обережним відповідником. Прикріплена примітка не містить непідтверджених таксономічних тверджень.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Конкретний вид дерева в джерелі відсутній."
+      ]
+    },
+    {
+      "id": "d591e7c59f23956c",
+      "source_line": 73526,
+      "traditional": "球狀",
+      "simplified": "球状",
+      "pinyin": "qiu2 zhuang4",
+      "outcome": "acceptable",
+      "reason": "球狀 / 球状 означає кулясту форму або кулястість; український іменниковий опис це передає. Примітка правильно пояснює, чому механічне відтворення sphere як «сфера» було б менш точним.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "707b0ff8cac10c68",
+      "source_line": 79868,
+      "traditional": "碏",
+      "simplified": "碏",
+      "pinyin": "que4",
+      "outcome": "acceptable",
+      "reason": "«Коштовні камені» відтворює загальний глос (gems) для 碏 [que4], не вигадуючи конкретного мінералу. Примітка прикріплена правильно; точнішого значення джерело справді не подає.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Історичний обсяг значення 碏, зокрема можливе уточнення кольору каменю, лишається невстановленим у цьому записі."
+      ]
+    },
+    {
+      "id": "5be152c7694f82e8",
+      "source_line": 79918,
+      "traditional": "碧玉",
+      "simplified": "碧玉",
+      "pinyin": "bi4 yu4",
+      "outcome": "acceptable",
+      "reason": "«Яшма» правильно передає jasper; це значення 碧玉 підтверджує MOE. Примітка про можливий зелений нефрит також фактично підтримана GIA, тому її не слід вилучати або замінювати яшму нефритом. Джерела: https://dict.revised.moe.edu.tw/dictView.jsp?ID=18260&la=0&powerMode=0 ; https://www.gia.edu/CN/gia-news-research/nephrite-jade-road-evolution-green-nephrite-market",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Для розмежування яшми й зеленого нефриту потрібен контекст уживання; наведений запис явно обирає jasper."
+      ]
+    },
+    {
+      "id": "691b3bb1d5bb1958",
+      "source_line": 89894,
+      "traditional": "肉條",
+      "simplified": "肉条",
+      "pinyin": "rou4 tiao2",
+      "outcome": "deferred",
+      "reason": "Розбіжність реальна: 肉條 / 肉条 буквально та в кулінарному вжитку означає смужку м’яса, тоді як cutlet — окремий тип шматка або страви. Первинний навчальний опис показує нарізання м’яса смужками: https://www.yantai.gov.cn/art/2024/7/31/art_97611_3206989.html . Однак цього недостатньо, щоб остаточно виключити окреме історичне/словникове значення cutlet. Примітка прикріплена правильно й чесно зберігає нерозв’язану проблему.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Не підтверджено, чи «відбивна» є справжнім окремим значенням 肉條, чи помилкою англійського джерела.",
+        "Чинний сегмент поєднує буквальний і сумнівний кулінарний відповідники; до з’ясування його не слід вважати повністю перевіреним."
+      ]
+    },
+    {
+      "id": "7cbe35941fbd2027",
+      "source_line": 108812,
+      "traditional": "道德家",
+      "simplified": "道德家",
+      "pinyin": "dao4 de2 jia1",
+      "outcome": "acceptable",
+      "reason": "«Даос» зберігає подане Daoist. Історичне найменування даоської школи 道德家 описує власна довідкова база Даоського культурного центру; сучасне moralist засвідчує Cambridge. Отже, інший сучасний сенс не спростовує історичного, а прикріплена примітка має фактичну підставу. Джерела: https://zh.daoinfo.org/wiki/%E9%81%93%E5%AE%B6 ; https://dictionary.cambridge.org/dictionary/chinese-simplified-english/%E9%81%93%E5%BE%B7%E5%AE%B6",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Без прикладу вживання не розмежовано історичного представника даоської школи та сучасного мораліста; друге значення не є підставою видаляти перше."
+      ]
+    },
+    {
+      "id": "0858b2c31a8deb00",
+      "source_line": 111752,
+      "traditional": "鉥",
+      "simplified": "𬬸",
+      "pinyin": "shu4",
+      "outcome": "correction_proposed",
+      "reason": "Англійський глос acmite вводить мінерал, тоді як авторитетний словник MOE для того самого 鉥 [shù] безпосередньо визначає довгу голку. Початкова примітка стосується правильного запису і виявляє справжню помилку джерела. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=9115&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "акміт",
+          "after": "довга голка",
+          "reason": "Виправлено предметну підміну: «акміт» є назвою мінералу, а засвідчений іменниковий сенс 鉥 shù — довга голка. Це виправлення англійського глоса, а не лише українського написання.",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Англійське acmite означає мінерал акміт, але звичайне книжне значення 鉥 — довга голка; джерело потребує перевірки.",
+          "after": "Англійський глос acmite («акміт») не відповідає засвідченому значенню 鉥 [shù] «довга голка»; переклад виправлено за китайським словником MOE.",
+          "reason": "Невизначене застереження уточнено після прямої перевірки того самого знака й читання; згадку про помилковий глос збережено.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "68b2c131dd0f7a4a",
+      "source_line": 115840,
+      "traditional": "雂",
+      "simplified": "雂",
+      "pinyin": "qin2",
+      "outcome": "acceptable",
+      "reason": "«(Птах)» точно відповідає (bird) для 雂 [qin2]. Примітка правильно зазначає відсутність конкретнішої ідентифікації, не приписуючи рідкісному знаку неперевіреного виду.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Конкретний птах у джерелі не визначений."
+      ]
+    },
+    {
+      "id": "66c958d72332cf3a",
+      "source_line": 119289,
+      "traditional": "顑",
+      "simplified": "顑",
+      "pinyin": "kan3",
+      "outcome": "correction_proposed",
+      "reason": "MOE визначає 顑 [kǎn] через виснажений, пожовтілий від голоду вигляд у 顑頷; самостійне загальноколірне «жовтий» втрачає істотне обмеження. Джерело: https://dict.variants.moe.edu.tw/dictView.jsp?ID=75274&powerMode=2 . Примітка прикріплена правильно, але невизначеність щодо значення тепер можна конкретизувати.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "жовтий",
+          "after": "жовтий і змарнілий від недоїдання (про обличчя)",
+          "reason": "Відновлено обмеження сфери значення: йдеться про колір і виснаженість обличчя від голоду, а не про жовтий колір будь-якого предмета.",
+          "confidence": "high",
+          "issue_type": "source_gloss_underspecification"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Рідкісне значення yellow потребує перевірки.",
+          "after": "Глос yellow надто загальний: 顑 [kǎn], зокрема в 顑頷, описує пожовтіле й змарніле від недоїдання обличчя.",
+          "reason": "Замінено загальне «потребує перевірки» перевіреним лексикографічним уточненням; причина помилки збережена.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "3803ae43e7315f32",
+      "source_line": 122686,
+      "traditional": "鮆",
+      "simplified": "𫚖",
+      "pinyin": "ji4",
+      "outcome": "acceptable",
+      "reason": "鮆 / 𫚖 [ji4] передано як невизначений різновид риби, що відповідає (fish). Примітка правильно прикріплена й не змішує цей запис з іншими читаннями знака.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "За наведеним глосом не можна встановити конкретний вид; читання ji4 не підмінено іншим читанням 鮆."
+      ]
+    },
+    {
+      "id": "9eadd08a932b19af",
+      "source_line": 7785,
+      "traditional": "侏",
+      "simplified": "侏",
+      "pinyin": "zhu1",
+      "outcome": "acceptable",
+      "reason": "«Карлик» є словниковим українським відповідником dwarf для 侏 [zhu1]. Примітка стосується окремого рідковживаного знака й не заперечує наданого значення; необхідного семантичного виправлення немає.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "ce7bc70fbb1dd702",
+      "source_line": 47784,
+      "traditional": "採場",
+      "simplified": "采场",
+      "pinyin": "cai3 chang3",
+      "outcome": "acceptable",
+      "reason": "«Місце видобутку; очисний вибій» правильно передає гірничий термін 採場 / 采场. Первинна наукова публікація зіставляє 采场 зі stope; припущення примітки про помилку slope → stope добре обґрунтоване, але походження самої описки не доведене. Джерело: https://cje.ustb.edu.cn/cn/article/doi/10.13374/j.issn1001-053x.2000.04.031",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Походження англійського slope залишається ймовірною, а не документально встановленою опискою."
+      ]
+    },
+    {
+      "id": "ef6ee9b547cef1b6",
+      "source_line": 70454,
+      "traditional": "煤渣",
+      "simplified": "煤渣",
+      "pinyin": "mei2 zha1",
+      "outcome": "correction_proposed",
+      "reason": "MOE прямо визначає 煤渣 як залишки після згоряння вугілля. «Вугільний дрібняк» називає дрібне паливо та змішує його із залишком горіння; друга частина «шлак» правильна. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=28892&la=0&powerMode=0 . Примітка прив’язана правильно й указує на справжню розбіжність.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "вугільний дрібняк; шлак",
+          "after": "вугільний шлак; залишки згоряння вугілля",
+          "reason": "Збережено правильний сенс шлаку й уточнено залишок згоряння; усунуто змішування з незгорілим дрібним вугіллям, внесене глосом slack.",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Англійське slack означає вугільний дрібняк, тоді як китайське слово часто позначає шлак або залишки згоряння; джерело потребує уточнення.",
+          "after": "Англійський глос slack означає дрібне вугілля; 煤渣 у словнику MOE визначено як залишки після згоряння вугілля. Український переклад передає цей засвідчений китайський сенс.",
+          "reason": "Початкове обережне припущення конкретизовано за прямою словниковою дефініцією без втрати відомості про помилковий глос.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "83622be43e4aa708",
+      "source_line": 79124,
+      "traditional": "短簡",
+      "simplified": "短简",
+      "pinyin": "duan3 jian3",
+      "outcome": "acceptable",
+      "reason": "«Короткий лист» точно відповідає 短簡 / 短简; MOE прямо визначає його як короткий лист. Примітка правильно пояснює неоднозначність англійського brief; її обережність не створює фактичної помилки. Джерело: https://dict.concised.moe.edu.tw/dictView.jsp?ID=9599&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e02a5a5ab2015717",
+      "source_line": 79223,
+      "traditional": "石南樹",
+      "simplified": "石南树",
+      "pinyin": "shi2 nan2 shu4",
+      "outcome": "deferred",
+      "reason": "Українське «ерика; вересовий кущ» добре передає ботанічний сенс heath. Однак точна китайська назва 石南樹 без латинського таксона не дозволяє впевнено встановити, чи йдеться саме про ерику або про іншу історичну назву рослини. Прикріплена примітка фактично коректна; конкретний вид або фотинію замість ерики не підставлено.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібна пряма ботанічна або історико-лексикографічна ідентифікація саме 石南樹, а не автоматичне прирівнювання до схожого найменування.",
+        "Нормативна українська назва конкретного таксона не встановлена; описовий «вересовий кущ» збережено."
+      ]
+    },
+    {
+      "id": "c44db1b9967162cb",
+      "source_line": 79532,
+      "traditional": "砳",
+      "simplified": "砳",
+      "pinyin": "le4",
+      "outcome": "correction_proposed",
+      "reason": "Не можна автоматично замінити rocky на «звук каменів»: MOE подає для 砳 lè звукове значення, але водночас визнає 砳 варіантом 礐, для якого засвідчено значення кам’янистої гори. Проблемою є зіставлення сенсу з конкретним читанням, а не доведена неможливість rocky. Джерела: https://dict.variants.moe.edu.tw/dictView.jsp?educode=C08699 ; https://dict.variants.moe.edu.tw/dictView.jsp?ID=65137&powerMode=2",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Рідкісний знак; джерело подає «rocky», але точний смисл потребує лексикографічної звірки.",
+          "after": "Для 砳 з читанням lè словник MOE подає звук каменів. Знак також є варіантом 礐, для якого при читанні què засвідчено значення «кам’янистий (про гору)». Потрібно з’ясувати, яке поєднання читання й значення лежить в основі глоса rocky.",
+          "reason": "Загальну примітку уточнено перевіреним розрізненням читань і варіантного зв’язку; потенційно чинний кам’янистий сенс не видалено.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Відповідність rocky саме читанню le4 лишається невирішеною; сегмент збережено до перевірки джерела."
+      ]
+    },
+    {
+      "id": "c32700116a9fb777",
+      "source_line": 81729,
+      "traditional": "稜臺",
+      "simplified": "棱台",
+      "pinyin": "leng2 tai2",
+      "outcome": "acceptable",
+      "reason": "«Зрізана піраміда» є точним геометричним відповідником 棱台. Навчальне видання Tsinghua University Press розрізняє її з призмою та визначає через переріз піраміди, паралельний основі. Примітка правильно фіксує помилку англійського prism. Джерело: https://www.tup.tsinghua.edu.cn/upload/books/yz/092268-01.pdf",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "eabec95d212cb20f",
+      "source_line": 83308,
+      "traditional": "筵上",
+      "simplified": "筵上",
+      "pinyin": "yan2 shang3",
+      "outcome": "deferred",
+      "reason": "«Бенкет» буквально відтворює feast, але 筵上 має структуру просторового/ситуативного вислову «на бенкеті», а shang3 вимагає окремого підтвердження. Прикріплена примітка правильно зберігає проблему форми й читання; прямого надійного підтвердження самостійної леми з цим читанням не отримано.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібно перевірити, чи 筵上 у джерелі є лемою, словосполученням «на бенкеті», або пошкодженим записом.",
+        "Читання shang3 не виправлено в замороженому ключі; його відповідність потрібному сенсу не встановлена."
+      ]
+    },
+    {
+      "id": "3cd58fdb8660d869",
+      "source_line": 84740,
+      "traditional": "紅璧璽",
+      "simplified": "红璧玺",
+      "pinyin": "hong2 bi4 xi3",
+      "outcome": "correction_proposed",
+      "reason": "Не можна безумовно замінити топаз турмаліном, змінивши фактично китайську лему: у джерелі 紅璧璽 (璧), тоді як музейний первинний опис засвідчує 紅碧璽 (碧) як tourmaline. Чинний сегмент чесно позначений як переклад глоса, тому його залишено. Джерело: https://digitalarchive.npm.gov.tw/Collection/Detail/68671?dep=U",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Китайська форма 紅璧璽 нагадує назву червоного турмаліну; відповідність англійському «topaz» сумнівна й потребує перевірки джерела.",
+          "after": "Форма джерела 紅璧璽 (із 璧) відрізняється від засвідченої назви 紅碧璽 (із 碧) «червоний турмалін». Джерело подає topaz; не встановлено, чи це описка китайської форми, помилка англійського глоса або інший історичний термін.",
+          "reason": "Уточнено конкретну графічну розбіжність і підтверджене музейним описом значення іншої форми; нерозв’язану ідентичність вихідної леми збережено.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Значення саме написання 紅璧璽 і його відповідність topaz потребують перевірки вихідного словникового запису."
+      ]
+    },
+    {
+      "id": "756f2b182f6c3cf4",
+      "source_line": 90177,
+      "traditional": "肵",
+      "simplified": "肵",
+      "pinyin": "jin4",
+      "outcome": "correction_proposed",
+      "reason": "Загальне «стіл» не можна вважати підтвердженим: MOE визначає 肵 як ритуальне начиння для серця й язика жертовної тварини, але наводить qí / jìng, а не jin4. Наявна примітка прив’язана правильно; уточнено також проблему читання, не підміняючи його в ключі. Джерело: https://dict.variants.moe.edu.tw/dictView.jsp?ID=67681",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Рідкісний ієрогліф; значення table може стосуватися ритуального столика чи посудини, потрібна перевірка.",
+          "after": "У словнику MOE 肵 означає ритуальне начиння для серця й язика жертовної тварини та має читання qí / jìng. Глос table і читання jin4 у цьому записі потребують звірки; точний український відповідник предмета при наведеному читанні не встановлено.",
+          "reason": "Перевірене ритуальне значення замінило припущення про звичайний столик/посудину; додано істотну, підтверджену джерелом розбіжність читання.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Не встановлено походження читання jin4; його збережено дослівно.",
+        "До з’ясування ключа та виду ритуального предмета заміну «стіл» на конкретну посудину або підставку відкладено."
+      ]
+    },
+    {
+      "id": "eb44329e20b25f32",
+      "source_line": 90375,
+      "traditional": "胞藻",
+      "simplified": "胞藻",
+      "pinyin": "bao1 zao3",
+      "outcome": "deferred",
+      "reason": "«Водорості» точно перекладає algae, але самостійний обсяг рідкісного 胞藻 не підтверджено незалежною фаховою дефініцією. Прикріплена примітка правильно зберігає цю невизначеність; не можна виводити таксон із подібних складених назв на -胞藻.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Не підтверджено самостійну ботанічну лему 胞藻 та її таксономічний обсяг.",
+        "Не слід автоматично ототожнювати її з 單胞藻 або будь-яким конкретним родом водоростей."
+      ]
+    },
+    {
+      "id": "41c8e283e444be48",
+      "source_line": 91156,
+      "traditional": "腸支",
+      "simplified": "肠支",
+      "pinyin": "chang2 zhi1",
+      "outcome": "deferred",
+      "reason": "«Сліпа кишка» є прямим відповідником cecum, проте 腸支 / 肠支 може позначати кишкову гілку в описах безхребетних. Первинна зоологічна праця описує 肠支 та їхні сліпі кінці: https://journal-n.scnu.edu.cn/cn/article/pdf/preview/hnsfdxxbzrkxb-2540.pdf . Прикріплена примітка правильно вимагає перевірки відповідності; без організму й контексту заміна була б передчасною.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібно розмежувати сліпу кишку як конкретний відділ кишечника та сліпу кишкову гілку/відросток у безхребетних.",
+        "Не встановлено, який анатомічний контекст мав на увазі запис cecum."
+      ]
+    },
+    {
+      "id": "ac6b239b225c994d",
+      "source_line": 92730,
+      "traditional": "舠",
+      "simplified": "舠",
+      "pinyin": "dao1",
+      "outcome": "correction_proposed",
+      "reason": "MOE для 舠 [dāo] визначає невеликий човен ножеподібної форми. Байдарка є надто конкретним сучасним типом, якого ця дефініція не встановлює. Прикріплена примітка правильно виявляє надмірне звуження англійського kayak. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=1963&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "байдарка",
+          "after": "малий човен, подібний формою до ножа",
+          "reason": "Усунуто необґрунтоване ототожнення історичного малого човна з байдаркою; відновлено безпосередньо засвідчену описову форму.",
+          "confidence": "high",
+          "issue_type": "source_gloss_overspecification"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Для рідкісного 舠 джерело дає «kayak»; точний історичний тип невеликого човна потребує уточнення.",
+          "after": "Словник MOE визначає 舠 [dāo] як малий човен ножеподібної форми. Англійський глос kayak надто звужує це історичне найменування до байдарки.",
+          "reason": "Невизначеність щодо типу човна уточнено перевіреною описовою дефініцією без вигаданої сучасної класифікації.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "262743d2c382f37a",
+      "source_line": 93440,
+      "traditional": "花萼",
+      "simplified": "花萼",
+      "pinyin": "hua1 e4",
+      "outcome": "acceptable",
+      "reason": "«Чашечка квітки» правильно передає 花萼: MOE визначає сукупність чашолистків. Прикріплена примітка коректно відрізняє calyx від окремого sepal, тому англійську помилку не перенесено до українського сегмента. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=83571&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "26da95f359a934eb",
+      "source_line": 98732,
+      "traditional": "被面",
+      "simplified": "被面",
+      "pinyin": "bei4 mian4",
+      "outcome": "correction_proposed",
+      "reason": "被面 називає верхній/лицьовий бік ковдри та тканину для нього; «зовнішній чохол» легко сплутати з цілим підковдровим чохлом. Первинні музейні описи відрізняють лицьове полотнище від цілого 被套. Джерела: https://collections.culture.tw/nmp_collectionsweb/collection.aspx?GID=MEMIMQM4 ; https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2003.007.0252 . Примітка прикріплена правильно, але її альтернатива «або чохол» теж потребує звуження.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "зовнішній чохол ковдри",
+          "after": "лицьовий бік ковдри; тканина для нього",
+          "reason": "Уточнено частину виробу: лицьове полотнище ковдри, а не окремий цілий чохол або вся ковдра.",
+          "confidence": "high",
+          "issue_type": "part_whole_confusion"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Англійське «quilt» надто широке: китайське слово означає зовнішній бік або чохол ковдри.",
+          "after": "Англійське quilt надто широке: 被面 означає лицьовий бік ковдри або тканину для нього; це не обов’язково цілий знімний чохол.",
+          "reason": "Збережено слушне застереження щодо quilt, але усунуто ототожнення лицьового полотнища з цілим чохлом.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "c6a964e74270b5fe",
+      "source_line": 122632,
+      "traditional": "魣",
+      "simplified": "魣",
+      "pinyin": "yu2",
+      "outcome": "correction_proposed",
+      "reason": "Сучасне 魣 з читанням yú позначає баракуд; китайські зоологічні першоджерела зіставляють 魣科 / 魣属 із Sphyraenidae / Sphyraena. Історичне ототожнення з 鱮 належить до іншого читання xù і не виправдовує perch. Джерела: https://www.schinafish.cn/fileNFSCKX/journal/article/file/6cba585a-b48d-4583-b48d-6391a48e2e29.pdf ; https://fishdb.sinica.edu.tw/taxon/6472-fishdb/specimen ; https://dict.variants.moe.edu.tw/dictView.jsp?ID=76935&la=0 ; лексикографічне розмежування читань: https://zdic.net/hant/%E9%AD%A3 . Початкова примітка правильно вказувала на таксономічну розбіжність.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "окунь",
+          "after": "баракуда (риба роду Sphyraena)",
+          "reason": "Виправлено підміну таксона: сучасна риба 魣 yú — баракуда, а не окунь. Вид усередині роду не вигадано.",
+          "confidence": "high",
+          "issue_type": "source_taxon_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає perch («окунь»); відповідність рідкісного ієрогліфа цьому таксону потребує перевірки.",
+          "after": "У сучасному зоологічному значенні 魣 [yú] позначає баракуд роду Sphyraena; глос perch («окунь») не відповідає цьому таксону. Історичне 魣 як варіант 鱮 має інше читання, xù.",
+          "reason": "Загальний сумнів уточнено за фаховою номенклатурою та збережено важливе розрізнення сучасного й історичного читань.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Конкретний вид баракуди не зазначено; переклад лишається на рівні роду."
+      ]
+    },
+    {
+      "id": "39f25a75055ed5fb",
+      "source_line": 122633,
+      "traditional": "魣魚",
+      "simplified": "魣鱼",
+      "pinyin": "yu2 yu2",
+      "outcome": "correction_proposed",
+      "reason": "Для 魣魚 / 魣鱼 [yu2 yu2] голова назви 魣 має те саме сучасне значення баракуди; додавання 魚 не перетворює її на окуня. Сучасне 魣 з читанням yú позначає баракуд; китайські зоологічні першоджерела зіставляють 魣科 / 魣属 із Sphyraenidae / Sphyraena. Історичне ототожнення з 鱮 належить до іншого читання xù і не виправдовує perch. Джерела: https://www.schinafish.cn/fileNFSCKX/journal/article/file/6cba585a-b48d-4583-b48d-6391a48e2e29.pdf ; https://fishdb.sinica.edu.tw/taxon/6472-fishdb/specimen ; https://dict.variants.moe.edu.tw/dictView.jsp?ID=76935&la=0 ; лексикографічне розмежування читань: https://zdic.net/hant/%E9%AD%A3 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "окунь",
+          "after": "баракуда (риба роду Sphyraena)",
+          "reason": "Виправлено ту саму таксономічну помилку perch у повній назві риби; обидві китайські форми й pinyin залишено незмінними.",
+          "confidence": "high",
+          "issue_type": "source_taxon_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає perch («окунь»); відповідність китайського найменування цьому таксону потребує перевірки.",
+          "after": "魣魚 [yú yú] у сучасному зоологічному значенні — баракуда, риба роду Sphyraena. Англійський глос perch («окунь») потребує виправлення; історичні вживання 魣 з іншим читанням не слід змішувати з цим записом.",
+          "reason": "Примітку прив’язано до повної назви 魣魚 та конкретизовано підтверджену помилку родової ідентифікації.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Конкретний вид у межах Sphyraena джерелом не визначено."
+      ]
+    },
+    {
+      "id": "adde4328df314219",
+      "source_line": 35454,
+      "traditional": "屏蔽罐",
+      "simplified": "屏蔽罐",
+      "pinyin": "ping2 bi4 guan4",
+      "outcome": "correction_proposed",
+      "reason": "«Захисний контейнер» передає загальну функцію, але пропускає суттєве екранування в 屏蔽. Первинний англо-китайський спеціальний глосарій безпосередньо зіставляє cask і 屏蔽罐; ядерний контекст також засвідчує звіт регулятора. Джерела: https://www.nti.org/wp-content/uploads/2021/09/english_chinese_wmd_glossary.pdf ; https://www.nusc.gov.tw/share/file/information/dUtNjLo3Dq40ZeUHkldhRA__.pdf . Наявна примітка прикріплена правильно та фактично підтримана.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "захисний контейнер",
+          "after": "екранувальний контейнер",
+          "reason": "Відновлено визначальну технічну ознаку 屏蔽 — захист шляхом екранування. Загальне «захисний» може позначати інші види захисту.",
+          "confidence": "high",
+          "issue_type": "technical_precision"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Матеріал контейнера, тип випромінювання та конкретне призначення джерелом не задані; їх не додано до сегмента."
+      ]
+    },
+    {
+      "id": "2ad080e64694bf7e",
+      "source_line": 44281,
+      "traditional": "所多",
+      "simplified": "所多",
+      "pinyin": "Suo3 duo1",
+      "outcome": "acceptable",
+      "reason": "«Сото (ім’я або назва)» коректно транслітерує Soto, не вигадуючи особу чи місце. Примітка правильно стосується саме відсутності референта в джерелі; китайський ключ 所多 [Suo3 duo1] збережено.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Референт Soto, мова походження і статус як особового імені/топоніма не визначені."
+      ]
+    },
+    {
+      "id": "5dd8ff1693d054fa",
+      "source_line": 57138,
+      "traditional": "柩",
+      "simplified": "柩",
+      "pinyin": "jiu4",
+      "outcome": "correction_proposed",
+      "reason": "MOE прямо визначає 柩 [jiù] як труну з тілом усередині, а не ноші або катафалк. Прикріплена примітка фактично правильна та підтверджує необхідність виправити сегмент. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=5733&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "катафалк; ноші для труни",
+          "after": "труна з тілом небіжчика",
+          "reason": "Усунуто підміну труни пристроєм для її перенесення або перевезення, яка виникла через англійський bier.",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "8c0a47d8734fb8ed",
+      "source_line": 57396,
+      "traditional": "栱",
+      "simplified": "栱",
+      "pinyin": "gong3",
+      "outcome": "correction_proposed",
+      "reason": "MOE у дефініції 斗栱 прямо розрізняє стовп і дугоподібну дерев’яну опору 栱 на стику стовпа з балкою. «Стовп» помилково називає інший конструктивний елемент; примітка прикріплена правильно й підтверджена. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=43329&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "стовп",
+          "after": "дугоподібний дерев’яний кронштейн (у традиційній китайській архітектурі)",
+          "reason": "Відновлено точний конструктивний елемент: опорний кронштейн системи 斗栱, а не вертикальний стовп.",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "05746e1daca39816",
+      "source_line": 70455,
+      "traditional": "煤灰",
+      "simplified": "煤灰",
+      "pinyin": "mei2 hui1",
+      "outcome": "deferred",
+      "reason": "«Сажа» правильно перекладає soot, але технічний китайський сенс 煤灰 — вугільна зола; первинне дослідження JICA описує зольні залишки як 煤灰: https://openjicareport.jica.go.jp/pdf/11771912.pdf . Ця технічна відповідність сама по собі не виключає іншого історичного або нетехнічного вжитку. Наявна примітка правильно прив’язана й достатньо обережна, тож її збережено.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Не встановлено, чи soot є помилкою джерела, чи окремим нетехнічним значенням 煤灰.",
+        "Не слід мовчки прирівнювати вугільну золу та сажу або вилучати джерельний сенс лише через поширеніший технічний."
+      ]
+    },
+    {
+      "id": "fb15b791f276c1a0",
+      "source_line": 90238,
+      "traditional": "胊",
+      "simplified": "胊",
+      "pinyin": "qu2",
+      "outcome": "deferred",
+      "reason": "У MOE основне 胊 qú стосується сушеного м’яса, але пов’язаний варіант 朐 qú позначає вигнуту дерев’яну частину ярма й пов’язаний із 軥. Отже, заміна «ярмо» на «сушене м’ясо» тільки за найпомітнішим значенням була б необґрунтованою. Прикріплена примітка правильно залишає історичну перевірку відкритою. Джерела: https://dict.variants.moe.edu.tw/dictView.jsp?ID=67720 ; https://dict.variants.moe.edu.tw/dictView.jsp?ID=60097&q=1",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібно перевірити, чи джерело вжило 胊 як графічний варіант 朐 / 軥, і чи yoke означає ціле ярмо або його вигнуту частину."
+      ]
+    },
+    {
+      "id": "132097525cf1f4fd",
+      "source_line": 118300,
+      "traditional": "鞙",
+      "simplified": "鞙",
+      "pinyin": "xuan4",
+      "outcome": "deferred",
+      "reason": "«Тонкий; витончений» обирає лише два з багатьох значень fine. MOE для 鞙 xuàn засвідчує ремінь упряжі, підвішування та в сполуці 鞙鞙 вигляд нефритової підвіски, але цього недостатньо для прямого зіставлення fine з одним конкретним сенсом. Наявна примітка правильно прикріплена та фактично обґрунтована. Джерело: https://dict.variants.moe.edu.tw/dictView.jsp?ID=74995",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Не встановлено, чи fine тут оцінне «гарний/витончений», ознака підвіски, чи помилковий англійський глос.",
+        "Не слід автоматично замінювати його основним предметним сенсом «ремінь»."
+      ]
+    },
+    {
+      "id": "90ca0921ef6d7faa",
+      "source_line": 118451,
+      "traditional": "韭",
+      "simplified": "韭",
+      "pinyin": "jiu3",
+      "outcome": "correction_proposed",
+      "reason": "Flora of China безпосередньо зіставляє 韭 із Allium tuberosum. «Цибуля (різновид)» надмірно загальне і не дає відрізнити рослину від порею, на який натякає leek. Наявна примітка про часникову цибулю підтримана. Джерело: https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027544",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "цибуля (різновид)",
+          "after": "часникова цибуля (Allium tuberosum)",
+          "reason": "Додано підтверджену ідентифікацію Allium tuberosum і збережено зрозумілий описовий український відповідник; звичайний порей не підставлено.",
+          "confidence": "high",
+          "issue_type": "taxonomic_precision"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "«Часникова цибуля» використано як описовий відповідник; нормативний статус конкретної української ботанічної назви окремо не підтверджено."
+      ]
+    },
+    {
+      "id": "51cb9292b36ebc3c",
+      "source_line": 8003,
+      "traditional": "俁",
+      "simplified": "俣",
+      "pinyin": "yu3",
+      "outcome": "correction_proposed",
+      "reason": "«Великий» відповідає big і давній дефініції 俁. Однак примітка помилково стверджує, що це значення засвідчене лише даним джерелом: MOE наводить його з історичними цитатами й описом статної зовнішності. Джерело: https://dict.variants.moe.edu.tw/dictView.jsp?ID=54198&la=0",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Рідкісний ієрогліф із поодиноким значенням «великий», засвідченим лише джерелом.",
+          "after": "Рідковживаний ієрогліф; значення «великий», зокрема щодо статної зовнішності людини, засвідчене в історичній китайській лексикографії.",
+          "reason": "Усунуто демонстративно хибне обмеження «засвідченим лише джерелом», зберігши доречне застереження про рідковживаність.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "eeedf35a30a7c517",
+      "source_line": 35531,
+      "traditional": "屢加",
+      "simplified": "屡加",
+      "pinyin": "lu:3 jia1",
+      "outcome": "acceptable",
+      "reason": "屢加 / 屡加 виражає повторне застосування або піддавання чомусь; «неодноразово піддавати чомусь» є доречним відповідником такого сенсу ply. Примітка правильно пояснює обрану інтерпретацію багатозначного англійського слова, не додаючи неіснуючого об’єкта.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Точний об’єкт дії та синтаксична конструкція не задані коротким глосом."
+      ]
+    },
+    {
+      "id": "c021c37944b1c672",
+      "source_line": 112031,
+      "traditional": "鋙",
+      "simplified": "铻",
+      "pinyin": "wu2",
+      "outcome": "deferred",
+      "reason": "Для 鋙 wú MOE засвідчує компонент назви давнього меча 錕鋙. Водночас графічно пов’язаний 鋘 має значення землеробського знаряддя при іншому читанні huá, тому «мотика» може відбивати змішання графіки або читань. Прикріплена примітка про можливий зв’язок зі зброєю фактично правильна. Джерела: https://dict.variants.moe.edu.tw/dictView.jsp?ID=73875 ; https://dict.variants.moe.edu.tw/dictView.jsp?ID=73889",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Не встановлено, чи hoe є окремим допустимим сенсом 鋙 wu2, чи походить від іншого знака/читання.",
+        "До перевірки вихідної лексикографії не слід замінювати назву знаряддя мечем або змінювати заморожене wu2."
+      ]
+    },
+    {
+      "id": "6b0ae508666e9d57",
+      "source_line": 124486,
+      "traditional": "黕",
+      "simplified": "黕",
+      "pinyin": "zhen3",
+      "outcome": "correction_proposed",
+      "reason": "MOE і первинна академічна база Academia Sinica визначають 黕 як чорний/темний та чорний бруд, а не червоний. Обидва джерела подають dǎn; читання zhen3 у ключі потребує окремого дослідження. Джерела: https://dict.revised.moe.edu.tw/dictView.jsp?ID=2020&la=0&powerMode=0 ; https://chardb.iis.sinica.edu.tw/char/27489 . Початкова примітка прив’язана правильно, але потребує конкретного опису знайденої суперечності.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "червоний",
+          "after": "чорний; темний",
+          "reason": "Виправлено протилежну колірну характеристику, внесену англійським red: незалежні авторитетні джерела підтримують чорний/темний сенс знака 黕. Заморожений pinyin у ключі не змінено.",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Рідкісний знак і читання з тлумаченням «червоний» відтворено за джерелом; потребує перевірки.",
+          "after": "Англійське red у джерелі суперечить словниковим значенням 黕 «чорний, темний»; переклад виправлено. MOE та Academia Sinica подають читання dǎn, тоді як збережене в ключі zhen3 потребує окремої історико-фонетичної перевірки.",
+          "reason": "Непевну загальну примітку замінено перевіреною семантичною суперечністю; нерозв’язану розбіжність читання збережено явно.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Походження й можливий історичний статус читання zhen3 не встановлені.",
+        "Семантична пропозиція не є дозволом змінити китайський/pinyin-ключ або автоматично публікувати запис."
+      ]
+    }
+  ]
+}

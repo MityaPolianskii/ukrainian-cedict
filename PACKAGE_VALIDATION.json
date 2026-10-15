@@ -1,0 +1,21 @@
+{
+  "status": "private_final009_package_verified",
+  "checked_at_utc": "2026-10-15T01:13:55.764326+00:00",
+  "dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+  "full_evidence_inventory_files": 154,
+  "exact_portable_replay_normal_and_optimized": true,
+  "current_csv_progress_queues_consistent": true,
+  "original_flags_preserved": 2534,
+  "active_notes": 2512,
+  "flagged_without_active_note": 22,
+  "all_original_flagged_entries_model_reviewed": 2534,
+  "new_segment_fixes": 459,
+  "deferred_reviewer_outcomes": 873,
+  "compiled_unresolved_ratings": 880,
+  "editorial_priority_entries": 882,
+  "human_validation": false,
+  "runtime_approved": false,
+  "public_writes": false,
+  "parent_release_pending": true,
+  "independent_report": "PACKAGING_INDEPENDENT_REVIEW.json"
+}

@@ -1,0 +1,981 @@
+{
+  "reviewer_model_requested": "gpt-6-astra",
+  "human_validation": false,
+  "reviewed_ids": [
+    "01352763e1137c7c",
+    "40c3190ecacf5564",
+    "7a0fc6e51996838a",
+    "4f0554d99b6cce48",
+    "32f59d6def6f9232",
+    "bf3418bcfae96161",
+    "5307542a424eb682",
+    "5b8174aeff0db3a0",
+    "be8906acb795f5fa",
+    "7e156b6d0ac551d2",
+    "74c0156cdc94e418",
+    "faeab2d490006ebb",
+    "eb2d92e81d0d59a0",
+    "e7e4a4cc44be237c",
+    "eac8c33d32948644",
+    "e5955e840e313a42",
+    "7217cba1674847a4",
+    "68a843e2faf2bd78",
+    "7f93702fdc8445e2",
+    "ed9b21aa873fdabc",
+    "26fd4e5eba8574ca",
+    "6bf03625023136a3",
+    "4c0bd4866ebaf6db",
+    "d8854ff87bffae4b",
+    "0840bec60d142968",
+    "0b9e046b62190f04",
+    "d02b2100c0898a97",
+    "759e6beace2ebd98",
+    "409ef3e05f1d6a5e",
+    "707bc11b10c00afd",
+    "d8e51341954eb184",
+    "1ff0e5bb622f725c",
+    "5498567eca3f1e5d",
+    "fa4ab3ad3508c0cc",
+    "aeff82782e948679",
+    "f953d6e228baeb44",
+    "1c8da628888bf824",
+    "10edfff5fd61722d",
+    "676b2b94e1e706c6",
+    "ccd8820ca6ba93a6",
+    "7fe0549baf7a1df8",
+    "4880fe9c85bcf208",
+    "011a67883bf46939",
+    "715468ec866a77d2",
+    "0160694835518560"
+  ],
+  "entries": [
+    {
+      "id": "01352763e1137c7c",
+      "source_line": 23862,
+      "traditional": "四輪馬車",
+      "simplified": "四轮马车",
+      "pinyin": "si4 lun2 ma3 che1",
+      "outcome": "correction_proposed",
+      "reason": "The Chinese specifies four wheels and horse traction, but does not require the enclosed, sprung vehicle implied by Ukrainian карета. The attached source-mismatch note correctly describes the broader vehicle.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "чотириколісна кінна карета",
+          "after": "чотириколісний кінний екіпаж",
+          "reason": "Use the neutral vehicle category instead of narrowing to a closed coach. The Ukrainian academic dictionary defines карета more narrowly: https://www.inmo.org.ua/sum.html?wrd=%D0%9A%D0%B0%D1%80%D0%B5%D1%82%D0%B0 .",
+          "confidence": "high",
+          "issue_type": "semantic_precision"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "40c3190ecacf5564",
+      "source_line": 36309,
+      "traditional": "巖床",
+      "simplified": "岩床",
+      "pinyin": "yan2 chuang2",
+      "outcome": "correction_proposed",
+      "reason": "Корінна порода accurately renders the supplied bedrock sense; the existence of the sill sense does not invalidate it. Revise the caution to acknowledge attested usage rather than imply an established mistranslation.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Джерело дає «bedrock», тоді як 岩床 може означати сіл, пластову інтрузію; геологічне значення потребує перевірки.",
+          "after": "Переклад «корінна порода» відповідає джерельному bedrock. 岩床 також уживається в значенні sill — пластова інтрузія; вибір значення залежить від геологічного контексту.",
+          "reason": "Both usages are attested in Taiwanese official material: bedrock at https://www.moc.gov.tw/News_Content.aspx?n=105&s=238450 and sill at https://taiwansoil.tari.gov.tw/Web.Net2008/pdf/fb3.pdf . Keep the valid source sense and the contextual caution.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The source supplies no context selecting between the bedrock and intrusive-sill uses."
+      ]
+    },
+    {
+      "id": "7a0fc6e51996838a",
+      "source_line": 42116,
+      "traditional": "悜",
+      "simplified": "悜",
+      "pinyin": "cheng3",
+      "outcome": "deferred",
+      "reason": "Неясний is a literal rendering of obscure, but the Chinese lexical evidence does not establish that standalone sense. The note belongs here, although its proposed consciousness interpretation is unsupported. MOE gives worry and a compound-specific incomplete-expression meaning: https://dict.variants.moe.edu.tw/dictView.jsp?ID=85245&q=1 .",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Рідкісне 悜[cheng3]: джерельне «obscure» не уточнює, чи йдеться про неясність значення, чи про стан свідомості.",
+          "after": "Для 悜[cheng3] словник MOE подає значення «тривога» та в слові 慏悜 — неповне вираження думки. Джерельне obscure не дає змоги впевнено визначити задумане значення; переклад «неясний» залишається попереднім.",
+          "reason": "Replace the unsupported consciousness hypothesis with the attested lexical evidence while preserving the unresolved source interpretation.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Determine which historical sense or compound the English obscure was intended to represent before replacing the segment."
+      ]
+    },
+    {
+      "id": "4f0554d99b6cce48",
+      "source_line": 58764,
+      "traditional": "榛色",
+      "simplified": "榛色",
+      "pinyin": "zhen1 se4",
+      "outcome": "acceptable",
+      "reason": "Горіховий колір correctly follows 榛色 as a colour expression, including the 色 component absent from the bare English filbert. The note is correctly attached and accurately identifies the source mismatch.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "32f59d6def6f9232",
+      "source_line": 71728,
+      "traditional": "牛魔王",
+      "simplified": "牛魔王",
+      "pinyin": "Niu2 mo2 wang2",
+      "outcome": "acceptable",
+      "reason": "The Chinese name, explanatory title and Japanese name can coexist without selecting a particular adaptation. The attached ambiguity note is appropriate: an official Dragon Ball page confirms that this name is also used for its own character, but does not identify the CEDICT referent: https://dragon-ball-official.com/news/01_2302.html .",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source does not identify the work or adaptation, so no franchise-specific biography should be added."
+      ]
+    },
+    {
+      "id": "bf3418bcfae96161",
+      "source_line": 74545,
+      "traditional": "生物質能",
+      "simplified": "生物质能",
+      "pinyin": "sheng1 wu4 zhi4 neng2",
+      "outcome": "acceptable",
+      "reason": "Енергія біомаси preserves the explicit 能 energy component of both Chinese forms. The attached note correctly explains why a literal біомаса would be incomplete; no segment or note change is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "5307542a424eb682",
+      "source_line": 77402,
+      "traditional": "盆浴",
+      "simplified": "盆浴",
+      "pinyin": "pen2 yu4",
+      "outcome": "acceptable",
+      "reason": "Купання у ванні correctly names the activity 盆浴 rather than the vessel. The note is supported by official usage distinguishing the activity from showers and bath equipment: https://www.gov.cn/foot/site1/20140619/38051403155932256.pdf .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "5b8174aeff0db3a0",
+      "source_line": 79222,
+      "traditional": "石南屬",
+      "simplified": "石南属",
+      "pinyin": "shi2 nan2 shu3",
+      "outcome": "deferred",
+      "reason": "The broad descriptive rendering of heather is plausible and must not be replaced with a guessed genus. The note is correctly attached: official botanical material distinguishes Calluna and Erica, while the bare source name does not choose between them. https://www.biodiversity-science.net/fileup/1005-0094/SUPPL/supplFile_art_20240110104915.pdf .",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The exact botanical genus intended by 石南屬 is unresolved; the retained Ukrainian wording is descriptive, not a validated taxon name."
+      ]
+    },
+    {
+      "id": "be8906acb795f5fa",
+      "source_line": 79830,
+      "traditional": "碃",
+      "simplified": "碃",
+      "pinyin": "qing4",
+      "outcome": "acceptable",
+      "reason": "Камінь is supported directly by the MOE definition 石 / 石類 for 碃[qing4]. The note correctly says the source does not specify a stone type; no unsupported mineral identification should be added. https://dict.variants.moe.edu.tw/dictView.jsp?ID=94996 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "7e156b6d0ac551d2",
+      "source_line": 80653,
+      "traditional": "神祖",
+      "simplified": "神祖",
+      "pinyin": "shen2 zu3",
+      "outcome": "deferred",
+      "reason": "Божественна сутність can translate Godhead, but its fit to 神祖 remains unproved. The correctly attached note identifies a real ancestral-religious possibility, supported by academic discussion of 神祖 and ancestral rites: https://www.ccipe.edu.cn/info/1031/3911.htm .",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "A primary lexical or textual source connecting this exact headword to the English Godhead sense is still needed; do not silently replace it with a different religious referent."
+      ]
+    },
+    {
+      "id": "74c0156cdc94e418",
+      "source_line": 81557,
+      "traditional": "秭",
+      "simplified": "秭",
+      "pinyin": "zi3",
+      "outcome": "acceptable",
+      "reason": "Мільярд is not necessarily a source error: the historical lower, decimal progression reaches 秭 at 10^9. Other systems assign different values, so the attached system-dependence caution must remain. The Chinese Abacus Museum discusses the distinct progressions: https://zsbwg.nantong.gov.cn/zgzsbwg/sjyj/content/4ce540dc-cf15-4851-bda7-4f61e0c33fd5.html ; MOE also records a different historical value: https://dict.revised.moe.edu.tw/dictView.jsp?ID=9432&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The number system is unspecified; мільярд is acceptable only as the selected source sense, not a universal equivalence."
+      ]
+    },
+    {
+      "id": "faeab2d490006ebb",
+      "source_line": 81668,
+      "traditional": "程序性",
+      "simplified": "程序性",
+      "pinyin": "cheng2 xu4 xing4",
+      "outcome": "correction_proposed",
+      "reason": "The substantive процедурний характер is appropriate, but програмний is an ambiguous false friend here. 程序性 is used adjectivally as procedural as well as for procedural character; the note correctly identifies the defective program gloss.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "програмний; процедурний характер",
+          "after": "процедурний; процедурний характер",
+          "reason": "Replace програмний with процедурний, preserving both adjectival and nominal expression. Direct bilingual academic usage: https://xbjk.ecnu.edu.cn/CN/html/2010006.htm .",
+          "confidence": "high",
+          "issue_type": "false_friend"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "eb2d92e81d0d59a0",
+      "source_line": 81733,
+      "traditional": "稞",
+      "simplified": "稞",
+      "pinyin": "ke1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian faithfully translates the English wheat, but the Chinese evidence includes grain senses and the barley compound 青稞. A specific wheat identification cannot be validated. MOE: https://dict.variants.moe.edu.tw/dictView.jsp?ID=65508&la=0 .",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Джерело дає лише загальне «wheat»; точний різновид не встановлено.",
+          "after": "Джерельне wheat не дає надійного ботанічного ототожнення. Для 稞[ke1] засвідчено значення, пов’язані із зерном, а в слові 青稞 — із голозерним ячменем; переклад «різновид пшениці» потребує перевірки за первісним контекстом.",
+          "reason": "The original note treats the issue merely as an unknown wheat variety, but authoritative Chinese evidence also allows a different cereal. Retain the unresolved issue without guessing the intended historical sense.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The exact sense behind the minimal wheat gloss is not established; the proposed note flags the current species-category problem rather than endorsing it."
+      ]
+    },
+    {
+      "id": "e7e4a4cc44be237c",
+      "source_line": 90851,
+      "traditional": "腈",
+      "simplified": "腈",
+      "pinyin": "jing1",
+      "outcome": "acceptable",
+      "reason": "Нітрил gives the confirmed chemical meaning; the separately qualified acrylic-fibre reading preserves the supplied source sense rather than deleting it. The note accurately distinguishes confirmed chemistry from a possible abbreviation. Direct research usage of 腈 / nitrile: https://www.whxb.pku.edu.cn/CN/abstract/abstract30032.shtml .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source does not document whether acrylic is an abbreviation for an acrylic-fibre term; retain that qualification."
+      ]
+    },
+    {
+      "id": "eac8c33d32948644",
+      "source_line": 94203,
+      "traditional": "荑",
+      "simplified": "荑",
+      "pinyin": "ti2",
+      "outcome": "correction_proposed",
+      "reason": "At the supplied reading ti2, 荑 denotes tender new growth, not an unidentified grass species. MOE confirms this reading and meaning: https://dict.revised.moe.edu.tw/dictView.jsp?ID=10554&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(трава)",
+          "after": "молодий пагін; паросток",
+          "reason": "Render the attested plant-part sense for ti2 rather than repeating the source category placeholder grass.",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Вид трави в джерелі не визначено.",
+          "after": "За читання ti2 荑 означає молодий пагін або паросток; джерельне (grass) надто загальне й не вказує на окремий вид трави.",
+          "reason": "The original note incorrectly frames a plant-part term as an unspecified species; keep an explicit source limitation with the corrected meaning.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e5955e840e313a42",
+      "source_line": 94574,
+      "traditional": "菧",
+      "simplified": "菧",
+      "pinyin": "di3",
+      "outcome": "correction_proposed",
+      "reason": "The source stibene is a misspelling of stilbene in this chemical use of 菧, not grounds for coining стибен. Primary patent text explicitly equates 菧類 with stilbene: https://patents.google.com/patent/CN101411716A/zh ; original research also uses the Chinese chemical family: https://rdswxb.hainanu.edu.cn/cn/article/doi/10.15886/j.cnki.rdswxb.2020.03.016 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "стибен",
+          "after": "стильбен",
+          "reason": "Use the established Ukrainian chemical name стильбен for stilbene; preserve the faulty original English spelling in the note.",
+          "confidence": "high",
+          "issue_type": "source_typo"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Англійське stibene неясне й може містити помилку; відповідник «стибен» попередній.",
+          "after": "Джерельне stibene містить пропуск літери l: у цьому хімічному значенні 菧 відповідає stilbene, українською «стильбен».",
+          "reason": "The primary chemical evidence resolves the tentative transliteration while explicitly retaining and labeling the source spelling error.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "7217cba1674847a4",
+      "source_line": 112781,
+      "traditional": "鐵人",
+      "simplified": "铁人",
+      "pinyin": "Tie3 ren2",
+      "outcome": "correction_proposed",
+      "reason": "The segment presents the triathlon interpretation as certain while its correctly attached note explicitly says the referent is unresolved. Keep the possible sports meaning, but qualify it instead of asserting a specific referent.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Ironman (змагання з тріатлону)",
+          "after": "Ironman (можливо, назва змагань із тріатлону)",
+          "reason": "Make the segment consistent with its uncertainty note. Official sports usage confirms the possibility, not the identity of this contextless headword: https://www.tpenoc.net/sport/triathlon/ .",
+          "confidence": "high",
+          "issue_type": "unsupported_specificity"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "A named-work or sports context is required to decide whether this is the competition brand or another proper name."
+      ]
+    },
+    {
+      "id": "68a843e2faf2bd78",
+      "source_line": 114958,
+      "traditional": "限制級",
+      "simplified": "限制级",
+      "pinyin": "xian4 zhi4 ji2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian accurately renders the supplied R-rated label without inventing an age threshold. The attached note correctly warns that classification systems differ and that the Chinese term has a broader restricted-category meaning. MOE confirms it is a classification label: https://dict.revised.moe.edu.tw/dictView.jsp?ID=108399&q=1&word=%E9%99%90%E5%88%B6 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "No jurisdiction is specified; do not attach a universal age limit or entry rule to R."
+      ]
+    },
+    {
+      "id": "7f93702fdc8445e2",
+      "source_line": 118498,
+      "traditional": "音素",
+      "simplified": "音素",
+      "pinyin": "yin1 su4",
+      "outcome": "acceptable",
+      "reason": "Звук мовлення correctly reflects 音素 as a phone, and the note properly distinguishes it from phoneme / 音位. This distinction is explicitly taught in the institution’s language course: https://jwc.wfgs.edu.cn/info/1009/2272.htm .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "ed9b21aa873fdabc",
+      "source_line": 118589,
+      "traditional": "頁蒿",
+      "simplified": "页蒿",
+      "pinyin": "ye4 hao1",
+      "outcome": "correction_proposed",
+      "reason": "Кмин accurately renders caraway. Kew MPNS explicitly associates 页蒿 and yè hāo with Carum carvi, so the note can record this positive identification while retaining caution about the Chinese name’s usage.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Ботанічну відповідність рідкісної назви caraway не перевірено.",
+          "after": "Відповідність 页蒿 — caraway (Carum carvi) підтверджено базою Kew MPNS. Поширеність цієї китайської назви в сучасному вжитку окремо не встановлено.",
+          "reason": "Replace the now-resolved assertion that the botanical correspondence was unchecked with the verified correspondence and a narrower residual caution. https://mpns.science.kew.org/mpns-portal/plantDetail?dbs=wcsCmp&filter=filterGroup%3A%22Non-scientific+names%22&fuzzy=true&nameType=all&plantId=2701499&query=capcicum .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The present-day frequency and regional status of the Chinese name are not established."
+      ]
+    },
+    {
+      "id": "26fd4e5eba8574ca",
+      "source_line": 119332,
+      "traditional": "類人猿",
+      "simplified": "类人猿",
+      "pinyin": "lei4 ren2 yuan2",
+      "outcome": "acceptable",
+      "reason": "Людиноподібна мавпа correctly translates the Chinese animal category. The note appropriately warns that the English taxonomic label hominid has a different scope; do not replace the accurate Chinese-based translation with a rigid taxon. MOE includes gibbons as well as great apes: https://dict.revised.moe.edu.tw/dictView.jsp?ID=59900&q=1&word=%E7%8C%BF .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "6bf03625023136a3",
+      "source_line": 121002,
+      "traditional": "馵",
+      "simplified": "馵",
+      "pinyin": "zhu4",
+      "outcome": "correction_proposed",
+      "reason": "The exact 馵[zhu4] sense is recoverable: a horse with a white left hind foot. The original generic placeholder and uncertainty note can therefore be made informative. https://dict.revised.moe.edu.tw/dictView.jsp?ID=8036&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(про коня)",
+          "after": "кінь із білою лівою задньою ногою",
+          "reason": "Replace the contentless horse label with the specific coat marking defined by MOE.",
+          "confidence": "high",
+          "issue_type": "underspecified_gloss"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає лише загальну позначку «horse», без точного значення.",
+          "after": "Джерело подає лише (horse); словник MOE уточнює: 馵[zhu4] — кінь із білою лівою задньою ногою.",
+          "reason": "The source remains underspecified, but the precise Chinese meaning is now supported; preserve the source limitation rather than deleting the note.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "4c0bd4866ebaf6db",
+      "source_line": 121028,
+      "traditional": "駋",
+      "simplified": "駋",
+      "pinyin": "zhao1",
+      "outcome": "correction_proposed",
+      "reason": "MOE identifies 駋[zhao1] as a horse name, without a description of a breed or coat. This warrants a minimal correction from a topic label to a naming gloss, not a fabricated identification. https://dict.variants.moe.edu.tw/dictView.jsp?ID=110272 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(про коня)",
+          "after": "назва коня",
+          "reason": "馬名 means a horse name, whereas про коня merely labels the topic and does not translate the noun.",
+          "confidence": "high",
+          "issue_type": "underspecified_gloss"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає лише загальну позначку «horse», без точного значення.",
+          "after": "Джерело подає лише (horse); словник MOE тлумачить 駋[zhao1] як назву коня, без докладнішого ототожнення.",
+          "reason": "Record exactly what the primary dictionary supports, retaining the lack of further identification.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The horse or kind of horse bearing this name is not identified by the available primary dictionary."
+      ]
+    },
+    {
+      "id": "d8854ff87bffae4b",
+      "source_line": 121055,
+      "traditional": "駓",
+      "simplified": "𬳵",
+      "pinyin": "pi1",
+      "outcome": "correction_proposed",
+      "reason": "For 駓[pi1], MOE explicitly gives a horse with mixed yellow and white hairs. The simplified form 𬳵 and supplied pinyin are preserved exactly. https://dict.revised.moe.edu.tw/dictView.jsp?ID=806&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(про коня)",
+          "after": "кінь із перемішаною жовтуватою та білою шерстю",
+          "reason": "Replace the generic horse placeholder with the confirmed descriptive coat colour without inventing a Ukrainian breed name.",
+          "confidence": "high",
+          "issue_type": "underspecified_gloss"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає лише загальну позначку «horse», без точного значення.",
+          "after": "Джерело подає лише (horse); словник MOE уточнює, що 駓[pi1] позначає коня з перемішаною жовтуватою та білою шерстю.",
+          "reason": "The exact lexical description is now supported, while the original source limitation remains documented.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "0840bec60d142968",
+      "source_line": 121120,
+      "traditional": "駬",
+      "simplified": "駬",
+      "pinyin": "er3",
+      "outcome": "correction_proposed",
+      "reason": "MOE treats 駬[er3] as a component of 騄駬, a named legendary horse, rather than a general adjective about horses. https://dict.revised.moe.edu.tw/dictView.jsp?ID=10493&q=1&word=%E9%A7%AC and https://dict.revised.moe.edu.tw/dictView.jsp?ID=66084&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(про коня)",
+          "after": "компонент імені легендарного коня",
+          "reason": "Make the bound-name use explicit without falsely treating 駬 alone as the complete horse name.",
+          "confidence": "high",
+          "issue_type": "underspecified_gloss"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає лише загальну позначку «horse», без точного значення.",
+          "after": "Джерело дає лише (horse); словник MOE відсилає від 駬[er3] до 騄駬 — імені одного з восьми легендарних коней чжоуського Му-вана.",
+          "reason": "The compound reference resolves the vague label and preserves the distinction between a character component and the complete name.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "0b9e046b62190f04",
+      "source_line": 121151,
+      "traditional": "騄",
+      "simplified": "𫘧",
+      "pinyin": "lu4",
+      "outcome": "correction_proposed",
+      "reason": "MOE likewise directs 騄[lu4] to the compound 騄駬. The reference character 騄, simplified 𫘧 and pinyin are unchanged. https://dict.revised.moe.edu.tw/dictView.jsp?ID=3774&la=0&powerMode=0 and https://dict.revised.moe.edu.tw/dictView.jsp?ID=66084&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(про коня)",
+          "after": "компонент імені легендарного коня",
+          "reason": "Replace the generic topic label with the attested compound-name function; do not identify the single character as the complete proper name.",
+          "confidence": "high",
+          "issue_type": "underspecified_gloss"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає лише загальну позначку «horse», без точного значення.",
+          "after": "Джерело дає лише (horse); словник MOE відсилає від 騄[lu4] до 騄駬 — імені одного з восьми легендарних коней чжоуського Му-вана.",
+          "reason": "Preserve the source limitation while adding the verified compound-specific explanation.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "d02b2100c0898a97",
+      "source_line": 121216,
+      "traditional": "騢",
+      "simplified": "騢",
+      "pinyin": "xia2",
+      "outcome": "correction_proposed",
+      "reason": "騢[xia2] is a horse with mixed red and white hairs, explicitly attested by MOE. A descriptive Ukrainian rendering avoids unsupported breed or technical coat nomenclature. https://dict.variants.moe.edu.tw/dictView.jsp?ID=75875 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(про коня)",
+          "after": "кінь із перемішаною рудою та білою шерстю",
+          "reason": "Replace the generic horse placeholder with the documented physical description.",
+          "confidence": "high",
+          "issue_type": "underspecified_gloss"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає лише загальну позначку «horse», без точного значення.",
+          "after": "Джерело подає лише (horse); словник MOE уточнює: 騢[xia2] — кінь із перемішаною рудою та білою шерстю.",
+          "reason": "The former absence-of-meaning note can be narrowed to the actual source limitation because the Chinese meaning has been checked.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "759e6beace2ebd98",
+      "source_line": 121316,
+      "traditional": "驒",
+      "simplified": "驒",
+      "pinyin": "tuo2",
+      "outcome": "correction_proposed",
+      "reason": "驒[tuo2] denotes a dark horse with light, scale-like dappling. MOE supports the physical description; no Ukrainian breed label is needed. https://dict.revised.moe.edu.tw/dictView.jsp?ID=2833&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(про коня)",
+          "after": "темний кінь зі світлими плямами, схожими на луску",
+          "reason": "Replace the generic topic label with the defining dappled appearance while avoiding an over-specific modern coat classification.",
+          "confidence": "high",
+          "issue_type": "underspecified_gloss"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає лише загальну позначку «horse», без точного значення.",
+          "after": "Джерело подає лише (horse); словник MOE описує 驒[tuo2] як темного коня зі світлими лускоподібними плямами.",
+          "reason": "Retain the fact that the English source is underspecified, but record the verified descriptive meaning.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "409ef3e05f1d6a5e",
+      "source_line": 121362,
+      "traditional": "驙",
+      "simplified": "驙",
+      "pinyin": "zhan1",
+      "outcome": "correction_proposed",
+      "reason": "At zhan1, MOE supplies both difficult movement under a load and a white horse with a black back. Include both rather than choosing one; the separate zhan4 rolling sense is not imported. https://dict.variants.moe.edu.tw/dictView.jsp?ID=110551 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(про коня)",
+          "after": "важко йти під вантажем (про коня); білий кінь із чорною спиною",
+          "reason": "Replace the placeholder with the two documented meanings for the exact supplied reading zhan1.",
+          "confidence": "high",
+          "issue_type": "underspecified_gloss"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає лише загальну позначку «horse», без точного значення.",
+          "after": "Джерело подає лише (horse); для 驙[zhan1] словник MOE засвідчує два значення: важка хода коня під вантажем і білий кінь із чорною спиною.",
+          "reason": "Retain both valid same-reading senses and distinguish them from meanings belonging to another pronunciation.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "707bc11b10c00afd",
+      "source_line": 121629,
+      "traditional": "體勢",
+      "simplified": "体势",
+      "pinyin": "ti3 shi4",
+      "outcome": "acceptable",
+      "reason": "Особливість форми is broad but compatible with the source feature and with 體勢 as form and the impression or force it produces. The note properly marks the limited context rather than asserting a specific technical sense. MOE: https://dict.revised.moe.edu.tw/dictView.jsp?ID=52099&la=0&powerMode=0 .",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "A concrete context would be needed to choose a narrower rendering such as form, bearing or stylistic configuration."
+      ]
+    },
+    {
+      "id": "d8e51341954eb184",
+      "source_line": 122840,
+      "traditional": "鰋",
+      "simplified": "鰋",
+      "pinyin": "yan3",
+      "outcome": "deferred",
+      "reason": "Мулова риба is an explicitly non-specific rendering of mudfish, not a validated taxon. MOE gives two historical identifications for 鰋, including a catfish identification, so replacing it with a unique modern species would overstate the evidence. https://dict.variants.moe.edu.tw/dictView.jsp?ID=76776&la=0 .",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Назва mudfish неоднозначна; точний вид не встановлено.",
+          "after": "Mudfish — неоднозначна назва; «мулова риба» тут є описовим перекладом, а не підтвердженою українською видовою назвою. Для 鰋[yan3] словник MOE наводить різні давні ототожнення, зокрема із сомом; точний сучасний вид не встановлено.",
+          "reason": "Keep the taxonomic uncertainty while distinguishing a descriptive translation from formal nomenclature and recording the conflicting historical evidence.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Which historical identification underlies the source gloss, and its defensible modern taxonomic equivalent, remain unresolved."
+      ]
+    },
+    {
+      "id": "1ff0e5bb622f725c",
+      "source_line": 12859,
+      "traditional": "凇",
+      "simplified": "凇",
+      "pinyin": "song1",
+      "outcome": "correction_proposed",
+      "reason": "The current segment omits the rime-type deposition described in its own attached note. Include that supported Chinese meaning while retaining the English icicle reading as an explicitly attributed source gloss, not silently deleting it. Meteorological evidence: https://www.cma.gov.cn/ztbd/2024zt/20240118/2024011808/202402/P020240228369884645081.pdf .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "крижаний наріст; бурулька",
+          "after": "паморозь; крижаний наріст (у джерелі — «бурулька»)",
+          "reason": "Add the missing rime meaning and clearly attribute the narrower icicle gloss to the source; keep the broader accurate descriptive phrase.",
+          "confidence": "high",
+          "issue_type": "source_gloss_mismatch"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Англійське icicle звужує китайське слово, яке звичайно позначає іній або паморозь; передано крижаний наріст із збереженням значення джерела.",
+          "after": "Джерело подає icicle («бурулька»), тоді як 凇 вживається для крижаних відкладень, зокрема паморозі. Вузьку джерельну глосу збережено окремо; конкретний різновид відкладення залежить від контексту.",
+          "reason": "Avoid presenting every form of 凇 as either an icicle or hoarfrost; retain the source discrepancy and the unresolved subtype.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "No context is available to distinguish the particular form of icing or frost deposition."
+      ]
+    },
+    {
+      "id": "5498567eca3f1e5d",
+      "source_line": 32488,
+      "traditional": "定標器",
+      "simplified": "定标器",
+      "pinyin": "ding4 biao1 qi4",
+      "outcome": "correction_proposed",
+      "reason": "The Chinese technical term is attested for pulse-counting electronics and for calibration equipment. Масштабувальний пристрій misleadingly suggests an image or dimensional rescaler; the other current sense already points toward the valid counting use.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "масштабувальний пристрій; лічильник із перерахунком",
+          "after": "лічильник імпульсів із перерахунком (скалер); калібрувальний пристрій",
+          "reason": "Replace the unsupported rescaling interpretation with documented instrument functions. Pulse counting: https://bsrf.ihep.cas.cn/yonghudaohang/yonghupx/shiyananquanshouce/201009/W020230615345960472690.pdf ; calibration: https://aiofm.cas.cn/xxwzx/xkyjz/201812/t20181203_345288.html .",
+          "confidence": "high",
+          "issue_type": "technical_terminology"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Англійське «scaler» без галузевого контексту може означати різні прилади; точний технічний відповідник потребує уточнення.",
+          "after": "定標器 може означати лічильник імпульсів (scaler) або, в іншому технічному контексті, калібрувальний пристрій. Джерело не уточнює галузь, тому конкретний тип приладу залишається невизначеним.",
+          "reason": "Narrow the uncertainty to two attested functions instead of treating every English meaning of scaler as equally possible.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The source does not identify the instrument field or whether it intends pulse counting or calibration."
+      ]
+    },
+    {
+      "id": "fa4ab3ad3508c0cc",
+      "source_line": 34206,
+      "traditional": "對工",
+      "simplified": "对工",
+      "pinyin": "dui4 gong1",
+      "outcome": "deferred",
+      "reason": "Належний; підхожий accurately translates proper. The attached note correctly flags that the exact Chinese usage is not established by the minimal source; the research did not produce sufficient primary lexical evidence to change or fully validate it.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "A primary dictionary or original context for 對工[dui4 gong1] is needed to resolve its intended dialectal or theatrical usage."
+      ]
+    },
+    {
+      "id": "aeff82782e948679",
+      "source_line": 34207,
+      "traditional": "對工兒",
+      "simplified": "对工儿",
+      "pinyin": "dui4 gong1 r5",
+      "outcome": "deferred",
+      "reason": "The two Ukrainian adjectives are appropriate for proper, and the note is correctly attached to this erhua form rather than the neighbouring base entry. No primary evidence sufficient for a more specific correction was established.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Confirm the exact usage of 對工兒[dui4 gong1 r5]; retain the given r5 and both Chinese forms unchanged."
+      ]
+    },
+    {
+      "id": "f953d6e228baeb44",
+      "source_line": 35878,
+      "traditional": "岩土體",
+      "simplified": "岩土体",
+      "pinyin": "yan2 tu3 ti3",
+      "outcome": "correction_proposed",
+      "reason": "The segment correctly translates a geotechnical rock/soil mass, not the rock type gneiss. Primary technical usage supports the Chinese-based rendering, so the note can record the confirmed mismatch instead of leaving it as an unsupported suspicion. https://www.meggs.hydr.tsinghua.edu.cn/ .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Джерело подає «gneiss» (гнейс), що не відповідає 岩土體; перекладено китайський термін, розбіжність потребує перевірки.",
+          "after": "Джерельне gneiss означає «гнейс», тоді як 岩土體 позначає масив гірських порід і ґрунтів. Український переклад спирається на китайський термін; англійська глоса джерела не відповідає йому.",
+          "reason": "Tsinghua’s geotechnical research description uses 岩土體 for rock/soil geological media, supporting the mismatch already identified by the translator.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "1c8da628888bf824",
+      "source_line": 41984,
+      "traditional": "恬噪",
+      "simplified": "恬噪",
+      "pinyin": "tian2 zao4",
+      "outcome": "deferred",
+      "reason": "Каркати faithfully translates to caw, but the unusual 恬噪 spelling and its supplied tian2 reading were not independently resolved by primary evidence. The attached note frames the possible confusion as a possibility and should remain; do not automatically substitute 聒噪 or change the pinyin.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "A primary attestation is required to determine whether 恬噪 is intended or is a source spelling error; dictionary mirrors are not independent resolution."
+      ]
+    },
+    {
+      "id": "10edfff5fd61722d",
+      "source_line": 56201,
+      "traditional": "杝",
+      "simplified": "杝",
+      "pinyin": "yi2",
+      "outcome": "acceptable",
+      "reason": "The generic tree-name gloss is accurate and should not be deleted merely because a more specific identification is available. MOE confirms the yi2 reading as a tree use related to 柂 / 椴木; the note truthfully describes the limited English source. https://dict.variants.moe.edu.tw/dictView.jsp?ID=60156&la=1 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The original source does not provide a modern botanical taxon, so no Ukrainian species name is asserted."
+      ]
+    },
+    {
+      "id": "676b2b94e1e706c6",
+      "source_line": 56526,
+      "traditional": "杶",
+      "simplified": "杶",
+      "pinyin": "chun1",
+      "outcome": "correction_proposed",
+      "reason": "The descriptive segment is accurate and remains unchanged. MOE identifies 杶 as an old name for 香椿, but the note’s Ukrainian plant-name spelling is not independently established; replace it with the verified Chinese identification and explicit nomenclature caution. https://dict.revised.moe.edu.tw/dictView.jsp?ID=8654&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Джерело не уточнює вид; 杶 зазвичай пов'язане з китайською тоною.",
+          "after": "Джерело не уточнює вид; словник MOE тлумачить 杶 як давню назву 香椿. Усталений український ботанічний відповідник тут не підтверджено.",
+          "reason": "Avoid presenting the unverified Ukrainian name тона as established nomenclature while preserving the supported association with 香椿.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "A Ukrainian botanical nomenclature source would be needed before replacing the broad descriptive gloss with a formal plant name."
+      ]
+    },
+    {
+      "id": "ccd8820ca6ba93a6",
+      "source_line": 56677,
+      "traditional": "枌",
+      "simplified": "枌",
+      "pinyin": "fen2",
+      "outcome": "acceptable",
+      "reason": "The generic tree gloss is safe, and the attached note’s elm connection is directly supported: MOE defines 枌[fen2] as an old name for 白榆. No need to replace an accurate description with an unverified Ukrainian species name. https://dict.revised.moe.edu.tw/dictView.jsp?ID=1671&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "A formal Ukrainian taxon equivalent is not established in this entry; the descriptive gloss remains intentionally broad."
+      ]
+    },
+    {
+      "id": "7fe0549baf7a1df8",
+      "source_line": 57559,
+      "traditional": "栻",
+      "simplified": "栻",
+      "pinyin": "shi4",
+      "outcome": "correction_proposed",
+      "reason": "MOE unambiguously defines 栻[shi4] as a compass-shaped divination instrument. The English tree placeholder and the current Ukrainian plant gloss misclassify the object. https://dict.revised.moe.edu.tw/dictView.jsp?ID=8769&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(назва дерева)",
+          "after": "давній прилад для ворожіння, схожий на компас",
+          "reason": "Correct the category error using the authoritative lexical definition; no change to the headword or pronunciation is proposed.",
+          "confidence": "high",
+          "issue_type": "source_gloss_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело не уточнює вид дерева.",
+          "after": "Джерельне (tree) не відповідає засвідченому значенню 栻[shi4]: словник MOE описує давній прилад для ворожіння, схожий на компас.",
+          "reason": "The original note falsely assumes a tree species; replace that presupposition with an explicit explanation of the source error.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "4880fe9c85bcf208",
+      "source_line": 57755,
+      "traditional": "桋",
+      "simplified": "桋",
+      "pinyin": "yi2",
+      "outcome": "acceptable",
+      "reason": "MOE describes 桋[yi2] as a kind of tree without establishing a modern Latin species. The supplied generic Ukrainian description and the note about the source’s lack of a species are appropriate. https://dict.revised.moe.edu.tw/dictView.jsp?ID=10553&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The modern taxonomic identity is not established; no narrower Ukrainian plant name is proposed."
+      ]
+    },
+    {
+      "id": "011a67883bf46939",
+      "source_line": 57854,
+      "traditional": "桹",
+      "simplified": "桹",
+      "pinyin": "lang2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian correctly renders the source palm, but MOE’s standalone 桹 entry instead gives a tall tree and a wooden fishing implement. This does not prove the palm use impossible, but the note should flag the unresolved lexical identification rather than only an unknown palm species. https://dict.variants.moe.edu.tw/dictView.jsp?ID=60349&la=1&powerMode=2 .",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Джерело не уточнює вид пальми.",
+          "after": "Джерело подає palm без уточнення виду. Для окремого 桹[lang2] словник MOE наводить також значення «високе дерево» та дерев’яного знаряддя для риболовлі; відповідність саме пальмі потребує перевірки за контекстом.",
+          "reason": "The primary dictionary supports a broader lexical uncertainty; retain the existing possible plant sense instead of deleting it on the basis of a different attested meaning.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The palm interpretation may depend on a compound or specialised usage; its exact attestation and taxon remain unresolved."
+      ]
+    },
+    {
+      "id": "715468ec866a77d2",
+      "source_line": 58328,
+      "traditional": "棪",
+      "simplified": "棪",
+      "pinyin": "yan3",
+      "outcome": "acceptable",
+      "reason": "MOE explicitly gives tree-name senses for 棪[yan3], including a resin-bearing tree, without a unique modern taxon. The broad Ukrainian descriptor and correctly attached source limitation should remain. https://dict.variants.moe.edu.tw/dictView.jsp?ID=60413&la=0 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The exact botanical species is not established by the source or the historical definitions consulted."
+      ]
+    },
+    {
+      "id": "0160694835518560",
+      "source_line": 58567,
+      "traditional": "楛",
+      "simplified": "楛",
+      "pinyin": "hu4",
+      "outcome": "acceptable",
+      "reason": "At hu4, 楛 is a woody plant name in MOE, distinct from the adjectival ku3 reading. The generic tree/woody-plant description does not invent a species, and the attached note correctly retains the missing identification. https://dict.revised.moe.edu.tw/dictView.jsp?ID=4578&la=0&powerMode=0 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The exact modern species and formal Ukrainian botanical name remain unspecified; do not import meanings from ku3."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,943 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-10-15T01:07:16.607169+00:00",
+  "status": "verified_final_packaging_input_inventory",
+  "candidate_dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+  "baseline_dictionary_sha256": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+  "files": {
+    "/workspace/scratch/d049744f7576/ukrainian-cedict-expansion12-9668/publish-public/LICENSE": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-expansion12-9668/publish-public/LICENSE",
+      "bytes": 1171,
+      "sha256": "f2a48ce841140fc42906e88711749bebad15e2802aeca1577d45fecaeb989145",
+      "role": "Preserve existing source attribution/license metadata unchanged"
+    },
+    "/workspace/scratch/d049744f7576/ukrainian-cedict-expansion12-9668/publish-public/dictionary.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-expansion12-9668/publish-public/dictionary.json",
+      "bytes": 98853036,
+      "sha256": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+      "role": "replay-protected evidence"
+    },
+    "/workspace/scratch/d049744f7576/ukrainian-cedict-expansion12-9668/publish-public/source.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-expansion12-9668/publish-public/source.json",
+      "bytes": 1231,
+      "sha256": "6a2099fa9eb9a5ced59ee3d3c09a9a1fb7f1fa87efd2acbd9aa3f8c9f334cc41",
+      "role": "Preserve existing source attribution/license metadata unchanged"
+    },
+    "CHECKPOINT_REPORT.md": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/CHECKPOINT_REPORT.md",
+      "bytes": 4043,
+      "sha256": "37a5dfd3870d9fc3c3f797b03b019e63a825599c8c89b81b9686f2cbea4cfe1a",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "EDITORIAL_FOLLOWUP_QUEUE.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/EDITORIAL_FOLLOWUP_QUEUE.json",
+      "bytes": 3422106,
+      "sha256": "8fc0160763536a7e0c4ca9513267e8a2aa3edc328546425e97a11acf3358b189",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "FINAL_FLAGGED_REVIEW_REPORT.md": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/FINAL_FLAGGED_REVIEW_REPORT.md",
+      "bytes": 7550,
+      "sha256": "f6110ecaf1eeff73ae38c259ba40e876d627a60a700e7614f4800135a9d2438e",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "FINAL_GATE_REGRESSION.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/FINAL_GATE_REGRESSION.json",
+      "bytes": 692,
+      "sha256": "07f5a758663de04416a2ec4c3cc9ec95d8ab2e155a35d0c265891a93d78bb966",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "VERIFIED_HANDOFF.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/VERIFIED_HANDOFF.json",
+      "bytes": 3403,
+      "sha256": "033b4e6442a9d546bc3cbfd0566aefa50545b3499b54d0a47a078469c8898a0a",
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "build_note_provenance_audit.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/build_note_provenance_audit.py",
+      "bytes": 20595,
+      "sha256": "2b9ac16861b5126601db8e3c3a40b0cbc69584cc2f705dd4b1212aae77dff062",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "candidate-checkpoint-002/REPAIR_SUMMARY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-002/REPAIR_SUMMARY.json",
+      "bytes": 5773,
+      "sha256": "359889c3daaa649e7a0feb6c46b40f5047fb13f02ceafca7e5e42c74e34711b8",
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-003/REPAIR_SUMMARY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-003/REPAIR_SUMMARY.json",
+      "bytes": 6897,
+      "sha256": "1c9a8014cd94129e91a6e974eea91594f627b2074270c6a528b3ebc7f3d4b81b",
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-004/REPAIR_SUMMARY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-004/REPAIR_SUMMARY.json",
+      "bytes": 8021,
+      "sha256": "eaeda98d0ae0b6678f2e3eedadfc13f9b87dcbc9db76c01df5aac97a9fd54c2a",
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-005/REPAIR_SUMMARY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-005/REPAIR_SUMMARY.json",
+      "bytes": 9141,
+      "sha256": "7ed3e00b32293cc98eb39af836aac65fc28d9a5bbb04256bd13f33bad81d13ca",
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-006/REPAIR_SUMMARY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-006/REPAIR_SUMMARY.json",
+      "bytes": 10257,
+      "sha256": "38c524e03f2a0d74bda418ee4a9dcf33766c54fa821f338e5514560b5cf2b741",
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-007/REPAIR_SUMMARY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-007/REPAIR_SUMMARY.json",
+      "bytes": 11378,
+      "sha256": "c1118124ca2e7d771d18bf2ace4d509eaf16a2c6fbca85d1cdda8675f776ae72",
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-008/REPAIR_SUMMARY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-008/REPAIR_SUMMARY.json",
+      "bytes": 12495,
+      "sha256": "6492651b1898c98ccaed837f90b285c56addacd9b2b34f682106f7ebba1a60d0",
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-009/ALL_CORRECTION_PROPOSALS.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/ALL_CORRECTION_PROPOSALS.json",
+      "bytes": 556115,
+      "sha256": "d5dcc730e8df44397268475af850509dcaf207ded8f993675efae43b27f03b4e",
+      "role": "replay-protected evidence"
+    },
+    "candidate-checkpoint-009/NOTE_QUARANTINE.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/NOTE_QUARANTINE.json",
+      "bytes": 609666,
+      "sha256": "7c8cf56fb4e51229a985a743bac3d28ba2f87b2bddacf0ac1b0b666527fe1c88",
+      "role": "replay-protected evidence"
+    },
+    "candidate-checkpoint-009/NOTE_REVIEW_LEDGER.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/NOTE_REVIEW_LEDGER.json",
+      "bytes": 2682423,
+      "sha256": "8a3a39a101ab69175b1c7167204a7fcc64678819d4b05a24a82af3e7415670b7",
+      "role": "replay-protected evidence"
+    },
+    "candidate-checkpoint-009/REPAIR_OVERLAY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/REPAIR_OVERLAY.json",
+      "bytes": 4178723,
+      "sha256": "8423f35a7b4338f50697fad68d24510940124b9cf538a8bdd46e9e695dd645a6",
+      "role": "replay-protected evidence"
+    },
+    "candidate-checkpoint-009/REPAIR_SUMMARY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/REPAIR_SUMMARY.json",
+      "bytes": 13609,
+      "sha256": "6c38fea0128fe20c0557527c37502c9ac94c841ab1c8d3410d1339f643016b18",
+      "role": "replay-protected evidence"
+    },
+    "candidate-checkpoint-009/dictionary.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/dictionary.json",
+      "bytes": 98905992,
+      "sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+      "role": "replay-protected evidence"
+    },
+    "checkpoint-001/input_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-001/input_001.json",
+      "bytes": 135736,
+      "sha256": "cc27b1715c5815af33db121f50e87d0a0784fa971a7699d6ebad7902fdf4260b",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-001/input_001.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-001/input_001.txt",
+      "bytes": 69493,
+      "sha256": "891286bbab76f4d5fe054cab7d5680e83fa3b49b94da1d4531800f1bec48a882",
+      "role": "readable review input companion"
+    },
+    "checkpoint-001/input_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-001/input_002.json",
+      "bytes": 124874,
+      "sha256": "7b7030c50ad16bfbcb762410e8c1d9338ec9726fa044d5db3fa7d57a03fe965d",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-001/input_002.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-001/input_002.txt",
+      "bytes": 60553,
+      "sha256": "b24141c7444ad6380e5c0a5e66926e65b569187437c2c46741c6db0c88f41b75",
+      "role": "readable review input companion"
+    },
+    "checkpoint-001/input_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-001/input_003.json",
+      "bytes": 111862,
+      "sha256": "c81a21dbbd808d7970e798e301cf6bb0a974e90f0c9b91b27b35843539ac36f8",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-001/input_003.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-001/input_003.txt",
+      "bytes": 46835,
+      "sha256": "cebaaa82012a1b85521ea4cf50cd278e7a2a68db272b9f95ff05ff192a78c71f",
+      "role": "readable review input companion"
+    },
+    "checkpoint-001/manifest.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-001/manifest.json",
+      "bytes": 8635,
+      "sha256": "aea77c1c57de321229007b7a8893b6f8aefe6f4c515ca612e41a304a1e01fba7",
+      "role": "review cohort manifest"
+    },
+    "checkpoint-001/review_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-001/review_001.json",
+      "bytes": 78458,
+      "sha256": "686cd952c0f6517f8708fefdcf864861af1d8ba83a0e9d153c34d96b4885d13a",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-001/review_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-001/review_002.json",
+      "bytes": 81372,
+      "sha256": "417e08e4caa993973205510790d4ff5318606596dc1b409fb324a02c4155ac82",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-001/review_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-001/review_003.json",
+      "bytes": 94959,
+      "sha256": "7965778723dccb0c4d9cf720fa6f413d1d72cff7b4516dd755d49b10852c21cd",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/VERIFIED_CHECKPOINT.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/VERIFIED_CHECKPOINT.json",
+      "bytes": 1109,
+      "sha256": "ca39a8834ddbad3b61c17b20c05fad99da256162f2674ecf2ac96a2d95c699b8",
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-002/application_decisions.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/application_decisions.json",
+      "bytes": 10520,
+      "sha256": "95f490e2cfcbe756c4ca5c6fe65c76ad42f4abd0562d7c94869a4d473eb223e4",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/input_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/input_001.json",
+      "bytes": 126437,
+      "sha256": "46a423937ed21f95823aae1427f515857861773f2cc5d000fdf060391edb4680",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/input_001.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/input_001.txt",
+      "bytes": 59918,
+      "sha256": "81f72f642c0db12f6498047519a433d6b2632dcdbc1f6ede0ca3b4718cfadf52",
+      "role": "readable review input companion"
+    },
+    "checkpoint-002/input_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/input_002.json",
+      "bytes": 118893,
+      "sha256": "8c18a13cf38e4c4e0993b405a9c3a427df534c40b548e389578ff751d00769d1",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/input_002.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/input_002.txt",
+      "bytes": 54375,
+      "sha256": "62396c51baa478deb2be339c0cf71bba890756b41637f7f6f221b70e780542d1",
+      "role": "readable review input companion"
+    },
+    "checkpoint-002/input_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/input_003.json",
+      "bytes": 105617,
+      "sha256": "ee8177b0f976e984e09cb5e3dcf4773f1122c179b0a2b3de617b37f639198804",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/input_003.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/input_003.txt",
+      "bytes": 44942,
+      "sha256": "c219cce7e69d8040c9e4db228e41c8f0ba2cef67989122f7a07ae427581fdb5e",
+      "role": "readable review input companion"
+    },
+    "checkpoint-002/manifest.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/manifest.json",
+      "bytes": 7977,
+      "sha256": "243f2ba677a81f427dc62e3b0a4f697b1a523f79bd7209d130003306a3bd8220",
+      "role": "review cohort manifest"
+    },
+    "checkpoint-002/review_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/review_001.json",
+      "bytes": 102477,
+      "sha256": "896a862d6dd7b15d3e473a02027e5de9de21a44f70857a8de65ffd504f3fa005",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/review_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/review_002.json",
+      "bytes": 111595,
+      "sha256": "32954f8c38873af16d2d15b642c097273367427be719c0432907fb3938ff7fa0",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/review_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-002/review_003.json",
+      "bytes": 94774,
+      "sha256": "6afd834fa5ba519fba2658aa0691d69b32fb8b6796259eab4584b522193b3ce7",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/VERIFIED_CHECKPOINT.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/VERIFIED_CHECKPOINT.json",
+      "bytes": 1109,
+      "sha256": "37b8d4cd0d036d9ac2ccdeb3a1281758bc0f1e2a7ddc9942f15422da15f5b4c5",
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-003/application_decisions.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/application_decisions.json",
+      "bytes": 18749,
+      "sha256": "c6798563cfd7cd88deb812b26b4403fedbfdacb7b9ced9e5cb806d7d7758d7ba",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/input_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/input_001.json",
+      "bytes": 97384,
+      "sha256": "337276b539db707a1ea070da52e60e6862e601ad8288a6238afcb25eafa9f4f3",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/input_001.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/input_001.txt",
+      "bytes": 39216,
+      "sha256": "49dd70f41216292f95f53e29b47ffc164376e191451d1de71d6033b06dac4e1a",
+      "role": "readable review input companion"
+    },
+    "checkpoint-003/input_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/input_002.json",
+      "bytes": 113841,
+      "sha256": "9ced0c8bf4e825e1257247efef2988e410e44e31ad5b0317383b52d72168704b",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/input_002.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/input_002.txt",
+      "bytes": 50391,
+      "sha256": "db4cbab3fd6fbccc4cb2e08e3ee22ed2d9892d24aa6c5962238f5bce57d141b5",
+      "role": "readable review input companion"
+    },
+    "checkpoint-003/input_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/input_003.json",
+      "bytes": 135343,
+      "sha256": "4141b044f88471191bf61c185622ed6b713e800a75d3544332b3848b3709eb40",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/input_003.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/input_003.txt",
+      "bytes": 65199,
+      "sha256": "2f590062a49650509ba2fcb985c6f47e8ca8edf0fab03b1acc6839a0279914df",
+      "role": "readable review input companion"
+    },
+    "checkpoint-003/manifest.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/manifest.json",
+      "bytes": 7982,
+      "sha256": "7176c87d42c15e2dbdf99e5dc1e2bb741f31f9f668bba8ed4602f885ebecf6cb",
+      "role": "review cohort manifest"
+    },
+    "checkpoint-003/review_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/review_001.json",
+      "bytes": 100736,
+      "sha256": "3e37f94cb636db40d966ecea65259c3c5b4c33136ba8f0b54d14a3429dd2fbf1",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/review_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/review_002.json",
+      "bytes": 89663,
+      "sha256": "2083d85fbc6d54494565bc045b50a800085898b93315289df895368a8ebc399f",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/review_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-003/review_003.json",
+      "bytes": 113401,
+      "sha256": "0acbfab301c0351f55353411c3dd9729b8927c977171aa2c59707a6dd4802be4",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/VERIFIED_CHECKPOINT.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/VERIFIED_CHECKPOINT.json",
+      "bytes": 1111,
+      "sha256": "a688cdec65e5a918be5ab9ef0afc49a0bff1386a90ce59d413fb2705d711b471",
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-004/application_decisions.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/application_decisions.json",
+      "bytes": 28519,
+      "sha256": "12d64db96ca8c253ba5b646ea691b408b5a2c6b866733995d570bb516c217562",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/input_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/input_001.json",
+      "bytes": 120951,
+      "sha256": "5136650c78d9d8256955af050a78f33598283670c0c861cbd54786e717bf1c14",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/input_001.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/input_001.txt",
+      "bytes": 54579,
+      "sha256": "f324731db25cd05afe75b620895519d2760f43a5d2051409ae431a5b6863d575",
+      "role": "readable review input companion"
+    },
+    "checkpoint-004/input_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/input_002.json",
+      "bytes": 113160,
+      "sha256": "08b2fc599f84a3091c318dc2dd5b54f307ca6dcd44af293b36e6ca22e9578ca5",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/input_002.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/input_002.txt",
+      "bytes": 48108,
+      "sha256": "ea73b94edb6ee5059a241772b2f2a3cc1eda2e76e98e42c575e49fd1a475e62d",
+      "role": "readable review input companion"
+    },
+    "checkpoint-004/input_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/input_003.json",
+      "bytes": 110312,
+      "sha256": "60ca2d33b19d430fa22ae3b166e6cf40ed7af88e8b4a67e34c1539b449f05bc2",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/input_003.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/input_003.txt",
+      "bytes": 45723,
+      "sha256": "da94f619deff40219f33ee3eebb33074900056a5481471588461326b37a3bac7",
+      "role": "readable review input companion"
+    },
+    "checkpoint-004/manifest.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/manifest.json",
+      "bytes": 7982,
+      "sha256": "b9e56de0f6485fa8e1cd436be96366308afae7ca2616ccbfd39bb1fcb93143b6",
+      "role": "review cohort manifest"
+    },
+    "checkpoint-004/review_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/review_001.json",
+      "bytes": 110856,
+      "sha256": "a01b91ab172bc9c502eda691b8a20ce9810e1139712e1106a9639e80e35d1943",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/review_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/review_002.json",
+      "bytes": 100804,
+      "sha256": "b88a09691661ffe763eea0c6cae2c9d142f1f4ca232a223a3e1c4cbf2d089476",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/review_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-004/review_003.json",
+      "bytes": 93724,
+      "sha256": "97fa3f8f2c5f986a6333ce58b59469affba2b144c79215c06747596ccc7539a8",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/VERIFIED_CHECKPOINT.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/VERIFIED_CHECKPOINT.json",
+      "bytes": 1111,
+      "sha256": "7b3207b169f1ca89bd59fadd1b7c04b6dcc35b8a3cecff17073bb090fc301904",
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-005/application_decisions.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/application_decisions.json",
+      "bytes": 21056,
+      "sha256": "2dba2de5a9b22626d42934b56c7a1951cf8365d5877ff3e0dc084ec6ad8ebb4b",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/input_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/input_001.json",
+      "bytes": 108968,
+      "sha256": "14cceb1b5486b138943ce729218beb061c829f0bf800da6575b2ebec87d37322",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/input_001.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/input_001.txt",
+      "bytes": 44563,
+      "sha256": "ca3c8e2f18569d027ddccdf9bb12ee607e2b1dccd890bfa7a8cce5d2c8573cd6",
+      "role": "readable review input companion"
+    },
+    "checkpoint-005/input_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/input_002.json",
+      "bytes": 108576,
+      "sha256": "186f70f71bafbcbedc405abeeb26e9ac07621f0d60c09617ff77bbb86b76e736",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/input_002.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/input_002.txt",
+      "bytes": 44542,
+      "sha256": "e08acc05ba27e77c0ec52f8fd781b4a267ac16e789eaa0a788611fc135115bb0",
+      "role": "readable review input companion"
+    },
+    "checkpoint-005/input_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/input_003.json",
+      "bytes": 107519,
+      "sha256": "99fd21902bc968a013f62a803bec936209c53d1aee3894a26f8c1d5cdc66f8a6",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/input_003.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/input_003.txt",
+      "bytes": 43892,
+      "sha256": "fd3bb0548e8beacbf6020105632bf46baa391a18b5d670c7f013d4dc466a0882",
+      "role": "readable review input companion"
+    },
+    "checkpoint-005/manifest.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/manifest.json",
+      "bytes": 7982,
+      "sha256": "8447365f9d64535ad3dac13692c70fa8fe51bf96a89a758f7409563566e3dcf1",
+      "role": "review cohort manifest"
+    },
+    "checkpoint-005/review_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/review_001.json",
+      "bytes": 102929,
+      "sha256": "aedd5eafb97772cdc1f35c705704c09cff046e56c2f7aaf44b12bf37f7954f70",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/review_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/review_002.json",
+      "bytes": 97780,
+      "sha256": "4ed5080c2f2c92c74eee8698031e8a7194ceac85125b9ab536506e0f4a13f858",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/review_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-005/review_003.json",
+      "bytes": 111059,
+      "sha256": "2d4814f23f690b1cbbac529a742162c907b40f811a1816417c60e334f2d03e08",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/VERIFIED_CHECKPOINT.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/VERIFIED_CHECKPOINT.json",
+      "bytes": 1110,
+      "sha256": "6e7958eccaf6d9d2caf8100a02b259d3844f9b2f288ac4e8feafaff686600bc8",
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-006/application_decisions.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/application_decisions.json",
+      "bytes": 53280,
+      "sha256": "a78e55c1634a6afc42fa4d86940ec723515ef8b633c853605db1ed72c6b1d891",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/input_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/input_001.json",
+      "bytes": 107329,
+      "sha256": "c065e2fa7e4c3307856c49fc212da014a20d801ae6419c836518795f606f3324",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/input_001.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/input_001.txt",
+      "bytes": 44050,
+      "sha256": "f68458a61cf49d483dfb531ddab5acef98d8b5c14a4bd22d43581b0251ec9f27",
+      "role": "readable review input companion"
+    },
+    "checkpoint-006/input_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/input_002.json",
+      "bytes": 105254,
+      "sha256": "a121c318022ee2cffab969b7708f3c01c73f50f63229d537d2532451e4e45919",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/input_002.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/input_002.txt",
+      "bytes": 42657,
+      "sha256": "7e9b1e22de4d6c5e542fdb63a0b055a755372e31d8acff801da310dc1033f59a",
+      "role": "readable review input companion"
+    },
+    "checkpoint-006/input_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/input_003.json",
+      "bytes": 104879,
+      "sha256": "da6edb9b62b79c0b4aead214d1a84370ef512264195e1e1350979e530a17c916",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/input_003.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/input_003.txt",
+      "bytes": 43048,
+      "sha256": "ad0b42ba73f47232fd83b4d75c4d7bef0e5593347971368671d3556a906cbe84",
+      "role": "readable review input companion"
+    },
+    "checkpoint-006/manifest.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/manifest.json",
+      "bytes": 7982,
+      "sha256": "d239b8bc9219c4b8de68cf6dff0c49073b09b85d832a6b8237d3402a2875f46e",
+      "role": "review cohort manifest"
+    },
+    "checkpoint-006/review_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/review_001.json",
+      "bytes": 107584,
+      "sha256": "59f1bccfea68ce753a564676e066968f0bbf0ff8443ef99d192bb0678f97d627",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/review_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/review_002.json",
+      "bytes": 112240,
+      "sha256": "9a8727b6323837cbbf93c549c3bc3278919afb71c0f63506437b2081ec1ace40",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/review_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-006/review_003.json",
+      "bytes": 140477,
+      "sha256": "a2e2ad61787cb424809cbe8687197292f8145404f5f74166c100b87a2d989d20",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/VERIFIED_CHECKPOINT.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/VERIFIED_CHECKPOINT.json",
+      "bytes": 1111,
+      "sha256": "6c2ea8ab25034635feb07c9c850567a80fead692bf4e31f816f2a342afda51e0",
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-007/application_decisions.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/application_decisions.json",
+      "bytes": 67968,
+      "sha256": "b43529a6925226766159316ba98e0e303d11c1a330c7d1d3186959b6650c7f94",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/input_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/input_001.json",
+      "bytes": 101495,
+      "sha256": "14a9d8d2652f01ec907a8631d2d1e1d2a677a10c8410d133d770f610c2ce8225",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/input_001.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/input_001.txt",
+      "bytes": 40803,
+      "sha256": "1a3dc576e67a8afecdeab31dae0046efc7a6581cbfcc74a1a33c681755d849d9",
+      "role": "readable review input companion"
+    },
+    "checkpoint-007/input_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/input_002.json",
+      "bytes": 97801,
+      "sha256": "5be02e7fd6f611fbaa7007d85061340adc1c4123755ab1639af2934486313fff",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/input_002.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/input_002.txt",
+      "bytes": 38444,
+      "sha256": "a1c64054201e9106f0b00d3ff174d2fb88ef908a0cf4d7f114adfe6bf805ffc5",
+      "role": "readable review input companion"
+    },
+    "checkpoint-007/input_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/input_003.json",
+      "bytes": 94655,
+      "sha256": "0d0677cc6e7c73518e676121272bd1857461e331e0944e6d7575b433fabb6712",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/input_003.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/input_003.txt",
+      "bytes": 36271,
+      "sha256": "88443c22c7827d4b56c3214096f4547742de710a620a3ab66463bb16624ac028",
+      "role": "readable review input companion"
+    },
+    "checkpoint-007/manifest.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/manifest.json",
+      "bytes": 7982,
+      "sha256": "08d7d8e1b1b7dd411f7ab38484907a086c10dd8a7100a6f5640084a27dc1db6d",
+      "role": "review cohort manifest"
+    },
+    "checkpoint-007/review_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/review_001.json",
+      "bytes": 103943,
+      "sha256": "1c669c35cd78caf3630b914d008125b97f0d78ada849e4730c4ad814131150dd",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/review_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/review_002.json",
+      "bytes": 121282,
+      "sha256": "7a41a05437ed0faa6a17f34142fbbb17df3bfd814e8ff64290c2db66e7b339ab",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/review_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-007/review_003.json",
+      "bytes": 135018,
+      "sha256": "95cec7d40d0b6d0fc6845b624a095f185c6b7ee4e6e9f7385a98c269878cfb09",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/VERIFIED_CHECKPOINT.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/VERIFIED_CHECKPOINT.json",
+      "bytes": 1110,
+      "sha256": "d0fcdd56f819783b7d53a8c69ddb40109f0b2e071bcd10f95672022eea517ace",
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-008/application_decisions.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/application_decisions.json",
+      "bytes": 49339,
+      "sha256": "84cb467a2ccb21c98c4f3810529cb7c900dc86d260c412f4d2843cc98a4a3e01",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/input_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/input_001.json",
+      "bytes": 91433,
+      "sha256": "eb0e06856fe1d2ac7ce654556290f08524f25d829288e61b8da5c45b98f47484",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/input_001.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/input_001.txt",
+      "bytes": 33807,
+      "sha256": "016e21eb4389454dd5aaba65e09b273e70d4d4abd9389daf819b85ed772b5445",
+      "role": "readable review input companion"
+    },
+    "checkpoint-008/input_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/input_002.json",
+      "bytes": 89524,
+      "sha256": "ffe4795f04b02b2c69db3cbc9f885e99bad0fee3cab00fa44d924a984e068b3a",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/input_002.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/input_002.txt",
+      "bytes": 32409,
+      "sha256": "144ebfc4e9b21574cffddaf2440d04e028f2e91dd363621e33741c4e79aa01c1",
+      "role": "readable review input companion"
+    },
+    "checkpoint-008/input_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/input_003.json",
+      "bytes": 88516,
+      "sha256": "8a2c354d9bb02312f1f3dfee428d2940e3f35d151f8a7487ef2ad52ca60110b9",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/input_003.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/input_003.txt",
+      "bytes": 32059,
+      "sha256": "c69740e0081e66551a7e7c370a5c350aba11e22e288353e2a1fb22a804d20375",
+      "role": "readable review input companion"
+    },
+    "checkpoint-008/manifest.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/manifest.json",
+      "bytes": 7982,
+      "sha256": "c4a4abfc4955dd8b2ccb6dfce08a8477f45fefb9547d63762428affc3dc7acaa",
+      "role": "review cohort manifest"
+    },
+    "checkpoint-008/review_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/review_001.json",
+      "bytes": 99445,
+      "sha256": "25e056370eaeb70b08e3864aed7934dc3f24c9a6e2f73514f6d83bb7d0e4c231",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/review_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/review_002.json",
+      "bytes": 94846,
+      "sha256": "c6f300df144ba248f22cced610c8c360d09317cb24096b9c0c87a525503a38e1",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/review_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-008/review_003.json",
+      "bytes": 108759,
+      "sha256": "fc94a3049a2d3b5753255be2bc0dc4d1304e0036e32c2b01dbebb57c5960089b",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/VERIFIED_CHECKPOINT.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/VERIFIED_CHECKPOINT.json",
+      "bytes": 1108,
+      "sha256": "eb213837a15749ce9a0b553011b8ba4b410f1906abd14009a9f34db56ed8a13c",
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-009/application_decisions.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/application_decisions.json",
+      "bytes": 26961,
+      "sha256": "3cb560fe8a6a920f7bd605eff0fd963d8cc37c3de1d99158c174dc0f41d53dfa",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/input_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/input_001.json",
+      "bytes": 38790,
+      "sha256": "6cccb65935675a524a2bc4e2183313a09009bf21c0560ed1099e8772fe78cd47",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/input_001.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/input_001.txt",
+      "bytes": 13672,
+      "sha256": "30386625f3080fe690c532486b698649ca5e45051bda690c4d83138401f68b44",
+      "role": "readable review input companion"
+    },
+    "checkpoint-009/input_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/input_002.json",
+      "bytes": 37169,
+      "sha256": "53dc179ad6a92e639af28964f19cad309db586b881aac93c72d863933024c39a",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/input_002.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/input_002.txt",
+      "bytes": 12291,
+      "sha256": "4214cd59eb080e01218c74bb9570af227eeb5e7629eb7fc0d9a14b6c684acbec",
+      "role": "readable review input companion"
+    },
+    "checkpoint-009/input_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/input_003.json",
+      "bytes": 36286,
+      "sha256": "ec71453f1a2dfdb184da28cc71c2f753b2308013134a8131bc05e8bfcb1a09e5",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/input_003.txt": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/input_003.txt",
+      "bytes": 12112,
+      "sha256": "b046b46f5af78e167ee8ec522d67193d110c64f4f861088360f9c30b1a18807a",
+      "role": "readable review input companion"
+    },
+    "checkpoint-009/manifest.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/manifest.json",
+      "bytes": 3998,
+      "sha256": "112f780d4dbeecf870d7e76cb3e1e71926b84b4ef4f28a18ad871e1401d3b18b",
+      "role": "review cohort manifest"
+    },
+    "checkpoint-009/review_001.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/review_001.json",
+      "bytes": 66469,
+      "sha256": "801a9b94229b2de6e231da3a82859fa0cf67a7467b8bf7c45c717a66e8248111",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/review_002.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/review_002.json",
+      "bytes": 53947,
+      "sha256": "be2ba042ddc7f4f95a7efda12028ddca300ceab13c1f948d0bd3bd05cafa6e81",
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/review_003.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/review_003.json",
+      "bytes": 61423,
+      "sha256": "d95be7c69ebc2d85ed49629dccccfe1cb3a858c1278a211c0c210a690a3cce15",
+      "role": "independently checked evidence"
+    },
+    "compile_repair_candidate.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/compile_repair_candidate.py",
+      "bytes": 8944,
+      "sha256": "fedb9fcddb31158e162e3af51a477a208aafae8eaf208b71beb5a28ecb8d5463",
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "compile_review_checkpoint.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/compile_review_checkpoint.py",
+      "bytes": 12597,
+      "sha256": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e",
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "corrected-candidate/REPAIR_OVERLAY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/corrected-candidate/REPAIR_OVERLAY.json",
+      "bytes": 444752,
+      "sha256": "05c9be642a0d43a2724247fa79462978aa1a00c3acb7467311120e3dc6bbb01e",
+      "role": "independently checked evidence"
+    },
+    "corrected-candidate/REPAIR_SUMMARY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/corrected-candidate/REPAIR_SUMMARY.json",
+      "bytes": 4291,
+      "sha256": "f804b0217c13a197be20447a0b472b921d6b8c8b240c798a2f8acdb98012835c",
+      "role": "independently checked evidence"
+    },
+    "cumulative_handoff_audit.009.coverage.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.009.coverage.json",
+      "bytes": 2055562,
+      "sha256": "294a3d1d40b0a2b3ad1654d6db3a1db5c44397ac63a660cd0004bb40971ba7b9",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "cumulative_handoff_audit.009.editorial.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.009.editorial.json",
+      "bytes": 761877,
+      "sha256": "2d1c2db057767cfc41cca9ffc1b88b13535eae736fd783748a3073eec0fbbc0b",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "cumulative_handoff_audit.009.held.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.009.held.json",
+      "bytes": 614496,
+      "sha256": "f9aebcfbe6d330cb893ac9800879fc94c660842965cfccec4f78037ad0a65b2c",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "cumulative_handoff_audit.009.replay.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.009.replay.json",
+      "bytes": 58208,
+      "sha256": "843d95f68e068e3911d4f9af71ee1ead0b24a5834a78b4ce7b4c173cd6660542",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "cumulative_handoff_audit.FINAL.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.FINAL.json",
+      "bytes": 32839,
+      "sha256": "a0a2e4643b174c6990ef4d02c705040da307965784fb4c2213625ef79877c62b",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "cumulative_handoff_audit.editorial.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.editorial.py",
+      "bytes": 6988,
+      "sha256": "de721c38c4d80635527da98e4c73e2150adb8adc8f1a6ca1b527d53e19f5a129",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "cumulative_handoff_audit.final.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.final.py",
+      "bytes": 19375,
+      "sha256": "9c3a90aa6a4e42e8e020f9980e4994b14689c1d7a7699aff2f444c3e24eb5d02",
+      "role": "audit reproduction script"
+    },
+    "cumulative_handoff_audit.held.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.held.py",
+      "bytes": 8582,
+      "sha256": "415dcf79dfaca623465a1c403460a1658c97fabdb8fff368241583720344c2c3",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "cumulative_handoff_audit.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.py",
+      "bytes": 15825,
+      "sha256": "a8fc0344421c01189fc6734e8c77bd4770f932a31fcf8c916101530206c347ad",
+      "role": "audit reproduction script"
+    },
+    "gate_independent_review.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/gate_independent_review.json",
+      "bytes": 9171,
+      "sha256": "6fee9d9be87b16ebb715bce8ffa8bbce05074763881d3bf56ed152c15abd9ab0",
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "note-anchor-candidates.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/note-anchor-candidates.json",
+      "bytes": 26527,
+      "sha256": "b1e12e34a71cce1321a18191db2e8e8657510727e6aa6f87a83360c02ec6832e",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "note-provenance-batch-manifest.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/note-provenance-batch-manifest.json",
+      "bytes": 734784,
+      "sha256": "09fb1e84268462bc5b20ea736e85a80e38a2c6dad73cc4ac40b1081da7db96b9",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "note-provenance-diagnosis.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/note-provenance-diagnosis.json",
+      "bytes": 58088,
+      "sha256": "74358d30fb0e3490bb009432349a4936b2c3ade2e72ccd200b3beacafb397b22",
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "note-provenance-first-cohort-review.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/note-provenance-first-cohort-review.json",
+      "bytes": 136254,
+      "sha256": "cb3e4815c1849ad494b55ced2073097795d166141c6635948053d043fe4f5dc5",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "note-provenance-report.md": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/note-provenance-report.md",
+      "bytes": 2911,
+      "sha256": "108df71b68ffff5f231b0575e438184c20e8009b9e7751975659820c3e039829",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "note-provenance-script-inventory.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/note-provenance-script-inventory.json",
+      "bytes": 36894,
+      "sha256": "5428d62b2dfc13bf2e66a5106574d5119a359d3f148b9c5e458bbd9806fa2898",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    },
+    "note_gate.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/note_gate.py",
+      "bytes": 10358,
+      "sha256": "282378c0ee3b6fb6119f46196fd9087f916ef376e6fbc0cb4bd666e6ad5205a8",
+      "role": "replay-protected evidence"
+    },
+    "remaining_flagged_review_queue.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/remaining_flagged_review_queue.json",
+      "bytes": 2483296,
+      "sha256": "9c31bc411fa6a360e43620bb77adabe23c3e03b716cf03ba6615c9b1af6c96ea",
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "replay_cumulative_overlay.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/replay_cumulative_overlay.py",
+      "bytes": 5294,
+      "sha256": "28b324d03aa82b0a50a5a05a724df7532bf4a99c73072f3691d840d2563fc79a",
+      "role": "replay-protected evidence"
+    },
+    "test_note_gate.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/test_note_gate.py",
+      "bytes": 5836,
+      "sha256": "f3e667071d3a554a39c3706df0943bcae314e096c5c526fe9d6897f8db5e618e",
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "verify_versioned_checkpoint.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/verify_versioned_checkpoint.py",
+      "bytes": 26780,
+      "sha256": "294ffed64d55fddea73dab727b54f5d4ad7e3156e5a5922e12b6297c69d36b02",
+      "role": "replay-protected evidence"
+    },
+    "versioned_compiler_review.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/versioned_compiler_review.json",
+      "bytes": 38576,
+      "sha256": "478ac096b00c7f1429263ca1c184d446f0eb3f8d015049e5575b493b5466a401",
+      "role": "Final verification or preserved provenance evidence; not an active annotation source"
+    }
+  },
+  "file_count": 154,
+  "separately_preserved_historical_archive": {
+    "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-corrected-package-2026-10-15/ukrainian-cedict-corrected-checkpoint001-audit-2026-10-15.zip",
+    "sha256": "33daeac2a3601c279c5909f9b9370851d3ad6e0580eb997a89ff059e753b74a8",
+    "bytes": 31863613,
+    "members": 71,
+    "role": "Frozen prior raw/historical audit archive; preserve separately and never use for current annotations"
+  },
+  "excluded_intermediate_dictionaries": "All earlier dictionary.json files and earlier packages remain frozen; only the immutable original and final dictionary are necessary for portable cumulative replay. Earlier summaries and reviews are included as evidence.",
+  "inventory_self_hash": "Provided in FINAL_VERIFIED_HANDOFF.json; no circular self-hash."
+}

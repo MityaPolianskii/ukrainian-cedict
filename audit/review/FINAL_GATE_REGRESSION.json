@@ -1,0 +1,23 @@
+{
+  "completed_at_utc": "2026-10-15T00:58:38.236772+00:00",
+  "scope": "Frozen note-gate regression suite rerun after checkpoint 008 and before final checkpoint 009",
+  "commands": [
+    {
+      "command": "python -B -m unittest test_note_gate.py",
+      "tests": 20,
+      "exit_code": 0,
+      "result": "pass"
+    },
+    {
+      "command": "python -B -O -m unittest test_note_gate.py",
+      "tests": 20,
+      "exit_code": 0,
+      "result": "pass"
+    }
+  ],
+  "files": {
+    "note_gate.py": "282378c0ee3b6fb6119f46196fd9087f916ef376e6fbc0cb4bd666e6ad5205a8",
+    "test_note_gate.py": "f3e667071d3a554a39c3706df0943bcae314e096c5c526fe9d6897f8db5e618e"
+  },
+  "human_validation": false
+}

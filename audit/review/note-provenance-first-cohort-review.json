@@ -1,0 +1,2596 @@
+[
+  {
+    "id": "987b8a4aafe4cf8c",
+    "traditional": "A菜",
+    "batch": "batch_000.json",
+    "zero_based_batch_index": 24,
+    "source": "A菜 A菜 [A cai4] /(Tw) A-choy, or Taiwanese lettuce (Lactuca sativa var. sativa) (from Taiwanese 萵仔菜, Tai-lo pr. [ue-á-tshài] or [e-á-tshài])/",
+    "translation": [
+      "(Тайвань) тайванський салат-латук (A-choy; Lactuca sativa var. sativa; з тайванського 萵仔菜, вимова тай-ло [ue-á-tshài] або [e-á-tshài])"
+    ],
+    "notes": [
+      "Taiwanese lettuce name A-choy has regional transliteration variants; kept the source Tai-lo forms."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "d838b09f3b7b64f4",
+    "traditional": "B站",
+    "batch": "batch_000.json",
+    "zero_based_batch_index": 31,
+    "source": "B站 B站 [B zhan4] /(coll.) Bilibili, Chinese video-sharing website featuring scrolled user comments 彈幕|弹幕[dan4 mu4] overlaid on the videos/",
+    "translation": [
+      "(розм.) Bilibili, китайський відеохостинг із накладеними на відео коментарями-«куленями» 彈幕|弹幕[dan4 mu4]"
+    ],
+    "notes": [
+      "“Bullet comments” is a platform-specific overlay-comment feature; retained 彈幕|弹幕[dan4 mu4] exactly."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "b0679e8983a2fb13",
+    "traditional": "PU",
+    "batch": "batch_000.json",
+    "zero_based_batch_index": 77,
+    "source": "PU PU [P U] /the degree of suspicion that a woman might, after she marries, cheat on her husband (abbr. for \"paternity uncertainty\")/",
+    "translation": [
+      "ступінь підозри, що жінка може зрадити чоловікові після шлюбу (скорочення від «paternity uncertainty»)"
+    ],
+    "notes": [
+      "“Shitizen” is a derogatory pun on citizen; Ukrainian rendering is explanatory rather than a direct pun."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "04dd3880d46dfa3a",
+    "traditional": "□",
+    "batch": "batch_001.json",
+    "zero_based_batch_index": 23,
+    "source": "□ □ [ging1] /uptight; obstinate; to awkwardly force oneself to do sth (from Taiwanese, Tai-lo pr. [king], often written as ㄍㄧㄥ, no generally accepted hanzi form)/",
+    "translation": [
+      "скутований; упертий; ніяково силувати себе щось робити (з тайванської, вимова тай-ло [king], часто записують ㄍㄧㄥ; загальноприйнятого написання ієрогліфами немає)"
+    ],
+    "notes": [
+      "The Taiwanese colloquial item ㄍㄧㄥ has a context-sensitive range; the translation preserves the supplied senses without choosing a narrower single gloss."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "f86ef767caed603d",
+    "traditional": "㐖",
+    "batch": "batch_001.json",
+    "zero_based_batch_index": 44,
+    "source": "㐖 㐖 [xie2] /used in 㐖毒[Xie2 du2]/",
+    "translation": [
+      "уживається у 㐖毒[Xie2 du2]"
+    ],
+    "notes": [
+      "The character is only identified as occurring in the archaic name 㐖毒; no independent meaning is supplied."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "8653422f5313fc07",
+    "traditional": "㘓",
+    "batch": "batch_001.json",
+    "zero_based_batch_index": 66,
+    "source": "㘓 𪢌 [lan2] /used in 㘓哰|𪢌哰[lan2 lao2]/",
+    "translation": [
+      "уживається у 㘓哰|𪢌哰[lan2 lao2]"
+    ],
+    "notes": [
+      "The rare headword 㘓 is glossed only through a fixed expression; usage beyond that expression is uncertain."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "11b7df9d15ebbca9",
+    "traditional": "㱾",
+    "batch": "batch_002.json",
+    "zero_based_batch_index": 29,
+    "source": "㱾 㱾 [gai1] /a kind of metal or jade ornament worn in ancient times to ward off evil spirits/",
+    "translation": [
+      "різновид металевої або нефритової прикраси-оберега, яку в давнину носили для захисту від злих духів"
+    ],
+    "notes": [
+      "Source identifies only an ancient protective ornament; its precise form and material may vary."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "8a1ea30044b63768",
+    "traditional": "㲋",
+    "batch": "batch_002.json",
+    "zero_based_batch_index": 32,
+    "source": "㲋 㲋 [chuo4] /ancient name for an animal similar to rabbit but bigger/",
+    "translation": [
+      "давня назва тварини, схожої на кролика, але більшої"
+    ],
+    "notes": [
+      "The rare historical animal name is described by comparison in the source; no modern zoological identification is given."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "8f34fc254104073c",
+    "traditional": "㶸",
+    "batch": "batch_002.json",
+    "zero_based_batch_index": 46,
+    "source": "㶸 㶸 [xie2] /(precise meaning unknown, relates to iron)/variant of 協|协[xie2]/",
+    "translation": [
+      "(точне значення невідоме, пов’язане із залізом)",
+      "варіант 協|协[xie2]"
+    ],
+    "notes": [
+      "The source explicitly says the precise sense is unknown; the translation preserves that uncertainty."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "8553c688b379b77d",
+    "traditional": "䂶",
+    "batch": "batch_002.json",
+    "zero_based_batch_index": 66,
+    "source": "䂶 䂶 [jie2] /variant of 蜐[jie2]/",
+    "translation": [
+      "варіант 蜐[jie2]"
+    ],
+    "notes": [
+      "蜐 is glossed by reference to a rare character rather than a more common headword."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "eeacf6a5bd922e65",
+    "traditional": "䓬",
+    "batch": "batch_002.json",
+    "zero_based_batch_index": 77,
+    "source": "䓬 䓬 [zhuo2] /(chemistry) tropylium ion/",
+    "translation": [
+      "(хімія) тропілієвий катіон"
+    ],
+    "notes": [
+      "Tropylium ion is a specialized chemistry term."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "a4eee8eed594303f",
+    "traditional": "䠷",
+    "batch": "batch_003.json",
+    "zero_based_batch_index": 0,
+    "source": "䠷 䠷 [tiao3] /used in 高䠷[gao1 tiao3]/",
+    "translation": [
+      "уживається у 高䠷[gao1 tiao3]"
+    ],
+    "notes": [
+      "The entry is given only as part of 高䠷; its exact standalone sense is not specified."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "d6118920dcb8e4f9",
+    "traditional": "䥑",
+    "batch": "batch_003.json",
+    "zero_based_batch_index": 3,
+    "source": "䥑 鿏 [mai4] /meitnerium (chemistry)/",
+    "translation": [
+      "мейтнерій (хімія)"
+    ],
+    "notes": [
+      "Element name transliterated as meitnerium."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "daf7e480f3096697",
+    "traditional": "䲘",
+    "batch": "batch_003.json",
+    "zero_based_batch_index": 19,
+    "source": "䲘 鳤 [guan3] /Ochetobius elongatus, species of cyprinid fish found in eastern Asia/",
+    "translation": [
+      "Ochetobius elongatus, вид коропових риб зі Східної Азії"
+    ],
+    "notes": [
+      "The Latin binomial is retained as the source’s species identification."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "b334c6ffc0e0cd01",
+    "traditional": "䴈",
+    "batch": "batch_003.json",
+    "zero_based_batch_index": 23,
+    "source": "䴈 𬸩 [ao3] /used in 鶆䴈|𱉵𬸩[lai2 ao3]/",
+    "translation": [
+      "уживається у 鶆䴈|𱉵𬸩[lai2 ao3]"
+    ],
+    "notes": [
+      "Source gives a rare compound reference; retained exactly."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "f179486330149996",
+    "traditional": "一卡通",
+    "batch": "batch_004.json",
+    "zero_based_batch_index": 14,
+    "source": "一卡通 一卡通 [Yi1 ka3 tong1] /the name of various contactless smart cards, notably Yikatong (mainly for public transport in Beijing) and iPASS (mainly for public transport in Taiwan)/",
+    "translation": [
+      "назва різних безконтактних смарткарток, зокрема Yikatong (переважно громадський транспорт Пекіна) та iPASS (переважно громадський транспорт Тайваню)"
+    ],
+    "notes": [
+      "Yikatong and iPASS are retained as official card names; regional service coverage follows the source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "5b502c33d8c6af4e",
+    "traditional": "一品紅",
+    "batch": "batch_004.json",
+    "zero_based_batch_index": 41,
+    "source": "一品紅 一品红 [yi1 pin3 hong2] /poinsettia (Euphorbia pulcherrima)/",
+    "translation": [
+      "пуансетія (Euphorbia pulcherrima)"
+    ],
+    "notes": [
+      "Botanical scientific name retained from source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "553046d76b078467",
+    "traditional": "一塊",
+    "batch": "batch_004.json",
+    "zero_based_batch_index": 63,
+    "source": "一塊 一块 [yi1 kuai4] /a piece; a chunk/(fig.) (coll.) (typically preceded by a specifier such as 這|这[zhe4]) aspect; area; dimension (Example: 情感這一塊|情感这一块[qing2 gan3 zhe4 yi1 kuai4] \"the emotional aspect (of it)\")/(coll.) one yuan; a dollar/together; in the same place; in company/",
+    "translation": [
+      "шматок; кусень",
+      "(перен., розм.; зазвичай після вказівного слова на зразок 這|这[zhe4]) аспект; сфера; вимір (напр. 情感這一塊|情感这一块[qing2 gan3 zhe4 yi1 kuai4] «емоційний аспект (цього)»)",
+      "(розм.) один юань; долар",
+      "разом; в одному місці; у товаристві"
+    ],
+    "notes": [
+      "The source’s example and bracketed pinyin are kept exactly; “块” here is a colloquial currency unit by context."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "202a73e41d9895f1",
+    "traditional": "一塵不染",
+    "batch": "batch_004.json",
+    "zero_based_batch_index": 66,
+    "source": "一塵不染 一尘不染 [yi1 chen2 bu4 ran3] /(idiom) untainted by even a speck of dust; spotlessly clean; (of a person) honest; incorruptible/",
+    "translation": [
+      "(ідіома) без жодної порошинки; бездоганно чистий; (про людину) чесний; непідкупний"
+    ],
+    "notes": [
+      "This phrase has literal and figurative readings; both are retained in the single source segment."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "a242668d7848e4a1",
+    "traditional": "一夔已足",
+    "batch": "batch_004.json",
+    "zero_based_batch_index": 69,
+    "source": "一夔已足 一夔已足 [yi1 kui2 yi3 zu2] /one talented person is enough for the job (idiom)/",
+    "translation": [
+      "для цієї роботи досить однієї талановитої людини (ідіома)"
+    ],
+    "notes": [
+      "The idiom alludes to the ancient musician Kui; the concise gloss follows the source meaning."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "7d1f51478fa398b0",
+    "traditional": "一帶一路",
+    "batch": "batch_005.json",
+    "zero_based_batch_index": 32,
+    "source": "一帶一路 一带一路 [Yi1 dai4 Yi1 lu4] /Belt and Road Initiative (BRI), Chinese infrastructure and investment strategy launched in 2013/",
+    "translation": [
+      "Ініціатива «Пояс і шлях» (BRI), китайська інфраструктурна та інвестиційна стратегія, започаткована 2013 року"
+    ],
+    "notes": [
+      "Official English name retained for China’s BRI policy; the gloss follows the source description."
+    ],
+    "review_result": "ambiguous_preservation_claim",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "ac6562198c421a6b",
+    "traditional": "一把屎一把尿",
+    "batch": "batch_005.json",
+    "zero_based_batch_index": 71,
+    "source": "一把屎一把尿 一把屎一把尿 [yi1 ba3 shi3 yi1 ba3 niao4] /to have endured all sorts of hardships (to raise one's children) (idiom)/",
+    "translation": [
+      "витерпіти всілякі труднощі, виховуючи дітей (ідіома)"
+    ],
+    "notes": [
+      "The expression is idiomatic and refers to the hardships of raising children; wording follows the source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "c4d7a5a8cde99cdb",
+    "traditional": "一時瑜亮",
+    "batch": "batch_006.json",
+    "zero_based_batch_index": 23,
+    "source": "一時瑜亮 一时瑜亮 [yi1 shi2 Yu2 Liang4] /two remarkable persons living at the same period (as 周瑜[Zhou1 Yu2] and 諸葛亮|诸葛亮[Zhu1 ge3 Liang4])/",
+    "translation": [
+      "двоє видатних людей, що жили в одну епоху (як 周瑜[Zhou1 Yu2] та 諸葛亮|诸葛亮[Zhu1 ge3 Liang4])"
+    ],
+    "notes": [
+      "The historical allusion names Zhou Yu and Zhuge Liang; names and bracketed pinyin are preserved as given."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "8ee58c9a4ea20a9b",
+    "traditional": "一曝十寒",
+    "batch": "batch_006.json",
+    "zero_based_batch_index": 27,
+    "source": "一曝十寒 一曝十寒 [yi1 pu4 shi2 han2] /one day's sun, ten days' frost (idiom, from Mencius); fig. to work for a bit then skimp/sporadic effort/lack of sticking power/short attention span/",
+    "translation": [
+      "букв. один день сонця, десять днів морозу (ідіома з «Мен-цзи»); перен. трохи попрацювати, а тоді халтурити",
+      "нерегулярні зусилля",
+      "бракувати наполегливості",
+      "коротка тривалість уваги"
+    ],
+    "notes": [
+      "The Mencius allusion is retained literally; subsequent segments preserve the source’s figurative senses."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "600f250283d2fe25",
+    "traditional": "一氧化二氮",
+    "batch": "batch_006.json",
+    "zero_based_batch_index": 80,
+    "source": "一氧化二氮 一氧化二氮 [yi1 yang3 hua4 er4 dan4] /nitrous oxide N2O/laughing gas/",
+    "translation": [
+      "закис азоту N2O",
+      "звеселяльний газ"
+    ],
+    "notes": [
+      "Chemical names and formula are retained from the source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "d3f03dbd801706a3",
+    "traditional": "一發",
+    "batch": "batch_007.json",
+    "zero_based_batch_index": 17,
+    "source": "一發 一发 [yi1 fa1] /(Japanese mahjong) to complete one's hand within a single turn after declaring riichi (orthographic borrowing from Japanese 一発 \"ippatsu\")/",
+    "translation": [
+      "(японський маджонг) завершити комбінацію в тому самому ході після оголошення річі (запозичення написання з японського 一発 «ippatsu»)"
+    ],
+    "notes": [
+      "Japanese mahjong term and reading are retained from the source description."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "2403563ae8ca5fed",
+    "traditional": "一目十行",
+    "batch": "batch_007.json",
+    "zero_based_batch_index": 23,
+    "source": "一目十行 一目十行 [yi1 mu4 shi2 hang2] /ten lines at a glance (idiom)/to read very rapidly/",
+    "translation": [
+      "десять рядків одним поглядом (ідіома)",
+      "читати дуже швидко"
+    ],
+    "notes": [
+      "Idiom’s literal reading is unusual; figurative sense is retained separately."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "d592d648f09d9428",
+    "traditional": "一碗水端平",
+    "batch": "batch_007.json",
+    "zero_based_batch_index": 38,
+    "source": "一碗水端平 一碗水端平 [yi1 wan3 shui3 duan1 ping2] /lit. to hold a bowl of water level (idiom)/fig. to be impartial/",
+    "translation": [
+      "букв. нести чашу з водою рівно (ідіома)",
+      "перен. бути неупередженим"
+    ],
+    "notes": [
+      "The idiom’s object “house” is implicit in the source’s English gloss; rendered literally and figuratively."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "0168943755f632b1",
+    "traditional": "一神教",
+    "batch": "batch_007.json",
+    "zero_based_batch_index": 39,
+    "source": "一神教 一神教 [yi1 shen2 jiao4] /monotheistic religion/monotheism/",
+    "translation": [
+      "монотеїстична релігія",
+      "монотеїзм"
+    ],
+    "notes": [
+      "Theological distinction between monotheism and Unitarianism is preserved as given."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "3c99603c3c95afda",
+    "traditional": "一致字",
+    "batch": "batch_007.json",
+    "zero_based_batch_index": 99,
+    "source": "一致字 一致字 [yi1 zhi4 zi4] /(orthography) consistent words (e.g. \"dean\", \"bean\", and \"lean\", where \"-ean\" is pronounced the same in each case)/consistent characters (e.g. 搖|摇[yao2], 遙|遥[yao2] and 謠|谣[yao2], which share a phonetic component that reliably indicates that the pronunciation of the character is yáo)/",
+    "translation": [
+      "(орфографія) слова зі сталим написанням і вимовою (напр. «dean», «bean» і «lean», де «-ean» у кожному слові вимовляється однаково)",
+      "ієрогліфи зі спільним фонетичним компонентом, який надійно вказує на вимову yáo (напр. 搖|摇[yao2], 遙|遥[yao2] і 謠|谣[yao2])"
+    ],
+    "notes": [
+      "The source’s examples and bracketed pinyin are preserved exactly."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "8c203804f6486016",
+    "traditional": "一般貿易",
+    "batch": "batch_008.json",
+    "zero_based_batch_index": 17,
+    "source": "一般貿易 一般贸易 [yi1 ban1 mao4 yi4] /general trade (i.e. importing and export without processing)/",
+    "translation": [
+      "звичайна торгівля (імпорт та експорт без переробки товарів)"
+    ],
+    "notes": [
+      "“General trade” is a customs/trade category; scope is retained from the source description."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "0c3941f50d891062",
+    "traditional": "一著不慎，滿盤皆輸",
+    "batch": "batch_008.json",
+    "zero_based_batch_index": 21,
+    "source": "一著不慎，滿盤皆輸 一着不慎，满盘皆输 [yi1 zhao1 bu4 shen4 , man3 pan2 jie1 shu1] /One careless move and the whole game is lost. (idiom)/",
+    "translation": [
+      "Одна необачна дія — і програно всю партію (ідіома)"
+    ],
+    "notes": [
+      "This is an idiomatic admonition about a careless move; retained in compact literal form."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "2c2f4508db2efeb9",
+    "traditional": "一覽眾山小",
+    "batch": "batch_008.json",
+    "zero_based_batch_index": 39,
+    "source": "一覽眾山小 一览众山小 [yi1 lan3 zhong4 shan1 xiao3] /(last line of the poem 望岳 by Tang poet Du Fu 杜甫[Du4 Fu3]) with one look I shall see all the smaller mountains down below (from the summit of Mt Tai 泰山[Tai4 Shan1])/(fig.) awe-inspiring view from a very high place/",
+    "translation": [
+      "(останній рядок вірша «望岳» поета Ду Фу 杜甫[Du4 Fu3]) з вершини гори Тай 泰山[Tai4 Shan1] одним поглядом побачити всі менші гори внизу",
+      "(перен.) величний краєвид із великої висоти"
+    ],
+    "notes": [
+      "Poem title and proper names are preserved as supplied."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "9ac7bb9074182dc3",
+    "traditional": "一言堂",
+    "batch": "batch_008.json",
+    "zero_based_batch_index": 52,
+    "source": "一言堂 一言堂 [yi1 yan2 tang2] /(sign hung in a shop) prices fixed – no bargaining (old)/having things decided by the will of a single individual/autocratic rule/(contrasted with 群言堂[qun2 yan2 tang2])/",
+    "translation": [
+      "(вивіска в крамниці) ціни фіксовані — торгу немає (заст.)",
+      "рішення одноосібно ухвалює одна людина",
+      "автократичне правління",
+      "(на противагу 群言堂[qun2 yan2 tang2])"
+    ],
+    "notes": [
+      "群言堂 reference is preserved exactly; gloss is descriptive of the contrast."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "92b953c247ece388",
+    "traditional": "一路上",
+    "batch": "batch_008.json",
+    "zero_based_batch_index": 69,
+    "source": "一路上 一路上 [yi1 lu4 shang4] /along the way/the whole way/(fig.) the whole time/",
+    "translation": [
+      "дорогою",
+      "усю дорогу",
+      "(перен.) увесь час"
+    ],
+    "notes": [
+      "Formula One is the established Ukrainian name for the motor-racing series."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "3ee7e352b216472a",
+    "traditional": "一遞一個",
+    "batch": "batch_008.json",
+    "zero_based_batch_index": 99,
+    "source": "一遞一個 一递一个 [yi1 di4 yi1 ge4] /one after another/",
+    "translation": [
+      "один за одним"
+    ],
+    "notes": [
+      "Orthographic terminology is rendered descriptively; examples and bracketed pinyin are preserved exactly."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "46e918ac49f1c4da",
+    "traditional": "一頭熱",
+    "batch": "batch_009.json",
+    "zero_based_batch_index": 34,
+    "source": "一頭熱 一头热 [yi1 tou2 re4] /one-sided enthusiasm (abbr. for 剃頭挑子一頭熱|剃头挑子一头热[ti4 tou2 tiao1 zi5 yi1 tou2 re4])/",
+    "translation": [
+      "однобічний ентузіазм (скорочення від 剃頭挑子一頭熱|剃头挑子一头热[ti4 tou2 tiao1 zi5 yi1 tou2 re4])"
+    ],
+    "notes": [
+      "The source expands the idiom; retained as a one-sided-enthusiasm sense and its preserved Chinese reference."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "749307914428cb8a",
+    "traditional": "一鳴驚人",
+    "batch": "batch_009.json",
+    "zero_based_batch_index": 54,
+    "source": "一鳴驚人 一鸣惊人 [yi1 ming2 jing1 ren2] /to amaze the world with a single brilliant feat (idiom); an overnight celebrity/",
+    "translation": [
+      "вразити світ одним блискучим учинком (ідіома); стати знаменитістю за одну ніч"
+    ],
+    "notes": [
+      "The phrase is rendered as a fixed proverb; exact nuance may depend on context."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "8569b137912c0778",
+    "traditional": "丁丁",
+    "batch": "batch_009.json",
+    "zero_based_batch_index": 68,
+    "source": "丁丁 丁丁 [Ding1 ding1] /Tintin, fictional comic character created by Hergé/",
+    "translation": [
+      "Тінтін, вигаданий персонаж коміксів, створений Ерже"
+    ],
+    "notes": [
+      "Tintin is the established Ukrainian transliteration of the fictional character’s name."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "cdb4bf1d27129ee1",
+    "traditional": "丁丁",
+    "batch": "batch_009.json",
+    "zero_based_batch_index": 69,
+    "source": "丁丁 丁丁 [ding1 ding1] /(neologism) (slang) penis (丁丁 resembles \"JJ\", which is short for 雞雞|鸡鸡[ji1 ji1])/",
+    "translation": [
+      "(неологізм, сленг) пеніс (丁丁 нагадує «JJ» — скорочення від 雞雞|鸡鸡[ji1 ji1])"
+    ],
+    "notes": [
+      "The slang entry is a euphemistic wordplay on the cited term, preserved as explanatory context."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "fd35bef9cc80ac9d",
+    "traditional": "丁丑",
+    "batch": "batch_009.json",
+    "zero_based_batch_index": 72,
+    "source": "丁丑 丁丑 [ding1 chou3] /fourteenth year D2 of the 60 year cycle, e.g. 1997 or 2057/",
+    "translation": [
+      "чотирнадцятий рік циклу з 60 років, D2 (наприклад, 1997 або 2057)"
+    ],
+    "notes": [
+      "Dingchou is one of the sexagenary-cycle year names; the dates are retained from source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "677deb2d0fab38c6",
+    "traditional": "丁加奴",
+    "batch": "batch_009.json",
+    "zero_based_batch_index": 79,
+    "source": "丁加奴 丁加奴 [Ding1 jia1 nu2] /former transliteration of Terengganu, Malaysia, replaced by 登嘉樓|登嘉楼[Deng1 jia1 lou2] in 2005/",
+    "translation": [
+      "колишня транслітерація назви штату Тренгану в Малайзії; у 2005 році замінено на 登嘉樓|登嘉楼[Deng1 jia1 lou2]"
+    ],
+    "notes": [
+      "The older transliteration and replacement place name are preserved as cited."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "b8586efb6164dbf5",
+    "traditional": "丁汝昌",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 2,
+    "source": "丁汝昌 丁汝昌 [Ding1 Ru3 chang1] /Ding Ruchang (1836–1895), commander of the Qing North China Navy/",
+    "translation": [
+      "Дін Жучан (1836–1895), командувач Північно-китайського флоту династії Цін"
+    ],
+    "notes": [
+      "The named Qing naval commander is transliterated as Ding Ruchang; dates follow the source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "543c7dd13ebf0b8d",
+    "traditional": "丁玲",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 5,
+    "source": "丁玲 丁玲 [Ding1 Ling2] /Ding Ling (1904–1986), Chinese novelist, author of the novel \"The Sun Shines over the Sanggan River\" 太陽照在桑乾河上|太阳照在桑干河上[Tai4 yang2 Zhao4 zai4 Sang1 gan1 He2 shang4], persecuted in the 1950s as \"anti-Party\"/",
+    "translation": [
+      "Дін Лін (1904–1986), китайська письменниця, авторка роману «Сонце над річкою Сангань» 太陽照在桑乾河上|太阳照在桑干河上[Tai4 yang2 Zhao4 zai4 Sang1 gan1 He2 shang4]; у 1950-х роках переслідувалася як «антипартійна»"
+    ],
+    "notes": [
+      "Ding Ling’s novel title is rendered into Ukrainian while the source title and pinyin are preserved exactly."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "8604e9905ec50e6f",
+    "traditional": "丁磊",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 6,
+    "source": "丁磊 丁磊 [Ding1 Lei3] /Ding Lei (1971–), founder and CEO of NetEase 網易|网易[Wang3 yi4]/",
+    "translation": [
+      "Дін Лей (1971–), засновник і генеральний директор NetEase 網易|网易[Wang3 yi4]"
+    ],
+    "notes": [
+      "NetEase is given with its source Chinese form and pinyin unchanged."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "4afe4f4b2b9cce70",
+    "traditional": "丁肇中",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 8,
+    "source": "丁肇中 丁肇中 [Ding1 Zhao4 zhong1] /Samuel C. C. Ting (1936-), American physicist, 1976 Nobel Prize laureate in physics/",
+    "translation": [
+      "Семюел Ч. Ч. Тін (1936–), американський фізик, лауреат Нобелівської премії з фізики 1976 року"
+    ],
+    "notes": [
+      "The source provides an English personal name; preserved as Samuel C. C. Ting in Latin spelling in Ukrainian transliteration."
+    ],
+    "review_result": "contradicted_by_translation",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "5614e543e0b826ca",
+    "traditional": "丁青縣",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 17,
+    "source": "丁青縣 丁青县 [Ding1 qing1 Xian4] /Dêngqên, a county in Chamdo City 昌都市[Chang1 du1 Shi4], Tibet/",
+    "translation": [
+      "Денгчен, повіт міста Чамдо 昌都市[Chang1 du1 Shi4], Тибет"
+    ],
+    "notes": [
+      "Dêngqên is the local romanization supplied by the source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "ee552fc8896a62a6",
+    "traditional": "丁韙良",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 18,
+    "source": "丁韙良 丁韪良 [Ding1 Wei3 liang2] /William A.P. Martin (1827-1916), American missionary who lived 62 years in China between 1850 and 1916, and helped found many Chinese colleges, first president of Peking University/",
+    "translation": [
+      "Вільям А. П. Мартін (1827–1916), американський місіонер, який прожив у Китаї 62 роки між 1850 і 1916 роками, допоміг заснувати багато китайських коледжів і був першим президентом Пекінського університету"
+    ],
+    "notes": [
+      "Historical biography and institutional roles are retained as stated."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "8665e2fac6a8750e",
+    "traditional": "七七事變",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 25,
+    "source": "七七事變 七七事变 [Qi1 Qi1 Shi4 bian4] /Marco Polo Bridge Incident of 7th July 1937, regarded as the beginning of the Second Sino-Japanese War 抗日戰爭|抗日战争[Kang4 Ri4 Zhan4 zheng1]/",
+    "translation": [
+      "Інцидент на мосту Марко Поло 7 липня 1937 року, який вважають початком Другої китайсько-японської війни 抗日戰爭|抗日战争[Kang4 Ri4 Zhan4 zheng1]"
+    ],
+    "notes": [
+      "The source’s historical framing is retained; the embedded Chinese war name and pinyin are preserved."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "9e2cb1969663823d",
+    "traditional": "七事",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 29,
+    "source": "七事 七事 [qi1 shi4] /(archaic) the seven duties of a sovereign/",
+    "translation": [
+      "(заст.) сім обов’язків правителя"
+    ],
+    "notes": [
+      "The source names a group of seven sovereign duties but does not enumerate them."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "3a7a506e5f990db8",
+    "traditional": "七十七國集團",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 33,
+    "source": "七十七國集團 七十七国集团 [Qi1 shi2 qi1 Guo2 Ji2 tuan2] /Group of 77, loose alliance of developing countries, founded in 1964/",
+    "translation": [
+      "Група 77 — неформальний союз країн, що розвиваються, заснований 1964 року"
+    ],
+    "notes": [
+      "The Group of 77 label and source description are retained."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "581e2b5796811c30",
+    "traditional": "七喜",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 36,
+    "source": "七喜 七喜 [Qi1 xi3] /7 Up (soft drink)/Hedy Holding Co., PRC computer manufacturer/",
+    "translation": [
+      "7 Up (газований напій)",
+      "Hedy Holding Co., китайський виробник комп’ютерів"
+    ],
+    "notes": [
+      "The source names a Chinese manufacturer, not the soft-drink brand."
+    ],
+    "review_result": "contradicted_by_source",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "2964c629b80ef235",
+    "traditional": "七夕節",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 43,
+    "source": "七夕節 七夕节 [Qi1 xi1 jie2] /Qixi Festival or Double Seven Festival on the 7th day of the 7th lunar month/girls' festival/Chinese Valentine's day, when Cowherd and Weaving maid 牛郎織女|牛郎织女[niu2 lang3 zhi1 nu:3] are allowed their annual meeting/",
+    "translation": [
+      "Свято Цісі, або Свято подвійної сімки, сьомого дня сьомого місяця за місячним календарем",
+      "свято дівчат",
+      "китайський День закоханих, коли Пастух і Ткаля 牛郎織女|牛郎织女[niu2 lang3 zhi1 nu:3] щороку зустрічаються"
+    ],
+    "notes": [
+      "The mythological figures and exact bracketed pinyin are preserved."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "929cbf0326f51d94",
+    "traditional": "七大工業國集團",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 45,
+    "source": "七大工業國集團 七大工业国集团 [qi1 da4 gong1 ye4 guo2 ji2 tuan2] /G7, the group of 7 industrialized countries: US, Japan, Britain, Germany, France, Italy and Canada (now G8, including Russia)/",
+    "translation": [
+      "G7 — група семи промислово розвинених країн: США, Японії, Великої Британії, Німеччини, Франції, Італії та Канади (нині G8, з Росією)"
+    ],
+    "notes": [
+      "The historical parenthetical “now G8, including Russia” follows the source wording."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "3a3172ea056d5ed6",
+    "traditional": "七帶石斑魚",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 49,
+    "source": "七帶石斑魚 七带石斑鱼 [qi1 dai4 shi2 ban1 yu2] /Epinephelus septemfasciatus/",
+    "translation": [
+      "Epinephelus septemfasciatus"
+    ],
+    "notes": [
+      "Latin scientific name retained from source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "15f6a37baa873ff5",
+    "traditional": "七律",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 54,
+    "source": "七律 七律 [qi1 lu:4] /verse form consisting of 8 lines of 7 characters, with rhyme on alternate lines (abbr. for 七言律詩|七言律诗[qi1 yan2 lu : 4 shi1])/",
+    "translation": [
+      "віршована форма з вісьмох рядків по сім ієрогліфів із римою в кожному другому рядку (скорочення від 七言律詩|七言律诗[qi1 yan2 lu : 4 shi1])"
+    ],
+    "notes": [
+      "The classical poetry form and source reference are preserved."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "f0d980df3eda024a",
+    "traditional": "七情",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 55,
+    "source": "七情 七情 [qi1 qing2] /seven emotional states/seven affects of traditional Chinese medical theory and therapy, namely: joy 喜[xi3], anger 怒[nu4], anxiety 憂|忧[you1], thought 思[si1], grief 悲[bei1], fear 恐[kong3], fright 驚|惊[jing1]/seven relations/",
+    "translation": [
+      "сім емоційних станів",
+      "сім почуттів традиційної китайської медицини: радість 喜[xi3], гнів 怒[nu4], тривога 憂|忧[you1], задум 思[si1], скорбота 悲[bei1], страх 恐[kong3], переляк 驚|惊[jing1]",
+      "сім типів стосунків"
+    ],
+    "notes": [
+      "The Chinese medical framework’s terms and pinyin are preserved from source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "0dbd944d286059aa",
+    "traditional": "七方",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 62,
+    "source": "七方 七方 [qi1 fang1] /(Chinese medicine) the seven kinds of prescriptions 大方[da4 fang1], 小方[xiao3 fang1], 緩方|缓方[huan3 fang1], 急方[ji2 fang1], 奇方[ji1 fang1], 偶方[ou3 fang1] and 重方[chong2 fang1] or 複方|复方[fu4 fang1]/",
+    "translation": [
+      "(китайська медицина) сім типів рецептів: 大方[da4 fang1], 小方[xiao3 fang1], 緩方|缓方[huan3 fang1], 急方[ji2 fang1], 奇方[ji1 fang1], 偶方[ou3 fang1] та 重方[chong2 fang1] або 複方|复方[fu4 fang1]"
+    ],
+    "notes": [
+      "The traditional categories are obscure; the source list is reproduced as supplied."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "ead4b84c1d78d2ac",
+    "traditional": "七日熱",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 63,
+    "source": "七日熱 七日热 [qi1 ri4 re4] /leptospirosis/",
+    "translation": [
+      "лептоспіроз"
+    ],
+    "notes": [
+      "Leptospirosis is the established medical equivalent."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "b1a210cbba6bb0d0",
+    "traditional": "七河州",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 74,
+    "source": "七河州 七河州 [Qi1 he2 zhou1] /Semirechye region of Kazakhstan, bordering Lake Balkash 巴爾喀什湖|巴尔喀什湖[Ba1 er3 ka1 shi2 Hu2]/",
+    "translation": [
+      "історична область Семиріччя в Казахстані, біля озера Балхаш 巴爾喀什湖|巴尔喀什湖[Ba1 er3 ka1 shi2 Hu2]"
+    ],
+    "notes": [
+      "Semirechye is a historical regional name; retained from source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "f2a48bc7388e13e4",
+    "traditional": "七里香",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 94,
+    "source": "七里香 七里香 [qi1 li3 xiang1] /orange jasmine (Murraya paniculata)/\"chicken butt\", popular Taiwan snack on a stick, made of marinated \"white cut chicken\" butt/",
+    "translation": [
+      "оранжевий жасмин (Murraya paniculata)",
+      "«курячий задок» — популярна тайванська закуска на шпажці з маринованого за рецептом «курки в білому» задка"
+    ],
+    "notes": [
+      "The regional snack name is translated literally with the source preparation description."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "f1175f2b0361e97e",
+    "traditional": "七魄",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 98,
+    "source": "七魄 七魄 [qi1 po4] /seven mortal forms in Daoism, representing carnal life and desires/contrasted with 三魂 three immortal souls/",
+    "translation": [
+      "сім смертних душ у даосизмі, що уособлюють тілесне життя й бажання",
+      "на противагу 三魂, трьом безсмертним душам"
+    ],
+    "notes": [
+      "The Daoist concept and contrast are retained; 三魂 appears without pinyin in the source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "fb44c2d3849fa5d9",
+    "traditional": "七鰓鰻",
+    "batch": "batch_010.json",
+    "zero_based_batch_index": 99,
+    "source": "七鰓鰻 七鳃鳗 [qi1 sai1 man2] /lamprey (jawless proto-fish of family Petromyzontidae)/",
+    "translation": [
+      "мінога (безщелепна примітивна риба родини Petromyzontidae)"
+    ],
+    "notes": [
+      "Taxonomic family retained from source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "eba1a6f66b4e76e1",
+    "traditional": "万俟",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 3,
+    "source": "万俟 万俟 [Mo4 qi2] /two-character surname Moqi/",
+    "translation": [
+      "двоскладове прізвище Моцзі"
+    ],
+    "notes": [
+      "Moqi is a rare two-character Chinese surname; transliteration here follows the provided reading."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "b9ffa5d72f3cabd0",
+    "traditional": "丈二和尚，摸不著頭腦",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 5,
+    "source": "丈二和尚，摸不著頭腦 丈二和尚，摸不着头脑 [zhang4 er4 he2 shang5 , mo1 bu5 zhao2 tou2 nao3] /lit. like a three-meter high monk, you can't rub his head (idiom)/fig. at a total loss/",
+    "translation": [
+      "букв. мов перед триметровим монахом стоїш і не можеш намацати його голову (ідіома)",
+      "перен. бути цілковито розгубленим"
+    ],
+    "notes": [
+      "The idiom’s wording is literally unusual; the figurative gloss is preserved separately."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "952da3688af853e1",
+    "traditional": "丈八蛇矛",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 8,
+    "source": "丈八蛇矛 丈八蛇矛 [zhang4 ba1 she2 mao2] /ancient spear-like weapon 18 Chinese feet 尺[chi3] in length, with a wavy spearhead like a snake's body/",
+    "translation": [
+      "давня списоподібна зброя завдовжки 18 китайських чи 尺[chi3], з хвилястим, мов тіло змії, вістрям"
+    ],
+    "notes": [
+      "尺 is kept verbatim as a classifier/unit reference."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "dbf177a066cd0001",
+    "traditional": "三七",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 15,
+    "source": "三七 三七 [san1 qi1] /pseudoginseng (Panax pseudoginseng), hemostatic herb/",
+    "translation": [
+      "псевдоженьшень (Panax pseudoginseng), кровоспинна лікарська рослина"
+    ],
+    "notes": [
+      "The herb’s common and Latin names follow the source; used traditionally as a hemostatic."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "dad99f295d61d14c",
+    "traditional": "三七開定論",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 19,
+    "source": "三七開定論 三七开定论 [san1 qi1 kai1 ding4 lun4] /thirty percent failure, seventy percent success, the official PRC verdict on Mao Zedong/",
+    "translation": [
+      "70 відсотків успіху й 30 відсотків невдачі — офіційний вирок КНР Мао Цзедуну"
+    ],
+    "notes": [
+      "This is a politically specific historical formula; wording follows the source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "2304769159b48a6c",
+    "traditional": "三不朽",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 25,
+    "source": "三不朽 三不朽 [san1 bu4 xiu3] /the three imperishables, three ways to distinguish oneself that aren't forgotten by history: through one's virtue 立德[li4 de2], one's service 立功[li4 gong1] and one's writings 立言[li4 yan2] (from the Zuo Zhuan 左傳|左传[Zuo3 Zhuan4])/",
+    "translation": [
+      "три незнищенні цінності — три способи залишити слід в історії: доброчесність 立德[li4 de2], служіння 立功[li4 gong1] і писемні твори 立言[li4 yan2] (із «Цзо чжуань» 左傳|左传[Zuo3 Zhuan4])"
+    ],
+    "notes": [
+      "The three imperishables and cited source text are retained from the English gloss."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "c78cae2d3e5f1fb9",
+    "traditional": "三世",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 29,
+    "source": "三世 三世 [san1 shi4] /the Third (of numbered kings)/",
+    "translation": [
+      "Третій (у нумерованому списку монархів)"
+    ],
+    "notes": [
+      "The three duties are not specified in the headword gloss beyond their count."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "e9b45b15bcc14732",
+    "traditional": "三仇",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 41,
+    "source": "三仇 三仇 [san1 chou2] /animosity or resentment towards three groups (the bureaucrats, the wealthy, and the police) due to perceived abuse of power/",
+    "translation": [
+      "ворожість чи образа до трьох груп — чиновників, заможних і поліції — через сприймане зловживання владою"
+    ],
+    "notes": [
+      "The listed groups and framing follow the source and may reflect a specific political slogan."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "4bee2cdbcf6e87cc",
+    "traditional": "三伏",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 46,
+    "source": "三伏 三伏 [san1 fu2] /the three annual periods of hot weather, namely 初伏[chu1 fu2], 中伏[zhong1 fu2] and 末伏[mo4 fu2], which run consecutively over a period from mid-July to late August/",
+    "translation": [
+      "три щорічні періоди спекотної погоди: 初伏[chu1 fu2], 中伏[zhong1 fu2] і 末伏[mo4 fu2], які йдуть один за одним від середини липня до кінця серпня"
+    ],
+    "notes": [
+      "伏 terms are calendrical seasonal periods; original Chinese labels are preserved."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "ec66d3b31fc0ab7a",
+    "traditional": "三俠五義",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 49,
+    "source": "三俠五義 三侠五义 [San1 xia2 wu3 yi4] /Sanxia wuyi (lit. Three knight-errants and five righteous one), novel edited from stories of late Qing dynasty pinghua 評話|评话 master storyteller Shi Yukun 石玉昆/",
+    "translation": [
+      "«Санся уї» (букв. «Троє лицарів і п’ятеро праведників»), роман, укладений із переказів майстра пінхуа 石玉昆 Ши Юкуня доби пізньої Цін 評話|评话"
+    ],
+    "notes": [
+      "Title is transliterated descriptively; the source’s genre terminology is retained."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "08163f66ebaaba1f",
+    "traditional": "三個世界",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 50,
+    "source": "三個世界 三个世界 [San1 ge5 Shi4 jie4] /the Three Worlds (as proposed by Mao Zedong), i.e. the superpowers (USA and USSR), other wealthy countries (UK, France, Japan etc), and the developing countries of Asia, Africa and Latin America/",
+    "translation": [
+      "Три світи (за класифікацією Мао Цзедуна): наддержави (США й СРСР), інші заможні країни (Велика Британія, Франція, Японія тощо) та країни Азії, Африки й Латинської Америки, що розвиваються"
+    ],
+    "notes": [
+      "This is Mao-era political terminology and is summarized as supplied."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "0c54edaf995e8889",
+    "traditional": "三個代表",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 51,
+    "source": "三個代表 三个代表 [San1 ge4 Dai4 biao3] /the Three Represents, a set of three guiding principles for the CCP introduced by Jiang Zemin 江澤民|江泽民[Jiang1 Ze2 min2] in 2000 and enshrined in the Constitution in 2004/",
+    "translation": [
+      "«Три представництва» — три керівні принципи КПК, запроваджені Цзян Цземінем 江澤民|江泽民[Jiang1 Ze2 min2] у 2000 році та внесені до Конституції 2004 року"
+    ],
+    "notes": [
+      "The policy title is a proper name; Chinese name and pinyin are retained."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "61951c2549d38f77",
+    "traditional": "三個和尚沒水喝",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 53,
+    "source": "三個和尚沒水喝 三个和尚没水喝 [san1 ge4 he2 shang5 mei2 shui3 he1] /lit. three monks have no water to drink (idiom)/fig. everybody's business is nobody's business/(If there is one monk, he will fetch water for himself. If there are two, they will fetch water together. But if there are three or more, none will take it upon himself to fetch water.)/",
+    "translation": [
+      "букв. трьом ченцям нема чого пити (ідіома)",
+      "перен. спільна справа — нічия справа",
+      "(якщо один монах, він принесе собі воду; якщо двоє — принесуть удвох; але якщо їх троє чи більше, ніхто не візьметься по воду)"
+    ],
+    "notes": [
+      "The proverb’s explanatory parenthetical is lengthy; all parts are preserved in one segment."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "20282e6a316eb737",
+    "traditional": "三個女人一個墟",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 54,
+    "source": "三個女人一個墟 三个女人一个墟 [san1 ge4 nu:3 ren2 yi1 ge4 xu1] /three women makes a crowd/",
+    "translation": [
+      "троє жінок створюють натовп"
+    ],
+    "notes": [
+      "Regional saying is presented in the source without more context."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "9bdf764a5bd8a68f",
+    "traditional": "三個臭皮匠，勝過一個諸葛亮",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 56,
+    "source": "三個臭皮匠，勝過一個諸葛亮 三个臭皮匠，胜过一个诸葛亮 [san1 ge4 chou4 pi2 jiang5 , sheng4 guo4 yi1 ge4 Zhu1 ge3 Liang4] /variant of 三個臭皮匠，賽過一個諸葛亮|三个臭皮匠，赛过一个诸葛亮[san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4]/",
+    "translation": [
+      "варіант 三個臭皮匠，賽過一個諸葛亮|三个臭皮匠，赛过一个诸葛亮[san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4]"
+    ],
+    "notes": [
+      "The variant entry cross-reference is preserved exactly."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "ef32dcc408c27a44",
+    "traditional": "三個臭皮匠，賽過一個諸葛亮",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 58,
+    "source": "三個臭皮匠，賽過一個諸葛亮 三个臭皮匠，赛过一个诸葛亮 [san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4] /lit. three ignorant cobblers add up to a genius (idiom); fig. collective wisdom/wisdom of the masses exceeds that of any individual/",
+    "translation": [
+      "букв. троє неуків-шевців дорівнюють генієві (ідіома); перен. колективна мудрість",
+      "мудрість мас переважає мудрість окремої людини"
+    ],
+    "notes": [
+      "The proverb is a common collective-wisdom saying; translation follows source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "4e3c4ad52e3e4f97",
+    "traditional": "三個臭皮匠，頂個諸葛亮",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 60,
+    "source": "三個臭皮匠，頂個諸葛亮 三个臭皮匠，顶个诸葛亮 [san1 ge4 chou4 pi2 jiang5 , ding3 ge4 Zhu1 ge3 Liang4] /lit. three ignorant cobblers add up to a genius (idiom); fig. collective wisdom/wisdom of the masses exceeds that of any individual/",
+    "translation": [
+      "букв. троє неуків-шевців дорівнюють генієві (ідіома); перен. колективна мудрість",
+      "мудрість мас переважає мудрість окремої людини"
+    ],
+    "notes": [
+      "The source idiom is the same collective-wisdom saying; preserved."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "9a65bfa930bbe3a1",
+    "traditional": "三元",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 65,
+    "source": "三元 三元 [san1 yuan2] /(old) first place in civil service examinations at three levels: provincial 解元[jie4 yuan2], metropolitan 會元|会元[hui4 yuan2] and palace 狀元|状元[zhuang4 yuan2]/",
+    "translation": [
+      "(заст.) перше місце на кожному з трьох рівнів державних іспитів: провінційному 解元[jie4 yuan2], столичному 會元|会元[hui4 yuan2] та палацовому 狀元|状元[zhuang4 yuan2]"
+    ],
+    "notes": [
+      "Historical examination rank names and pinyin are preserved."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "3e6a705d1fc026fb",
+    "traditional": "三光政策",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 70,
+    "source": "三光政策 三光政策 [San1 guang1 Zheng4 ce4] /Three Alls Policy (kill all, burn all, loot all), Japanese policy in China during WWII/",
+    "translation": [
+      "Політика трьох «усе» (усіх убити, усе спалити, усе пограбувати) — японська політика в Китаї під час Другої світової війни"
+    ],
+    "notes": [
+      "Historical wartime policy name translated literally from source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "87e972dbb1b47cc9",
+    "traditional": "三八",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 73,
+    "source": "三八 三八 [san1 ba1] /International Women's Day 婦女節|妇女节[Fu4 nu:3 jie2], 8th March/foolish/stupid/",
+    "translation": [
+      "Міжнародний жіночий день 婦女節|妇女节[Fu4 nu:3 jie2], 8 березня",
+      "дурний",
+      "нетямущий"
+    ],
+    "notes": [
+      "The DINK acronym and cited Chinese holiday name are preserved."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "4906847d2a73693a",
+    "traditional": "三公經費",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 78,
+    "source": "三公經費 三公经费 [san1 gong1 jing1 fei4] /\"three public expenditures\" of the PRC government, i.e. air travel, food and entertainment, and public vehicles/",
+    "translation": [
+      "«три види державних витрат» уряду КНР: авіаподорожі, харчування й розваги та службові автомобілі"
+    ],
+    "notes": [
+      "The “three public expenditures” is a Chinese government spending category."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "bba9d94af0ee8f46",
+    "traditional": "三北",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 86,
+    "source": "三北 三北 [San1 bei3] /China's three northern regions, 東北|东北[Dong1 bei3], 華北|华北[Hua2 bei3] and 西北[Xi1 bei3]/",
+    "translation": [
+      "три північні регіони Китаю: 東北|东北[Dong1 bei3], 華北|华北[Hua2 bei3] і 西北[Xi1 bei3]"
+    ],
+    "notes": [
+      "The regional terms and pinyin are preserved as supplied."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "31938eb43ccdcbc4",
+    "traditional": "三北防護林",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 87,
+    "source": "三北防護林 三北防护林 [San1 bei3 Fang2 hu4 lin2] /Green Wall of China, a massive afforestation program on the eastern margin of the Gobi Desert aimed at stopping the desert's expansion, started in 1978 and planned to be completed by 2050/",
+    "translation": [
+      "«Зелена стіна Китаю» — масштабна програма заліснення на східному краї пустелі Ґобі, покликана зупинити її розширення; започаткована 1978 року, завершення заплановане до 2050 року"
+    ],
+    "notes": [
+      "The program’s stated target date is retained from the source."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "27d09b9d00b0bc15",
+    "traditional": "三十六字母",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 91,
+    "source": "三十六字母 三十六字母 [san1 shi2 liu4 zi4 mu3] /thirty six initial consonants of Song phonetic theory/",
+    "translation": [
+      "тридцять шість початкових приголосних фонетичної теорії Сун"
+    ],
+    "notes": [
+      "Song phonetic theory is a specialized historical linguistic classification."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "56ae793ce4055f31",
+    "traditional": "三十六計",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 92,
+    "source": "三十六計 三十六计 [san1 shi2 liu4 ji4] /The Thirty-Six Stratagems, a Chinese essay used to illustrate a series of stratagems used in politics, war, and in civil interaction/all the possible schemes and stratagems/",
+    "translation": [
+      "«Тридцять шість стратагем» — китайський трактат із низкою стратагем для політики, війни та цивільного життя",
+      "усі можливі хитрощі й стратагеми"
+    ],
+    "notes": [
+      "The work title is transliterated in Ukrainian; scope follows the source."
+    ],
+    "review_result": "ambiguous_preservation_claim",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "8ceae77d8c27ccfc",
+    "traditional": "三十年河東，三十年河西",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 95,
+    "source": "三十年河東，三十年河西 三十年河东，三十年河西 [san1 shi2 nian2 he2 dong1 , san1 shi2 nian2 he2 xi1] /the river flows thirty years to the East, thirty years to the West (proverb)/change is the only constant/",
+    "translation": [
+      "ріка тридцять років тече на схід, тридцять років — на захід (прислів’я)",
+      "єдина постійна річ — зміни"
+    ],
+    "notes": [
+      "The proverb’s image is preserved literally and figuratively."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "4355846ebc6874c8",
+    "traditional": "三原",
+    "batch": "batch_011.json",
+    "zero_based_batch_index": 98,
+    "source": "三原 三原 [San1 yuan2] /see 三原縣|三原县[San1 yuan2 Xian4]/",
+    "translation": [
+      "див. 三原縣|三原县[San1 yuan2 Xian4]"
+    ],
+    "notes": [
+      "Buddhist phrase retained as an established religious term."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "6c0822cad2dad9a0",
+    "traditional": "中亞夜鷹",
+    "batch": "batch_031.json",
+    "zero_based_batch_index": 24,
+    "source": "中亞夜鷹 中亚夜鹰 [Zhong1 ya4 ye4 ying1] /(bird species of China) Vaurie's nightjar (Caprimulgus centralasicus)/",
+    "translation": [
+      "дрімлюга Ворі (Caprimulgus centralasicus)"
+    ],
+    "notes": [
+      "Українська назва виду може варіюватися; додано латинську назву для точної ідентифікації."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "ef0d4ec48c4f1290",
+    "traditional": "中亞鴿",
+    "batch": "batch_031.json",
+    "zero_based_batch_index": 27,
+    "source": "中亞鴿 中亚鸽 [zhong1 ya4 ge1] /(bird species of China) yellow-eyed pigeon (Columba eversmanni)/",
+    "translation": [
+      "жовтоокий голуб (Columba eversmanni)"
+    ],
+    "notes": [
+      "Українська назва виду може варіюватися; додано латинську назву для точної ідентифікації."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "07a02959a82031a5",
+    "traditional": "中國白眉朱雀",
+    "batch": "batch_032.json",
+    "zero_based_batch_index": 68,
+    "source": "中國白眉朱雀 中国白眉朱雀 [Zhong1 guo2 bai2 mei2 zhu1 que4] /(bird species of China) Chinese white-browed rosefinch (Carpodacus dubius)/",
+    "translation": [
+      "китайська білоброва чечевиця (Carpodacus dubius)"
+    ],
+    "notes": [
+      "Українська назва виду може варіюватися; латинську назву не наведено у джерелі, тому назву передано описово."
+    ],
+    "review_result": "contradicted_by_source",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "e73ca5509f99f801",
+    "traditional": "中山成彬",
+    "batch": "batch_033.json",
+    "zero_based_batch_index": 85,
+    "source": "中山成彬 中山成彬 [Zhong1 shan1 Cheng2 bin1] /NAKAYAMA Nariaki (1943–), right-wing Japanese politician and prominent denier of Japanese war crimes/",
+    "translation": [
+      "Накаяма Наріакі (1943–), японський ультраправий політик, відомий запереченням японських воєнних злочинів"
+    ],
+    "notes": [
+      "Українська передача японського імені може мати варіанти; збережено латинську форму Nariaki в етимоні джерела."
+    ],
+    "review_result": "ambiguous_preservation_claim",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "ed3c667d2147f419",
+    "traditional": "中科院",
+    "batch": "batch_035.json",
+    "zero_based_batch_index": 22,
+    "source": "中科院 中科院 [Zhong1 ke1 yuan4] /abbr. for 中國社會科學院|中国社会科学院[Zhong1 guo2 She4 hui4 Ke1 xue2 yuan4], Chinese Academy of Sciences (CAS)/",
+    "translation": [
+      "скорочення від 中國社會科學院|中国社会科学院[Zhong1 guo2 She4 hui4 Ke1 xue2 yuan4], Китайська академія наук (CAS)"
+    ],
+    "notes": [
+      "Англійський сегмент пов’язує 中科院 із Китайською академією наук, але наведене ним посилання 中國社會科學院 означає Китайську академію суспільних наук; збережено посилання джерела."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "570f22dc99c6f4d4",
+    "traditional": "丮",
+    "batch": "batch_036.json",
+    "zero_based_batch_index": 82,
+    "source": "丮 丮 [ji3] /to catch/",
+    "translation": [
+      "ловити"
+    ],
+    "notes": [
+      "Дуже рідкісний ієрогліф 丮; глоса «ловити» взята без додаткового контексту, тому точне вживання неясне."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "fed846504a2bb8b4",
+    "traditional": "串串",
+    "batch": "batch_036.json",
+    "zero_based_batch_index": 88,
+    "source": "串串 串串 [chuan4 chuan4] /(coll.) skewers; barbecued food on sticks; (in Sichuan) Sichuan-style hotpot skewers (abbr. for 串串香[chuan4 chuan4 xiang1])/(coll.) non-pedigree pet (esp. dog or cat); mutt; mixed-breed cat/",
+    "translation": [
+      "(розм.) шашлички на шпажках; їжа, смажена на паличках; (у Сичуані) сичуанські шашлички для хот-поту (скорочення від 串串香[chuan4 chuan4 xiang1])",
+      "(розм.) безпородна домашня тварина (особливо собака чи кіт); дворняга; безпородний кіт"
+    ],
+    "notes": [
+      "丱 — рідкісний ієрогліф; наведені значення відповідають саме читанню guan4."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "410ff3a4d8eff115",
+    "traditional": "乍看",
+    "batch": "batch_039.json",
+    "zero_based_batch_index": 87,
+    "source": "乍看 乍看 [zha4 kan4] /at first glance/",
+    "translation": [
+      "на перший погляд"
+    ],
+    "notes": [
+      "乑 — рідкісний ієрогліф; значення «стояти поруч» відповідає поданій словниковій глосі."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "b8ac45eaf5cef49a",
+    "traditional": "乙酰",
+    "batch": "batch_040.json",
+    "zero_based_batch_index": 88,
+    "source": "乙酰 乙酰 [yi3 xian1] /acetyl (chemistry)/",
+    "translation": [
+      "ацетил (хімія)"
+    ],
+    "notes": [
+      "Хімічна формула CH3COO− відповідає ацетат-іону; назва «ацетиловий радикал» у вихідній глосі, ймовірно, неточна."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "97a15e73b89ed7e4",
+    "traditional": "乙酰胺吡咯烷酮",
+    "batch": "batch_040.json",
+    "zero_based_batch_index": 89,
+    "source": "乙酰胺吡咯烷酮 乙酰胺吡咯烷酮 [yi3 xian1 an4 bi3 luo4 wan2 tong2] /(pharmacology) piracetam (C6H10N2O2), a nootropic/",
+    "translation": [
+      "(фармакологія) пірацетам (C6H10N2O2), ноотроп"
+    ],
+    "notes": [
+      "Хімічна формула CH3COO− відповідає ацетат-іону; назва «ацетиловий радикал» у вихідній глосі, ймовірно, неточна."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "203349f934e0f706",
+    "traditional": "乳酪",
+    "batch": "batch_042.json",
+    "zero_based_batch_index": 59,
+    "source": "乳酪 乳酪 [ru3 lao4] /cheese/",
+    "translation": [
+      "сир"
+    ],
+    "notes": [
+      "Назва 乳酪餅 регіональна; переклад подає опис джерела, а не усталену українську назву."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "646fb1cd21491905",
+    "traditional": "乾旱土",
+    "batch": "batch_042.json",
+    "zero_based_batch_index": 99,
+    "source": "乾旱土 干旱土 [gan1 han4 tu3] /aridisol (soil taxonomy)/",
+    "translation": [
+      "аридизоль (класифікація ґрунтів)"
+    ],
+    "notes": [
+      "Aridisol — таксономічна назва класу ґрунтів; український відповідник може різнитися між системами класифікації."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "cdf351e19875f62b",
+    "traditional": "亂局",
+    "batch": "batch_043.json",
+    "zero_based_batch_index": 70,
+    "source": "亂局 乱局 [luan4 ju2] /chaotic situation; turmoil; upheaval/",
+    "translation": [
+      "хаотична ситуація; сум’яття; потрясіння"
+    ],
+    "notes": [
+      "亂咕攘 є діалектним висловом; передано загальною глосою «турбувати», точний регіональний відтінок неясний."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "e5325e86811cb722",
+    "traditional": "亃",
+    "batch": "batch_044.json",
+    "zero_based_batch_index": 3,
+    "source": "亃 亃 [lin2] /mythical animal, said to have yellow body and white tail/",
+    "translation": [
+      "міфічна тварина, якій приписують жовте тіло й білий хвіст"
+    ],
+    "notes": [
+      "Дуже рідкісний міфічний зоонім 亃; словниковий опис не дає назви чи додаткової ідентифікації."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "c463781b3f45f093",
+    "traditional": "事實上",
+    "batch": "batch_044.json",
+    "zero_based_batch_index": 62,
+    "source": "事實上 事实上 [shi4 shi2 shang4] /in fact/in reality/actually/as a matter of fact/de facto/ipso facto/",
+    "translation": [
+      "фактично",
+      "насправді",
+      "дійсно",
+      "по суті",
+      "де-факто",
+      "у силу самого факту"
+    ],
+    "notes": [
+      "Латинський відповідник ipso facto передано за значенням як «у силу самого факту»."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "225973810c555ea5",
+    "traditional": "二毛子",
+    "batch": "batch_045.json",
+    "zero_based_batch_index": 92,
+    "source": "二毛子 二毛子 [er4 mao2 zi5] /lit. secondary foreigner/(derogatory term for Chinese Christians and others associated with foreigners, used at the time of the Boxer Rebellion)/(coll.) westernized Chinese person/(derog.) person of mixed Chinese and Russian blood/(slang) Ukraine/German shepherd dog/(dialect) two-year-old goat/",
+    "translation": [
+      "букв. «другорядний чужинець»",
+      "(зневажл.; за часів Боксерського повстання) китайський християнин або інша особа, пов’язана з іноземцями",
+      "(розм.) китаєць, що перейняв західний спосіб життя",
+      "(зневажл.) людина китайського й російського походження",
+      "(сленг) Україна",
+      "німецька вівчарка",
+      "(діал.) коза двох років"
+    ],
+    "notes": [
+      "The source segment “(slang) Ukraine” appears anomalous for 二毛子; translated literally pending verification."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "1925342ce62edbb0",
+    "traditional": "二硫基丙磺酸鈉",
+    "batch": "batch_046.json",
+    "zero_based_batch_index": 20,
+    "source": "二硫基丙磺酸鈉 二硫基丙磺酸钠 [er4 liu2 ji1 bing3 huang2 suan1 na4] /sodium dimercaptosulfanate/",
+    "translation": [
+      "натрію димеркаптопропансульфонат"
+    ],
+    "notes": [
+      "The source name “sodium dimercaptosulfanate” is nonstandard/unclear; rendered as sodium dimercaptopropanesulfonate."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "147b53e80f824d26",
+    "traditional": "仙八色鶇",
+    "batch": "batch_059.json",
+    "zero_based_batch_index": 90,
+    "source": "仙八色鶇 仙八色鸫 [xian1 ba1 se4 dong1] /(bird species of China) fairy pitta (Pitta nympha)/",
+    "translation": [
+      "(вид птаха Китаю) казкова пітта (Pitta nympha)"
+    ],
+    "notes": [
+      "Наведену українську назву виду передано описово; усталена українська назва Pitta nympha може відрізнятися."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "e386b295695f2e1d",
+    "traditional": "仙女星座",
+    "batch": "batch_059.json",
+    "zero_based_batch_index": 99,
+    "source": "仙女星座 仙女星座 [Xian1 nu:3 xing1 zuo4] /Andromeda constellation (galaxy) M31/",
+    "translation": [
+      "сузір’я Андромеди; галактика Андромеди M31"
+    ],
+    "notes": [
+      "Англійський глос змішує сузір’я Андромеди з галактикою M31; збережено обидва зазначені референти."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "5310e101a213b635",
+    "traditional": "仙茅",
+    "batch": "batch_060.json",
+    "zero_based_batch_index": 23,
+    "source": "仙茅 仙茅 [xian1 mao2] /golden eye-grass (Curculigo orchioides)/Curculigo rhizome (used in TCM)/",
+    "translation": [
+      "золотавоквіткова трава (Curculigo orchioides)",
+      "кореневище куркулиго (у традиційній китайській медицині)"
+    ],
+    "notes": [
+      "Переклад назви рослини подано з латинською назвою; можливі інші усталені українські ботанічні назви."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "bf67e1c98ecf0ec2",
+    "traditional": "代利斯",
+    "batch": "batch_060.json",
+    "zero_based_batch_index": 48,
+    "source": "代利斯 代利斯 [Dai4 li4 si1] /Dallys, Algerian seaport and naval base/",
+    "translation": [
+      "Делліс, алжирський морський порт і військово-морська база"
+    ],
+    "notes": [
+      "Топонім передано як Делліс; англійський глос уживає варіант Dallys, тоді як також трапляється написання Dellys."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "43d1fca81f83413b",
+    "traditional": "以利亞撒",
+    "batch": "batch_061.json",
+    "zero_based_batch_index": 83,
+    "source": "以利亞撒 以利亚撒 [Yi3 li4 ya4 sa1] /Eleazar (son of Eluid)/",
+    "translation": [
+      "Елеазар (син Елуїда)"
+    ],
+    "notes": [
+      "Ім’я Елеазар transliterовано відповідно до усталеної біблійної форми; написання імені батька в джерелі може бути помилковим."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "af7f879203f156bf",
+    "traditional": "以律",
+    "batch": "batch_062.json",
+    "zero_based_batch_index": 8,
+    "source": "以律 以律 [Yi3 lu:4] /Eluid (son of Achim)/",
+    "translation": [
+      "Елуїд (син Ахіма)"
+    ],
+    "notes": [
+      "Ім’я Eluid передано як Елуїд; варіант ідентифікації може відрізнятися в біблійних джерелах."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "13d342849eca0bd9",
+    "traditional": "伊戈爾斯",
+    "batch": "batch_064.json",
+    "zero_based_batch_index": 71,
+    "source": "伊戈爾斯 伊戈尔斯 [Yi1 ge1 er3 si1] /Eagles (name)/",
+    "translation": [
+      "Іглз (ім’я)"
+    ],
+    "notes": [
+      "Англійський глос не уточнює, чи це прізвище, ім’я або назва гурту; подано фонетичну передачу."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "ed3613c2249780b1",
+    "traditional": "伊金霍洛",
+    "batch": "batch_065.json",
+    "zero_based_batch_index": 28,
+    "source": "伊金霍洛 伊金霍洛 [Yi1 jin1 huo4 luo4] /Ejin Horo banner (Ejen Khoruu khoshuu) in Ordos prefecture 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Inner Mongolia/",
+    "translation": [
+      "прапор Еджин-Хоро (Еджен-Хору-хошуу) в окрузі Ордос 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Внутрішня Монголія"
+    ],
+    "notes": [
+      "Топонім подано як Еджин-Хоро; його транслітерація з монгольської може відрізнятися."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "b15f174de958d869",
+    "traditional": "伊金霍洛旗",
+    "batch": "batch_065.json",
+    "zero_based_batch_index": 29,
+    "source": "伊金霍洛旗 伊金霍洛旗 [Yi1 jin1 huo4 luo4 qi2] /Ejin Horo banner (Ejen Khoruu khoshuu) in Ordos prefecture 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Inner Mongolia/",
+    "translation": [
+      "прапор Еджин-Хоро (Еджен-Хору-хошуу) в окрузі Ордос 鄂爾多斯|鄂尔多斯[E4 er3 duo1 si1], Внутрішня Монголія"
+    ],
+    "notes": [
+      "Топонім подано як Еджин-Хоро; його транслітерація з монгольської може відрізнятися."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "2864e65209800043",
+    "traditional": "休氏旋木雀",
+    "batch": "batch_066.json",
+    "zero_based_batch_index": 17,
+    "source": "休氏旋木雀 休氏旋木雀 [Xiu1 shi4 xuan2 mu4 que4] /(bird species of China) Hume's treecreeper (Certhia manipurensis)/",
+    "translation": [
+      "(вид птаха Китаю) підкоришник маніпурський (підкоришник Г’юма; Certhia manipurensis)"
+    ],
+    "notes": [
+      "Поширена українська назва цього рідкісного виду птаха не цілком певна; додано наукову назву."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "7af5255762962809",
+    "traditional": "休氏樹鶯",
+    "batch": "batch_066.json",
+    "zero_based_batch_index": 18,
+    "source": "休氏樹鶯 休氏树莺 [Xiu1 shi4 shu4 ying1] /(bird species of China) Hume's bush warbler (Horornis brunnescens)/",
+    "translation": [
+      "(вид птаха Китаю) кущівка Г’юма (Horornis brunnescens)"
+    ],
+    "notes": [
+      "Поширена українська назва цього рідкісного виду птаха не цілком певна; додано наукову назву."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "29bf6d1bf6cc3b00",
+    "traditional": "伹",
+    "batch": "batch_067.json",
+    "zero_based_batch_index": 44,
+    "source": "伹 伹 [qu1] /clumsy and dumb/slow-witted/",
+    "translation": [
+      "незграбний і нетямущий",
+      "повільний на розум"
+    ],
+    "notes": [
+      "Рідкісний ієрогліф; значення подано за словниковою глосою, без установленого вживання."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "291739af33e992a4",
+    "traditional": "伻",
+    "batch": "batch_067.json",
+    "zero_based_batch_index": 51,
+    "source": "伻 伻 [beng1] /to cause/",
+    "translation": [
+      "спричиняти; примушувати"
+    ],
+    "notes": [
+      "Це рідкісне книжне значення ієрогліфа; точне вживання без контексту невизначене."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "f1c30de4ea51bdf9",
+    "traditional": "伽倻琴",
+    "batch": "batch_067.json",
+    "zero_based_batch_index": 67,
+    "source": "伽倻琴 伽倻琴 [jia1 ye1 qin2] /gayageum (Korean 12-stringed zither)/",
+    "translation": [
+      "каяґим (корейська дванадцятиструнна цитра)"
+    ],
+    "notes": [
+      "Назву традиційного інструмента передано фонетично; можливий варіант українського написання «каяґим». "
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "0e8087a4a1c04b65",
+    "traditional": "伽師縣",
+    "batch": "batch_067.json",
+    "zero_based_batch_index": 72,
+    "source": "伽師縣 伽师县 [Jia1 shi1 Xian4] /Payzawat, a county in Kashgar City 喀什市[Ka1 shi2 Shi4], Xinjiang/",
+    "translation": [
+      "Пайзават, повіт у місті Каши 喀什市[Ka1 shi2 Shi4], Сіньцзян"
+    ],
+    "notes": [
+      "Наведену в джерелі назву Payzawat передано українською фонетично; в українській може вживатися інший варіант транслітерації."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "e241db54cde796e5",
+    "traditional": "伾",
+    "batch": "batch_067.json",
+    "zero_based_batch_index": 81,
+    "source": "伾 伾 [pi1] /multitudinous/powerful/",
+    "translation": [
+      "численний; багатолюдний",
+      "потужний"
+    ],
+    "notes": [
+      "Рідкісне слово; значення відтворено за словниковою глосою."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "05e0a48667c478eb",
+    "traditional": "低能兒",
+    "batch": "batch_068.json",
+    "zero_based_batch_index": 99,
+    "source": "低能兒 低能儿 [di1 neng2 er2] /retarded child/moron/idiot/",
+    "translation": [
+      "розумово відстала дитина (застаріле, образливе)",
+      "недоумок (образл.)",
+      "ідіот (образл.)"
+    ],
+    "notes": [
+      "Англійська глоса містить застарілі образливі позначення; українські відповідники позначено як образливі."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "b348f5d845411061",
+    "traditional": "佛媛",
+    "batch": "batch_070.json",
+    "zero_based_batch_index": 55,
+    "source": "佛媛 佛媛 [fo2 yuan2] /Buddhist griftress (female Internet influencer who exploits Buddhist imagery for self-promotion or commercial purposes)/",
+    "translation": [
+      "буддійська шахрайка-контентмейкерка (інтернет-інфлюенсерка, яка використовує буддійські образи для самореклами чи комерційної вигоди)"
+    ],
+    "notes": [
+      "Неологізм із негативним відтінком; англійська глоса не усталює окремого українського відповідника."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "920aafb7093a58ac",
+    "traditional": "作出",
+    "batch": "batch_071.json",
+    "zero_based_batch_index": 18,
+    "source": "作出 作出 [zuo4 chu1] /to put out/to come up with/to make (a choice, decision, proposal, response, comment etc)/to issue (a permit, statement, explanation, apology, reassurance to the public etc)/to draw (conclusion)/to deliver (speech, judgment)/to devise (explanation)/to extract/",
+    "translation": [
+      "створювати; видавати",
+      "пропонувати; знаходити рішення",
+      "робити вибір; ухвалювати рішення; вносити пропозицію; давати відповідь; висловлювати зауваження",
+      "видавати (дозвіл, заяву, пояснення, вибачення); запевняти громадськість",
+      "робити висновок",
+      "виголошувати промову; виносити судове рішення",
+      "розробляти пояснення",
+      "витягати; добувати"
+    ],
+    "notes": [
+      "Гола англійська глоса «to extract» неоднозначна; без додатка чи контексту незрозуміло, яке саме значення 作出 має на увазі."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "bc6258fa00e85404",
+    "traditional": "佧",
+    "batch": "batch_072.json",
+    "zero_based_batch_index": 17,
+    "source": "佧 佧 [ka3] /ancient name for an ethnic group in China/",
+    "translation": [
+      "давня назва одного з етносів Китаю"
+    ],
+    "notes": [
+      "У джерелі не уточнено, який саме етнос мається на увазі; подано лише загальну словникову глосу."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "5b56d511cea85eac",
+    "traditional": "佩蘭",
+    "batch": "batch_072.json",
+    "zero_based_batch_index": 27,
+    "source": "佩蘭 佩兰 [pei4 lan2] /orchid/fragrant thoroughwort/(botany) Eupatorium fortunei/Herba Eupatorii (used in Chinese medicine)/",
+    "translation": [
+      "орхідея",
+      "пахучий Eupatorium",
+      "(бот.) Eupatorium fortunei",
+      "трава Eupatorii (у китайській медицині)"
+    ],
+    "notes": [
+      "Переклад народної назви рослини «fragrant thoroughwort» не є усталеним; наведено латинську назву виду."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "180ab2fa93616de2",
+    "traditional": "佳里",
+    "batch": "batch_072.json",
+    "zero_based_batch_index": 64,
+    "source": "佳里 佳里 [Jia1 li3] /Jiali, a district in Tainan 台南|台南[Tai2 nan2], Taiwan/",
+    "translation": [
+      "Цзялі, район у місті Тайнань 台南|台南[Tai2 nan2], Тайвань"
+    ],
+    "notes": [
+      "У джерелі географічний референт задано як district in Tainan, але в англійському сегменті вказано назву міста 台南|台南. Залишено назву як у джерелі без додаткового уточнення."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "3cf31d3a4f4ba8bb",
+    "traditional": "併捲機",
+    "batch": "batch_072.json",
+    "zero_based_batch_index": 72,
+    "source": "併捲機 并卷机 [bing4 juan3 ji1] /ribbon lap machine/",
+    "translation": [
+      "машина для складання стрічкової настилки"
+    ],
+    "notes": [
+      "Рідкісний термін текстильної промисловості; переклад виконано буквально за назвою обладнання, потрібна фахова перевірка."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "7000e0be9ab29783",
+    "traditional": "佶",
+    "batch": "batch_072.json",
+    "zero_based_batch_index": 80,
+    "source": "佶 佶 [ji2] /difficult to pronounce/",
+    "translation": [
+      "важкий для вимови"
+    ],
+    "notes": [
+      "Рідкісний ієрогліф; значення подано за наявною глосою без уживаного українського відповідника."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "4af69af703a88daa",
+    "traditional": "侀",
+    "batch": "batch_073.json",
+    "zero_based_batch_index": 19,
+    "source": "侀 侀 [xing2] /shape/statute/",
+    "translation": [
+      "форма; обрис",
+      "закон; статут"
+    ],
+    "notes": [
+      "Рідкісний ієрогліф; в англійському джерелі наведено два різні значення без контексту."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "ad6b51e61a1c4481",
+    "traditional": "侁",
+    "batch": "batch_073.json",
+    "zero_based_batch_index": 20,
+    "source": "侁 侁 [shen1] /large crowd/",
+    "translation": [
+      "великий натовп"
+    ],
+    "notes": [
+      "Рідкісний ієрогліф; значення наведено лише за словниковим джерелом."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "c972ee6eb7b23d19",
+    "traditional": "侅",
+    "batch": "batch_073.json",
+    "zero_based_batch_index": 29,
+    "source": "侅 侅 [gai1] /to give/prepared for included in/embraced in/",
+    "translation": [
+      "давати",
+      "підготовлений для; передбачений для",
+      "охоплений; включений до"
+    ],
+    "notes": [
+      "Рідкісний ієрогліф; джерело подає уривчасті значення, тому їхні граматичні зв'язки неясні."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "4c7add2c1374e41a",
+    "traditional": "來勁",
+    "batch": "batch_073.json",
+    "zero_based_batch_index": 38,
+    "source": "來勁 来劲 [lai2 jin4] /(dialect) to be full of zeal/high-spirited/exhilarating/to stir sb up/",
+    "translation": [
+      "(діал.) бути сповненим запалу",
+      "жвавий; запальний",
+      "захопливий; такий, що додає запалу",
+      "розворушити когось; підбурити"
+    ],
+    "notes": [
+      "Діалектний вираз має кілька близьких значень; переклад залежить від контексту."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "6306bc6ad2734660",
+    "traditional": "來文",
+    "batch": "batch_073.json",
+    "zero_based_batch_index": 54,
+    "source": "來文 来文 [lai2 wen2] /received document/sent document/",
+    "translation": [
+      "отриманий документ",
+      "надісланий документ"
+    ],
+    "notes": [
+      "Значення у джерелі двозначне щодо напрямку документа; обидва варіанти збережено."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "9eadd08a932b19af",
+    "traditional": "侏",
+    "batch": "batch_074.json",
+    "zero_based_batch_index": 39,
+    "source": "侏 侏 [zhu1] /dwarf/",
+    "translation": [
+      "карлик"
+    ],
+    "notes": [
+      "Окремий ієрогліф рідковживаний; значення подано за словниковим джерелом."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "2262d15b4a075a9d",
+    "traditional": "依地酸二鈷",
+    "batch": "batch_075.json",
+    "zero_based_batch_index": 6,
+    "source": "依地酸二鈷 依地酸二钴 [yi1 di4 suan1 er4 gu3] /kelocyanor/",
+    "translation": [
+      "келоксианор (препарат динатрієвої солі кобальту з едетатом)"
+    ],
+    "notes": [
+      "Kelocyanor — рідкісна торгова назва; відповідність назви препарату потребує спеціалізованої перевірки."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "981919cef25eb052",
+    "traditional": "依撒格",
+    "batch": "batch_075.json",
+    "zero_based_batch_index": 20,
+    "source": "依撒格 依撒格 [Yi1 sa1 ge2] /Issac (name)/",
+    "translation": [
+      "Ісаак (ім'я)"
+    ],
+    "notes": [
+      "У джерелі ім'я Isaac помилково написано Issac; китайський заголовок відповідає імені біблійного Ісаака."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "baaf1838aa09fea8",
+    "traditional": "依稀",
+    "batch": "batch_075.json",
+    "zero_based_batch_index": 28,
+    "source": "依稀 依稀 [yi1 xi1] /vaguely/dimly/probably/very likely/",
+    "translation": [
+      "невиразно; туманно",
+      "ледь помітно",
+      "можливо; імовірно",
+      "дуже ймовірно"
+    ],
+    "notes": [
+      "Два останні англійські значення неочевидні для звичного значення слова 依稀; збережені як наведені у джерелі."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "6a345d34409c5aa2",
+    "traditional": "侴",
+    "batch": "batch_075.json",
+    "zero_based_batch_index": 55,
+    "source": "侴 侴 [Chou3] /surname Chou/",
+    "translation": [
+      "прізвище Чоу"
+    ],
+    "notes": [
+      "Рідкісне китайське прізвище; передано за поданою латинською вимовою Chou."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "d38773338478e32d",
+    "traditional": "便嬛",
+    "batch": "batch_075.json",
+    "zero_based_batch_index": 97,
+    "source": "便嬛 便嬛 [pian2 xuan1] /(old) graceful/",
+    "translation": [
+      "(застар.) граційний; витончений"
+    ],
+    "notes": [
+      "Рідковживана стара форма з читанням pian2 xuan1; значення відтворено за наведеним джерелом."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "51cb9292b36ebc3c",
+    "traditional": "俁",
+    "batch": "batch_076.json",
+    "zero_based_batch_index": 38,
+    "source": "俁 俣 [yu3] /big/",
+    "translation": [
+      "великий"
+    ],
+    "notes": [
+      "Рідкісний ієрогліф із поодиноким значенням «великий», засвідченим лише джерелом."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "5a50c0fd527606d4",
+    "traditional": "俄羅斯帝國",
+    "batch": "batch_076.json",
+    "zero_based_batch_index": 79,
+    "source": "俄羅斯帝國 俄罗斯帝国 [E2 luo2 si1 Di4 guo2] /Russian empire (1546-1917)/",
+    "translation": [
+      "Російська імперія (1546–1917)"
+    ],
+    "notes": [
+      "Дати Російської імперії в англійському джерелі спірні: зазвичай її датують 1721–1917 рр.; збережено вихідний період 1546–1917 без мовчазного виправлення."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "88a9619bbbf8d51d",
+    "traditional": "俅",
+    "batch": "batch_076.json",
+    "zero_based_batch_index": 89,
+    "source": "俅 俅 [qiu2] /ornamental cap/",
+    "translation": [
+      "декоративний головний убір"
+    ],
+    "notes": [
+      "Рідкісний історичний термін; точний різновид головного убору з наведеного джерела не визначається."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "9b20c762eac91df2",
+    "traditional": "保惠師",
+    "batch": "batch_077.json",
+    "zero_based_batch_index": 93,
+    "source": "保惠師 保惠师 [Bao3 hui4 shi1] /(Christianity) Paraclete/",
+    "translation": [
+      "(християнство) Параклет; Утішитель"
+    ],
+    "notes": [
+      "Термін Paraclete має різні усталені переклади в християнській традиції; наведено український відповідник і транслітерацію."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "81b0127a3cdf00b3",
+    "traditional": "保爾森",
+    "batch": "batch_078.json",
+    "zero_based_batch_index": 11,
+    "source": "保爾森 保尔森 [Bao3 er3 sen1] /Paulson or Powellson (name)/Henry (Hank) Paulson (1946-), US banker, US Treasury Secretary 2006-2009/",
+    "translation": [
+      "Полсон або Пауелсон (прізвище)",
+      "Генрі (Генк) Полсон (нар. 1946), американський банкір, міністр фінансів США у 2006–2009 роках"
+    ],
+    "notes": [
+      "Транслітерація прізвища Paulson/Powellson залежить від особи; у другому сегменті йдеться про Генрі Полсона."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "614d7ac212db7f37",
+    "traditional": "保角對應",
+    "batch": "batch_078.json",
+    "zero_based_batch_index": 37,
+    "source": "保角對應 保角对应 [bao3 jiao3 dui4 ying4] /(math.) distance-preserving correspondence/conformal map/",
+    "translation": [
+      "(мат.) відповідність, що зберігає кути",
+      "конформне відображення"
+    ],
+    "notes": [
+      "Перше англійське тлумачення «distance-preserving» не узгоджується з 保角 («збереження кутів»); тут перекладено відповідно до китайського терміна й стандартного значення conformal map."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "16c425c210ccc919",
+    "traditional": "俱舍宗",
+    "batch": "batch_081.json",
+    "zero_based_batch_index": 11,
+    "source": "俱舍宗 俱舍宗 [Ju4 she4 zong1] /Kusha-shū (Japanese Buddhism school)/",
+    "translation": [
+      "Кусю-сю (школа японського буддизму)"
+    ],
+    "notes": [
+      "Назву японської буддійської школи передано транскрипцією Kusha-shū; українська традиційна форма може відрізнятися."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "b01a1135cf6e52e1",
+    "traditional": "俴",
+    "batch": "batch_081.json",
+    "zero_based_batch_index": 18,
+    "source": "俴 俴 [jian4] /short/shallow/thin plate/",
+    "translation": [
+      "короткий",
+      "неглибокий",
+      "тонка пластина"
+    ],
+    "notes": [
+      "Ієрогліф рідкісний, значення подано за окремими словниковими тлумаченнями."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "ead948702bc35bb4",
+    "traditional": "倒睫",
+    "batch": "batch_082.json",
+    "zero_based_batch_index": 85,
+    "source": "倒睫 倒睫 [dao4 jie2] /trichiasis (ingrown eyelashes)/",
+    "translation": [
+      "трихіаз (вростання вій)"
+    ],
+    "notes": [
+      "Медичний термін trichiasis перекладено як «трихіаз»; у загальному вжитку можливий описовий відповідник «вростання вій». "
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "92cdf0f18009b38b",
+    "traditional": "倫琴",
+    "batch": "batch_084.json",
+    "zero_based_batch_index": 82,
+    "source": "倫琴 伦琴 [Lun2 qin2] /Wilhelm Conrad Röntgen (1845-1923), German mechanical engineer/",
+    "translation": [
+      "Вільгельм Конрад Рентген (1845–1923), німецький інженер-механік"
+    ],
+    "notes": [
+      "Джерело називає Рентгена інженером-механіком; зазвичай його визначають як фізика, але формулювання джерела збережено."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "4bcb78ec9b40b108",
+    "traditional": "傮",
+    "batch": "batch_092.json",
+    "zero_based_batch_index": 23,
+    "source": "傮 傮 [zao1] /finish, to go around/",
+    "translation": [
+      "завершувати; обходити; проходити коло"
+    ],
+    "notes": [
+      "Рідкісне 傮 має кілька давніх значень; відповідники подано за наданими глосами."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "923e15aad2ead5bd",
+    "traditional": "傯",
+    "batch": "batch_092.json",
+    "zero_based_batch_index": 24,
+    "source": "傯 偬 [zong3] /busy/hurried/despondent/",
+    "translation": [
+      "заклопотаний",
+      "поспішний; квапливий",
+      "пригнічений"
+    ],
+    "notes": [
+      "Рідкісне 傯 має відтінки значення «заклопотаний/поспішний»; точний нюанс залежить від контексту."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "35ddafb5fc7256f9",
+    "traditional": "傿",
+    "batch": "batch_095.json",
+    "zero_based_batch_index": 21,
+    "source": "傿 傿 [Yan1] /name of an immortal/ancient place name/surname Yan/",
+    "translation": [
+      "ім’я безсмертного",
+      "давня назва місцевості",
+      "прізвище Янь"
+    ],
+    "notes": [
+      "Передавання давнього топоніма й прізвища орієнтоване на читання Yan1; точна ідентифікація залежить від контексту."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "9bc8b3bd8bd1e703",
+    "traditional": "傿",
+    "batch": "batch_095.json",
+    "zero_based_batch_index": 22,
+    "source": "傿 傿 [yan4] /fraudulent price/",
+    "translation": [
+      "шахрайська ціна"
+    ],
+    "notes": [
+      "Рідкісна глоса «fraudulent price» перекладена буквально за наданим джерелом."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "494f4ff5ef1f1f6e",
+    "traditional": "僎",
+    "batch": "batch_095.json",
+    "zero_based_batch_index": 40,
+    "source": "僎 僎 [zhuan4] /collect/",
+    "translation": [
+      "збирати"
+    ],
+    "notes": [
+      "Рідкісний знак 僎; значення подано за єдиною наданою глосою."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "0130f4925875d75b",
+    "traditional": "僰",
+    "batch": "batch_096.json",
+    "zero_based_batch_index": 7,
+    "source": "僰 僰 [Bo2] /name of an ethnic group/",
+    "translation": [
+      "назва етнічного народу"
+    ],
+    "notes": [
+      "У джерелі подано лише назву народу без додаткового контексту."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "d384c5c4ba15b15a",
+    "traditional": "僾",
+    "batch": "batch_096.json",
+    "zero_based_batch_index": 52,
+    "source": "僾 僾 [ai4] /indistinct/hazy/misty/to seem/to appear/",
+    "translation": [
+      "нечіткий",
+      "туманний",
+      "імлистий",
+      "здаватися",
+      "видаватися"
+    ],
+    "notes": [
+      "Для рідкісного знака 僾 наведено кілька розрізнених глос; їхній зв’язок залежить від контексту."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "32c3288f961ea7d7",
+    "traditional": "僿",
+    "batch": "batch_096.json",
+    "zero_based_batch_index": 53,
+    "source": "僿 僿 [sai4] /small, minute/lacking sincerity/",
+    "translation": [
+      "дрібний",
+      "бракує щирості"
+    ],
+    "notes": [
+      "Рідкісний глосований знак 僿; переклад відтворює надані два значення."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "9350153f3da653f2",
+    "traditional": "儒學",
+    "batch": "batch_097.json",
+    "zero_based_batch_index": 7,
+    "source": "儒學 儒学 [Ru2 xue2] /Confucianism/",
+    "translation": [
+      "конфуціанство"
+    ],
+    "notes": [
+      "Джерело не ідентифікує сучасну групу; назву передано за читанням Bo2."
+    ],
+    "review_result": "confirmed_misattached_or_contaminated_note",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "56ad69fe5ad68fd3",
+    "traditional": "儦",
+    "batch": "batch_097.json",
+    "zero_based_batch_index": 34,
+    "source": "儦 儦 [biao1] /walking to and fro/",
+    "translation": [
+      "ходити туди-сюди"
+    ],
+    "notes": [
+      "Рідкісний словниковий знак 儦; переклад узято за наданою глосою."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "630bc37952743b84",
+    "traditional": "儩",
+    "batch": "batch_097.json",
+    "zero_based_batch_index": 35,
+    "source": "儩 儩 [si4] /the end/to finish/",
+    "translation": [
+      "кінець",
+      "завершувати"
+    ],
+    "notes": [
+      "Рідкісний знак 儩 має два віддалені значення у джерелі; точний контекст не вказано."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "7b6adc9ce2f5ddef",
+    "traditional": "儳",
+    "batch": "batch_098.json",
+    "zero_based_batch_index": 8,
+    "source": "儳 儳 [chan4] /irregular/mixed/",
+    "translation": [
+      "нерегулярний",
+      "змішаний"
+    ],
+    "notes": [
+      "Рідкісні значення 儳 подано за короткими словниковими глосами; контекст не уточнений."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "05f5cad2ecfc3e3b",
+    "traditional": "儽",
+    "batch": "batch_098.json",
+    "zero_based_batch_index": 21,
+    "source": "儽 儽 [lei3] /lazy/tired out, worn fatigued/",
+    "translation": [
+      "ледачий",
+      "стомлений, виснажений"
+    ],
+    "notes": [
+      "Рідкісний знак 儽; варіант перекладу спирається на подані синонімічні глоси."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "0b8066bc5e8ca7da",
+    "traditional": "兀",
+    "batch": "batch_098.json",
+    "zero_based_batch_index": 23,
+    "source": "兀 兀 [wu4] /(literary) rising to a height; towering/(literary) bald; bare/(literary) still; yet/",
+    "translation": [
+      "(книжн.) височіти; здійматися",
+      "(книжн.) лисий; голий",
+      "(книжн.) досі; ще"
+    ],
+    "notes": [
+      "Багатозначний класичний знак 兀; відповідники прив’язані до кожної наданої глоси."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  },
+  {
+    "id": "3dc684dc9803e9e7",
+    "traditional": "元朗市",
+    "batch": "batch_098.json",
+    "zero_based_batch_index": 71,
+    "source": "元朗市 元朗市 [Yuan2 Lang3 shi4] /Yuen Long town, Hong Kong Island/",
+    "translation": [
+      "місто Юенлонг, острів Гонконг"
+    ],
+    "notes": [
+      "Джерело тут називає Юенлонг містом на острові Гонконг, тоді як попередній запис відносить його до Нових Територій; переклад зберігає формулювання цього запису."
+    ],
+    "review_result": "topic_alignment_checked_no_clear_attachment_error_found",
+    "scope": "Model review of note association only; factual correctness of every claim and full gloss correctness are not certified."
+  }
+]

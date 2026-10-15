@@ -1,0 +1,1680 @@
+{
+  "reviewer_model_requested": "gpt-6-astra",
+  "human_validation": false,
+  "reviewed_ids": [
+    "80e1ae8df967ee7f",
+    "9fb3561534c5e59a",
+    "9e2838c8811b1ef2",
+    "7d3646364f8ea668",
+    "988ff99993069a09",
+    "0638f4d163e9f7f0",
+    "4ea9dade1cee413a",
+    "0de527b0058c0fe6",
+    "c717f8af0004f186",
+    "7724fd62c43f1b24",
+    "00576cbb61d755f3",
+    "faced5102fad95b6",
+    "894ac9ac9be8c06d",
+    "f994cc3ed0fa3c43",
+    "429ed973ddb17fa9",
+    "4eed5dad7a02c934",
+    "ad96fc27241d1965",
+    "54e3072c8a324e0b",
+    "56ce7d9b4dc77355",
+    "1203473af13597e8",
+    "abfbc1b4a6a24ce9",
+    "c7013caac8c974fd",
+    "014a0a6c979fcf88",
+    "fd59f1c57985774e",
+    "14e998c442f59f02",
+    "8c213a1cb382f195",
+    "fbc2002efd5d3017",
+    "3bcfcfda79d259c5",
+    "7fd2c07c22a0e3c7",
+    "a6fc70c3e9ed74ba",
+    "431f38a02d22f00f",
+    "6566a025d9934358",
+    "630bc37952743b84",
+    "3e0e8a6800784662",
+    "54d5dc12c141d25d",
+    "e6ecd8f60ecdbda2",
+    "01332d912a5e8882",
+    "fa21b185dd66be2a",
+    "2a86e45f034b1938",
+    "07d5a9d2ad3d2d87",
+    "558275649ced5620",
+    "24d86b9861f31574",
+    "b36f029280320e5a",
+    "81c625769deeb7ff",
+    "eefd08790b05c457",
+    "a89408b7c7fab0a9",
+    "b0688638c53aa73d",
+    "74f73d56ef64a427",
+    "7b6adc9ce2f5ddef",
+    "4444b494b31007e5",
+    "06c81b98653f2821",
+    "d12cc822b90f9981",
+    "5f86d4b3fcd3bc69",
+    "0ccbaf58aa1bab0a",
+    "e9631337dbdeabbf",
+    "2aa53206f9550bb8",
+    "c2756c6e841a30e5",
+    "c5fe61e10a850116",
+    "52fa9d4c6ddd1d87",
+    "e151402567691bec",
+    "4af69af703a88daa",
+    "5be42c6963427990",
+    "6241e1661b1cc0dd",
+    "9ee138008f7aa7f9",
+    "5c30f53267432c31",
+    "a49af81ffb7f2940",
+    "24ec5ec4fb929c9c",
+    "51211c11d4193260",
+    "6d4366ae41aca175",
+    "63afa9676a2a00e9",
+    "5fc0836b0fcf3538",
+    "5bf0c233b7b31129",
+    "bf22b1201d854c3a",
+    "dade69ad2c7abee1",
+    "4bc8fb202a5fec0d",
+    "8cbc0a281378b066",
+    "ed405495e3fef196",
+    "8929a2285e61e89c",
+    "d45b6ff91aafbec1",
+    "86a3aa86e1e846fe",
+    "b4923e63893d0f8d",
+    "fece7a819cb5b133",
+    "0f9c28c7d01758a7",
+    "404714500bfba62d",
+    "d1d4a7bc9dc449a0",
+    "dacd353fade57644",
+    "5af5a9a3a7d285dd",
+    "a21c171135f2ded8",
+    "a9c2559d86129952",
+    "3b7adfd3b72ef4fb",
+    "664f5f3aa837e234",
+    "33ae97123871022b",
+    "f36298588028e42d",
+    "260f5ccfb695a797",
+    "978c98a8366759b1",
+    "9233cf4ba1001738",
+    "9b9e4f75199d4f9f",
+    "26990912a85e37f2",
+    "78926b50e85b920c",
+    "2c921d5ce37796c5"
+  ],
+  "entries": [
+    {
+      "id": "80e1ae8df967ee7f",
+      "source_line": 89621,
+      "traditional": "聲名",
+      "simplified": "声名",
+      "pinyin": "sheng1 ming2",
+      "outcome": "deferred",
+      "reason": "Reputation is correctly rendered as репутація, but заява follows a source sense that may belong to 聲明 rather than 聲名. The note correctly identifies that possible homophone confusion without asserting an unproved emendation.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Значення «заява» у джерелі нетипове для 聲名 і може бути змішанням з омонімом 聲明; потрібна перевірка."
+      ]
+    },
+    {
+      "id": "9fb3561534c5e59a",
+      "source_line": 89955,
+      "traditional": "肌纖蛋白",
+      "simplified": "肌纤蛋白",
+      "pinyin": "ji1 xian1 dan4 bai2",
+      "outcome": "deferred",
+      "reason": "Міоцилін and м’язовий фібрин reproduce the two biochemical labels, but their equivalence under 肌纖蛋白 has not been established. The note accurately preserves this specific biochemical uncertainty.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело поєднує міоцилін і «м’язовий фібрин», що не є очевидними синонімами; потрібна біохімічна перевірка."
+      ]
+    },
+    {
+      "id": "9e2838c8811b1ef2",
+      "source_line": 110572,
+      "traditional": "醋酸乙酯",
+      "simplified": "醋酸乙酯",
+      "pinyin": "cu4 suan1 yi3 zhi3",
+      "outcome": "deferred",
+      "reason": "Етилацетат is correct. PubChem lists Acetidin among ethyl-acetate synonyms, so the second source label is not simply fictitious; however, this does not establish ацетидин as a standard Ukrainian name. Retain the note about Ukrainian/current terminology. Source: https://pubchem.ncbi.nlm.nih.gov/compound/ethylacetate",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Acetidin засвідчено серед синонімів етилацетату в PubChem, але усталеність української форми «ацетидин» не перевірено."
+      ]
+    },
+    {
+      "id": "7d3646364f8ea668",
+      "source_line": 117296,
+      "traditional": "電離",
+      "simplified": "电离",
+      "pinyin": "dian4 li2",
+      "outcome": "acceptable",
+      "reason": "The first segment appropriately follows 電離, ionization, instead of reproducing the erroneous English noun ion. The second is a usable adjectival description for ionized gas. The note correctly explains this Chinese-led choice; it is not contamination from another entry.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "988ff99993069a09",
+      "source_line": 24804,
+      "traditional": "土地",
+      "simplified": "土地",
+      "pinyin": "tu3 di5",
+      "outcome": "correction_proposed",
+      "reason": "Both Ukrainian segments correctly express the local tutelary deity, not land. The note is relevant, but its unsupported rarity characterization should be removed while retaining the reading-specific distinction. The deity sense is independently attested: https://dict.revised.moe.edu.tw/dictView.jsp?ID=54255&la=1&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Рідкісний омонімний запис tu3 di5 стосується місцевого божества, а не звичайного значення «земля».",
+          "after": "Запис із читанням tu3 di5 тут стосується місцевого божества, а не значення «земля».",
+          "reason": "Keep the correct headword/reading/topic distinction but omit an unsupported claim of rarity. The official dictionary attests the local-deity sense: https://dict.revised.moe.edu.tw/dictView.jsp?ID=54255&la=1&powerMode=0",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "0638f4d163e9f7f0",
+      "source_line": 56531,
+      "traditional": "杻",
+      "simplified": "杻",
+      "pinyin": "niu3",
+      "outcome": "deferred",
+      "reason": "Both Ukrainian segments track handcuffs and red apricot, but the distribution of these senses under niu3 is unresolved. The note correctly points to the reading/sense problem; neither sense is silently reassigned to another character or pronunciation.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Поєднання значень із читанням niu3 потребує перевірки; джерело подає обидва."
+      ]
+    },
+    {
+      "id": "4ea9dade1cee413a",
+      "source_line": 79673,
+      "traditional": "硅酸",
+      "simplified": "硅酸",
+      "pinyin": "gui1 suan1",
+      "outcome": "deferred",
+      "reason": "Кремнієва кислота and силікат are accurate translations of different chemical entities. They cannot both be certified as interchangeable senses of 硅酸. The relevant acid-versus-salt warning is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Другий сегмент джерела неточний: силікат — сіль кремнієвої кислоти, а не сама кислота."
+      ]
+    },
+    {
+      "id": "0de527b0058c0fe6",
+      "source_line": 79788,
+      "traditional": "硬脂酸",
+      "simplified": "硬脂酸",
+      "pinyin": "ying4 zhi1 suan1",
+      "outcome": "deferred",
+      "reason": "Стеаринова кислота and стеарат accurately render the English labels, but the acid and its salts/esters are not equivalent Chinese headword meanings. The note identifies the genuine source contradiction and is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Другий сегмент джерела позначає сіль або естер кислоти, а не саму кислоту."
+      ]
+    },
+    {
+      "id": "c717f8af0004f186",
+      "source_line": 94499,
+      "traditional": "菎",
+      "simplified": "菎",
+      "pinyin": "kun1",
+      "outcome": "deferred",
+      "reason": "Гарний нефрит and бамбук follow the English, but the jade sense is not established for the grass-radical character 菎. The note is an appropriately hedged character-confusion hypothesis, not a demonstrably false statement to delete.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Значення «гарний нефрит» нетипове для 菎; можливе змішання з іншим ієрогліфом у джерелі."
+      ]
+    },
+    {
+      "id": "7724fd62c43f1b24",
+      "source_line": 94545,
+      "traditional": "菜花",
+      "simplified": "菜花",
+      "pinyin": "cai4 hua1",
+      "outcome": "deferred",
+      "reason": "Цвітна капуста is straightforward; гонорея follows a medically suspect source sense. The note usefully flags the potential confusion with condylomata. No unverified medical sense is substituted.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Значення «гонорея» у джерелі сумнівне: 菜花 також позначає кондиломи; потрібна медико-лексикографічна перевірка."
+      ]
+    },
+    {
+      "id": "00576cbb61d755f3",
+      "source_line": 103145,
+      "traditional": "負極",
+      "simplified": "负极",
+      "pinyin": "fu4 ji2",
+      "outcome": "deferred",
+      "reason": "Від’ємний полюс and катод are individually understandable, but cathode polarity depends on the electrical/electrochemical context. The note is scientifically relevant; an unqualified synonym pair cannot be cleared.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело зближує від’ємний полюс із катодом; це справедливо не для всіх електрохімічних систем."
+      ]
+    },
+    {
+      "id": "faced5102fad95b6",
+      "source_line": 125158,
+      "traditional": "龍豆",
+      "simplified": "龙豆",
+      "pinyin": "long2 dou4",
+      "outcome": "deferred",
+      "reason": "Драконові боби is literal and довга квасоля matches long bean, but the intended botanical identification of 龍豆 remains unclear. The note correctly avoids collapsing potentially different legumes into a guessed species.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Dragon bean і long bean можуть позначати різні бобові; точний вид за джерелом не встановлено."
+      ]
+    },
+    {
+      "id": "894ac9ac9be8c06d",
+      "source_line": 32142,
+      "traditional": "安眠酮",
+      "simplified": "安眠酮",
+      "pinyin": "an1 mian2 tong2",
+      "outcome": "deferred",
+      "reason": "Метаквалон is identifiable, while гіменал is not verified as the Ukrainian rendering of hyminal; the parenthetical trade-name identification also depends on the source. The note targets this exact naming uncertainty and is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Написання торгової назви «hyminal» українською потребує перевірки."
+      ]
+    },
+    {
+      "id": "f994cc3ed0fa3c43",
+      "source_line": 56683,
+      "traditional": "枒",
+      "simplified": "枒",
+      "pinyin": "ya2",
+      "outcome": "deferred",
+      "reason": "Кокосова пальма is supported for 枒. The official historical entry also records a wheel-rim-joining gloss in its character explanation, but this does not settle whether the broad Ukrainian ободок is sufficient. Retain and narrow the unresolved rim question rather than declaring that sense false. Source: https://dict.variants.moe.edu.tw/dictView.jsp?educode=B01628",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Друге значення джерела «rim» потребує перевірки для 枒.",
+        "Історичний опис 枒 згадує з’єднання обода колеса; точний обсяг глоси «ободок» слід звірити."
+      ]
+    },
+    {
+      "id": "429ed973ddb17fa9",
+      "source_line": 56902,
+      "traditional": "枳",
+      "simplified": "枳",
+      "pinyin": "zhi3",
+      "outcome": "deferred",
+      "reason": "The orange-tree phrase and thorny-hedge description are understandable translations, but neither identifies 枳 precisely enough to validate a standard botanical name. The note’s Poncirus suggestion is relevant but remains a hypothesis here; no taxon is substituted.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Точна ботанічна відповідність нечітка; 枳 зазвичай позначає понцирус трилистий."
+      ]
+    },
+    {
+      "id": "4eed5dad7a02c934",
+      "source_line": 65648,
+      "traditional": "涅石",
+      "simplified": "涅石",
+      "pinyin": "nie4 shi2",
+      "outcome": "deferred",
+      "reason": "Галун and алуніт correctly distinguish the two source materials, and the TCM qualifier is preserved. Their identity under 涅石 remains unresolved; the note correctly warns that these are different substances.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Галун і алуніт — різні речовини; джерело наводить обидві без розмежування."
+      ]
+    },
+    {
+      "id": "ad96fc27241d1965",
+      "source_line": 68874,
+      "traditional": "瀲",
+      "simplified": "潋",
+      "pinyin": "lian4",
+      "outcome": "deferred",
+      "reason": "Повний води matches the first gloss; жолоб is one possible sense of trough but is not verified for 瀲. The note is appropriately confined to that historical/contextual uncertainty.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Рідкісне значення trough передано як «жолоб» за джерелом; точний контекст потребує перевірки."
+      ]
+    },
+    {
+      "id": "54e3072c8a324e0b",
+      "source_line": 68989,
+      "traditional": "火堆",
+      "simplified": "火堆",
+      "pinyin": "huo3 dui1",
+      "outcome": "deferred",
+      "reason": "Багаття fits 火堆. Відкривати вогонь faithfully translates an English verb that does not fit the ordinary Chinese noun. The note correctly identifies the source problem, so no second sense is certified.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Другий сегмент «відкривати вогонь» не узгоджується зі звичайним значенням китайського слова «багаття»; джерело потребує перевірки."
+      ]
+    },
+    {
+      "id": "56ce7d9b4dc77355",
+      "source_line": 112130,
+      "traditional": "鋼柱",
+      "simplified": "钢柱",
+      "pinyin": "gang1 zhu4",
+      "outcome": "deferred",
+      "reason": "The translation correctly uses сталевий for 鋼 despite English iron, and the note accurately explains this. Сталевий стовп fits 柱; the additional rod/стрижень sense needs separate justification rather than being accepted solely from the English.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Китайське 鋼 указує на сталь; англійське iron передано як «сталевий».",
+        "Відповідність другого значення «стрижень» китайському 柱 окремо не підтверджена."
+      ]
+    },
+    {
+      "id": "1203473af13597e8",
+      "source_line": 122670,
+      "traditional": "魴",
+      "simplified": "鲂",
+      "pinyin": "fang2",
+      "outcome": "deferred",
+      "reason": "Лящ reproduces bream and Zeus japanicus is preserved exactly. The taxonomic combination under 魴 remains unresolved. The note is specific and useful; no Latin name is modernized or replaced.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело поєднує назву ляща з Zeus japanicus; таксономічна відповідність потребує перевірки."
+      ]
+    },
+    {
+      "id": "abfbc1b4a6a24ce9",
+      "source_line": 27100,
+      "traditional": "外八字腿",
+      "simplified": "外八字腿",
+      "pinyin": "wai4 ba1 zi4 tui3",
+      "outcome": "deferred",
+      "reason": "О-подібні ноги and криві ноги reproduce the supplied English, but outward-pointing feet and bowed legs are not interchangeable descriptions. The note appropriately identifies this source/headword mismatch without imposing a diagnosis.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Китайське 外八字腿 може означати ноги з розвернутими назовні стопами; джерело натомість подає О-подібне викривлення."
+      ]
+    },
+    {
+      "id": "c7013caac8c974fd",
+      "source_line": 73502,
+      "traditional": "琁",
+      "simplified": "琁",
+      "pinyin": "xuan2",
+      "outcome": "acceptable",
+      "reason": "Both нефрит and зоря are supported senses for 琁 at xuán. The official variant dictionary explicitly includes the second star of the Northern Dipper, confirming that the star gloss is genuine. The note accurately describes the sparse source and need not be removed. Source: https://dict.variants.moe.edu.tw/dictView.jsp?ID=63589&la=0",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "014a0a6c979fcf88",
+      "source_line": 89991,
+      "traditional": "肘",
+      "simplified": "肘",
+      "pinyin": "zhou3",
+      "outcome": "deferred",
+      "reason": "Лікоть is correct. Свиняча рулька is a plausible Chinese-led culinary interpretation, but the supplied pork shoulder and hock reading still need an authoritative sense-level resolution. The note correctly identifies the cut-of-meat mismatch.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійське pork shoulder неточно відповідає китайському кулінарному терміну, який зазвичай означає рульку."
+      ]
+    },
+    {
+      "id": "fd59f1c57985774e",
+      "source_line": 94020,
+      "traditional": "茶晶",
+      "simplified": "茶晶",
+      "pinyin": "cha2 jing1",
+      "outcome": "deferred",
+      "reason": "The first segment explicitly distinguishes the intended smoky-quartz reading from the source’s yellow quartz, and the second attributes topaz to the source rather than presenting it without qualification. The note is relevant, but attribution alone does not resolve the conflicting mineral identifications.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "茶晶 означає димчастий кварц; «жовтий кварц» і «топаз» у джерелі потребують виправлення."
+      ]
+    },
+    {
+      "id": "14e998c442f59f02",
+      "source_line": 98380,
+      "traditional": "衛生陶瓷",
+      "simplified": "卫生陶瓷",
+      "pinyin": "wei4 sheng1 tao2 ci2",
+      "outcome": "deferred",
+      "reason": "Нічний горщик and унітаз render the listed objects, but 衛生陶瓷 is a broader sanitary-ceramics category. The note correctly warns that examples have been presented as exhaustive lexical equivalents.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Китайське слово зазвичай ширше: санітарна кераміка; джерело наводить лише два вироби."
+      ]
+    },
+    {
+      "id": "8c213a1cb382f195",
+      "source_line": 28417,
+      "traditional": "大蔥",
+      "simplified": "大葱",
+      "pinyin": "da4 cong1",
+      "outcome": "acceptable",
+      "reason": "Both Ukrainian segments correctly identify the onion rather than leek, and the note correctly explains the Chinese-led correction. The Chinese botanical database identifies 大葱 within Allium fistulosum; the existing Latin spelling in the note is retained exactly. Source: https://www.iplant.cn/bk/198E4B4AEA89B968",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "fbc2002efd5d3017",
+      "source_line": 48614,
+      "traditional": "損贈",
+      "simplified": "损赠",
+      "pinyin": "sun3 zeng4",
+      "outcome": "deferred",
+      "reason": "Жертвувати and пожертва correctly render the verb/noun pair, but 損贈 may be a malformed headword for 捐贈. The note is a relevant hedged spelling warning; neither Chinese form nor pinyin is changed.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Написання 損贈 нетипове; ймовірно, у джерелі помилка замість 捐贈."
+      ]
+    },
+    {
+      "id": "3bcfcfda79d259c5",
+      "source_line": 58329,
+      "traditional": "棫",
+      "simplified": "棫",
+      "pinyin": "yu4",
+      "outcome": "deferred",
+      "reason": "Дуб and колючий кущ reproduce the two botanical descriptions, but the identification and historical scope of 棫 remain unresolved. The note honestly reports that the source does not specify the taxon.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Точний ботанічний відповідник не визначений у джерелі."
+      ]
+    },
+    {
+      "id": "7fd2c07c22a0e3c7",
+      "source_line": 72634,
+      "traditional": "獐",
+      "simplified": "獐",
+      "pinyin": "zhang1",
+      "outcome": "deferred",
+      "reason": "Водяний олень and самець сарни distinguish the two English animal labels correctly. Their coexistence under 獐 is a source/taxonomy issue, not a reason to merge the Ukrainian terms. The note is accurate and retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Глоси «river deer» і «roebuck» стосуються різних таксонів; точний обсяг другого значення в джерелі непевний."
+      ]
+    },
+    {
+      "id": "a6fc70c3e9ed74ba",
+      "source_line": 91542,
+      "traditional": "臠",
+      "simplified": "脔",
+      "pinyin": "luan2",
+      "outcome": "deferred",
+      "reason": "Нарізане м’ясо matches the ordinary meat sense of 臠; худорлявий follows a questionable source adjective. The note identifies the exact suspicious sense and is retained pending lexicographic resolution.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Значення «худорлявий» для 臠 у джерелі нетипове; основне значення — шматок м’яса."
+      ]
+    },
+    {
+      "id": "431f38a02d22f00f",
+      "source_line": 94536,
+      "traditional": "菜瓜",
+      "simplified": "菜瓜",
+      "pinyin": "cai4 gua1",
+      "outcome": "deferred",
+      "reason": "Змієподібна диня and люфа preserve the different English plant labels. A regional explanation may exist, but it is not established here. The note is properly hedged and on-topic, so neither taxon is discarded or guessed.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело подає різні ботанічні відповідники: змієподібна диня та люфа; регіональну відповідність слід перевірити."
+      ]
+    },
+    {
+      "id": "6566a025d9934358",
+      "source_line": 123390,
+      "traditional": "鸇",
+      "simplified": "鹯",
+      "pinyin": "zhan1",
+      "outcome": "deferred",
+      "reason": "Яструб малий and серпокрилець are recognizable Ukrainian equivalents of the supplied bird labels. Their distribution for 鸇 is unresolved; the note correctly calls for sense-level verification rather than treating them as synonyms.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело поєднує яструба і серпокрильця; розмежування значень потребує перевірки."
+      ]
+    },
+    {
+      "id": "630bc37952743b84",
+      "source_line": 10229,
+      "traditional": "儩",
+      "simplified": "儩",
+      "pinyin": "si4",
+      "outcome": "correction_proposed",
+      "reason": "The noun кінець is sound, but the Chinese historical sense is to end or become exhausted, so intransitive Ukrainian is more accurate than завершувати. The note’s claim that end and finish are distant meanings is false and should be narrowed. The official entry confirms an end/exhaustion semantic family: https://dict.variants.moe.edu.tw/dictView.jsp?ID=79045&la=0",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 1,
+          "before": "завершувати",
+          "after": "закінчуватися; вичерпуватися",
+          "reason": "儩 denotes coming to an end or being exhausted; Ukrainian завершувати primarily supplies a transitive completing action. Source: https://dict.variants.moe.edu.tw/dictView.jsp?ID=79045&la=0",
+          "confidence": "high",
+          "issue_type": "verb_sense_and_transitivity"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Рідкісний знак 儩 має два віддалені значення у джерелі; точний контекст не вказано.",
+          "after": "Глоси «кінець» і «закінчуватися; вичерпуватися» семантично близькі; конкретний відтінок рідкісного 儩 залежить від контексту.",
+          "reason": "The original note falsely calls the end/finish meanings distant. Narrow it to the legitimate contextual caution rather than deleting all information. The common semantic family is attested at https://dict.variants.moe.edu.tw/dictView.jsp?ID=79045&la=0",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "3e0e8a6800784662",
+      "source_line": 26470,
+      "traditional": "填密",
+      "simplified": "填密",
+      "pinyin": "tian2 mi4",
+      "outcome": "deferred",
+      "reason": "Ущільнення appropriately captures 填密; пакування follows a broader and potentially misleading English packaging gloss. The note identifies the same technical-context issue and is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "填密 переважно означає ущільнення; ширше значення «пакування» в джерелі потребує контексту."
+      ]
+    },
+    {
+      "id": "54d5dc12c141d25d",
+      "source_line": 94005,
+      "traditional": "茴香籽",
+      "simplified": "茴香籽",
+      "pinyin": "hui2 xiang1 zi3",
+      "outcome": "deferred",
+      "reason": "Кумин and насіння фенхелю accurately name different seasonings. The Chinese headword points toward fennel seed, but the source’s cumin sense cannot be validated by translation alone. The note correctly preserves the plant distinction.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело поєднує кумин і фенхель, різні рослини; китайське слово без уточнень означає насіння фенхелю."
+      ]
+    },
+    {
+      "id": "e6ecd8f60ecdbda2",
+      "source_line": 99194,
+      "traditional": "複音形",
+      "simplified": "复音形",
+      "pinyin": "fu4 yin1 xing2",
+      "outcome": "deferred",
+      "reason": "Дифтонг and зв’язування звуків follow the two English labels, but 複音形 has not been established as a term covering both. The note correctly flags the terminological and sense-combination problem.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Рідкісний термін і поєднання значень дифтонга та зв’язування у джерелі потребують перевірки."
+      ]
+    },
+    {
+      "id": "01332d912a5e8882",
+      "source_line": 100341,
+      "traditional": "觱",
+      "simplified": "觱",
+      "pinyin": "bi4",
+      "outcome": "deferred",
+      "reason": "Гарячка and татарський ріг preserve the supplied labels, including the musical-instrument explanation. The historical Chinese senses and the fever gloss remain unverified. The note is a cautious, relevant warning and is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Рідкісні значення «гарячка» та «татарський ріг» збережено за джерелом; потребують лексикографічної перевірки."
+      ]
+    },
+    {
+      "id": "fa21b185dd66be2a",
+      "source_line": 110170,
+      "traditional": "鄿",
+      "simplified": "鄿",
+      "pinyin": "qi2",
+      "outcome": "deferred",
+      "reason": "Назва трав’янистої рослини and назва місцевості faithfully preserve the source’s low specificity. However, the botanical sense of 鄿 at qi2 is not independently established. The note is relevant but does not itself prove that sense.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело не уточнює, яку саме травʼянисту рослину позначено."
+      ]
+    },
+    {
+      "id": "2a86e45f034b1938",
+      "source_line": 121236,
+      "traditional": "騰騰",
+      "simplified": "腾腾",
+      "pinyin": "teng2 teng2",
+      "outcome": "deferred",
+      "reason": "The first segment expresses steaming/billowing well. Палючий; дошкульний separates physical and figurative readings of scathing, but those readings are not established for 騰騰. The note is explicitly hedged and should not be deleted as false.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Значення «scathing» у джерелі неоднозначне; передано як палючий або дошкульний із застереженням."
+      ]
+    },
+    {
+      "id": "07d5a9d2ad3d2d87",
+      "source_line": 23894,
+      "traditional": "回佣",
+      "simplified": "回佣",
+      "pinyin": "hui2 yong4",
+      "outcome": "deferred",
+      "reason": "Комісійна винагорода fits 回佣. Комісійні з продажу is a plausible repair of the incomplete English sales, but it is not a separately verified source sense. The note transparently acknowledges this reconstruction and is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Окреме sales у джерелі неповне; витлумачено в межах 回佣 як комісійні з продажу."
+      ]
+    },
+    {
+      "id": "558275649ced5620",
+      "source_line": 43523,
+      "traditional": "懮",
+      "simplified": "懮",
+      "pinyin": "you3",
+      "outcome": "deferred",
+      "reason": "The Ukrainian follows grievous and relaxed, but the official dictionary separates worried/sorrowful yōu from the graceful/leisurely bearing associated with yǒu. This supports the note’s reading-distribution concern; the unchanged you3 entry still needs source repair. Source: https://dict.variants.moe.edu.tw/dictView.jsp?ID=58640&la=0",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Рідкісне 懮[you3] має в джерелі протилежно забарвлені глоси; розподіл цих значень між читаннями потребує перевірки."
+      ]
+    },
+    {
+      "id": "24d86b9861f31574",
+      "source_line": 60643,
+      "traditional": "此際",
+      "simplified": "此际",
+      "pinyin": "ci3 ji4",
+      "outcome": "deferred",
+      "reason": "Тієї миті is a reasonable temporal gloss for 此際. Унаслідок цього introduces causation not established by the Chinese word. The note identifies that source problem accurately and is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Значення «унаслідок цього» в англійському джерелі нетипове для 此際, що передусім означає «у цей/той момент»."
+      ]
+    },
+    {
+      "id": "b36f029280320e5a",
+      "source_line": 64419,
+      "traditional": "泵燈",
+      "simplified": "泵灯",
+      "pinyin": "beng4 deng1",
+      "outcome": "deferred",
+      "reason": "Лампа and покажчик повороту translate the English, but the intended technical meaning and even lexical interpretation of 泵燈 remain unverified. The note correctly requests technical context rather than inventing an explanation.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Для 泵燈 наведені англійські значення неочевидні; технічний контекст відсутній і потребує перевірки."
+      ]
+    },
+    {
+      "id": "81c625769deeb7ff",
+      "source_line": 70250,
+      "traditional": "焦慮症",
+      "simplified": "焦虑症",
+      "pinyin": "jiao1 lu:4 zheng4",
+      "outcome": "deferred",
+      "reason": "Тривожний розлад is the appropriate Chinese-led interpretation of 焦慮症; невроз is a different, broader source label. The note correctly warns about that mismatch. The two segments should not be certified as unqualified clinical synonyms.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело подає широке й застаріле «невроз»; китайський термін зазвичай позначає тривожний розлад."
+      ]
+    },
+    {
+      "id": "eefd08790b05c457",
+      "source_line": 79828,
+      "traditional": "硾",
+      "simplified": "硾",
+      "pinyin": "zhui4",
+      "outcome": "deferred",
+      "reason": "Йодид accurately translates iodide and обважнювати captures to weight, but the chemical sense is not established for 硾. The note concerns exactly this suspect gloss and is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Хімічне значення «iodide» в джерелі сумнівне для цього знака; потребує лексикографічної перевірки."
+      ]
+    },
+    {
+      "id": "a89408b7c7fab0a9",
+      "source_line": 98253,
+      "traditional": "行軍床",
+      "simplified": "行军床",
+      "pinyin": "xing2 jun1 chuang2",
+      "outcome": "deferred",
+      "reason": "Похідне ліжко fits 行軍床. Похідне спальне місце is an attempt to rescue the unrelated/broader bivouac gloss, not a verified independent sense. The note is relevant and remains a useful warning.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Друге англійське значення «bivouac» ширше за китайське позначення похідного ліжка; переклад зберігає зв’язок до спального місця."
+      ]
+    },
+    {
+      "id": "b0688638c53aa73d",
+      "source_line": 121728,
+      "traditional": "髖關節",
+      "simplified": "髋关节",
+      "pinyin": "kuan1 guan1 jie2",
+      "outcome": "deferred",
+      "reason": "Кульшовий суглоб correctly renders 髖關節; таз follows an incompatible anatomical source label. The note should say these designate different structures, rather than merely calling pelvis broader. The entry remains deferred after that note correction.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Сегмент «pelvis» ширший за 髖關節; збережено як окреме джерельне значення з застереженням.",
+          "after": "Таз і кульшовий суглоб — різні анатомічні структури; сегмент «pelvis» не є точним відповідником 髖關節 і потребує перевірки у джерелі.",
+          "reason": "Replace a misleading broader/narrower comparison with the actual non-equivalence, preserving the source-warning purpose.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Таз і кульшовий суглоб — різні анатомічні структури; сегмент «pelvis» не є точним відповідником 髖關節 і потребує перевірки у джерелі."
+      ]
+    },
+    {
+      "id": "74f73d56ef64a427",
+      "source_line": 123553,
+      "traditional": "麋",
+      "simplified": "麋",
+      "pinyin": "mi2",
+      "outcome": "deferred",
+      "reason": "Лось and річковий берег reproduce the English, but the animal identification for 麋 is unresolved. The note correctly distinguishes a source-derived moose label from the possible Père David’s deer association; that caution is not proof of either taxon.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Значення «лось» відтворено за джерелом; відмінність від оленя Давида в спорідненому слові потребує перевірки."
+      ]
+    },
+    {
+      "id": "7b6adc9ce2f5ddef",
+      "source_line": 10314,
+      "traditional": "儳",
+      "simplified": "儳",
+      "pinyin": "chan4",
+      "outcome": "correction_proposed",
+      "reason": "Змішаний is suitable, but нерегулярний suggests irregular recurrence rather than the disorder/uneven arrangement meant by 儳 here. The official chàn entry supports a disorder-based gloss. The note remains a true description of the sparse input context. Source: https://dict.revised.moe.edu.tw/dictView.jsp?ID=8420&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "нерегулярний",
+          "after": "безладний; невпорядкований",
+          "reason": "The chàn sense is disorderly or unevenly arranged, not irregular in time or recurrence. Official lexical evidence: https://dict.revised.moe.edu.tw/dictView.jsp?ID=8420&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "wrong_sense_of_english_polysemy"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "4444b494b31007e5",
+      "source_line": 12411,
+      "traditional": "冒冒失失",
+      "simplified": "冒冒失失",
+      "pinyin": "mao4 mao4 shi1 shi1",
+      "outcome": "deferred",
+      "reason": "The translation has tried to preserve disapproval, but нерозважливо сміливий and необачно прямолінійний still import courage/directness that the Chinese does not require. The official entry defines rash, impetuous conduct. Propose bounded Ukrainian fixes, retain the relevant note, and defer the defective bold/forthright segmentation. Source: https://dict.revised.moe.edu.tw/dictView.jsp?ID=29481&la=0&powerMode=0",
+      "confidence": "medium",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "зухвалий; нерозважливо сміливий",
+          "after": "необачний; нерозважливий",
+          "reason": "The Chinese means rash/impetuous; it does not require daring or courage. The source bold gloss has distorted the Ukrainian emphasis. Source: https://dict.revised.moe.edu.tw/dictView.jsp?ID=29481&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "source_induced_semantic_distortion"
+        },
+        {
+          "segment_index": 1,
+          "before": "безцеремонний; необачно прямолінійний",
+          "after": "нерозважливий; безцеремонний",
+          "reason": "Remove the unsupported directness characterization while retaining rash/improper conduct. This fixes Ukrainian wording but does not certify the English forthright gloss as a separate sense. Source: https://dict.revised.moe.edu.tw/dictView.jsp?ID=29481&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "source_induced_semantic_distortion"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійські bold і forthright можуть мати схвальний відтінок; китайське слово означає необачність і безцеремонність, тому цей відтінок збережено в перекладі.",
+        "Англійські bold і forthright та їх поділ на два окремі значення потребують джерельного редагування."
+      ]
+    },
+    {
+      "id": "06c81b98653f2821",
+      "source_line": 16949,
+      "traditional": "半長軸",
+      "simplified": "半长轴",
+      "pinyin": "ban4 chang2 zhou2",
+      "outcome": "deferred",
+      "reason": "Велика піввісь correctly follows 半長軸 rather than generic semiaxis. Радіус is not a general synonym. The relevant note should be narrowed so that it does not imply a simple general-term/specific-term relationship.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Друге тлумачення «радіус» є загальним; 半長軸 насамперед означає велику піввісь еліпса.",
+          "after": "半長軸 означає велику піввісь; «радіус» не є її загальним синонімом. Для кола півосі дорівнюють радіусу, але це не усуває неточності джерельного тлумачення.",
+          "reason": "Clarify the mathematical relation instead of suggesting that radius is merely a broader term for semimajor axis.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "半長軸 означає велику піввісь; «радіус» не є її загальним синонімом. Для кола півосі дорівнюють радіусу, але це не усуває неточності джерельного тлумачення."
+      ]
+    },
+    {
+      "id": "d12cc822b90f9981",
+      "source_line": 89058,
+      "traditional": "耙",
+      "simplified": "耙",
+      "pinyin": "ba4",
+      "outcome": "deferred",
+      "reason": "Боронувати fits the ba4 reading. Мотика follows a doubtful English tool name, whereas the note identifies the likely harrow meaning. Retain the warning and defer the noun sense rather than silently changing the source.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Іменникове «hoe» в джерелі сумнівне: для читання ba4 звичайне значення — «борона»."
+      ]
+    },
+    {
+      "id": "5f86d4b3fcd3bc69",
+      "source_line": 11986,
+      "traditional": "公證人",
+      "simplified": "公证人",
+      "pinyin": "gong1 zheng4 ren2",
+      "outcome": "deferred",
+      "reason": "Нотаріус fits 公證人, as confirmed by the official definition of a person certifying legal acts or facts. Нотаріальний службовець avoids the modern actuary error but is a reconstruction, and its exact scope is not established. The note is relevant. Source: https://dict.revised.moe.edu.tw/dictView.jsp?ID=75367&la=0&powerMode=0",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійське actuary неоднозначне: сучасне значення «актуарій» не відповідає китайському 公證人; за китайським словом подано нотаріальну професію."
+      ]
+    },
+    {
+      "id": "0ccbaf58aa1bab0a",
+      "source_line": 26744,
+      "traditional": "壁助",
+      "simplified": "壁助",
+      "pinyin": "bi4 zhu4",
+      "outcome": "deferred",
+      "reason": "Допомога and помічник are faithful to the noun labels, but the unusual headword 壁助 has not been resolved. The note correctly identifies the absence of a reliable usage context; no alternative character is guessed.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Рідкісне 壁助; значення наведено за джерелом, конкретний контекст уживання не встановлено."
+      ]
+    },
+    {
+      "id": "e9631337dbdeabbf",
+      "source_line": 37363,
+      "traditional": "帝王",
+      "simplified": "帝王",
+      "pinyin": "di4 wang2",
+      "outcome": "acceptable",
+      "reason": "Володар and монарх follow the Chinese 帝王 rather than incorrectly introducing a regent. Both Ukrainian nouns are natural, and the note correctly explains why the English regent was not translated literally.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "2aa53206f9550bb8",
+      "source_line": 56949,
+      "traditional": "柅",
+      "simplified": "柅",
+      "pinyin": "ni3",
+      "outcome": "acceptable",
+      "reason": "Both the unspecified tree-name sense and зупиняти are supported for 柅 at nǐ by the official variant dictionary. Keeping the first gloss generic avoids inventing a Ukrainian species name. The note about absent source identification is accurate. Source: https://dict.variants.moe.edu.tw/dictView.jsp?ID=60227",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "c2756c6e841a30e5",
+      "source_line": 60351,
+      "traditional": "歜",
+      "simplified": "歜",
+      "pinyin": "chu4",
+      "outcome": "deferred",
+      "reason": "Сердитий translates angry, while (людина) reproduces an unexplained parenthetical source label. The note correctly identifies that the first segment is not an adequate independent definition of 歜; defer rather than turn it into a guessed proper name.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Значення першого сегмента person не пояснено у джерелі."
+      ]
+    },
+    {
+      "id": "c5fe61e10a850116",
+      "source_line": 75957,
+      "traditional": "痰液",
+      "simplified": "痰液",
+      "pinyin": "tan2 ye4",
+      "outcome": "acceptable",
+      "reason": "Both Ukrainian segments keep the meaning of 痰液 as sputum rather than saliva. The first explicitly identifies the English defect, and the second supplies a natural expectorated-sputum description. The note is on-topic and accurately explains the distinction.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "52fa9d4c6ddd1d87",
+      "source_line": 81410,
+      "traditional": "科羅納",
+      "simplified": "科罗纳",
+      "pinyin": "Ke1 luo2 na4",
+      "outcome": "deferred",
+      "reason": "Корона and Колонна are plausible distinct renderings of the two Latin-script names. The headword does not identify the entity, language of origin, or conventional Ukrainian form. The note correctly preserves that naming ambiguity.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Без контексту неможливо визначити конкретного носія назви Corona або Colonna."
+      ]
+    },
+    {
+      "id": "e151402567691bec",
+      "source_line": 99610,
+      "traditional": "西芹",
+      "simplified": "西芹",
+      "pinyin": "xi1 qin2",
+      "outcome": "deferred",
+      "reason": "Селера is appropriate for 西芹; петрушка follows a conflicting source plant name. The note correctly identifies the problem. No separate parsley sense is accepted without contextual evidence.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Значення «петрушка» наведене в джерелі, але звичайне значення цього китайського слова — селера."
+      ]
+    },
+    {
+      "id": "4af69af703a88daa",
+      "source_line": 7656,
+      "traditional": "侀",
+      "simplified": "侀",
+      "pinyin": "xing2",
+      "outcome": "deferred",
+      "reason": "Форма; обрис and закон; статут faithfully render the English pair, but the historical borrowing and legal sense of 侀 have not been resolved. The note is accurate and on-topic; do not infer a modern legal meaning from English statute alone.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Рідкісний ієрогліф; в англійському джерелі наведено два різні значення без контексту."
+      ]
+    },
+    {
+      "id": "5be42c6963427990",
+      "source_line": 60320,
+      "traditional": "歐羅巴",
+      "simplified": "欧罗巴",
+      "pinyin": "Ou1 luo2 ba1",
+      "outcome": "deferred",
+      "reason": "Європа is correct for the continent. Європа (Europa) preserves the second name without identifying its bearer, and the note correctly distinguishes the possible mythological, astronomical, and geographic referents. That ambiguity remains open.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Другий сегмент не уточнює, чи це міфологічна постать, супутник Юпітера або інша назва Європи."
+      ]
+    },
+    {
+      "id": "6241e1661b1cc0dd",
+      "source_line": 63578,
+      "traditional": "河濱",
+      "simplified": "河滨",
+      "pinyin": "he2 bin1",
+      "outcome": "deferred",
+      "reason": "Both Ukrainian segments correctly describe a riverbank on the basis of 河濱. Neither brook nor rivulet describes a bank, so the translation repairs rather than verifies the two source senses. The note is truthful, but the defective source alignment still needs editorial resolution.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійські сегменти «brook» і «rivulet» означають струмок, але 河濱 означає річковий берег; переклад спирається на китайський заголовок."
+      ]
+    },
+    {
+      "id": "9ee138008f7aa7f9",
+      "source_line": 93582,
+      "traditional": "苙",
+      "simplified": "苙",
+      "pinyin": "li4",
+      "outcome": "acceptable",
+      "reason": "The herb and pigsty senses are both supported for 苙 at lì by the official dictionary. The generic Ukrainian plant gloss does not invent a taxon, and свинарник is suitable. The note correctly states that the supplied English itself omits the species. Source: https://dict.revised.moe.edu.tw/dictView.jsp?ID=3451&la=0&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "5c30f53267432c31",
+      "source_line": 118741,
+      "traditional": "順氣",
+      "simplified": "顺气",
+      "pinyin": "shun4 qi4",
+      "outcome": "deferred",
+      "reason": "Приємний is plausible for the source’s agreeable sense, but миловидний incorrectly restricts pleasantness to physical appearance. Remove that unsupported specificity. The note’s broader qi/settling context remains relevant, and the intended standalone Chinese sense is still not fully resolved.",
+      "confidence": "medium",
+      "segment_corrections": [
+        {
+          "segment_index": 1,
+          "before": "миловидний; такий, що не дратує",
+          "after": "приємний; такий, що не дратує",
+          "reason": "Миловидний specifically concerns an attractive appearance; neither the supplied pleasant nor the Chinese context supports that restriction. The broader Chinese-sense question remains deferred.",
+          "confidence": "high",
+          "issue_type": "unsupported_specificity"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійські nice/pleasant недостатньо уточнюють значення; китайське слово також стосується заспокоєння чи вільного дихання."
+      ]
+    },
+    {
+      "id": "a49af81ffb7f2940",
+      "source_line": 122882,
+      "traditional": "鰼",
+      "simplified": "鳛",
+      "pinyin": "xi2",
+      "outcome": "deferred",
+      "reason": "В’юн is a recognizable loach name, while мулова риба is a literal rendering of a highly ambiguous English common name. The note correctly preserves the taxonomic uncertainty and no standard Ukrainian fish name is guessed.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назва mudfish неоднозначна; точний вид не встановлено."
+      ]
+    },
+    {
+      "id": "24ec5ec4fb929c9c",
+      "source_line": 123411,
+      "traditional": "鸛",
+      "simplified": "鹳",
+      "pinyin": "guan4",
+      "outcome": "deferred",
+      "reason": "Журавель and лелека correctly distinguish the English birds, but the crane sense is not established for 鸛. The note identifies exactly this source problem and is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерельне «журавель» поряд із «лелека» потребує лексикографічної перевірки."
+      ]
+    },
+    {
+      "id": "51211c11d4193260",
+      "source_line": 47768,
+      "traditional": "掞",
+      "simplified": "掞",
+      "pinyin": "shan4",
+      "outcome": "deferred",
+      "reason": "Легкий and спокійний are possible English equivalents, but the rare character 掞 at shan4 does not have a verified sense-to-gloss mapping here. The note appropriately avoids claiming that vague English adjectives settle the Chinese meaning.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Рідкісний ієрогліф; значення easy і quiet у джерелі не дають достатнього контексту для точного відтінку."
+      ]
+    },
+    {
+      "id": "6d4366ae41aca175",
+      "source_line": 83779,
+      "traditional": "簻",
+      "simplified": "簻",
+      "pinyin": "ke1",
+      "outcome": "deferred",
+      "reason": "Великий and голод correctly translate the isolated English labels, but neither their combination nor the ke1 reading has been validated for 簻. The note is accurate and sufficiently cautious.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Незвичні глоси рідкісного ієрогліфа потребують перевірки."
+      ]
+    },
+    {
+      "id": "63afa9676a2a00e9",
+      "source_line": 123387,
+      "traditional": "鸁",
+      "simplified": "鸁",
+      "pinyin": "luo2",
+      "outcome": "deferred",
+      "reason": "Пірникоза and волове очко preserve the English bird labels, but their relationship to 鸁 remains unresolved. The note is relevant; narrow its taxonomic wording from two unrelated species to different bird groups without discarding the warning.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Джерело поєднує два неспоріднені види птахів; розмежування значень потребує перевірки.",
+          "after": "Джерело поєднує назви різних груп птахів — пірникоз і волового очка; розмежування значень потребує перевірки.",
+          "reason": "Retain the relevant zoological warning while avoiding an unsupported two-species/unrelatedness formulation.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Джерело поєднує назви різних груп птахів — пірникоз і волового очка; розмежування значень потребує перевірки."
+      ]
+    },
+    {
+      "id": "5fc0836b0fcf3538",
+      "source_line": 42383,
+      "traditional": "惟",
+      "simplified": "惟",
+      "pinyin": "wei2",
+      "outcome": "deferred",
+      "reason": "Лише correctly captures 惟. The suffix -ізм matches the supplied English form but is not an established independent sense of this Chinese character. The note is precisely on-topic and is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Значення «-ізм» у джерелі не пояснено; 惟 зазвичай виражає обмеження «лише»."
+      ]
+    },
+    {
+      "id": "5bf0c233b7b31129",
+      "source_line": 50110,
+      "traditional": "攲",
+      "simplified": "攲",
+      "pinyin": "qi1",
+      "outcome": "deferred",
+      "reason": "Нерівний is plausible, but піднятий assigns a spatial interpretation to the unexplained English up. The note correctly flags the usual tilted/uneven meaning of 攲 and the unresolved first segment.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійське «up» нетипове для 攲[qi1], що зазвичай означає нахил або нерівність; значення сегмента потребує звірення."
+      ]
+    },
+    {
+      "id": "bf22b1201d854c3a",
+      "source_line": 112216,
+      "traditional": "錒系元素",
+      "simplified": "锕系元素",
+      "pinyin": "a1 xi4 yuan2 su4",
+      "outcome": "correction_proposed",
+      "reason": "All 15 element names, symbols, atomic numbers, Chinese references, and pinyin were checked. The existing Np93 correction and omission of the false rare-earth equivalence are justified; the note is accurate. Correct Ukrainian менделєвій to менделевій, preserving every symbol and reference. Sources: https://web.kpi.kharkov.ua/onch/periodichna-sistema-elementiv/ ; https://iupac.org/what-we-do/periodic-table-of-elements/ ; https://old.iupac.org/reports/provisional/abstract04/RB-prs310804/Chap3-3.04.pdf",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "актиноїди: актиній Ac89 錒|锕[a1], торій Th90 釷|钍[tu3], протактиній Pa91 鏷|镤[pu2], уран U92 鈾|铀[you2], нептуній Np93 鎿|镎[na2], плутоній Pu94 鈈|钚[bu4], америцій Am95 鎇|镅[mei2], кюрій Cm96 鋦|锔[ju2], берклій Bk97 錇|锫[pei2], каліфорній Cf98 鐦|锎[kai1], ейнштейній Es99 鎄|锿[ai1], фермій Fm100 鐨|镄[fei4], менделєвій Md101 鍆|钔[men2], нобелій No102 鍩|锘[nuo4], лоуренсій Lr103 鐒|铹[lao2]",
+          "after": "актиноїди: актиній Ac89 錒|锕[a1], торій Th90 釷|钍[tu3], протактиній Pa91 鏷|镤[pu2], уран U92 鈾|铀[you2], нептуній Np93 鎿|镎[na2], плутоній Pu94 鈈|钚[bu4], америцій Am95 鎇|镅[mei2], кюрій Cm96 鋦|锔[ju2], берклій Bk97 錇|锫[pei2], каліфорній Cf98 鐦|锎[kai1], ейнштейній Es99 鎄|锿[ai1], фермій Fm100 鐨|镄[fei4], менделевій Md101 鍆|钔[men2], нобелій No102 鍩|锘[nuo4], лоуренсій Lr103 鐒|铹[lao2]",
+          "reason": "The Ukrainian element name is менделевій. Only this spelling is changed; all symbols, numbers, Chinese references, and pinyin remain exact. Ukrainian university chemistry table: https://web.kpi.kharkov.ua/onch/periodichna-sistema-elementiv/",
+          "confidence": "high",
+          "issue_type": "terminology_spelling"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "dade69ad2c7abee1",
+      "source_line": 27047,
+      "traditional": "夏黃公",
+      "simplified": "夏黄公",
+      "pinyin": "Xia4 Huang2 gong1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian preserves the names, uncertain life dates, purported authorship, book title, and all references. The asserted identity of 夏黃公 with 黃石公 remains the material unresolved issue. The note is relevant and correctly avoids treating that identification as independently proved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Ототожнення Ся Хуанґуна з Хуан Шиґуном відтворено за джерелом; воно потребує історичної перевірки."
+      ]
+    },
+    {
+      "id": "4bc8fb202a5fec0d",
+      "source_line": 39344,
+      "traditional": "張志新",
+      "simplified": "张志新",
+      "pinyin": "Zhang1 Zhi4 xin1",
+      "outcome": "acceptable",
+      "reason": "The single long segment preserves the person, arrest/execution/rehabilitation chronology, political actors, and source rhetoric. Attributing the loaded ideological language to the source is appropriate. The note accurately explains that attribution and introduces no unrelated claim.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "8cbc0a281378b066",
+      "source_line": 20821,
+      "traditional": "呂不韋",
+      "simplified": "吕不韦",
+      "pinyin": "Lu:3 Bu4 wei2",
+      "outcome": "deferred",
+      "reason": "Names, relationships, and Chinese references are preserved, and the Qin chronology caveat is relevant. The Ukrainian parenthetical should confine uncertainty to the birth year, matching ?291-235 rather than making the whole lifespan tentative. The source’s dynasty/chancellorship chronology remains deferred.",
+      "confidence": "medium",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Люй Бувей (імовірно 291–235 до н. е.), купець і політик держави Цінь 秦國|秦国[Qin2 guo2], згодом канцлер (у джерелі — доби Цінь 秦代[Qin2 dai4]); гаданий батько Їн Чжена 嬴政[Ying2 Zheng4], майбутнього першого імператора Цінь Шихуана 秦始皇[Qin2 Shi3 huang2]",
+          "after": "Люй Бувей (291?–235 до н. е.), купець і політик держави Цінь 秦國|秦国[Qin2 guo2], згодом канцлер (у джерелі — доби Цінь 秦代[Qin2 dai4]); гаданий батько Їн Чжена 嬴政[Ying2 Zheng4], майбутнього першого імператора Цінь Шихуана 秦始皇[Qin2 Shi3 huang2]",
+          "reason": "The source question mark qualifies the birth year, not the complete lifespan. Preserve that exact uncertainty scope without making a new historical claim.",
+          "confidence": "high",
+          "issue_type": "uncertainty_scope"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Канцлерство Люй Бувея передувало заснуванню імператорської династії Цінь."
+      ]
+    },
+    {
+      "id": "ed405495e3fef196",
+      "source_line": 32222,
+      "traditional": "宋四大書",
+      "simplified": "宋四大书",
+      "pinyin": "Song4 si4 da4 shu1",
+      "outcome": "deferred",
+      "reason": "All four compilation titles and Chinese references are present. The descriptive renderings, especially Першочергова черепаха for Prime tortoise, cannot be certified as established or semantically secure book titles. The note correctly flags naming uncertainty; no replacement title is invented.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українські назви зводів передано описово; усталені переклади потребують перевірки."
+      ]
+    },
+    {
+      "id": "8929a2285e61e89c",
+      "source_line": 19523,
+      "traditional": "司馬穰苴",
+      "simplified": "司马穰苴",
+      "pinyin": "Si1 ma3 Rang2 ju1",
+      "outcome": "deferred",
+      "reason": "The translation preserves the strategist, state, work, canon references, and explicitly source-attributed approximate date. That date remains historically unresolved. The note is relevant and its caution must not be removed merely because the translation attributes the claim.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Датування близько 800 року до н. е. у джерелі сумнівне й потребує перевірки."
+      ]
+    },
+    {
+      "id": "d45b6ff91aafbec1",
+      "source_line": 21985,
+      "traditional": "唐書",
+      "simplified": "唐书",
+      "pinyin": "Tang2 shu1",
+      "outcome": "acceptable",
+      "reason": "Стара історія Тан correctly interprets 舊唐書 instead of the source’s misleading Early Tang phrasing. The compiler, date, dynasty, sequence number, volume count, and every Chinese/pinyin reference are preserved. The note accurately explains the title correction.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "86a3aa86e1e846fe",
+      "source_line": 68832,
+      "traditional": "瀘定橋",
+      "simplified": "泸定桥",
+      "pinyin": "Lu2 ding4 qiao2",
+      "outcome": "deferred",
+      "reason": "The bridge, river, date, reign, county, prefecture, and references are faithfully retained. The claim that the bridge connects Luding county with a prefecture containing it remains geographically incoherent as written. The note identifies exactly that issue and is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Географічне пояснення джерела неясне: Лудін сам входить до Гарцзе-Тибетської автономної префектури; опис того, що сполучає міст, потребує перевірки."
+      ]
+    },
+    {
+      "id": "b4923e63893d0f8d",
+      "source_line": 51880,
+      "traditional": "新唐書",
+      "simplified": "新唐书",
+      "pinyin": "Xin1 Tang2 shu1",
+      "outcome": "acceptable",
+      "reason": "Нова історія Тан correctly follows 新唐書, avoiding the source’s misleading Later Tang dynasty label. Compilers, completion date, Northern Song context, sequence number, volume count, and references remain intact. The note accurately distinguishes a new history from a different dynasty.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "fece7a819cb5b133",
+      "source_line": 115202,
+      "traditional": "陳仲琳",
+      "simplified": "陈仲琳",
+      "pinyin": "Chen2 Zhong4 lin2",
+      "outcome": "deferred",
+      "reason": "The translation retains both author names, approximate dates, attributed authorship, co-attribution, title, and references. The stated identity/dates and the conventional Ukrainian novel title are not established. The existing title note is relevant but does not exhaust the biographical uncertainty.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву роману передано описово; усталений український варіант назви не встановлено.",
+        "Тотожність 陳仲琳 і 許仲琳 та наведені приблизні життєві дати не підтверджено окремим історичним джерелом."
+      ]
+    },
+    {
+      "id": "0f9c28c7d01758a7",
+      "source_line": 27453,
+      "traditional": "多爾袞",
+      "simplified": "多尔衮",
+      "pinyin": "Duo1 er3 gun3",
+      "outcome": "deferred",
+      "reason": "Dorgon’s kinship, role, regency interval, and references are preserved, but the supplied death year conflicts with the concern recorded in the note. The note is on-topic; no unverified replacement date is inserted.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Рік смерті 1651 відтворено за джерелом; у поширених датуваннях Доргон помер 1650 року."
+      ]
+    },
+    {
+      "id": "404714500bfba62d",
+      "source_line": 31679,
+      "traditional": "孫武子",
+      "simplified": "孙武子",
+      "pinyin": "Sun1 Wu3 zi3",
+      "outcome": "deferred",
+      "reason": "The Ukrainian faithfully preserves the military role, contemporary, work, alternate name, and references. The Legalist classification remains a substantive source claim requiring specialist validation. The note correctly identifies that issue.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Зарахування Сунь У до легістів у джерелі потребує історико-філософського уточнення."
+      ]
+    },
+    {
+      "id": "d1d4a7bc9dc449a0",
+      "source_line": 92526,
+      "traditional": "舊唐書",
+      "simplified": "旧唐书",
+      "pinyin": "Jiu4 Tang2 shu1",
+      "outcome": "acceptable",
+      "reason": "Стара книга Тан is a legitimate descriptive rendering of 舊唐書 and does not repeat the source’s Early Tang error. The historical metadata and all references are retained. The note correctly explains that 舊 marks the older compilation, not an early period of the dynasty.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "dacd353fade57644",
+      "source_line": 125053,
+      "traditional": "龍人",
+      "simplified": "龙人",
+      "pinyin": "Long2 ren2",
+      "outcome": "deferred",
+      "reason": "The location, discovery year, Denisovan reference, and Homo longi are preserved exactly. The relative scientific status of the two classifications is time-sensitive and was not resolved in this review. The note accurately flags that limitation, so the entry is not certified as current taxonomy.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Наукову класифікацію знахідки відтворено за джерелом; актуальні висновки не перевірено."
+      ]
+    },
+    {
+      "id": "5af5a9a3a7d285dd",
+      "source_line": 34081,
+      "traditional": "尉繚",
+      "simplified": "尉缭",
+      "pinyin": "Wei4 Liao2",
+      "outcome": "deferred",
+      "reason": "Вей Ляо correctly follows 尉繚/pinyin rather than English Wei Lao. The advisory role, uncertain dates, possible authorship, title, and references remain, but c. 450 BC conflicts with the Qin Shihuang context. The note correctly records the chronological problem.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерельна дата близько 450 до н. е. несумісна з діяльністю радника Цінь Шихуана у III ст. до н. е.; особу й датування слід уточнити."
+      ]
+    },
+    {
+      "id": "a21c171135f2ded8",
+      "source_line": 32062,
+      "traditional": "安德海",
+      "simplified": "安德海",
+      "pinyin": "An1 De2 hai3",
+      "outcome": "deferred",
+      "reason": "The translation preserves the person, year, imperial references, and source comparison with Rasputin. The sweeping all-powerful characterization and the execution-order attribution are not independently resolved. The note is relevant and should remain attached to this biography.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Порівняння з Распутіним та твердження про те, хто наказав стратити Ань Дехая, походять із джерела; історичні обставини потребують уточнення."
+      ]
+    },
+    {
+      "id": "a9c2559d86129952",
+      "source_line": 55966,
+      "traditional": "李叔同",
+      "simplified": "李叔同",
+      "pinyin": "Li3 Shu1 tong2",
+      "outcome": "acceptable",
+      "reason": "Лі Шутун correctly follows 李叔同 and Li3 Shu1 tong2 rather than the English typo Liu Shutong. Dates, professions, movement, revolution, and references are preserved. The note accurately identifies a demonstrable romanization error, not an uncertain name substitution.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "3b7adfd3b72ef4fb",
+      "source_line": 115361,
+      "traditional": "陸西星",
+      "simplified": "陆西星",
+      "pinyin": "Lu4 Xi1 xing1",
+      "outcome": "deferred",
+      "reason": "The author, approximate date, Daoist/Ming description, attribution language, novel, other author, and references are retained. The Ukrainian novel title remains descriptive rather than established, and joint versus alternative attribution should not be inferred from the English. The title note is relevant and retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву роману передано описово; усталений український переклад назви не перевірено.",
+        "Формулювання про авторство разом із 許仲琳 може змішувати спільне авторство з альтернативними атрибуціями; потрібне уточнення."
+      ]
+    },
+    {
+      "id": "664f5f3aa837e234",
+      "source_line": 72771,
+      "traditional": "獨龍江",
+      "simplified": "独龙江",
+      "pinyin": "Du2 long2 jiang1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian reproduces the river’s location, asserted drainage basin, protected-area description, and references. The Salween-tributary assertion remains unresolved. The note correctly flags the basin issue without inventing a replacement hydrological route.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Твердження джерела про притоку Салуїну потребує географічної перевірки; басейн річки може бути вказано помилково."
+      ]
+    },
+    {
+      "id": "33ae97123871022b",
+      "source_line": 111303,
+      "traditional": "金永南",
+      "simplified": "金永南",
+      "pinyin": "Jin1 Yong3 nan2",
+      "outcome": "deferred",
+      "reason": "The name, ministerial dates, assembly dates, and political descriptions follow the source, but the assembly-versus-presidium office distinction is material and the open-ended life dates may be stale. The note is relevant. Neither office nor lifespan is silently updated without an authoritative check.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "У джерелі посада голови президії Верховних народних зборів спрощена до голови зборів; життєві дати також можуть бути застарілими."
+      ]
+    },
+    {
+      "id": "f36298588028e42d",
+      "source_line": 124009,
+      "traditional": "黃興",
+      "simplified": "黄兴",
+      "pinyin": "Huang2 Xing1",
+      "outcome": "deferred",
+      "reason": "The translation retains the revolutionary’s dates, association, revolution reference, and explicitly attributes the murder claim to the source. Attribution does not validate that claim. The note correctly preserves the unresolved cause/circumstances of death.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерельне твердження про вбивство Хуан Сіна 1916 року потребує перевірки."
+      ]
+    },
+    {
+      "id": "260f5ccfb695a797",
+      "source_line": 89295,
+      "traditional": "聖德太子",
+      "simplified": "圣德太子",
+      "pinyin": "Sheng4 de2 Tai4 zi3",
+      "outcome": "deferred",
+      "reason": "The Japanese prince, period reference, political and Buddhist descriptions are rendered coherently. The 621/622 death-year discrepancy remains unresolved, and the note appropriately records the conflict rather than permitting an unverified date change.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "У джерелі наведено 621 рік смерті; поширене датування — 622."
+      ]
+    },
+    {
+      "id": "978c98a8366759b1",
+      "source_line": 28100,
+      "traditional": "大東亞共榮圈",
+      "simplified": "大东亚共荣圈",
+      "pinyin": "Da4 Dong1 ya4 Gong4 rong2 quan1",
+      "outcome": "deferred",
+      "reason": "The political slogan, imperial context, named prime minister, reference, and date are preserved. The dating of the specific Co-Prosperity Sphere name is not settled by the translation. The note accurately identifies the historical question and is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Дату 1938 відтворено за джерелом; точне датування появи назви «сфера співпроцвітання» потребує історичної перевірки."
+      ]
+    },
+    {
+      "id": "9233cf4ba1001738",
+      "source_line": 64752,
+      "traditional": "洪武",
+      "simplified": "洪武",
+      "pinyin": "Hong2 wu3",
+      "outcome": "deferred",
+      "reason": "The emperor, alternative romanization, era name, personal name, lifespan, and temple-name reference are retained. The translation explicitly attributes the suspect 1386 accession date to the source. The note’s transposed-digits hypothesis is relevant; source chronology still needs resolution.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "У джерелі, ймовірно, переставлено цифри: початок правління Хун’у — 1368, а не 1386 рік."
+      ]
+    },
+    {
+      "id": "9b9e4f75199d4f9f",
+      "source_line": 29929,
+      "traditional": "女書",
+      "simplified": "女书",
+      "pinyin": "nu:3 shu1",
+      "outcome": "deferred",
+      "reason": "The script name, description, women users, ethnic and county references, and location are preserved. Identifying its linguistic basis as a Yao dialect remains unverified. The note correctly flags this linguistic issue; no substitute language classification is guessed.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Опис мовної основи нюйшу як діалекту яо в джерелі потребує перевірки."
+      ]
+    },
+    {
+      "id": "26990912a85e37f2",
+      "source_line": 40699,
+      "traditional": "德國統一社會黨",
+      "simplified": "德国统一社会党",
+      "pinyin": "De2 guo2 Tong3 yi1 She4 hui4 dang3",
+      "outcome": "deferred",
+      "reason": "The Ukrainian party name and description are coherent, but the source’s date range may conflate party history with state history. The note correctly flags the start year; the interpretation of the endpoint also remains unresolved rather than silently repaired.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Дати партії 1949–1990 передано за джерелом; початковий рік потребує перевірки.",
+        "Потрібно уточнити, що саме означає кінцева дата 1990 у джерельному діапазоні."
+      ]
+    },
+    {
+      "id": "78926b50e85b920c",
+      "source_line": 30599,
+      "traditional": "姜石年",
+      "simplified": "姜石年",
+      "pinyin": "Jiang1 Shi2 nian2",
+      "outcome": "deferred",
+      "reason": "The legendary name, deity, Flame Emperors, agricultural role, approximate date, and references are preserved, including the source’s unusual [Sheng2 nong2]. The note correctly flags both mythic chronology and pinyin; neither is silently normalized.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Датування міфічного персонажа непевне; у посиланні джерела збережено нетипове [Sheng2 nong2]."
+      ]
+    },
+    {
+      "id": "2c921d5ce37796c5",
+      "source_line": 28419,
+      "traditional": "大藏經",
+      "simplified": "大藏经",
+      "pinyin": "Da4 zang4 jing1",
+      "outcome": "deferred",
+      "reason": "The Korean canon, carving description, count, temple reference, and location are preserved. The general headword 大藏經 is narrower in the source description than its normal canonical scope; the note correctly identifies that issue. The exact woodblock count and conventional Korean place-name forms are not independently certified.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "大藏經 загалом означає буддійський канон; джерело звужує значення до конкретної Корейської Трипітаки.",
+        "Кількість 81 340 дощок і нормативні українські форми корейських топонімів окремо не перевірено."
+      ]
+    }
+  ]
+}

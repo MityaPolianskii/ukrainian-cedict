@@ -1,0 +1,48 @@
+{
+  "status": "pass",
+  "checked_at_utc": "2026-10-15T01:13:37.616678+00:00",
+  "packaged_validator": {
+    "command": "python -B scripts/validate.py --root .",
+    "returncode": 0,
+    "result": {
+      "status": "passed",
+      "counts": {
+        "records": 125264,
+        "aligned_segments": 199737,
+        "model_reviewed_records": 3211,
+        "corrected_segments": 965,
+        "records_with_corrections": 879,
+        "known_flagged_records": 2534,
+        "human_validated_records": 0
+      },
+      "evidence_files": 154,
+      "portable_replay_normal_and_optimized": true,
+      "gate_tests_normal": 20,
+      "gate_tests_optimized": 20,
+      "active_notes": 2512,
+      "preserved_flags": 2534,
+      "flagged_without_active_note": 22,
+      "csv_and_current_queues_exact": true,
+      "human_validation": false,
+      "runtime_approved": false
+    },
+    "script_sha256": "291b657011d8a5f47b491a2cef3e0efa3b8f87548a1417045095703e03278284",
+    "stdout_sha256": "f6dd178a019b0551259005fb279b295a1621136d95cf7edf46adb2f870bdd83c",
+    "stderr_sha256": "ceb5c77bd6eb1ec41de6f73422426633509f76d7600b575ef757b9bc2cf07bf3"
+  },
+  "documentation": {
+    "readme_all_eight_relative_links_resolve": true,
+    "readme_spacing_polish_verified": true,
+    "current_editorial_meaning": "882 current dictionary records requiring editorial follow-up; this is distinct from 873 deferred reviewer outcomes or 880 compiled unresolved ratings. Explanatory evidence is in audit/review/EDITORIAL_FOLLOWUP_QUEUE.json and must not be treated as active notes.",
+    "readme_sha256": "d4dbe35855ba932dfa690e6ae7347f63ab5de15f94d1e790a3648ef5ce73c86f",
+    "current_editorial_sha256": "948a6a57995605a3395218d083045d2cc60f846b9731f92ea5a1d9de9fbdeb52",
+    "limitations_explicit": [
+      "Private candidate; no runtime promotion or public write.",
+      "Model review only; zero human validation.",
+      "873 deferred, 880 compiled unresolved and 882 editorial priority are distinct concepts.",
+      "122,730 originally unflagged entries outside targeted pass.",
+      "Ledger and quarantine historical/provenance only; dictionary sole active annotation source."
+    ]
+  },
+  "source_and_candidate_writes_performed": false
+}

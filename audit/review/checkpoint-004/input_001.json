@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "88663b9175c93755",
+    "traditional": "高村正彥",
+    "simplified": "高村正彦",
+    "pinyin": "Gao1 cun1 Zheng4 yan4",
+    "english_segments": [
+      "KOMURA Masahiko (1942-), Japanese politician, foreign minister from 1998, minister of defense from 2007"
+    ],
+    "raw_source": "高村正彥 高村正彦 [Gao1 cun1 Zheng4 yan4] /KOMURA Masahiko (1942-), Japanese politician, foreign minister from 1998, minister of defense from 2007/",
+    "source_line": 121909,
+    "ukrainian_segments": [
+      "Комура Масахіко (1942–), японський політик, міністр закордонних справ із 1998 року, міністр оборони з 2007 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дати перебування на посадах передано за джерелом; це не твердження про чинні посади."
+    ]
+  },
+  {
+    "id": "5559245db5a10033",
+    "traditional": "麋鹿",
+    "simplified": "麋鹿",
+    "pinyin": "mi2 lu4",
+    "english_segments": [
+      "Père David's deer (Elaphurus davidianus), species of deer native to China that is critically endangered"
+    ],
+    "raw_source": "麋鹿 麋鹿 [mi2 lu4] /Père David's deer (Elaphurus davidianus), species of deer native to China that is critically endangered/",
+    "source_line": 123554,
+    "ukrainian_segments": [
+      "олень Давида (Elaphurus davidianus), китайський вид оленів під критичною загрозою зникнення"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Охоронний статус відтворено за джерелом; актуальний статус не перевірено."
+    ]
+  },
+  {
+    "id": "55e4ea2f222493c4",
+    "traditional": "黃腹扇尾鶲",
+    "simplified": "黄腹扇尾鹟",
+    "pinyin": "huang2 fu4 shan4 wei3 weng1",
+    "english_segments": [
+      "(bird species of China) yellow-bellied fantail; yellow-bellied fairy fantail (Chelidorhynx hypoxanthus)"
+    ],
+    "raw_source": "黃腹扇尾鶲 黄腹扇尾鹟 [huang2 fu4 shan4 wei3 weng1] /(bird species of China) yellow-bellied fantail; yellow-bellied fairy fantail (Chelidorhynx hypoxanthus)/",
+    "source_line": 123996,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) жовточерева віялохвістка (Chelidorhynx hypoxanthus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "1c99187f5ec2de02",
+    "traditional": "唐代宗",
+    "simplified": "唐代宗",
+    "pinyin": "Tang2 Dai4 zong1",
+    "english_segments": [
+      "Emperor Taizong of Tang (727-779), reign name of ninth Tang emperor Li Yu 李豫[Li3 Yu4], reigned 762-779"
+    ],
+    "raw_source": "唐代宗 唐代宗 [Tang2 Dai4 zong1] /Emperor Taizong of Tang (727-779), reign name of ninth Tang emperor Li Yu 李豫[Li3 Yu4], reigned 762-779/",
+    "source_line": 21950,
+    "ukrainian_segments": [
+      "Дай-цзун (727–779), імператорське ім'я дев'ятого імператора Тан Лі Юя 李豫[Li3 Yu4]; правив у 762–779 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське Taizong у джерелі суперечить 唐代宗; перекладено як Дай-цзун відповідно до китайського слова й піньїню."
+    ]
+  },
+  {
+    "id": "f910cd25265a95e5",
+    "traditional": "漢元帝",
+    "simplified": "汉元帝",
+    "pinyin": "Han4 Yuan2 di4",
+    "english_segments": [
+      "Yuan Emperor, reign name of Han Dynasty emperor Liu Shi 劉奭|刘奭[Liu2 Shi4], (74-33 BC), reigned 48-33 BC"
+    ],
+    "raw_source": "漢元帝 汉元帝 [Han4 Yuan2 di4] /Yuan Emperor, reign name of Han Dynasty emperor Liu Shi 劉奭|刘奭[Liu2 Shi4], (74-33 BC), reigned 48-33 BC/",
+    "source_line": 67963,
+    "ukrainian_segments": [
+      "Юань-ді, імператор династії Хань Лю Ши 劉奭|刘奭[Liu2 Shi4] (74–33 до н. е.), правив у 48–33 до н. е."
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає Юань-ді девізом правління; тип імператорського найменування потребує уточнення."
+    ]
+  },
+  {
+    "id": "7d497c3fec0eb3ce",
+    "traditional": "濟水",
+    "simplified": "济水",
+    "pinyin": "Ji3 Shui3",
+    "english_segments": [
+      "Ji River, former river of north-eastern China which disappeared after the Yellow River flooded in 1852"
+    ],
+    "raw_source": "濟水 济水 [Ji3 Shui3] /Ji River, former river of north-eastern China which disappeared after the Yellow River flooded in 1852/",
+    "source_line": 68676,
+    "ukrainian_segments": [
+      "Цзі, колишня річка на північному сході Китаю, що зникла після повені Хуанхе 1852 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дату зникнення річки 1852 наведено за джерелом; історичну дату зміни русла Хуанхе варто перевірити."
+    ]
+  },
+  {
+    "id": "9bdf764a5bd8a68f",
+    "traditional": "三個臭皮匠，勝過一個諸葛亮",
+    "simplified": "三个臭皮匠，胜过一个诸葛亮",
+    "pinyin": "san1 ge4 chou4 pi2 jiang5 , sheng4 guo4 yi1 ge4 Zhu1 ge3 Liang4",
+    "english_segments": [
+      "variant of 三個臭皮匠，賽過一個諸葛亮|三个臭皮匠，赛过一个诸葛亮[san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4]"
+    ],
+    "raw_source": "三個臭皮匠，勝過一個諸葛亮 三个臭皮匠，胜过一个诸葛亮 [san1 ge4 chou4 pi2 jiang5 , sheng4 guo4 yi1 ge4 Zhu1 ge3 Liang4] /variant of 三個臭皮匠，賽過一個諸葛亮|三个臭皮匠，赛过一个诸葛亮[san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4]/",
+    "source_line": 1233,
+    "ukrainian_segments": [
+      "варіант 三個臭皮匠，賽過一個諸葛亮|三个臭皮匠，赛过一个诸葛亮[san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "The variant entry cross-reference is preserved exactly."
+    ]
+  },
+  {
+    "id": "848c3fa7c56e280d",
+    "traditional": "李陵",
+    "simplified": "李陵",
+    "pinyin": "Li3 Ling2",
+    "english_segments": [
+      "Li Ling (-74 BC), Han dynasty general whose defeat by the Xiongnu 匈奴 in 104 BC led to a major scandal"
+    ],
+    "raw_source": "李陵 李陵 [Li3 Ling2] /Li Ling (-74 BC), Han dynasty general whose defeat by the Xiongnu 匈奴 in 104 BC led to a major scandal/",
+    "source_line": 56078,
+    "ukrainian_segments": [
+      "Лі Лін (помер 74 до н. е.), ханський полководець, чия поразка від сюнну 匈奴 у 104 до н. е. спричинила великий скандал"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рік поразки в джерелі потребує перевірки; зазвичай зазначають 99 до н. е."
+    ]
+  },
+  {
+    "id": "70ac882d74c9b571",
+    "traditional": "舒夢蘭",
+    "simplified": "舒梦兰",
+    "pinyin": "Shu1 Meng4 lan2",
+    "english_segments": [
+      "Shu Menglan (1759-1835), Qin dynasty writer, poet and editor of Anthology of ci poems tunes 白香詞譜|白香词谱"
+    ],
+    "raw_source": "舒夢蘭 舒梦兰 [Shu1 Meng4 lan2] /Shu Menglan (1759-1835), Qin dynasty writer, poet and editor of Anthology of ci poems tunes 白香詞譜|白香词谱/",
+    "source_line": 92644,
+    "ukrainian_segments": [
+      "Шу Менлань (1759–1835), письменник і поет династії Цін, упорядник антології мелодій поезії ци 白香詞譜|白香词谱"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі «Qin» очевидно стосується династії Цін за наведеними датами."
+    ]
+  },
+  {
+    "id": "a0b6d49bfef89eaa",
+    "traditional": "迪斯雷利",
+    "simplified": "迪斯雷利",
+    "pinyin": "Di2 si1 lei2 li4",
+    "english_segments": [
+      "Benjamin Disraeli (1804-1881), British conservative politician and novelist, prime minister 1868-1880"
+    ],
+    "raw_source": "迪斯雷利 迪斯雷利 [Di2 si1 lei2 li4] /Benjamin Disraeli (1804-1881), British conservative politician and novelist, prime minister 1868-1880/",
+    "source_line": 107229,
+    "ukrainian_segments": [
+      "Бенджамін Дізраелі (1804–1881), британський консервативний політик і романіст, премʼєр-міністр у період 1868–1880"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерельні 1868–1880 не означають безперервного премʼєрства: Дізраелі обіймав посаду 1868 року та в 1874–1880."
+    ]
+  },
+  {
+    "id": "14e7b56b2e41a70d",
+    "traditional": "雅拉神山",
+    "simplified": "雅拉神山",
+    "pinyin": "Ya3 la1 shen2 shan1",
+    "english_segments": [
+      "Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan"
+    ],
+    "raw_source": "雅拉神山 雅拉神山 [Ya3 la1 shen2 shan1] /Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan/",
+    "source_line": 115911,
+    "ukrainian_segments": [
+      "гора Ярла-Шампо в повіті Даофу 道孚縣|道孚县[Dao4 fu2 xian4], Гарцзе-Тибетський автономний округ, Сичуань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело, ймовірно, змішує гору Яла в Сичуані з Ярла-Шампо в Тибеті; назву й локалізацію збережено за джерелом для перевірки."
+    ]
+  },
+  {
+    "id": "fdf0a74148ae164b",
+    "traditional": "雅拉雪山",
+    "simplified": "雅拉雪山",
+    "pinyin": "Ya3 la1 xue3 shan1",
+    "english_segments": [
+      "Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan"
+    ],
+    "raw_source": "雅拉雪山 雅拉雪山 [Ya3 la1 xue3 shan1] /Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan/",
+    "source_line": 115912,
+    "ukrainian_segments": [
+      "гора Ярла-Шампо в повіті Даофу 道孚縣|道孚县[Dao4 fu2 xian4], Гарцзе-Тибетський автономний округ, Сичуань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело, ймовірно, змішує гору Яла в Сичуані з Ярла-Шампо в Тибеті; назву й локалізацію збережено за джерелом для перевірки."
+    ]
+  },
+  {
+    "id": "5dcf84632b229847",
+    "traditional": "雅拉香波神山",
+    "simplified": "雅拉香波神山",
+    "pinyin": "Ya3 la1 Xiang1 bo1 shen2 shan1",
+    "english_segments": [
+      "Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan"
+    ],
+    "raw_source": "雅拉香波神山 雅拉香波神山 [Ya3 la1 Xiang1 bo1 shen2 shan1] /Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan/",
+    "source_line": 115913,
+    "ukrainian_segments": [
+      "гора Ярла-Шампо в повіті Даофу 道孚縣|道孚县[Dao4 fu2 xian4], Гарцзе-Тибетський автономний округ, Сичуань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело, ймовірно, змішує гору Яла в Сичуані з Ярла-Шампо в Тибеті; назву й локалізацію збережено за джерелом для перевірки."
+    ]
+  },
+  {
+    "id": "c53525a06f52f12f",
+    "traditional": "雅拉香波雪山",
+    "simplified": "雅拉香波雪山",
+    "pinyin": "Ya3 la1 Xiang1 bo1 xue3 shan1",
+    "english_segments": [
+      "Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan"
+    ],
+    "raw_source": "雅拉香波雪山 雅拉香波雪山 [Ya3 la1 Xiang1 bo1 xue3 shan1] /Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan/",
+    "source_line": 115914,
+    "ukrainian_segments": [
+      "гора Ярла-Шампо в повіті Даофу 道孚縣|道孚县[Dao4 fu2 xian4], Гарцзе-Тибетський автономний округ, Сичуань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело, ймовірно, змішує гору Яла в Сичуані з Ярла-Шампо в Тибеті; назву й локалізацію збережено за джерелом для перевірки."
+    ]
+  },
+  {
+    "id": "638cae42f4761963",
+    "traditional": "靈雀寺",
+    "simplified": "灵雀寺",
+    "pinyin": "Ling2 qiao3 si4",
+    "english_segments": [
+      "Nyitso Monastery in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan"
+    ],
+    "raw_source": "靈雀寺 灵雀寺 [Ling2 qiao3 si4] /Nyitso Monastery in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan/",
+    "source_line": 117665,
+    "ukrainian_segments": [
+      "монастир Ньїцо в повіті Даву 道孚縣|道孚县[Dao4 fu2 xian4], Гарцзе-Тибетська автономна область, Сичуань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українське передавання назви монастиря Nyitso потребує перевірки."
+    ]
+  },
+  {
+    "id": "7219d6de2a01be92",
+    "traditional": "炎帝",
+    "simplified": "炎帝",
+    "pinyin": "Yan2 di4",
+    "english_segments": [
+      "Flame Emperors (c. 2000 BC), legendary dynasty descended from Shennong 神農|神农[Shen2 nong2] Farmer God"
+    ],
+    "raw_source": "炎帝 炎帝 [Yan2 di4] /Flame Emperors (c. 2000 BC), legendary dynasty descended from Shennong 神農|神农[Shen2 nong2] Farmer God/",
+    "source_line": 69303,
+    "ukrainian_segments": [
+      "Вогненні імператори (бл. 2000 р. до н. е.), легендарна династія нащадків бога-землероба Шеньнуна 神農|神农[Shen2 nong2]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело трактує назву як династію Вогненних імператорів; поширене значення — легендарний правитель Яньді. Історичний обсяг і датування потребують перевірки."
+    ]
+  },
+  {
+    "id": "f122c52ab837d8b2",
+    "traditional": "雅各賓派",
+    "simplified": "雅各宾派",
+    "pinyin": "Ya3 ge4 bin1 pai4",
+    "english_segments": [
+      "Jacobin club, French revolutionary party that played a leading role in the reign of terror 1791-1794"
+    ],
+    "raw_source": "雅各賓派 雅各宾派 [Ya3 ge4 bin1 pai4] /Jacobin club, French revolutionary party that played a leading role in the reign of terror 1791-1794/",
+    "source_line": 115899,
+    "ukrainian_segments": [
+      "Якобінський клуб, французьке революційне угруповання, що відігравало провідну роль у терорі 1791–1794 років"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дати терору відтворено за джерелом; потребують історичної перевірки."
+    ]
+  },
+  {
+    "id": "ed7891606bfc3e93",
+    "traditional": "尼泊爾鷦鶥",
+    "simplified": "尼泊尔鹪鹛",
+    "pinyin": "Ni2 bo2 er3 jiao1 mei2",
+    "english_segments": [
+      "(bird species of China) Nepal cupwing; immaculate cupwing; Nepal wren-babbler (Pnoepyga immaculata)"
+    ],
+    "raw_source": "尼泊爾鷦鶥 尼泊尔鹪鹛 [Ni2 bo2 er3 jiao1 mei2] /(bird species of China) Nepal cupwing; immaculate cupwing; Nepal wren-babbler (Pnoepyga immaculata)/",
+    "source_line": 35176,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) непальська короткохвоста тимелія (Pnoepyga immaculata)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва потребує перевірки; подано описовий відповідник."
+    ]
+  },
+  {
+    "id": "c25f785fa6e79f58",
+    "traditional": "新朝",
+    "simplified": "新朝",
+    "pinyin": "Xin1 chao2",
+    "english_segments": [
+      "the Xin dynasty (8-23 AD) of Wang Mang 王莽, forming the interregnum between the former and later Han"
+    ],
+    "raw_source": "新朝 新朝 [Xin1 chao2] /the Xin dynasty (8-23 AD) of Wang Mang 王莽, forming the interregnum between the former and later Han/",
+    "source_line": 51973,
+    "ukrainian_segments": [
+      "династія Сінь Ван Мана 王莽 (8–23 н. е.), перерва між Ранньою та Пізньою Хань"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Початок династії Сінь 8 н. е. подано за джерелом; часто датується 9 н. е."
+    ]
+  },
+  {
+    "id": "181d19663127ff84",
+    "traditional": "阿巴嘎旗",
+    "simplified": "阿巴嘎旗",
+    "pinyin": "A1 ba1 ga1 qi2",
+    "english_segments": [
+      "Abag banner or Avga khoshuu in Xilingol League 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Inner Mongolia"
+    ],
+    "raw_source": "阿巴嘎旗 阿巴嘎旗 [A1 ba1 ga1 qi2] /Abag banner or Avga khoshuu in Xilingol League 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Inner Mongolia/",
+    "source_line": 114566,
+    "ukrainian_segments": [
+      "Абаґ, або Авґа, хошун в аймаку Шилін-Гол 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Внутрішня Монголія"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українське відтворення монгольської назви хошуну потребує перевірки."
+    ]
+  },
+  {
+    "id": "82c8c0eaa0239738",
+    "traditional": "隋唐演義",
+    "simplified": "隋唐演义",
+    "pinyin": "Sui2 Tang2 Yan3 yi4",
+    "english_segments": [
+      "Dramatized History of Sui and Tang, novel by Qing dynasty author Chu Renhuo 褚人獲|褚人获[Chu3 Ren2 huo4]"
+    ],
+    "raw_source": "隋唐演義 隋唐演义 [Sui2 Tang2 Yan3 yi4] /Dramatized History of Sui and Tang, novel by Qing dynasty author Chu Renhuo 褚人獲|褚人获[Chu3 Ren2 huo4]/",
+    "source_line": 115508,
+    "ukrainian_segments": [
+      "«Історичний роман про Суй і Тан», роман письменника доби Цін Чу Женьхо 褚人獲|褚人获[Chu3 Ren2 huo4]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву роману перекладено описово; усталений український заголовок не перевірено."
+    ]
+  },
+  {
+    "id": "c69da245e3b2ec10",
+    "traditional": "雪山獅子旗",
+    "simplified": "雪山狮子旗",
+    "pinyin": "xue3 shan1 shi1 zi5 qi2",
+    "english_segments": [
+      "Snow lion banner, banned flag of Tibetan independence movement, featuring mythological Snow Leopard"
+    ],
+    "raw_source": "雪山獅子旗 雪山狮子旗 [xue3 shan1 shi1 zi5 qi2] /Snow lion banner, banned flag of Tibetan independence movement, featuring mythological Snow Leopard/",
+    "source_line": 116725,
+    "ukrainian_segments": [
+      "прапор зі сніговими левами, заборонений прапор руху за незалежність Тибету із зображенням міфічного снігового звіра"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає зображення Snow Leopard, але китайська назва й прапор стосуються снігового лева; суперечність потребує перевірки."
+    ]
+  },
+  {
+    "id": "8e708d99bf0b1ccb",
+    "traditional": "列寧格勒",
+    "simplified": "列宁格勒",
+    "pinyin": "Lie4 ning2 ge2 le4",
+    "english_segments": [
+      "Leningrad, former name (1923–1991) of Russian city Saint Petersburg 聖彼得堡|圣彼得堡[Sheng4 bi3 de2 bao3]"
+    ],
+    "raw_source": "列寧格勒 列宁格勒 [Lie4 ning2 ge2 le4] /Leningrad, former name (1923–1991) of Russian city Saint Petersburg 聖彼得堡|圣彼得堡[Sheng4 bi3 de2 bao3]/",
+    "source_line": 13852,
+    "ukrainian_segments": [
+      "Ленінград, колишня назва (1923–1991 за джерелом) російського міста Санкт-Петербург 聖彼得堡|圣彼得堡[Sheng4 bi3 de2 bao3]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі перейменування на Ленінград датовано 1923 роком; загальноприйнята дата — 1924."
+    ]
+  },
+  {
+    "id": "c2c9f3a7152fe2ca",
+    "traditional": "泛珠江三角",
+    "simplified": "泛珠江三角",
+    "pinyin": "fan4 zhu1 jiang1 san1 jiao3",
+    "english_segments": [
+      "the Pan-Pearl river delta (economic zone including the 5 provinces around Guangzhou and Hong Kong)"
+    ],
+    "raw_source": "泛珠江三角 泛珠江三角 [fan4 zhu1 jiang1 san1 jiao3] /the Pan-Pearl river delta (economic zone including the 5 provinces around Guangzhou and Hong Kong)/",
+    "source_line": 64041,
+    "ukrainian_segments": [
+      "Панперлиннорічкова дельта (за джерелом, економічна зона з п’яти провінцій навколо Ґуанчжоу й Гонконгу)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Кількість провінцій у цьому сегменті відрізняється від опису того самого регіону в сусідньому джерельному записі 泛珠三角; потрібна перевірка."
+    ]
+  },
+  {
+    "id": "f315bebd8df0366c",
+    "traditional": "紅翅鵙鶥",
+    "simplified": "红翅鵙鹛",
+    "pinyin": "hong2 chi4 ju2 mei2",
+    "english_segments": [
+      "(bird species of China) white-browed shrike-babbler; Blyth's shrike-babbler (Pteruthius aeralatus)"
+    ],
+    "raw_source": "紅翅鵙鶥 红翅鵙鹛 [hong2 chi4 ju2 mei2] /(bird species of China) white-browed shrike-babbler; Blyth's shrike-babbler (Pteruthius aeralatus)/",
+    "source_line": 84770,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) білоброва сорокопудова тимелія; тимелія Бліта (Pteruthius aeralatus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назви подано описово; усталені українські видові відповідники потребують перевірки."
+    ]
+  },
+  {
+    "id": "2395ba0d5f640b77",
+    "traditional": "裕仁",
+    "simplified": "裕仁",
+    "pinyin": "Yu4 ren2",
+    "english_segments": [
+      "Hirohito, personal name of the Shōwa 昭和[Zhao1 he2] emperor of Japan (1901-1989), reigned 1925-1989"
+    ],
+    "raw_source": "裕仁 裕仁 [Yu4 ren2] /Hirohito, personal name of the Shōwa 昭和[Zhao1 he2] emperor of Japan (1901-1989), reigned 1925-1989/",
+    "source_line": 98824,
+    "ukrainian_segments": [
+      "Хірохіто, особисте ім'я японського імператора Сьова 昭和[Zhao1 he2] (1901–1989), роки правління за джерелом: 1925–1989"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Початок правління Хірохіто 1925 у джерелі неточний; зазвичай вказують 1926."
+    ]
+  },
+  {
+    "id": "bb6c37e83368e65c",
+    "traditional": "天龍八部",
+    "simplified": "天龙八部",
+    "pinyin": "Tian1 long2 Ba1 Bu4",
+    "english_segments": [
+      "Demigods and Semidevils, wuxia novel by Jin Yong 金庸[Jin1 Yong1] and its TV and screen adaptations"
+    ],
+    "raw_source": "天龍八部 天龙八部 [Tian1 long2 Ba1 Bu4] /Demigods and Semidevils, wuxia novel by Jin Yong 金庸[Jin1 Yong1] and its TV and screen adaptations/",
+    "source_line": 29035,
+    "ukrainian_segments": [
+      "«Напівбоги й напівдемони», роман у жанрі уся письменника Цзінь Юна 金庸[Jin1 Yong1] та його теле- й кіноекранізації"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську назву роману подано як переклад, її усталеність не перевірено."
+    ]
+  },
+  {
+    "id": "fbd9d249566a4727",
+    "traditional": "昭和",
+    "simplified": "昭和",
+    "pinyin": "Zhao1 he2",
+    "english_segments": [
+      "Shōwa, Japanese era name, corresponding to the reign (1925-1989) of emperor Hirohito 裕仁[Yu4 ren2]"
+    ],
+    "raw_source": "昭和 昭和 [Zhao1 he2] /Shōwa, Japanese era name, corresponding to the reign (1925-1989) of emperor Hirohito 裕仁[Yu4 ren2]/",
+    "source_line": 53392,
+    "ukrainian_segments": [
+      "Сьова, назва японської ери правління імператора Хірохіто 裕仁[Yu4 ren2] (1926–1989)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі початок ери помилково датовано 1925 роком; ера Сьова почалася 1926 року."
+    ]
+  },
+  {
+    "id": "c9e23f75186a3b82",
+    "traditional": "李恆",
+    "simplified": "李恒",
+    "pinyin": "Li3 Heng2",
+    "english_segments": [
+      "Li Heng, personal name of thirteenth Tang emperor Muzong 穆宗[Mu4 Zong1] (795-824), reigned 821-825"
+    ],
+    "raw_source": "李恆 李恒 [Li3 Heng2] /Li Heng, personal name of thirteenth Tang emperor Muzong 穆宗[Mu4 Zong1] (795-824), reigned 821-825/",
+    "source_line": 55999,
+    "ukrainian_segments": [
+      "Лі Хен, особисте ім'я тринадцятого танського імператора Муцзуна 穆宗[Mu4 Zong1] (795–824), правив у 821–825 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дати правління в джерелі суперечать даті смерті; кінцевий рік потребує перевірки."
+    ]
+  },
+  {
+    "id": "b3188ecde06ce4a1",
+    "traditional": "鱗胸鷦鶥",
+    "simplified": "鳞胸鹪鹛",
+    "pinyin": "lin2 xiong1 jiao1 mei2",
+    "english_segments": [
+      "(bird species of China) scaly-breasted cupwing; scaly-breasted wren-babbler (Pnoepyga albiventer)"
+    ],
+    "raw_source": "鱗胸鷦鶥 鳞胸鹪鹛 [lin2 xiong1 jiao1 mei2] /(bird species of China) scaly-breasted cupwing; scaly-breasted wren-babbler (Pnoepyga albiventer)/",
+    "source_line": 122919,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) лускогрудий кропив'янковий баблер (Pnoepyga albiventer)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "2ea0f9732385fc53",
+    "traditional": "棘鼻青島龍",
+    "simplified": "棘鼻青岛龙",
+    "pinyin": "ji2 bi2 Qing1 dao3 long2",
+    "english_segments": [
+      "Tsintaosaurus spinorhinus, a 10 meter long hadrosaur with a single horn on its duck-billed snout"
+    ],
+    "raw_source": "棘鼻青島龍 棘鼻青岛龙 [ji2 bi2 Qing1 dao3 long2] /Tsintaosaurus spinorhinus, a 10 meter long hadrosaur with a single horn on its duck-billed snout/",
+    "source_line": 58292,
+    "ukrainian_segments": [
+      "Tsintaosaurus spinorhinus, десятиметровий гадрозавр з одним рогом на качкодзьобій морді"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Опис гребеня як одного рога відтворює джерело й може бути застарілою реконструкцією."
+    ]
+  },
+  {
+    "id": "f8d9baa62ee78fa7",
+    "traditional": "灰冠鴉雀",
+    "simplified": "灰冠鸦雀",
+    "pinyin": "hui1 guan1 ya1 que4",
+    "english_segments": [
+      "(bird species of China) Przevalski's parrotbill; rusty-throated parrotbill (Suthora przewalskii)"
+    ],
+    "raw_source": "灰冠鴉雀 灰冠鸦雀 [hui1 guan1 ya1 que4] /(bird species of China) Przevalski's parrotbill; rusty-throated parrotbill (Suthora przewalskii)/",
+    "source_line": 69139,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) сутора Пржевальського; іржастогорла сутора (Suthora przewalskii)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Український відповідник назви Suthora przewalskii подано описово; усталену орнітологічну назву слід звірити."
+    ]
+  },
+  {
+    "id": "0d2319bdae3adc6b",
+    "traditional": "青年節",
+    "simplified": "青年节",
+    "pinyin": "Qing1 nian2 jie2",
+    "english_segments": [
+      "Youth Day (May 4th), PRC national holiday for young people aged 14 to 28, who get half a day off"
+    ],
+    "raw_source": "青年節 青年节 [Qing1 nian2 jie2] /Youth Day (May 4th), PRC national holiday for young people aged 14 to 28, who get half a day off/",
+    "source_line": 117718,
+    "ukrainian_segments": [
+      "День молоді (4 травня), державне свято КНР для молоді віком 14–28 років із правом на пів дня відпочинку"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Вікові межі та тривалість святкового відпочинку відтворено за джерелом, без перевірки чинних правил."
+    ]
+  },
+  {
+    "id": "dc37344fec43b0fb",
+    "traditional": "織田信長",
+    "simplified": "织田信长",
+    "pinyin": "Zhi1 tian2 Xin4 chang2",
+    "english_segments": [
+      "ODA Nobunaga (1534-1582), Japanese shogun (warlord), played an important role in unifying Japan"
+    ],
+    "raw_source": "織田信長 织田信长 [Zhi1 tian2 Xin4 chang2] /ODA Nobunaga (1534-1582), Japanese shogun (warlord), played an important role in unifying Japan/",
+    "source_line": 87203,
+    "ukrainian_segments": [
+      "Ода Нобунаґа (1534–1582), японський сьоґун (воєначальник), що відіграв важливу роль в об'єднанні Японії"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі Нобунаґу названо сьоґуном, хоча він не обіймав цього титулу; історично точніше «воєначальник, даймьо»."
+    ]
+  },
+  {
+    "id": "4beb65a659253143",
+    "traditional": "錫爾河",
+    "simplified": "锡尔河",
+    "pinyin": "Xi1 er3 He2",
+    "english_segments": [
+      "Syr Darya, Central Asian river, flowing from Kyrgiz Republic through Kazakhstan to the Aral sea"
+    ],
+    "raw_source": "錫爾河 锡尔河 [Xi1 er3 He2] /Syr Darya, Central Asian river, flowing from Kyrgiz Republic through Kazakhstan to the Aral sea/",
+    "source_line": 112313,
+    "ukrainian_segments": [
+      "Сирдарʼя, річка Центральної Азії, що бере початок у Киргизстані й тече через Казахстан до Аральського моря"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Опис течії у джерелі спрощений: Сирдарʼя утворюється від злиття річок і також проходить через Узбекистан та Таджикистан."
+    ]
+  },
+  {
+    "id": "515a885913042643",
+    "traditional": "青檀",
+    "simplified": "青檀",
+    "pinyin": "qing1 tan2",
+    "english_segments": [
+      "blue sandalwood (Pteroceltis tatarinowii Maxim), the bark of which is used to manufacture 宣紙|宣纸"
+    ],
+    "raw_source": "青檀 青檀 [qing1 tan2] /blue sandalwood (Pteroceltis tatarinowii Maxim), the bark of which is used to manufacture 宣紙|宣纸/",
+    "source_line": 117735,
+    "ukrainian_segments": [
+      "птероцельтис Татаринова (Pteroceltis tatarinowii Maxim), кору якого використовують для виготовлення 宣紙|宣纸"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська ботанічна назва потребує перевірки."
+    ]
+  },
+  {
+    "id": "18ee870160fde630",
+    "traditional": "青檀樹",
+    "simplified": "青檀树",
+    "pinyin": "qing1 tan2 shu4",
+    "english_segments": [
+      "blue sandalwood (Pteroceltis tatarinowii Maxim), the bark of which is used to manufacture 宣紙|宣纸"
+    ],
+    "raw_source": "青檀樹 青檀树 [qing1 tan2 shu4] /blue sandalwood (Pteroceltis tatarinowii Maxim), the bark of which is used to manufacture 宣紙|宣纸/",
+    "source_line": 117736,
+    "ukrainian_segments": [
+      "птероцельтис Татаринова (Pteroceltis tatarinowii Maxim), кору якого використовують для виготовлення 宣紙|宣纸"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська ботанічна назва потребує перевірки."
+    ]
+  },
+  {
+    "id": "b7441e43ef92ae69",
+    "traditional": "黃花崗",
+    "simplified": "黄花岗",
+    "pinyin": "Huang2 hua1 gang3",
+    "english_segments": [
+      "Huanghuagang (Chrysanthemum Hill) in Guangzhou, scene of disastrous uprising of 23rd April 1911"
+    ],
+    "raw_source": "黃花崗 黄花岗 [Huang2 hua1 gang3] /Huanghuagang (Chrysanthemum Hill) in Guangzhou, scene of disastrous uprising of 23rd April 1911/",
+    "source_line": 124018,
+    "ukrainian_segments": [
+      "Хуанхуаган, «Пагорб хризантем» у Гуанчжоу, місце невдалого повстання 23 квітня 1911 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дата повстання 23 квітня відтворена за джерелом; поширене датування 27 квітня потребує звірки."
+    ]
+  },
+  {
+    "id": "e3bc151c1813b42f",
+    "traditional": "城市運動會",
+    "simplified": "城市运动会",
+    "pinyin": "Cheng2 shi4 Yun4 dong4 hui4",
+    "english_segments": [
+      "National Intercity Games, Chinese athletics competition, organized every four years since 1988"
+    ],
+    "raw_source": "城市運動會 城市运动会 [Cheng2 shi4 Yun4 dong4 hui4] /National Intercity Games, Chinese athletics competition, organized every four years since 1988/",
+    "source_line": 25700,
+    "ukrainian_segments": [
+      "Національні міжміські ігри, китайські спортивні змагання, що за джерелом проводяться кожні чотири роки з 1988 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Періодичність і початковий рік відтворено з джерела; актуальність історичної довідки не перевірено."
+    ]
+  },
+  {
+    "id": "896e16e92a208067",
+    "traditional": "苯並噻吩",
+    "simplified": "苯并噻吩",
+    "pinyin": "ben3 bing4 sai1 fen1",
+    "english_segments": [
+      "benzothiophene C8H9, a heterocyclic compound (with one benzene ring and one cyclopentene ring)"
+    ],
+    "raw_source": "苯並噻吩 苯并噻吩 [ben3 bing4 sai1 fen1] /benzothiophene C8H9, a heterocyclic compound (with one benzene ring and one cyclopentene ring)/",
+    "source_line": 93745,
+    "ukrainian_segments": [
+      "бензотіофен, гетероциклічна сполука з бензеновим і тіофеновим кільцями (у джерелі помилково наведено C8H9 та циклопентенове кільце)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Формула бензотіофену — C8H6S; формула й опис другого кільця в англійському джерелі помилкові."
+    ]
+  },
+  {
+    "id": "47eb72cc8e066cb6",
+    "traditional": "文宗",
+    "simplified": "文宗",
+    "pinyin": "Wen2 zong1",
+    "english_segments": [
+      "Wenzong Emperor, reign name of Yuan Dynasty emperor Tugh Temür (1304-1332), reigned 1328-1332"
+    ],
+    "raw_source": "文宗 文宗 [Wen2 zong1] /Wenzong Emperor, reign name of Yuan Dynasty emperor Tugh Temür (1304-1332), reigned 1328-1332/",
+    "source_line": 51390,
+    "ukrainian_segments": [
+      "Веньцзун, імператор династії Юань Туг-Темур (1304–1332), правив у 1328–1332 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "文宗 — храмове ім’я, а не девіз правління; англійське «reign name» у джерелі неточне."
+    ]
+  },
+  {
+    "id": "681b936523fea855",
+    "traditional": "陳其邁",
+    "simplified": "陈其迈",
+    "pinyin": "Chen2 Qi2 mai4",
+    "english_segments": [
+      "Chen Chi-mai (1964-), Taiwanese DPP politician, vice premier of the Republic of China (2019-)"
+    ],
+    "raw_source": "陳其邁 陈其迈 [Chen2 Qi2 mai4] /Chen Chi-mai (1964-), Taiwanese DPP politician, vice premier of the Republic of China (2019-)/",
+    "source_line": 115208,
+    "ukrainian_segments": [
+      "Чень Цімай (нар. 1964), тайванський політик Демократичної прогресивної партії, віцепрем’єр Китайської Республіки (з 2019)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Відкритий період перебування на посаді «з 2019» відтворено за джерелом; актуальність цих відомостей не перевірено."
+    ]
+  },
+  {
+    "id": "398fef26dbb18f1e",
+    "traditional": "卵黃囊",
+    "simplified": "卵黄囊",
+    "pinyin": "luan3 huang2 nang2",
+    "english_segments": [
+      "yolk sac (ectodermal cells attaching fetus to uterus before the development of the placenta)"
+    ],
+    "raw_source": "卵黃囊 卵黄囊 [luan3 huang2 nang2] /yolk sac (ectodermal cells attaching fetus to uterus before the development of the placenta)/",
+    "source_line": 17784,
+    "ukrainian_segments": [
+      "жовтковий мішок (у джерелі описаний як клітини, що прикріплюють плід до матки до формування плаценти)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Пояснення походження й функції жовткового мішка в англійському джерелі біологічно неточне."
+    ]
+  },
+  {
+    "id": "aa0bf2513a0ccd94",
+    "traditional": "文在寅",
+    "simplified": "文在寅",
+    "pinyin": "Wen2 Zai4 yin2",
+    "english_segments": [
+      "Moon Jae-in (1953-), Korean politician and human rights lawyer, president of Korea from 2017"
+    ],
+    "raw_source": "文在寅 文在寅 [Wen2 Zai4 yin2] /Moon Jae-in (1953-), Korean politician and human rights lawyer, president of Korea from 2017/",
+    "source_line": 51368,
+    "ukrainian_segments": [
+      "Мун Чже Ін (нар. 1953), корейський політик і правозахисний адвокат, президент Кореї з 2017 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Відкриту дату президентства «з 2017» збережено за джерелом; це історична, потенційно застаріла глоса."
+    ]
+  },
+  {
+    "id": "0f1a7fcd0db4b902",
+    "traditional": "李豫",
+    "simplified": "李豫",
+    "pinyin": "Li3 Yu4",
+    "english_segments": [
+      "Li Yu, personal name of ninth Tang emperor Taizong 代宗[Tai4 zong1] (727-779), reigned 762-779"
+    ],
+    "raw_source": "李豫 李豫 [Li3 Yu4] /Li Yu, personal name of ninth Tang emperor Taizong 代宗[Tai4 zong1] (727-779), reigned 762-779/",
+    "source_line": 56066,
+    "ukrainian_segments": [
+      "Лі Юй, особисте ім'я дев'ятого танського імператора Дайцзуна 代宗[Tai4 zong1] (727–779), правив у 762–779 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело помилково подає Taizong і [Tai4 zong1] для 代宗; правильно Daizong. Посилання збережене дослівно."
+    ]
+  },
+  {
+    "id": "80ca93911a82b79e",
+    "traditional": "河姆渡遺址",
+    "simplified": "河姆渡遗址",
+    "pinyin": "He2 mu3 du4 yi2 zhi3",
+    "english_segments": [
+      "Hemudu neolithic archaeological site near Ningbo 長江|长江 in Zhejiang, going back to c. 5000 BC"
+    ],
+    "raw_source": "河姆渡遺址 河姆渡遗址 [He2 mu3 du4 yi2 zhi3] /Hemudu neolithic archaeological site near Ningbo 長江|长江 in Zhejiang, going back to c. 5000 BC/",
+    "source_line": 63543,
+    "ukrainian_segments": [
+      "Хемуду, неолітична археологічна пам’ятка поблизу Нінбо в Чжецзяні, датована приблизно 5000 р. до н. е. (у джерелі наведено 長江|长江)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Посилання 長江|长江 означає Янцзи, а не Нінбо; у джерелі воно не узгоджується з англійським текстом."
+    ]
+  },
+  {
+    "id": "1f4d0800cbadcf30",
+    "traditional": "皖南事變",
+    "simplified": "皖南事变",
+    "pinyin": "Wan3 nan2 Shi4 bian4",
+    "english_segments": [
+      "New Fourth Army Incident of 1940, involving fighting between the Nationalists and Communists"
+    ],
+    "raw_source": "皖南事變 皖南事变 [Wan3 nan2 Shi4 bian4] /New Fourth Army Incident of 1940, involving fighting between the Nationalists and Communists/",
+    "source_line": 77258,
+    "ukrainian_segments": [
+      "інцидент із Новою четвертою армією 1940 року, зі збройними сутичками між гомінданівцями й комуністами"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рік у джерелі помилковий: цей інцидент зазвичай датують січнем 1941 року."
+    ]
+  },
+  {
+    "id": "71781545e4c363e5",
+    "traditional": "應縣木塔",
+    "simplified": "应县木塔",
+    "pinyin": "Ying4 Xian4 mu4 ta3",
+    "english_segments": [
+      "the timber pagoda of the Fogong Temple in Ying County, Shanxi, built in 1056 (Song dynasty)"
+    ],
+    "raw_source": "應縣木塔 应县木塔 [Ying4 Xian4 mu4 ta3] /the timber pagoda of the Fogong Temple in Ying County, Shanxi, built in 1056 (Song dynasty)/",
+    "source_line": 43468,
+    "ukrainian_segments": [
+      "дерев'яна пагода храму Фоґун у повіті Їнсянь, Шаньсі, збудована 1056 року (за часів династії Сун)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дата відповідає періоду Сун, але пагоду збудовано на території держави Ляо; династична прив'язка джерела неточна."
+    ]
+  },
+  {
+    "id": "ce34497d3d557e19",
+    "traditional": "埃迪卡拉紀",
+    "simplified": "埃迪卡拉纪",
+    "pinyin": "Ai1 di2 ka3 la1 ji4",
+    "english_segments": [
+      "Ediacaran period (c. 635-542 million years ago), late phase of pre-Cambrian geological era"
+    ],
+    "raw_source": "埃迪卡拉紀 埃迪卡拉纪 [Ai1 di2 ka3 la1 ji4] /Ediacaran period (c. 635-542 million years ago), late phase of pre-Cambrian geological era/",
+    "source_line": 25647,
+    "ukrainian_segments": [
+      "едіакарський період (бл. 635–542 млн років тому), пізній період докембрію"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Часові межі відтворено за джерелом; геохронологічна шкала могла бути уточнена."
+    ]
+  },
+  {
+    "id": "c0e96d1c790a0b5b",
+    "traditional": "敬祝",
+    "simplified": "敬祝",
+    "pinyin": "jing4 zhu4",
+    "english_segments": [
+      "to offer humbly (written at the end of letter to sb of higher status); your humble servant"
+    ],
+    "raw_source": "敬祝 敬祝 [jing4 zhu4] /to offer humbly (written at the end of letter to sb of higher status); your humble servant/",
+    "source_line": 51024,
+    "ukrainian_segments": [
+      "шанобливо бажати (формула наприкінці листа до старшого за становищем); Ваш покірний слуга"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "敬祝 зазвичай вводить шанобливе побажання; англійське «your humble servant» у джерелі не є точним буквальним відповідником."
+    ]
+  },
+  {
+    "id": "bbbdaf685cb71b61",
+    "traditional": "濟州",
+    "simplified": "济州",
+    "pinyin": "Ji4 zhou1",
+    "english_segments": [
+      "Jeju Island special autonomous province (Cheju Island), South Korea, a World Heritage site"
+    ],
+    "raw_source": "濟州 济州 [Ji4 zhou1] /Jeju Island special autonomous province (Cheju Island), South Korea, a World Heritage site/",
+    "source_line": 68672,
+    "ukrainian_segments": [
+      "Чеджу, особлива автономна провінція на острові Чеджу в Південній Кореї; об'єкт Світової спадщини"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело узагальнено називає всю провінцію об'єктом Світової спадщини; статус стосується визначених природних об'єктів."
+    ]
+  },
+  {
+    "id": "7124b94e6611920f",
+    "traditional": "真番郡",
+    "simplified": "真番郡",
+    "pinyin": "Zhen1 pan1 jun4",
+    "english_segments": [
+      "Zhenpan commandery (108 BC-c. 300 AD), one of four Han dynasty commanderies in north Korea"
+    ],
+    "raw_source": "真番郡 真番郡 [Zhen1 pan1 jun4] /Zhenpan commandery (108 BC-c. 300 AD), one of four Han dynasty commanderies in north Korea/",
+    "source_line": 78422,
+    "ukrainian_segments": [
+      "округ Чженьпань (108 до н. е. — бл. 300 н. е.), один із чотирьох округів династії Хань у Північній Кореї"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дата припинення існування округу в джерелі сумнівна; Чженьпань зазвичай вважають скасованим 82 року до н. е."
+    ]
+  },
+  {
+    "id": "69a6ca092b2c9f9d",
+    "traditional": "蘇貞昌",
+    "simplified": "苏贞昌",
+    "pinyin": "Su1 Zhen1 chang1",
+    "english_segments": [
+      "Su Tseng-chang (1947-), Taiwanese DPP politician, premier of the Republic of China (2019-)"
+    ],
+    "raw_source": "蘇貞昌 苏贞昌 [Su1 Zhen1 chang1] /Su Tseng-chang (1947-), Taiwanese DPP politician, premier of the Republic of China (2019-)/",
+    "source_line": 96639,
+    "ukrainian_segments": [
+      "Су Чженьчан (1947 р. н.), тайванський політик ДПП, прем'єр Республіки Китай від 2019 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Посада подана за джерелом із відкритим періодом від 2019 року; біографічна інформація застаріла."
+    ]
+  },
+  {
+    "id": "5a60fc574bb55019",
+    "traditional": "除暴安良",
+    "simplified": "除暴安良",
+    "pinyin": "chu2 bao4 an1 liang2",
+    "english_segments": [
+      "to root out the strong and give people peace (idiom); to rob the rich and give to the poor"
+    ],
+    "raw_source": "除暴安良 除暴安良 [chu2 bao4 an1 liang2] /to root out the strong and give people peace (idiom); to rob the rich and give to the poor/",
+    "source_line": 115058,
+    "ukrainian_segments": [
+      "викорінювати насильників і давати людям спокій (ідіома); забирати в багатих і віддавати бідним"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Глоса про перерозподіл багатства ширша за основне значення китайського вислову: приборкати лиходіїв і захистити добрих людей."
+    ]
+  },
+  {
+    "id": "db699cc188dd9ac7",
+    "traditional": "岡底斯山",
+    "simplified": "冈底斯山",
+    "pinyin": "Gang1 di3 si1 shan1",
+    "english_segments": [
+      "Mt Gangdisê (6656m) in southwest Tibet, revered by Tibetans as the center of the universe"
+    ],
+    "raw_source": "岡底斯山 冈底斯山 [Gang1 di3 si1 shan1] /Mt Gangdisê (6656m) in southwest Tibet, revered by Tibetans as the center of the universe/",
+    "source_line": 35864,
+    "ukrainian_segments": [
+      "гора Ґандісе (6656 м) у південно-західному Тибеті, яку тибетці шанують як центр усесвіту"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назва та висота відтворені за джерелом; імовірно, йдеться про Кайлас, висота якого в сусідньому записі інша."
+    ]
+  },
+  {
+    "id": "486229aa7cdd67a7",
+    "traditional": "紅頸葦鵐",
+    "simplified": "红颈苇鹀",
+    "pinyin": "hong2 jing3 wei3 wu2",
+    "english_segments": [
+      "(bird species of China) ochre-rumped bunting; Japanese reed bunting (Emberiza yessoensis)"
+    ],
+    "raw_source": "紅頸葦鵐 红颈苇鹀 [hong2 jing3 wei3 wu2] /(bird species of China) ochre-rumped bunting; Japanese reed bunting (Emberiza yessoensis)/",
+    "source_line": 84867,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) вівсянка японська очеретяна; вохристонадхвоста вівсянка (Emberiza yessoensis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назви подано описово; усталений український відповідник потребує перевірки."
+    ]
+  },
+  {
+    "id": "d3312345e9bdce8b",
+    "traditional": "維基數據",
+    "simplified": "维基数据",
+    "pinyin": "Wei2 ji1 shu4 ju4",
+    "english_segments": [
+      "Wikistats, (stats.wikimedia.org), online tool providing statistics for Wikimedia projects"
+    ],
+    "raw_source": "維基數據 维基数据 [Wei2 ji1 shu4 ju4] /Wikistats, (stats.wikimedia.org), online tool providing statistics for Wikimedia projects/",
+    "source_line": 86288,
+    "ukrainian_segments": [
+      "Вікідані (Wikidata); у джерелі описано Wikistats (stats.wikimedia.org), онлайн-інструмент статистики проєктів Вікімедіа"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайська назва 維基數據 відповідає Wikidata, але англійська глоса описує інший проєкт, Wikistats; потрібне виправлення джерела."
+    ]
+  },
+  {
+    "id": "7156874d05d935c1",
+    "traditional": "臨屯郡",
+    "simplified": "临屯郡",
+    "pinyin": "Lin2 tun2 Jun4",
+    "english_segments": [
+      "Lintun Commandery (108 BC–c. 300 AD), one of four Han dynasty commanderies in north Korea"
+    ],
+    "raw_source": "臨屯郡 临屯郡 [Lin2 tun2 Jun4] /Lintun Commandery (108 BC–c. 300 AD), one of four Han dynasty commanderies in north Korea/",
+    "source_line": 91616,
+    "ukrainian_segments": [
+      "округ Ліньтунь (108 р. до н. е. — близько 300 р. н. е.), один із чотирьох ханьських округів на півночі Кореї"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Датування існування округу до близько 300 р. н. е. у джерелі сумнівне; Ліньтунь зазвичай вважають скасованим значно раніше."
+    ]
+  },
+  {
+    "id": "ebbf8876a4161c44",
+    "traditional": "農運會",
+    "simplified": "农运会",
+    "pinyin": "Nong2 yun4 hui4",
+    "english_segments": [
+      "China National Farmers' Games (sports meeting for peasants held every 4 years since 1988)"
+    ],
+    "raw_source": "農運會 农运会 [Nong2 yun4 hui4] /China National Farmers' Games (sports meeting for peasants held every 4 years since 1988)/",
+    "source_line": 107023,
+    "ukrainian_segments": [
+      "Національні селянські ігри Китаю, спортивні змагання селян, що проводяться раз на чотири роки з 1988"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Періодичність змагань відтворено з джерела як історичну довідку; актуальність не перевірялася."
+    ]
+  },
+  {
+    "id": "6314ce20d66c6a30",
+    "traditional": "唐詩三百首",
+    "simplified": "唐诗三百首",
+    "pinyin": "Tang2 shi1 San1 bai3 Shou3",
+    "english_segments": [
+      "Three Hundred Tang Poems, an anthology collected around 1763 by Sun Zhu 孫誅|孙诛[Sun1 Zhu1]"
+    ],
+    "raw_source": "唐詩三百首 唐诗三百首 [Tang2 shi1 San1 bai3 Shou3] /Three Hundred Tang Poems, an anthology collected around 1763 by Sun Zhu 孫誅|孙诛[Sun1 Zhu1]/",
+    "source_line": 22013,
+    "ukrainian_segments": [
+      "«Триста танських віршів», антологія, укладена близько 1763 року Сунь Чжу 孫誅|孙诛[Sun1 Zhu1]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайське написання імені укладача в джерелі, ймовірно, помилкове; посилання збережено дослівно."
+    ]
+  },
+  {
+    "id": "8a0a8f832c54986e",
+    "traditional": "東坡肉",
+    "simplified": "东坡肉",
+    "pinyin": "Dong1 po1 rou4",
+    "english_segments": [
+      "stir-fried pork, favorite of Northern Song writer Su Shi 蘇軾|苏轼, a.k.a. Su Dongpo 蘇東坡|苏东坡"
+    ],
+    "raw_source": "東坡肉 东坡肉 [Dong1 po1 rou4] /stir-fried pork, favorite of Northern Song writer Su Shi 蘇軾|苏轼, a.k.a. Su Dongpo 蘇東坡|苏东坡/",
+    "source_line": 56328,
+    "ukrainian_segments": [
+      "свинина Дунпо, улюблена страва письменника Північної Сун Су Ши 蘇軾|苏轼, також відомого як Су Дунпо 蘇東坡|苏东坡"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає свинину обсмаженою; традиційна страва зазвичай тушкована."
+    ]
+  },
+  {
+    "id": "2be2673d180aeab0",
+    "traditional": "米哈伊爾·普羅霍羅夫",
+    "simplified": "米哈伊尔·普罗霍罗夫",
+    "pinyin": "Mi3 ha1 yi1 er3 · Pu3 luo2 huo4 luo2 fu1",
+    "english_segments": [
+      "Mikhail Prokhorov (1965-), Russian billionaire and owner of the Brooklyn Nets (NBA team)"
+    ],
+    "raw_source": "米哈伊爾·普羅霍羅夫 米哈伊尔·普罗霍罗夫 [Mi3 ha1 yi1 er3 · Pu3 luo2 huo4 luo2 fu1] /Mikhail Prokhorov (1965-), Russian billionaire and owner of the Brooklyn Nets (NBA team)/",
+    "source_line": 83913,
+    "ukrainian_segments": [
+      "Михайло Прохоров (нар. 1965), російський мільярдер і власник команди НБА «Бруклін Нетс»"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Статус власника команди в джерелі застарілий."
+    ]
+  },
+  {
+    "id": "c2fc883f41867b5c",
+    "traditional": "紅頭噪鶥",
+    "simplified": "红头噪鹛",
+    "pinyin": "hong2 tou2 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) chestnut-crowned laughingthrush (Trochalopteron erythrocephalum)"
+    ],
+    "raw_source": "紅頭噪鶥 红头噪鹛 [hong2 tou2 zao4 mei2] /(bird species of China) chestnut-crowned laughingthrush (Trochalopteron erythrocephalum)/",
+    "source_line": 84856,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) чагарниця каштановоголова (Trochalopteron erythrocephalum)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва потребує перевірки."
+    ]
+  },
+  {
+    "id": "4e0c2aace6ecbc4b",
+    "traditional": "哈西納",
+    "simplified": "哈西纳",
+    "pinyin": "Ha1 xi1 na4",
+    "english_segments": [
+      "Ms Sheikh Hasina (1947-), Bangladesh politician, prime minister 1996-2001 and from 2009"
+    ],
+    "raw_source": "哈西納 哈西纳 [Ha1 xi1 na4] /Ms Sheikh Hasina (1947-), Bangladesh politician, prime minister 1996-2001 and from 2009/",
+    "source_line": 21712,
+    "ukrainian_segments": [
+      "Шейх Хасіна (нар. 1947), бангладеська політикиня, прем'єр-міністерка в 1996–2001 роках і з 2009 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Часові межі другого терміну подано за джерелом, яке не вказує дати його завершення."
+    ]
+  },
+  {
+    "id": "58dc9a4b0dc5ddcd",
+    "traditional": "角弓反張",
+    "simplified": "角弓反张",
+    "pinyin": "jiao3 gong1 fan3 zhang1",
+    "english_segments": [
+      "opitoshtonous (med.), muscular spasm of the body associated with tetanus and meningitis"
+    ],
+    "raw_source": "角弓反張 角弓反张 [jiao3 gong1 fan3 zhang1] /opitoshtonous (med.), muscular spasm of the body associated with tetanus and meningitis/",
+    "source_line": 100159,
+    "ukrainian_segments": [
+      "опістотонус (мед.), судомне вигинання тіла при правці та менінгіті"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі назву синдрому подано з помилкою; за китайським терміном мається на увазі опістотонус."
+    ]
+  },
+  {
+    "id": "5a22d990211924f1",
+    "traditional": "鷹鵰",
+    "simplified": "鹰雕",
+    "pinyin": "ying1 diao1",
+    "english_segments": [
+      "(bird species of China) mountain hawk-eagle; Hodgson's hawk-eagle (Nisaetus nipalensis)"
+    ],
+    "raw_source": "鷹鵰 鹰雕 [ying1 diao1] /(bird species of China) mountain hawk-eagle; Hodgson's hawk-eagle (Nisaetus nipalensis)/",
+    "source_line": 123380,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) гірський орел-яструб, або орел-яструб Годжсона (Nisaetus nipalensis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська назва описова; усталений орнітологічний відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "8b4642549a6331c7",
+    "traditional": "剃髮令",
+    "simplified": "剃发令",
+    "pinyin": "ti4 fa4 ling4",
+    "english_segments": [
+      "the Qing order to all men to shave their heads but keep a queue, first ordered in 1646"
+    ],
+    "raw_source": "剃髮令 剃发令 [ti4 fa4 ling4] /the Qing order to all men to shave their heads but keep a queue, first ordered in 1646/",
+    "source_line": 14358,
+    "ukrainian_segments": [
+      "указ Цін, який зобов'язував усіх чоловіків голити голову, залишаючи косу; уперше виданий 1646 року (за джерелом)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рік першого указу про зачіску в джерелі потребує перевірки; часто наводять 1645."
+    ]
+  },
+  {
+    "id": "1fce42b6940a16e1",
+    "traditional": "墨索里尼",
+    "simplified": "墨索里尼",
+    "pinyin": "Mo4 suo3 li3 ni2",
+    "english_segments": [
+      "Benito Mussolini (1883-1945), Italian fascist dictator, \"Il Duce\", president 1922-1943"
+    ],
+    "raw_source": "墨索里尼 墨索里尼 [Mo4 suo3 li3 ni2] /Benito Mussolini (1883-1945), Italian fascist dictator, \"Il Duce\", president 1922-1943/",
+    "source_line": 26685,
+    "ukrainian_segments": [
+      "Беніто Муссоліні (1883–1945), італійський фашистський диктатор, «дуче», очільник уряду у 1922–1943 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі помилково зазначено president; Муссоліні був головою уряду, а не президентом."
+    ]
+  },
+  {
+    "id": "a731d39ef244251f",
+    "traditional": "大湄公河次區域",
+    "simplified": "大湄公河次区域",
+    "pinyin": "Da4 Mei2 gong1 he2 ci4 qu1 yu4",
+    "english_segments": [
+      "Greater Mekong Subregion (GMS), area of economic cooperation between China and Vietnam"
+    ],
+    "raw_source": "大湄公河次區域 大湄公河次区域 [Da4 Mei2 gong1 he2 ci4 qu1 yu4] /Greater Mekong Subregion (GMS), area of economic cooperation between China and Vietnam/",
+    "source_line": 28186,
+    "ukrainian_segments": [
+      "Великий субрегіон Меконгу (GMS), зона економічної співпраці між Китаєм і В'єтнамом"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерельне пояснення неповне: GMS охоплює також інші країни басейну Меконгу."
+    ]
+  },
+  {
+    "id": "922da283d7e2588d",
+    "traditional": "山鶥",
+    "simplified": "山鹛",
+    "pinyin": "shan1 mei2",
+    "english_segments": [
+      "(bird species of China) Beijing babbler; Chinese hill warbler (Rhopophilus pekinensis)"
+    ],
+    "raw_source": "山鶥 山鹛 [shan1 mei2] /(bird species of China) Beijing babbler; Chinese hill warbler (Rhopophilus pekinensis)/",
+    "source_line": 35812,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) пекінська тимелія; китайська гірська очеретянка (Rhopophilus pekinensis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Усталена українська видова назва потребує перевірки; подано описові відповідники."
+    ]
+  },
+  {
+    "id": "65ae38413bacd664",
+    "traditional": "石原慎太郎",
+    "simplified": "石原慎太郎",
+    "pinyin": "Shi2 yuan2 Shen4 tai4 lang2",
+    "english_segments": [
+      "Ishihara Shintarō (1932-), Japanese author and politician, governor of Tokyo 1999-2012"
+    ],
+    "raw_source": "石原慎太郎 石原慎太郎 [Shi2 yuan2 Shen4 tai4 lang2] /Ishihara Shintarō (1932-), Japanese author and politician, governor of Tokyo 1999-2012/",
+    "source_line": 79226,
+    "ukrainian_segments": [
+      "Ісіхара Сінтаро (нар. 1932), японський письменник і політик, губернатор Токіо у 1999–2012 рр."
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело залишає дату смерті відкритою; біографічні дати потребують актуалізації."
+    ]
+  },
+  {
+    "id": "acdbfef8be75383e",
+    "traditional": "鳳頭鷹雕",
+    "simplified": "凤头鹰雕",
+    "pinyin": "feng4 tou2 ying1 diao1",
+    "english_segments": [
+      "(bird species of China) changeable hawk-eagle; crested hawk-eagle (Nisaetus cirrhatus)"
+    ],
+    "raw_source": "鳳頭鷹雕 凤头鹰雕 [feng4 tou2 ying1 diao1] /(bird species of China) changeable hawk-eagle; crested hawk-eagle (Nisaetus cirrhatus)/",
+    "source_line": 123072,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) мінливий, або чубатий, орел-яструб (Nisaetus cirrhatus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Описова українська назва птаха; усталений відповідник не перевірено."
+    ]
+  },
+  {
+    "id": "21b6e479dcda401b",
+    "traditional": "同翅目",
+    "simplified": "同翅目",
+    "pinyin": "tong2 chi4 mu4",
+    "english_segments": [
+      "Homoptera (insect suborder including cicadas, aphids, plant-hoppers, shield bugs etc)"
+    ],
+    "raw_source": "同翅目 同翅目 [tong2 chi4 mu4] /Homoptera (insect suborder including cicadas, aphids, plant-hoppers, shield bugs etc)/",
+    "source_line": 20171,
+    "ukrainian_segments": [
+      "рівнокрилі (Homoptera), група комах, до якої джерело відносить цикад, попелиць, цикадок, щитників тощо"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Перелік джерела таксономічно неточний: щитники належать до різнокрилих; традиційна група Homoptera також не відповідає сучасному монофілетичному таксону."
+    ]
+  },
+  {
+    "id": "98d40c423ca3e380",
+    "traditional": "玉山噪鶥",
+    "simplified": "玉山噪鹛",
+    "pinyin": "Yu4 Shan1 zao4 mei2",
+    "english_segments": [
+      "(bird species of China) white-whiskered laughingthrush (Trochalopteron morrisonianum)"
+    ],
+    "raw_source": "玉山噪鶥 玉山噪鹛 [Yu4 Shan1 zao4 mei2] /(bird species of China) white-whiskered laughingthrush (Trochalopteron morrisonianum)/",
+    "source_line": 72949,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) біловуса чагарниця (Trochalopteron morrisonianum)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська видова назва описова й потребує номенклатурної перевірки."
+    ]
+  },
+  {
+    "id": "4a2d2ced19279cfc",
+    "traditional": "腺嘌呤",
+    "simplified": "腺嘌呤",
+    "pinyin": "xian4 piao4 ling4",
+    "english_segments": [
+      "adenine nucleotide (A, pairs with thymine T 胸腺嘧啶 in DNA and with uracil U 尿嘧啶 in RNA)"
+    ],
+    "raw_source": "腺嘌呤 腺嘌呤 [xian4 piao4 ling4] /adenine nucleotide (A, pairs with thymine T 胸腺嘧啶 in DNA and with uracil U 尿嘧啶 in RNA)/",
+    "source_line": 91199,
+    "ukrainian_segments": [
+      "аденін (A), азотиста основа нуклеотидів, яка утворює пару з тиміном T 胸腺嘧啶 у ДНК та урацилом U 尿嘧啶 у РНК"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає аденін нуклеотидом; точніше це азотиста основа нуклеотидів."
+    ]
+  },
+  {
+    "id": "cb999d2d501843e1",
+    "traditional": "臺灣斑胸鉤嘴鶥",
+    "simplified": "台湾斑胸钩嘴鹛",
+    "pinyin": "Tai2 wan1 ban1 xiong1 gou1 zui3 mei2",
+    "english_segments": [
+      "(bird species of China) black-necklaced scimitar babbler (Erythrogenys erythrocnemis)"
+    ],
+    "raw_source": "臺灣斑胸鉤嘴鶥 台湾斑胸钩嘴鹛 [Tai2 wan1 ban1 xiong1 gou1 zui3 mei2] /(bird species of China) black-necklaced scimitar babbler (Erythrogenys erythrocnemis)/",
+    "source_line": 92300,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) чорносмуга тимелія-криводзьоб (Erythrogenys erythrocnemis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська назва описова; усталену назву цього виду слід перевірити за орнітологічним джерелом."
+    ]
+  },
+  {
+    "id": "53c1f31975f1e106",
+    "traditional": "超泛神論",
+    "simplified": "超泛神论",
+    "pinyin": "chao1 fan4 shen2 lun4",
+    "english_segments": [
+      "panentheism, theological theory of God as equal to the Universe while transcending it"
+    ],
+    "raw_source": "超泛神論 超泛神论 [chao1 fan4 shen2 lun4] /panentheism, theological theory of God as equal to the Universe while transcending it/",
+    "source_line": 104687,
+    "ukrainian_segments": [
+      "панентеїзм, богословське вчення про Бога, що охоплює Всесвіт і водночас перевершує його"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі Бог названий рівним Всесвіту; панентеїзм зазвичай розрізняє охоплення Всесвіту Богом і перевершення його."
+    ]
+  },
+  {
+    "id": "941cef82e8610e96",
+    "traditional": "路德雀鶥",
+    "simplified": "路德雀鹛",
+    "pinyin": "Lu4 de2 que4 mei2",
+    "english_segments": [
+      "(bird species of China) brown-throated fulvetta; Ludlow's fulvetta (Fulvetta ludlowi)"
+    ],
+    "raw_source": "路德雀鶥 路德雀鹛 [Lu4 de2 que4 mei2] /(bird species of China) brown-throated fulvetta; Ludlow's fulvetta (Fulvetta ludlowi)/",
+    "source_line": 105242,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) фульвета Людлоу, бурогорла фульвета (Fulvetta ludlowi)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську усталену видову назву не підтверджено; наведено відповідник за назвою та науковим визначенням."
+    ]
+  },
+  {
+    "id": "ad7bd1fbf8bb3151",
+    "traditional": "關東地震",
+    "simplified": "关东地震",
+    "pinyin": "Guan1 dong1 di4 zhen4",
+    "english_segments": [
+      "Kantō earthquake of 1923, magnitude 8.2, that killed 200,000 people in the Tokyo area"
+    ],
+    "raw_source": "關東地震 关东地震 [Guan1 dong1 di4 zhen4] /Kantō earthquake of 1923, magnitude 8.2, that killed 200,000 people in the Tokyo area/",
+    "source_line": 114214,
+    "ukrainian_segments": [
+      "землетрус Канто 1923 року магнітудою 8,2, унаслідок якого, за джерелом, загинуло 200 000 людей у районі Токіо"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Число загиблих і магнітуда у джерелі потребують історичної перевірки."
+    ]
+  },
+  {
+    "id": "fc4975b2eeaab208",
+    "traditional": "革蘭氏陰性",
+    "simplified": "革兰氏阴性",
+    "pinyin": "Ge2 lan2 shi4 yin1 xing4",
+    "english_segments": [
+      "Gram negative (bacteria that do not retain Gram stain, often the more dangerous kind)"
+    ],
+    "raw_source": "革蘭氏陰性 革兰氏阴性 [Ge2 lan2 shi4 yin1 xing4] /Gram negative (bacteria that do not retain Gram stain, often the more dangerous kind)/",
+    "source_line": 118207,
+    "ukrainian_segments": [
+      "грамнегативний (про бактерії, які не утримують барвник за методом Грама; за джерелом, часто небезпечніші)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Узагальнення джерела про більшу небезпечність грамнегативних бактерій не є універсальним."
+    ]
+  },
+  {
+    "id": "f4d0ce7a718cb517",
+    "traditional": "劍嘴鶥",
+    "simplified": "剑嘴鹛",
+    "pinyin": "jian4 zui3 mei2",
+    "english_segments": [
+      "(bird species of China) slender-billed scimitar babbler (Pomatorhinus superciliaris)"
+    ],
+    "raw_source": "劍嘴鶥 剑嘴鹛 [jian4 zui3 mei2] /(bird species of China) slender-billed scimitar babbler (Pomatorhinus superciliaris)/",
+    "source_line": 15034,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) тонкодзьоба тимелія-криводзьоб (Pomatorhinus superciliaris)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська назва птаха описова; усталену видову назву слід перевірити."
+    ]
+  },
+  {
+    "id": "c4159816f52f019f",
+    "traditional": "司馬懿",
+    "simplified": "司马懿",
+    "pinyin": "Si1 ma3 Yi4",
+    "english_segments": [
+      "Sima Yi (179-251), warlord under Cao Cao and subsequently founder of the Jin dynasty"
+    ],
+    "raw_source": "司馬懿 司马懿 [Si1 ma3 Yi4] /Sima Yi (179-251), warlord under Cao Cao and subsequently founder of the Jin dynasty/",
+    "source_line": 19517,
+    "ukrainian_segments": [
+      "Сима Ї (179–251), воєначальник під владою Цао Цао, якого джерело називає згодом засновником династії Цзінь"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Засновником династії був його онук Сима Янь; Сима Ї заклав підвалини влади роду."
+    ]
+  },
+  {
+    "id": "409ec140b080bce6",
+    "traditional": "訓民正音",
+    "simplified": "训民正音",
+    "pinyin": "Xun4 min2 Zheng4 yin1",
+    "english_segments": [
+      "Korean text HunMin JongUm promulgated by Sejong Daewang in 1418 to introduce hangeul"
+    ],
+    "raw_source": "訓民正音 训民正音 [Xun4 min2 Zheng4 yin1] /Korean text HunMin JongUm promulgated by Sejong Daewang in 1418 to introduce hangeul/",
+    "source_line": 100612,
+    "ukrainian_segments": [
+      "«Хунмін чоним», корейський текст, оприлюднений королем Седжоном Великим у 1418 році для запровадження хангиля"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дата 1418 відтворена з джерела, але, ймовірно, помилкова: «Хунмін чоним» зазвичай датують 1446 роком."
+    ]
+  },
+  {
+    "id": "0cc4ea6e71ab361c",
+    "traditional": "赫魯曉夫",
+    "simplified": "赫鲁晓夫",
+    "pinyin": "He4 lu3 xiao3 fu5",
+    "english_segments": [
+      "Nikita Khrushchev (1894–1971), secretary-general of Soviet Communist Party 1953–1964"
+    ],
+    "raw_source": "赫魯曉夫 赫鲁晓夫 [He4 lu3 xiao3 fu5] /Nikita Khrushchev (1894–1971), secretary-general of Soviet Communist Party 1953–1964/",
+    "source_line": 104364,
+    "ukrainian_segments": [
+      "Микита Хрущов (1894–1971), керівник Комуністичної партії Радянського Союзу у 1953–1964 роках"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело називає посаду генеральним секретарем; фактичний титул Хрущова в цей період був «перший секретар»."
+    ]
+  },
+  {
+    "id": "17d022b6ba9c4f93",
+    "traditional": "麻生太郎",
+    "simplified": "麻生太郎",
+    "pinyin": "Ma2 sheng1 Tai4 lang2",
+    "english_segments": [
+      "ASŌ Tarō (1940-), Japanese entrepreneur and LDP politician, prime minister from 2008"
+    ],
+    "raw_source": "麻生太郎 麻生太郎 [Ma2 sheng1 Tai4 lang2] /ASŌ Tarō (1940-), Japanese entrepreneur and LDP politician, prime minister from 2008/",
+    "source_line": 123771,
+    "ukrainian_segments": [
+      "Таро Асо (нар. 1940), японський підприємець і політик ЛДП, прем'єр-міністр із 2008 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає відкритий термін перебування на посаді «з 2008 року»; це історичне формулювання, а не твердження про чинного прем’єр-міністра."
+    ]
+  },
+  {
+    "id": "ea740c52758196a2",
+    "traditional": "埃迪卡拉",
+    "simplified": "埃迪卡拉",
+    "pinyin": "Ai1 di2 ka3 la1",
+    "english_segments": [
+      "Ediacaran (c. 635-542 million years ago), late phase of pre-Cambrian geological era"
+    ],
+    "raw_source": "埃迪卡拉 埃迪卡拉 [Ai1 di2 ka3 la1] /Ediacaran (c. 635-542 million years ago), late phase of pre-Cambrian geological era/",
+    "source_line": 25646,
+    "ukrainian_segments": [
+      "едіакарій (бл. 635–542 млн років тому), пізній період докембрію"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Часові межі відтворено за джерелом; геохронологічна шкала могла бути уточнена."
+    ]
+  },
+  {
+    "id": "d98ced8c156356ac",
+    "traditional": "政府大學院",
+    "simplified": "政府大学院",
+    "pinyin": "Zheng4 fu3 Da4 xue2 yuan4",
+    "english_segments": [
+      "the name of Academia Sinica 中央研究院[Zhong1 yang1 Yan2 jiu1 yuan4] when it was founded"
+    ],
+    "raw_source": "政府大學院 政府大学院 [Zheng4 fu3 Da4 xue2 yuan4] /the name of Academia Sinica 中央研究院[Zhong1 yang1 Yan2 jiu1 yuan4] when it was founded/",
+    "source_line": 50518,
+    "ukrainian_segments": [
+      "назва Академії Сініка 中央研究院[Zhong1 yang1 Yan2 jiu1 yuan4] на час її заснування"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Історичну тотожність 政府大學院 із первісною назвою Academia Sinica передано за джерелом; потребує перевірки."
+    ]
+  },
+  {
+    "id": "dc1f3302d8ce38a8",
+    "traditional": "更新世",
+    "simplified": "更新世",
+    "pinyin": "Geng1 xin1 shi4",
+    "english_segments": [
+      "Pleistocene (geological epoch from 2m years ago, covering the most recent ice ages)"
+    ],
+    "raw_source": "更新世 更新世 [Geng1 xin1 shi4] /Pleistocene (geological epoch from 2m years ago, covering the most recent ice ages)/",
+    "source_line": 54438,
+    "ukrainian_segments": [
+      "плейстоцен (геологічна епоха, що почалася близько 2 млн років тому й охоплює останні льодовикові періоди)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Датування початку епохи приблизне й застаріле в джерелі; сучасна межа близько 2,58 млн років тому."
+    ]
+  },
+  {
+    "id": "d32eaff53328cc04",
+    "traditional": "柯文哲",
+    "simplified": "柯文哲",
+    "pinyin": "Ke1 Wen2 zhe2",
+    "english_segments": [
+      "Ko Wen-je (1959-), Taiwanese independent politician, Mayor of Taipei City from 2014"
+    ],
+    "raw_source": "柯文哲 柯文哲 [Ke1 Wen2 zhe2] /Ko Wen-je (1959-), Taiwanese independent politician, Mayor of Taipei City from 2014/",
+    "source_line": 57158,
+    "ukrainian_segments": [
+      "Ко Веньчже (нар. 1959), тайванський незалежний політик, мер Тайбея від 2014 року"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Часовий опис посади в джерелі може бути застарілим."
+    ]
+  },
+  {
+    "id": "68a2581b6180e92b",
+    "traditional": "柳煙花霧",
+    "simplified": "柳烟花雾",
+    "pinyin": "liu3 yan1 hua1 wu4",
+    "english_segments": [
+      "lit. willow scent and mist of blossom (idiom); scene full of the delights of spring"
+    ],
+    "raw_source": "柳煙花霧 柳烟花雾 [liu3 yan1 hua1 wu4] /lit. willow scent and mist of blossom (idiom); scene full of the delights of spring/",
+    "source_line": 57222,
+    "ukrainian_segments": [
+      "букв. вербовий серпанок і квітковий туман (ідіома); краєвид, сповнений весняної принади"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело тлумачить 煙 як «запах»; тут буквальний образ радше серпанок."
+    ]
+  },
+  {
+    "id": "4b7e771c2afbb154",
+    "traditional": "法蘭克",
+    "simplified": "法兰克",
+    "pinyin": "Fa3 lan2 ke4",
+    "english_segments": [
+      "the Franks (Germanic people who arrived in Europe from 600 AD and took over France)"
+    ],
+    "raw_source": "法蘭克 法兰克 [Fa3 lan2 ke4] /the Franks (Germanic people who arrived in Europe from 600 AD and took over France)/",
+    "source_line": 63971,
+    "ukrainian_segments": [
+      "франки (германський народ, який, за джерелом, прибув до Європи від 600 р. н. е. й заволодів Францією)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Датування та опис появи франків у Європі в джерелі сумнівні; франки відомі значно раніше VI–VII століть."
+    ]
+  },
+  {
+    "id": "fbf271ad73545a28",
+    "traditional": "莫霍面",
+    "simplified": "莫霍面",
+    "pinyin": "Mo4 huo4 mian4",
+    "english_segments": [
+      "Moho (aka Mohorovičić discontinuity, the lower boundary of the earth's lithosphere)"
+    ],
+    "raw_source": "莫霍面 莫霍面 [Mo4 huo4 mian4] /Moho (aka Mohorovičić discontinuity, the lower boundary of the earth's lithosphere)/",
+    "source_line": 94443,
+    "ukrainian_segments": [
+      "Мохо (поверхня Мохоровичича; у джерелі визначена як нижня межа літосфери Землі)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі Мохо помилково названо нижньою межею літосфери; це межа земної кори й мантії."
+    ]
+  },
+  {
+    "id": "01b5666c6ad049b8",
+    "traditional": "鄭夢準",
+    "simplified": "郑梦准",
+    "pinyin": "Zheng4 Meng4 zhun3",
+    "english_segments": [
+      "Chung Mongjoon (1951-), Korean magnate and the founder of Hyundai 現代|现代[Xian4 dai4]"
+    ],
+    "raw_source": "鄭夢準 郑梦准 [Zheng4 Meng4 zhun3] /Chung Mongjoon (1951-), Korean magnate and the founder of Hyundai 現代|现代[Xian4 dai4]/",
+    "source_line": 110117,
+    "ukrainian_segments": [
+      "Чон Мон Джун (1951–), корейський магнат, у джерелі названий засновником Hyundai 現代|现代[Xian4 dai4]"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійський сегмент помилково приписує Чон Мон Джуну заснування Hyundai; засновником був Чон Чжу Йон."
+    ]
+  },
+  {
+    "id": "47b343b7845b0ced",
+    "traditional": "齊國",
+    "simplified": "齐国",
+    "pinyin": "Qi2 guo2",
+    "english_segments": [
+      "Qi state of Western Zhou and the Warring states (1122-265 BC), centered in Shandong"
+    ],
+    "raw_source": "齊國 齐国 [Qi2 guo2] /Qi state of Western Zhou and the Warring states (1122-265 BC), centered in Shandong/",
+    "source_line": 124911,
+    "ukrainian_segments": [
+      "держава Ці доби Західної Чжоу та Воюючих царств (1122–265 до н. е.), із центром у Шаньдуні"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Дати існування держави Ці відтворено за джерелом; кінцева дата 265 до н. е. потребує перевірки."
+    ]
+  },
+  {
+    "id": "bfad07558a68e427",
+    "traditional": "友誼峰",
+    "simplified": "友谊峰",
+    "pinyin": "You3 yi4 Feng1",
+    "english_segments": [
+      "Friendship Peak or Khüiten Peak (4,356 m), the highest peak of the Altai mountains"
+    ],
+    "raw_source": "友誼峰 友谊峰 [You3 yi4 Feng1] /Friendship Peak or Khüiten Peak (4,356 m), the highest peak of the Altai mountains/",
+    "source_line": 18267,
+    "ukrainian_segments": [
+      "пік Дружби, або Хуйтен (4356 м), найвища вершина Алтайських гір"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Твердження джерела про найвищу вершину всього Алтаю потребує перевірки; загальновідомою найвищою є Бєлуха."
+    ]
+  },
+  {
+    "id": "b6f0a770be4e310e",
+    "traditional": "拉包爾",
+    "simplified": "拉包尔",
+    "pinyin": "La1 bao1 er3",
+    "english_segments": [
+      "Rabaul, port city and capital of New Britain, island of northeast Papua New Guinea"
+    ],
+    "raw_source": "拉包爾 拉包尔 [La1 bao1 er3] /Rabaul, port city and capital of New Britain, island of northeast Papua New Guinea/",
+    "source_line": 46056,
+    "ukrainian_segments": [
+      "Рабаул, портове місто й столиця острова Нова Британія на північному сході Папуа Нової Гвінеї"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Статус «столиці Нової Британії» у джерелі потребує уточнення; назву й опис перекладено за джерелом."
+    ]
+  },
+  {
+    "id": "274b7240f08c93d4",
+    "traditional": "棕頸鉤嘴鶥",
+    "simplified": "棕颈钩嘴鹛",
+    "pinyin": "zong1 jing3 gou1 zui3 mei2",
+    "english_segments": [
+      "(bird species of China) streak-breasted scimitar babbler (Pomatorhinus ruficollis)"
+    ],
+    "raw_source": "棕頸鉤嘴鶥 棕颈钩嘴鹛 [zong1 jing3 gou1 zui3 mei2] /(bird species of China) streak-breasted scimitar babbler (Pomatorhinus ruficollis)/",
+    "source_line": 58269,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) тимелія-криводзьоб смугастогруда (Pomatorhinus ruficollis)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українська видова назва описова; усталений відповідник не підтверджено."
+    ]
+  },
+  {
+    "id": "a39304e63409d8a9",
+    "traditional": "神鵰俠侶",
+    "simplified": "神雕侠侣",
+    "pinyin": "Shen2 diao1 Xia2 lu:3",
+    "english_segments": [
+      "\"The Return of the Condor Heroes\" (1959-61 wuxia novel by Jin Yong 金庸[Jin1 Yong1])"
+    ],
+    "raw_source": "神鵰俠侶 神雕侠侣 [Shen2 diao1 Xia2 lu:3] /\"The Return of the Condor Heroes\" (1959-61 wuxia novel by Jin Yong 金庸[Jin1 Yong1])/",
+    "source_line": 80744,
+    "ukrainian_segments": [
+      "«Повернення героїв Кондора» (роман у жанрі уся, 1959–1961, автор Цзінь Юн 金庸[Jin1 Yong1])"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Українську назву роману передано за англійською; усталений переклад назви потребує перевірки."
+    ]
+  },
+  {
+    "id": "82d1a9072fd20ce0",
+    "traditional": "紅嘴鉤嘴鶥",
+    "simplified": "红嘴钩嘴鹛",
+    "pinyin": "hong2 zui3 gou1 zui3 mei2",
+    "english_segments": [
+      "(bird species of China) black-crowned scimitar babbler (Pomatorhinus ferruginosus)"
+    ],
+    "raw_source": "紅嘴鉤嘴鶥 红嘴钩嘴鹛 [hong2 zui3 gou1 zui3 mei2] /(bird species of China) black-crowned scimitar babbler (Pomatorhinus ferruginosus)/",
+    "source_line": 84639,
+    "ukrainian_segments": [
+      "(вид птахів Китаю) криводзьоба тимелія з чорною тім'яною шапочкою (Pomatorhinus ferruginosus)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назву подано описово; усталений український видовий відповідник не встановлено."
+    ]
+  },
+  {
+    "id": "a3e5437035b9b0bf",
+    "traditional": "聚眾淫亂罪",
+    "simplified": "聚众淫乱罪",
+    "pinyin": "ju4 zhong4 yin2 luan4 zui4",
+    "english_segments": [
+      "group licentiousness (offense punishable by up to five years in prison in the PRC)"
+    ],
+    "raw_source": "聚眾淫亂罪 聚众淫乱罪 [ju4 zhong4 yin2 luan4 zui4] /group licentiousness (offense punishable by up to five years in prison in the PRC)/",
+    "source_line": 89434,
+    "ukrainian_segments": [
+      "участь у груповій розпусті (злочин, за який у КНР передбачено до п’яти років позбавлення волі)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Відомості про покарання відтворено з джерела; актуальний правовий статус не перевірено."
+    ]
+  }
+]

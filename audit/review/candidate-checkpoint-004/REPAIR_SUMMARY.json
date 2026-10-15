@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "checkpoint": 4,
+  "status": "private_versioned_review_candidate_pending_independent_verification",
+  "baseline_dictionary_sha256": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+  "previous_candidate_directory": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-003",
+  "previous_dictionary_sha256": "735b8c5ecdb0ebb2afb23fd1f2d3be1d0fdafaad31e47ce61abe0cc1b391393d",
+  "corrected_dictionary_sha256": "43205b5b66eb43d254a9341affbb02ec0354dd6df4ac1a8ec564d922eedb37bd",
+  "baseline_immutable_verified": true,
+  "previous_candidate_immutable_verified": true,
+  "all_source_fields_records_order_preserved": true,
+  "all_uncertainty_flags_preserved": true,
+  "known_contaminated_note_ids_inactive": [
+    "0168943755f632b1",
+    "203349f934e0f706",
+    "3ee7e352b216472a",
+    "410ff3a4d8eff115",
+    "4355846ebc6874c8",
+    "87e972dbb1b47cc9",
+    "92b953c247ece388",
+    "9350153f3da653f2",
+    "97a15e73b89ed7e4",
+    "b0679e8983a2fb13",
+    "b8ac45eaf5cef49a",
+    "c78cae2d3e5f1fb9",
+    "cdf351e19875f62b",
+    "d592d648f09d9428",
+    "fed846504a2bb8b4"
+  ],
+  "human_validation": false,
+  "public_writes": false,
+  "runtime_approved": false,
+  "stats": {
+    "baseline_records": 125264,
+    "source_segments": 199737,
+    "notes_total": 2534,
+    "notes_by_disposition": {
+      "quarantine_rejected": 15,
+      "quarantine_unreviewed": 1338,
+      "replace_reviewed": 76,
+      "retain_reviewed": 1105
+    },
+    "active_notes": 1181,
+    "quarantined_original_notes": 1429,
+    "preserved_flagged_records": 2534,
+    "checkpoint_reviewed_records": 1200,
+    "applied_segment_corrections": 151,
+    "human_validated_records": 0
+  },
+  "counts": {
+    "records": 125264,
+    "aligned_segments": 199737,
+    "model_reviewed_records": 1877,
+    "corrected_segments": 657,
+    "records_with_corrections": 574,
+    "known_flagged_records": 2534,
+    "human_validated_records": 0
+  },
+  "current_checkpoint_reviewed_records": 300,
+  "current_checkpoint_reviewed_segments": 300,
+  "current_checkpoint_applied_segment_corrections": 57,
+  "current_checkpoint_review_outcomes": {
+    "acceptable": 181,
+    "correction_proposed": 59,
+    "deferred": 60
+  },
+  "cumulative_reviewed_records": 1200,
+  "cumulative_reviewed_segments": 2343,
+  "remaining_flagged_entries_unreviewed": 1334,
+  "review_audits": [
+    {
+      "input": "checkpoint-001/input_001.json",
+      "input_sha256": "cc27b1715c5815af33db121f50e87d0a0784fa971a7699d6ebad7902fdf4260b",
+      "review": "checkpoint-001/review_001.json",
+      "review_sha256": "686cd952c0f6517f8708fefdcf864861af1d8ba83a0e9d153c34d96b4885d13a",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-001/input_002.json",
+      "input_sha256": "7b7030c50ad16bfbcb762410e8c1d9338ec9726fa044d5db3fa7d57a03fe965d",
+      "review": "checkpoint-001/review_002.json",
+      "review_sha256": "417e08e4caa993973205510790d4ff5318606596dc1b409fb324a02c4155ac82",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-001/input_003.json",
+      "input_sha256": "c81a21dbbd808d7970e798e301cf6bb0a974e90f0c9b91b27b35843539ac36f8",
+      "review": "checkpoint-001/review_003.json",
+      "review_sha256": "7965778723dccb0c4d9cf720fa6f413d1d72cff7b4516dd755d49b10852c21cd",
+      "reviewer_model_requested": "inherited stronger-model reviewer; no independent backend attestation",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-002/input_001.json",
+      "input_sha256": "46a423937ed21f95823aae1427f515857861773f2cc5d000fdf060391edb4680",
+      "review": "checkpoint-002/review_001.json",
+      "review_sha256": "896a862d6dd7b15d3e473a02027e5de9de21a44f70857a8de65ffd504f3fa005",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-002/input_002.json",
+      "input_sha256": "8c18a13cf38e4c4e0993b405a9c3a427df534c40b548e389578ff751d00769d1",
+      "review": "checkpoint-002/review_002.json",
+      "review_sha256": "32954f8c38873af16d2d15b642c097273367427be719c0432907fb3938ff7fa0",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-002/input_003.json",
+      "input_sha256": "ee8177b0f976e984e09cb5e3dcf4773f1122c179b0a2b3de617b37f639198804",
+      "review": "checkpoint-002/review_003.json",
+      "review_sha256": "6afd834fa5ba519fba2658aa0691d69b32fb8b6796259eab4584b522193b3ce7",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-003/input_001.json",
+      "input_sha256": "337276b539db707a1ea070da52e60e6862e601ad8288a6238afcb25eafa9f4f3",
+      "review": "checkpoint-003/review_001.json",
+      "review_sha256": "3e37f94cb636db40d966ecea65259c3c5b4c33136ba8f0b54d14a3429dd2fbf1",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-003/input_002.json",
+      "input_sha256": "9ced0c8bf4e825e1257247efef2988e410e44e31ad5b0317383b52d72168704b",
+      "review": "checkpoint-003/review_002.json",
+      "review_sha256": "2083d85fbc6d54494565bc045b50a800085898b93315289df895368a8ebc399f",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-003/input_003.json",
+      "input_sha256": "4141b044f88471191bf61c185622ed6b713e800a75d3544332b3848b3709eb40",
+      "review": "checkpoint-003/review_003.json",
+      "review_sha256": "0acbfab301c0351f55353411c3dd9729b8927c977171aa2c59707a6dd4802be4",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-004/input_001.json",
+      "input_sha256": "5136650c78d9d8256955af050a78f33598283670c0c861cbd54786e717bf1c14",
+      "review": "checkpoint-004/review_001.json",
+      "review_sha256": "a01b91ab172bc9c502eda691b8a20ce9810e1139712e1106a9639e80e35d1943",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-004/input_002.json",
+      "input_sha256": "08b2fc599f84a3091c318dc2dd5b54f307ca6dcd44af293b36e6ca22e9578ca5",
+      "review": "checkpoint-004/review_002.json",
+      "review_sha256": "b88a09691661ffe763eea0c6cae2c9d142f1f4ca232a223a3e1c4cbf2d089476",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    },
+    {
+      "input": "checkpoint-004/input_003.json",
+      "input_sha256": "60ca2d33b19d430fa22ae3b166e6cf40ed7af88e8b4a67e34c1539b449f05bc2",
+      "review": "checkpoint-004/review_003.json",
+      "review_sha256": "97fa3f8f2c5f986a6333ce58b59469affba2b144c79215c06747596ccc7539a8",
+      "reviewer_model_requested": "gpt-6-astra",
+      "human_validation": false
+    }
+  ],
+  "application_decisions": "checkpoint-004/application_decisions.json",
+  "application_decisions_sha256": "12d64db96ca8c253ba5b646ea691b408b5a2c6b866733995d570bb516c217562",
+  "limits": [
+    "Model review, not human validation or corpus-wide accuracy estimate.",
+    "Unresolved Chinese/English source contradictions and specialist nomenclature remain flagged.",
+    "Default-quarantined notes can include reviewed entries whose note activation was withheld for unresolved evidence; entry review counts are tracked independently.",
+    "No publication or runtime approval."
+  ],
+  "artifacts": {
+    "ALL_CORRECTION_PROPOSALS.json": "02987a2dcd56a23a0da0621e2fc661bbd3f0ee28981776420746e4c705ba7937",
+    "NOTE_QUARANTINE.json": "90eb15309839ae332e8f78b8aa03dcd03f6bf95de26317290ee57e30fac19185",
+    "NOTE_REVIEW_LEDGER.json": "1123d7cb3c95c9dd93a03f4bba564e1e8c83209578c3337fdf953911609a0f0d",
+    "REPAIR_OVERLAY.json": "c2fe4e5b14cd330e993f67063b73c2bd2ecd938c56ed61cbf8895c9062594b54",
+    "dictionary.json": "43205b5b66eb43d254a9341affbb02ec0354dd6df4ac1a8ec564d922eedb37bd"
+  }
+}

@@ -1,0 +1,500 @@
+1. ID 850eb599205b0359 | line 92314 | 臺灣黃山雀 / 台湾黄山雀 [Tai2 wan1 huang2 shan1 que4]
+  0: EN (bird species of China) yellow tit (Machlolophus holsti)
+     UK (вид птахів Китаю) жовта синиця (Machlolophus holsti)
+  NOTES ["Назва описова; усталений український відповідник виду потребує перевірки."]
+
+2. ID 078c374cbcf9c9d1 | line 111382 | 金胸歌鴝 / 金胸歌鸲 [jin1 xiong1 ge1 qu2]
+  0: EN (bird species of China) firethroat (Calliope pectardens)
+     UK (вид птахів Китаю) соловейко вогнистогорлий (Calliope pectardens)
+  NOTES ["Українська видова назва потребує номенклатурної перевірки."]
+
+3. ID ce6da7f15012d940 | line 118979 | 領角鴞 / 领角鸮 [ling3 jiao3 xiao1]
+  0: EN (bird species of China) collared scops owl (Otus lettia)
+     UK сплюшка ошийникова (Otus lettia), вид птахів Китаю
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+4. ID 7dfeea6797dd3529 | line 124004 | 黃腿漁鴞 / 黄腿渔鸮 [huang2 tui3 yu2 xiao1]
+  0: EN (bird species of China) tawny fish owl (Ketupa flavipes)
+     UK (вид птахів Китаю) рудий рибний пугач (Ketupa flavipes)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+5. ID 4379c6a415622d74 | line 124432 | 黑頭鳾 / 黑头䴓 [hei1 tou2 shi1]
+  0: EN (bird species of China) Chinese nuthatch (Sitta villosa)
+     UK (вид птахів Китаю) китайський повзик (Sitta villosa)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+6. ID 0be4879981c6d44b | line 22167 | 商代 / 商代 [Shang1 dai4]
+  0: EN the prehistoric Shang dynasty (c. 16th-11th century BC)
+     UK давня династія Шан (бл. XVI–XI ст. до н. е.)
+  NOTES ["Джерело називає династію «доісторичною», хоча її писемні пам'ятки відомі."]
+
+7. ID 0cb6df4299ea8b17 | line 23777 | 四川林鴞 / 四川林鸮 [Si4 chuan1 lin2 xiao1]
+  0: EN (bird species of China) Sichuan wood owl (Strix davidi)
+     UK (вид птахів Китаю) сичуанська сова (Strix davidi)
+  NOTES ["Українську видову назву не перевірено; наведено описовий відповідник."]
+
+8. ID d5d669ad579c3563 | line 35739 | 山瑞 / 山瑞 [shan1 rui4]
+  0: EN wattle-necked soft-shelled turtle (Palea steindachneri)
+     UK горбкувата м'якотіла черепаха (Palea steindachneri)
+  NOTES ["Усталена українська видова назва потребує перевірки; подано описовий відповідник."]
+
+9. ID cfa0041a16eeb7de | line 35740 | 山瑞鱉 / 山瑞鳖 [shan1 rui4 bie1]
+  0: EN wattle-necked soft-shelled turtle (Palea steindachneri)
+     UK горбкувата м'якотіла черепаха (Palea steindachneri)
+  NOTES ["Усталена українська видова назва потребує перевірки; подано описовий відповідник."]
+
+10. ID 5b43925a995f048a | line 43058 | 慕士塔格峰 / 慕士塔格峰 [Mu4 shi4 ta3 ge2 Feng1]
+  0: EN Muztagh Ata, second highest peak of the Pamir Mountains
+     UK Музтаг-Ата, за джерелом друга найвища вершина Паміру
+  NOTES ["Твердження про друге місце за висотою в Памірі потребує перевірки; назва однозначно вказує на Музтаг-Ату."]
+
+11. ID 599001711e253900 | line 43592 | 懷氏虎鶇 / 怀氏虎鸫 [Huai2 shi4 hu3 dong1]
+  0: EN (bird species of China) White's thrush (Zoothera aurea)
+     UK дрізд Вайта (Zoothera aurea; вид птахів Китаю)
+  NOTES ["Усталена українська видова назва не підтверджена; подано описову назву й точну латинську."]
+
+12. ID 9a6be8cb23926eca | line 57688 | 桃園市 / 桃园市 [Tao2 yuan2 shi4]
+  0: EN Taoyuan city in north Taiwan, capital of Taoyuan county
+     UK місто Таоюань на півночі Тайваню, центр повіту Таоюань
+  NOTES ["Адміністративний опис у джерелі може бути застарілим."]
+
+13. ID 1f4f059eb08d99f3 | line 58211 | 棕枝全日 / 棕枝全日 [zong1 zhi1 quan2 ri4]
+  0: EN Palm Sunday (Christian Festival one week before Easter)
+     UK Вербна неділя (християнське свято за тиждень до Великодня)
+  NOTES ["Написання 全日 у заголовку нетипове; звичайна назва — 棕枝主日."]
+
+14. ID 3e63e6dffd2d8b7b | line 82153 | 空日 / 空日 [kong4 ri4]
+  0: EN day that is named but not numbered (on ethnic calendar)
+     UK день, що має назву, але не має номера (в етнічному календарі)
+  NOTES ["Не зазначено, про календар якого народу йдеться."]
+
+15. ID dc0adad68755bfcf | line 90559 | 胸腺嘧啶 / 胸腺嘧啶 [xiong1 xian4 mi4 ding4]
+  0: EN thymine nucleotide (T, pairs with adenine A 腺嘌呤 in DNA)
+     UK тимін (T), азотиста основа нуклеотидів, яка утворює пару з аденіном A 腺嘌呤 у ДНК
+  NOTES ["Джерело неточно називає тимін нуклеотидом: це азотиста основа у складі нуклеотидів."]
+
+16. ID c4d4c9c6a8b31482 | line 99205 | 褐冠鵑隼 / 褐冠鹃隼 [he4 guan1 juan1 sun3]
+  0: EN (bird species of China) Jerdon's baza (Aviceda jerdoni)
+     UK (вид птахів Китаю) база Джердона (Aviceda jerdoni)
+  NOTES ["Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."]
+
+17. ID 18b3bbaf1553ceff | line 99209 | 褐山鷦鶯 / 褐山鹪莺 [he4 shan1 jiao1 ying1]
+  0: EN (bird species of China) brown prinia (Prinia polychroa)
+     UK (вид птахів Китаю) бура принія (Prinia polychroa)
+  NOTES ["Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."]
+
+18. ID 664789c5fa623f67 | line 99237 | 褐頭鶇 / 褐头鸫 [he4 tou2 dong1]
+  0: EN (bird species of China) grey-sided thrush (Turdus feae)
+     UK (вид птахів Китаю) сіробокий дрізд (Turdus feae)
+  NOTES ["Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."]
+
+19. ID a46d56c195ac8f42 | line 109955 | 都龐嶺 / 都庞岭 [Du1 pang2 ling3]
+  0: EN Dupang mountain range between south Hunan and Guangdong
+     UK гірський хребет Дупан між південним Хунанем і Гуандуном
+  NOTES ["Розташування хребта у джерелі потребує перевірки: Дупанлін зазвичай пов’язують із межею Хунані та Гуансі, а не Гуандуну."]
+
+20. ID dc6a5c3a4e6087bd | line 116302 | 雙辮八色鶇 / 双辫八色鸫 [shuang1 bian4 ba1 se4 dong1]
+  0: EN (bird species of China) eared pitta (Hydrornis phayrei)
+     UK (вид птахів Китаю) піта вухата (Hydrornis phayrei)
+  NOTES ["Українську видову назву потребує перевірки за Hydrornis phayrei."]
+
+21. ID fb268467dfa8ef66 | line 116782 | 雪鴿 / 雪鸽 [xue3 ge1]
+  0: EN (bird species of China) snow pigeon (Columba leuconota)
+     UK (вид птахів Китаю) голуб білоспинний (Columba leuconota)
+  NOTES ["Українську видову назву слід перевірити за Columba leuconota."]
+
+22. ID c0612e01509b68c0 | line 123866 | 黃富平 / 黄富平 [Huang2 Fu4 ping2]
+  0: EN pen name of Deng Xiaoping during his 1992 southern tour
+     UK псевдонім Ден Сяопіна під час його південної поїздки 1992 року
+  NOTES ["Приписування цього псевдоніма Ден Сяопіну відтворено за джерелом і потребує історичної перевірки."]
+
+23. ID f521e3e5bf29ca2d | line 124341 | 黑眉雀鶥 / 黑眉雀鹛 [hei1 mei2 que4 mei2]
+  0: EN (bird species of China) Huet's fulvetta (Alcippe hueti)
+     UK (вид птахів Китаю) альципа Юе (Alcippe hueti)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+24. ID 23487e63b5e7038b | line 31356 | 孔融 / 孔融 [Kong3 Rong2]
+  0: EN Kong Rong (153-208), poet of the Three Kingdoms period
+     UK Кун Жун (153–208), поет доби Трьох царств
+  NOTES ["Кун Жун помер до формального початку доби Трьох царств; періодизація джерела спрощена."]
+
+25. ID cdae02b898ab4290 | line 35237 | 尿嘧啶 / 尿嘧啶 [niao4 mi4 ding4]
+  0: EN uracil nucleotide (U, pairs with adenine A 腺嘌呤 in RNA)
+     UK урацил (U, утворює пару з аденіном A 腺嘌呤 у РНК)
+  NOTES ["Джерело називає урацил нуклеотидом, але це азотиста основа."]
+
+26. ID 10ab8fb5a9196294 | line 36094 | 崔明慧 / 崔明慧 [Cui1 Ming2 hui4]
+  0: EN Christine Choy (1964-), Chinese-American film director
+     UK Крістін Чой (у джерелі: 1964–), китайсько-американська кінорежисерка
+  NOTES ["Рік народження в джерелі підозрілий; за загальновідомими біографічними даними йдеться про 1952 рік, потребує перевірки."]
+
+27. ID 10e1ec14596901b9 | line 51426 | 文昌魚 / 文昌鱼 [wen2 chang1 yu2]
+  0: EN lancelet (Branchiostoma lanceolatum), a primitive fish
+     UK ланцетник (Branchiostoma lanceolatum), примітивна рибоподібна тварина
+  NOTES ["Ланцетник не належить до риб; англійське «primitive fish» передано як «примітивна рибоподібна тварина»."]
+
+28. ID 44605358b23e31a8 | line 64751 | 洪森 / 洪森 [Hong2 Sen1]
+  0: EN Hun Sen (1952-), prime minister of Cambodia since 1985
+     UK Хун Сен (нар. 1952), прем’єр-міністр Камбоджі від 1985 року за формулюванням джерела
+  NOTES ["Джерельне формулювання посади застаріле; не подається як твердження про поточну посаду."]
+
+29. ID 1f83838ef5f3d462 | line 66251 | 深源地震 / 深源地震 [shen1 yuan2 di4 zhen4]
+  0: EN deep earthquake (with epicenter more than 300 km deep)
+     UK глибокофокусний землетрус (з осередком на глибині понад 300 км)
+  NOTES ["Джерело називає підземний осередок епіцентром; у перекладі вжито «осередок», бо епіцентр розташований на поверхні."]
+
+30. ID d3ae6f4ce1978f8c | line 84792 | 紅腳苦惡鳥 / 红脚苦恶鸟 [hong2 jiao3 ku3 e4 niao3]
+  0: EN (bird species of China) brown crake (Amaurornis akool)
+     UK (вид птахів Китаю) багновик бурий (Amaurornis akool)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+31. ID 86d731bfc664e5fc | line 87799 | 羅紋鴨 / 罗纹鸭 [luo2 wen2 ya1]
+  0: EN (bird species of China) falcated duck (Mareca falcata)
+     UK (вид птахів Китаю) качка-косар (Mareca falcata)
+  NOTES ["Українська видова назва потребує звіряння; точну ідентифікацію подано латинською."]
+
+32. ID 187a4ff18480296c | line 87863 | 羊怪 / 羊怪 [yang2 guai4]
+  0: EN faun, half-goat half-human creature of Greek mythology
+     UK фавн, напівкозел-напівлюдина з грецької міфології
+  NOTES ["Фавн належить передусім до римської міфології; у джерелі, ймовірно, змішано фавна й грецького сатира."]
+
+33. ID 39dddc3ecdcc624f | line 93660 | 苦參 / 苦参 [ku3 shen1]
+  0: EN liquorice (Sophora flavescens), with roots used in TCM
+     UK софора жовтувата (Sophora flavescens), корені якої використовуються в традиційній китайській медицині
+  NOTES ["Англійський відповідник «liquorice» означає солодку, але наукова назва й китайське слово вказують на софору."]
+
+34. ID 02f2ca867aad3d48 | line 95575 | 蒼背山雀 / 苍背山雀 [cang1 bei4 shan1 que4]
+  0: EN (bird species of China) cinereous tit (Parus cinereus)
+     UK (вид птахів Китаю) синиця сіра (Parus cinereus)
+  NOTES ["Усталений український відповідник виду Parus cinereus потребує перевірки."]
+
+35. ID 388574af2d6576e1 | line 96249 | 藍八色鶇 / 蓝八色鸫 [lan2 ba1 se4 dong1]
+  0: EN (bird species of China) blue pitta (Hydrornis cyaneus)
+     UK (вид птахів Китаю) синя піта (Hydrornis cyaneus)
+  NOTES ["Українську видову назву птаха подано описово за китайською й англійською назвами; усталений орнітологічний відповідник потребує перевірки."]
+
+36. ID 5ab93c25c3dd120b | line 96256 | 藍大翅鴝 / 蓝大翅鸲 [lan2 da4 chi4 qu2]
+  0: EN (bird species of China) grandala (Grandala coelicolor)
+     UK (вид птахів Китаю) грандала (Grandala coelicolor)
+  NOTES ["Українську видову назву птаха подано описово за китайською й англійською назвами; усталений орнітологічний відповідник потребує перевірки."]
+
+37. ID 4cdf9ecfacc0479e | line 96302 | 藍臉鰹鳥 / 蓝脸鲣鸟 [lan2 lian3 jian1 niao3]
+  0: EN (bird species of China) masked booby (Sula dactylatra)
+     UK (вид птахів Китаю) маскова олуша (Sula dactylatra)
+  NOTES ["Українську видову назву птаха подано описово за китайською й англійською назвами; усталений орнітологічний відповідник потребує перевірки."]
+
+38. ID 31d806bbda52b6fc | line 99238 | 褐頭鷦鶯 / 褐头鹪莺 [he4 tou2 jiao1 ying1]
+  0: EN (bird species of China) plain prinia (Prinia inornata)
+     UK (вид птахів Китаю) звичайна принія (Prinia inornata)
+  NOTES ["Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."]
+
+39. ID 752c1a33a588a54c | line 109241 | 遵義會議 / 遵义会议 [Zun1 yi4 hui4 yi4]
+  0: EN Zunyi conference of January 1935 before the Long March
+     UK нарада в Цзуньї у січні 1935 року перед Великим походом
+  NOTES ["Нарада в Цзуньї відбулася під час Великого походу; джерело помилково подає «перед»."]
+
+40. ID 73bbecbd6abd547e | line 116325 | 雙非 / 双非 [shuang1 fei1]
+  0: EN a couple where both spouses are not Hong Kong citizens
+     UK подружжя, у якому жоден із партнерів не має громадянського статусу Гонконгу
+  NOTES ["Формулювання «громадяни Гонконгу» в джерелі неточне; зазвичай ідеться про статус постійного мешканця."]
+
+41. ID b604bab654b66904 | line 116408 | 雜色山雀 / 杂色山雀 [za2 se4 shan1 que4]
+  0: EN (bird species of China) varied tit (Sittiparus varius)
+     UK (вид птахів Китаю) синиця строката (Sittiparus varius)
+  NOTES ["Українську видову назву слід звірити за Sittiparus varius."]
+
+42. ID 473733fa0f640757 | line 124194 | 黑冠鵑隼 / 黑冠鹃隼 [hei1 guan1 juan1 sun3]
+  0: EN (bird species of China) black baza (Aviceda leuphotes)
+     UK (вид птахів Китаю) чорна база (Aviceda leuphotes)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+43. ID 155f5f181e5f3c3c | line 124216 | 黑喉歌鴝 / 黑喉歌鸲 [hei1 hou2 ge1 qu2]
+  0: EN (bird species of China) blackthroat (Calliope obscura)
+     UK (вид птахів Китаю) чорногорлий соловейко (Calliope obscura)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+44. ID dd072852905a9870 | line 124368 | 黑翅雀鵯 / 黑翅雀鹎 [hei1 chi4 que4 bei1]
+  0: EN (bird species of China) common iora (Aegithina tiphia)
+     UK (вид птахів Китаю) звичайна йора (Aegithina tiphia)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+45. ID ff407f4561c09cac | line 22737 | 喬冠華 / 乔冠华 [Qiao2 Guan4 hua2]
+  0: EN Qiao Guanhua (1913-1973), PRC politician and diplomat
+     UK Цяо Гуаньхуа (1913–1973), політик і дипломат КНР
+  NOTES ["Рік смерті 1973 у джерелі, ймовірно, помилковий; потребує перевірки."]
+
+46. ID 740ae6d41ec44efd | line 29576 | 奎星 / 奎星 [Kui2 xing1]
+  0: EN Kuixing, the Great Bear, one of the 28 constellations
+     UK Куйсін, Велика Ведмедиця, одне з 28 сузір'їв (за джерелом)
+  NOTES ["Джерело, імовірно, плутає 奎星 з 魁星: Велика Ведмедиця не належить до 28 місячних стоянок."]
+
+47. ID e545e433a38c4ae6 | line 51592 | 斑鶇 / 斑鸫 [ban1 dong1]
+  0: EN (bird species of China) dusky thrush (Turdus eunomus)
+     UK (вид птахів Китаю) дрізд темний (Turdus eunomus)
+  NOTES ["Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."]
+
+48. ID bd0f5e1e28cd7888 | line 52018 | 新生代 / 新生代 [Xin1 sheng1 dai4]
+  0: EN Cenozoic (geological era covering the last 65m years)
+     UK кайнозой (геологічна ера, що охоплює останні 65 млн років)
+  NOTES ["Оцінка 65 млн років збережена за джерелом; сучасне датування межі кайнозою зазвичай становить близько 66 млн років."]
+
+49. ID a3b2d956b5c95bc0 | line 72120 | 犪牛 / 犪牛 [kui2 niu2]
+  0: EN ancient yak of southeast China, also known as 犩[wei2]
+     UK давній різновид яка з південного сходу Китаю, також відомий як 犩[wei2]
+  NOTES ["Ідентифікація давньої назви тварини лише за цим глосом непевна."]
+
+50. ID bf6bf94dc40cee49 | line 92375 | 與日同輝 / 与日同辉 [yu3 ri4 tong2 hui1]
+  0: EN to become more glorious with each passing day (idiom)
+     UK ставати дедалі славетнішим із кожним днем (ідіома)
+  NOTES ["Джерело тлумачить вислів як щоденне зростання слави; буквальний образ китайського вислову — сяяти нарівні із сонцем."]
+
+51. ID 2bb802e82f9a0d8f | line 96589 | 蘇州大學 / 苏州大学 [Su1 zhou1 Da4 xue2]
+  0: EN Suzhou or Soochow University (Suzhou, PRC since 1986)
+     UK Сучжоуський університет, або Soochow University (Сучжоу, КНР, від 1986 року)
+  NOTES ["Дата 1986 року наведена за джерелом; історія назви й статусу університету потребує перевірки."]
+
+52. ID d6f87de11053d9b5 | line 110596 | 醛糖 / 醛糖 [quan2 tang2]
+  0: EN aldose, monosaccharide containing aldehyde group -COH
+     UK альдоза, моносахарид з альдегідною групою –CHO
+  NOTES ["У джерелі альдегідну групу записано –COH; використано стандартний запис –CHO."]
+
+53. ID 2df162d114d3e632 | line 114231 | 關稅與貿易總協定 / 关税与贸易总协定 [Guan1 shui4 yu3 Mao4 yi4 Zong3 xie2 ding4]
+  0: EN GATT, the 1995 General Agreement on Tariffs and Trade
+     UK ГАТТ, Генеральна угода з тарифів і торгівлі (у джерелі датована 1995 роком)
+  NOTES ["ГАТТ первісно укладено 1947 року; 1995 рік у джерелі, ймовірно, пов’язаний зі створенням СОТ."]
+
+54. ID ee106b91a08316e7 | line 114246 | 關貿總協定 / 关贸总协定 [Guan1 Mao4 Zong3 xie2 ding4]
+  0: EN GATT, the 1995 General Agreement on Tariffs and Trade
+     UK ГАТТ, Генеральна угода з тарифів і торгівлі (у джерелі датована 1995 роком)
+  NOTES ["ГАТТ первісно укладено 1947 року; 1995 рік у джерелі, ймовірно, пов’язаний зі створенням СОТ."]
+
+55. ID ddfc29c912b368bc | line 118375 | 韋爾弗雷茲 / 韦尔弗雷兹 [Wei2 er3 fu2 lei2 zi1]
+  0: EN (George) Wehrfritz (Beijing bureau chief of Newsweek)
+     UK Джордж Верфріц (керівник пекінського бюро Newsweek за джерелом)
+  NOTES ["Посаду відтворено за джерелом, без перевірки її актуальності."]
+
+56. ID 180ab2fa93616de2 | line 7596 | 佳里 / 佳里 [Jia1 li3]
+  0: EN Jiali, a district in Tainan 台南|台南[Tai2 nan2], Taiwan
+     UK Цзялі, район у місті Тайнань 台南|台南[Tai2 nan2], Тайвань
+  NOTES ["У джерелі географічний референт задано як district in Tainan, але в англійському сегменті вказано назву міста 台南|台南. Залишено назву як у джерелі без додаткового уточнення."]
+
+57. ID 5a63b0a191bd2145 | line 39290 | 弱電統一 / 弱电统一 [ruo4 dian4 tong3 yi1]
+  0: EN electro-weak interaction in fermion particle physics
+     UK електрослабке об'єднання у фізиці ферміонів
+  NOTES ["Англійський сегмент називає взаємодію, але китайське 統一 означає об'єднання; передано значення китайського терміна."]
+
+58. ID 9697129dbea6aafe | line 40726 | 德意志民主共和國 / 德意志民主共和国 [De2 yi4 zhi4 Min2 zhu3 Gong4 he2 guo2]
+  0: EN German Democratic Republic (East Germany), 1945-1990
+     UK Німецька Демократична Республіка (Східна Німеччина), 1945–1990
+  NOTES ["Джерело вказує 1945 рік; НДР як держава заснована 1949 року. Дату джерела збережено з застереженням."]
+
+59. ID 16559b422c41fced | line 46151 | 拉絲模 / 拉丝模 [la1 si1 mo2]
+  0: EN die (i.e. tool for cutting wire to a given diameter)
+     UK волока; інструмент для протягування дроту до потрібного діаметра
+  NOTES ["Джерело помилково описує волочіння як різання дроту; переклад узгоджено з 拉絲模."]
+
+60. ID edc8df65744cb29f | line 46877 | 指南車 / 指南车 [zhi3 nan2 che1]
+  0: EN a mechanical compass invented by Zu Chongzhi 祖沖之|祖冲之
+     UK механічний компас, винайдений Цзу Чунчжі 祖沖之|祖冲之
+  NOTES ["Приписування винаходу саме Цзу Чунчжі у джерелі потребує історичного уточнення; 指南車 — колісниця, що вказує на південь."]
+
+61. ID 21a7ea84a22b7ef4 | line 66066 | 淡色崖沙燕 / 淡色崖沙燕 [dan4 se4 ya2 sha1 yan4]
+  0: EN (bird species of China) pale martin (Riparia diluta)
+     UK (вид птахів Китаю) бліда берегова ластівка (Riparia diluta)
+  NOTES ["Українську видову назву слід звірити з орнітологічною номенклатурою."]
+
+62. ID a52a7433b1de5246 | line 79311 | 石炭紀 / 石炭纪 [Shi2 tan4 ji4]
+  0: EN Carboniferous (geological period 354-292m years ago)
+     UK кам'яновугільний період; карбон (геологічний період 354–292 млн років тому)
+  NOTES ["Часові межі подано за джерелом; вони потребують звірки із сучасною геохронологічною шкалою."]
+
+63. ID 3cc3a74b72ba1ddc | line 93893 | 范斯坦 / 范斯坦 [Fan4 si1 tan3]
+  0: EN Dianne Feinstein (1933-), US Senator from California
+     UK Даян Файнштайн (нар. 1933), сенаторка США від Каліфорнії
+  NOTES ["Біографічний запис джерела застарілий: Даян Файнштайн померла 2023 року."]
+
+64. ID 22e38d4bd13ecad7 | line 94998 | 萬靈節 / 万灵节 [Wan4 ling2 jie2]
+  0: EN All Saints' Day (Christian festival on 2nd November)
+     UK День усіх померлих (християнське свято 2 листопада)
+  NOTES ["Англійське All Saints’ Day суперечить китайському 萬靈節 і даті 2 листопада; передано День усіх померлих."]
+
+65. ID b457eb4d35049d59 | line 95417 | 蒙帕納斯 / 蒙帕纳斯 [Meng3 pa4 na4 si1]
+  0: EN Montparnasse (southeast Paris, 14ème arrondissement)
+     UK Монпарнас (південний схід Парижа, XIV округ)
+  NOTES ["Вказівка «південний схід Парижа» у джерелі географічно сумнівна; назву району збережено."]
+
+66. ID 975474eb516031d4 | line 95505 | 蒲瓜 / 蒲瓜 [pu2 gua1]
+  0: EN white flowered gourd or calabash (family Crescentia)
+     UK білоквітковий пляшковий гарбуз, або калебас (у джерелі: родина Crescentia)
+  NOTES ["Crescentia є назвою роду, а не родини; джерело, ймовірно, змішує калебасове дерево з пляшковим гарбузом."]
+
+67. ID 1e79edf44bfb52ad | line 108802 | 道奇 / 道奇 [Dao4 qi2]
+  0: EN Dodge, US automobile brand, division of Chrysler LLC
+     UK Dodge, американська автомобільна марка, підрозділ Chrysler LLC
+  NOTES ["Відомості про корпоративну належність відтворено за джерелом; вони можуть бути історичними."]
+
+68. ID 28a110dcdd983a6d | line 123851 | 黃嘴河燕鷗 / 黄嘴河燕鸥 [huang2 zui3 he2 yan4 ou1]
+  0: EN (bird species of China) river tern (Sterna aurantia)
+     UK (вид птахів Китаю) річковий крячок (Sterna aurantia)
+  NOTES ["Описова українська назва птаха; вид не слід плутати зі звичайним крячком Sterna hirundo."]
+
+69. ID 607a6ec290b8dd3d | line 25431 | 坦佩雷 / 坦佩雷 [Tan3 pei4 lei2]
+  0: EN Tampere (Swedish Tammerfors), Finland's second city
+     UK Тампере (швед. Таммерфорс), друге місто Фінляндії
+  NOTES ["Формулювання «друге місто» джерела не уточнює критерій і може бути застарілим."]
+
+70. ID bd95591a298a444a | line 32345 | 宗聖侯 / 宗圣侯 [Zong1 sheng4 hou2]
+  0: EN hereditary title bestowed on Confucius' descendants
+     UK спадковий титул, наданий нащадкам Конфуція
+  NOTES ["Атрибуція титулу 宗聖侯 нащадкам саме Конфуція в джерелі потребує історичної перевірки."]
+
+71. ID 500515794f3fd3e7 | line 32346 | 宗聖公 / 宗圣公 [Zong1 Sheng4 gong1]
+  0: EN hereditary title bestowed on Confucius' descendants
+     UK спадковий титул, наданий нащадкам Конфуція
+  NOTES ["宗聖公 пов'язують також із Цзен-цзи та його нащадками; наведена в джерелі атрибуція потребує перевірки."]
+
+72. ID e6c3792ae1e4bb4b | line 46204 | 拊髀 / 拊髀 [fu3 bi4]
+  0: EN to slap one's own buttocks in excitement or despair
+     UK плескати себе по стегнах від збудження або розпачу
+  NOTES ["У джерелі «buttocks», але 髀 означає стегно; перекладено відповідно до китайського слова."]
+
+73. ID 3823392056b038c3 | line 51594 | 斑鷺 / 斑鹭 [ban1 lu4]
+  0: EN (bird species of China) pied heron (Egretta picata)
+     UK (вид птахів Китаю) строката чапля (Egretta picata)
+  NOTES ["Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."]
+
+74. ID 930827a437703f5f | line 68130 | 漸新世 / 渐新世 [Jian4 xin1 shi4]
+  0: EN Oligocene (geological epoch from 34m-24m years ago)
+     UK олігоцен (геологічна епоха приблизно 34–24 млн років тому, за джерелом)
+  NOTES ["Наведені межі епохи округлені й потребують звіряння з геохронологічною шкалою."]
+
+75. ID 0823705598f194f6 | line 95704 | 蓬萊米 / 蓬莱米 [Peng2 lai2 mi3]
+  0: EN Taiwan round-grained glutinous rice (Japonica rice)
+     UK тайванський круглозернистий рис типу Japonica (у джерелі названий клейким)
+  NOTES ["Рис 蓬萊米 зазвичай належить до Japonica, але не обов’язково до клейких сортів; англійське glutinous потребує перевірки."]
+
+76. ID 288f5a1490dc84a1 | line 115229 | 陳德良 / 陈德良 [Chen2 De2 liang2]
+  0: EN Tran Duc Luong (1937-), former president of Vietnam
+     UK Чан Дик Лионг (нар. 1937), колишній президент В’єтнаму
+  NOTES ["Усталене українське написання в’єтнамського імені Tran Duc Luong потребує перевірки; рік народження та опис посади відтворено за джерелом."]
+
+77. ID a7846750f3bc48fa | line 116993 | 雷雕 / 雷雕 [lei2 diao1]
+  0: EN laser cutting (abbr. for 雷射雕刻[lei2 she4 diao1 ke4])
+     UK лазерне різання (скор. від 雷射雕刻[lei2 she4 diao1 ke4])
+  NOTES ["Китайське розгортання скорочення означає лазерне гравіювання, тоді як англійське джерело подає різання."]
+
+78. ID 2304e67b394529ad | line 123424 | 鹵化銀 / 卤化银 [lu3 hua4 yin2]
+  0: EN silver halide (usually chloride) used to fix photos
+     UK галогенід срібла (зазвичай хлорид), застосовуваний у фотографії для закріплення зображення
+  NOTES ["Твердження джерела про фіксацію фотографій галогенідом срібла технічно сумнівне; потрібна перевірка."]
+
+79. ID 228233dd344654b7 | line 22437 | 喀拉汗國 / 喀拉汗国 [Ka1 la1 Han2 guo2]
+  0: EN Karakhan Dynasty of central Asia, 8th-10th century
+     UK Караханідська держава в Центральній Азії, VIII–X ст.
+  NOTES ["Датування VIII–X ст. наведене джерелом і потребує перевірки."]
+
+80. ID 567f958b86775257 | line 22438 | 喀拉汗王朝 / 喀拉汗王朝 [Ka1 la1 han2 Wang2 chao2]
+  0: EN Karakhan dynasty of central Asia, 8th-10th century
+     UK династія Караханідів у Центральній Азії, VIII–X ст.
+  NOTES ["Датування VIII–X ст. наведене джерелом і потребує перевірки."]
+
+81. ID cf77c742f403fba6 | line 45670 | 抗耐甲氧西林金葡菌 / 抗耐甲氧西林金葡菌 [kang4 nai4 jia3 yang3 xi1 lin2 jin1 pu2 jun1]
+  0: EN methicillin-resistant Staphylococcus aureus (MRSA)
+     UK метицилінорезистентний золотистий стафілокок (MRSA)
+  NOTES ["Китайський запис містить початкове 抗 «проти» перед 耐甲氧西林金葡菌 «MRSA», тоді як англійське тлумачення позначає саму бактерію; потрібна перевірка джерела."]
+
+82. ID 1a4a478b460df030 | line 56167 | 杜氏腺 / 杜氏腺 [Du4 shi4 xian4]
+  0: EN Dufour gland (produces female sex hormone in bees)
+     UK залоза Дюфура (за джерелом, виробляє жіночий статевий гормон у бджіл)
+  NOTES ["Опис функції залози спрощений і потребує перевірки."]
+
+83. ID a57deef84fce8c70 | line 56168 | 杜氏腺體 / 杜氏腺体 [Du4 shi4 xian4 ti3]
+  0: EN Dufour gland (produces female sex hormone in bees)
+     UK залоза Дюфура (за джерелом, виробляє жіночий статевий гормон у бджіл)
+  NOTES ["Опис функції залози спрощений і потребує перевірки."]
+
+84. ID 7f132588b5ba936c | line 71797 | 牧神節 / 牧神节 [mu4 shen2 jie2]
+  0: EN Lupercalia, Roman festival to Pan on 15th February
+     UK Луперкалії, римське свято на честь Пана 15 лютого
+  NOTES ["Джерело пов'язує свято безпосередньо з Паном; точне співвідношення римських і грецьких божеств тут потребує історичної перевірки."]
+
+85. ID 17fde5ecae31caf4 | line 83315 | 筷子芥 / 筷子芥 [kuai4 zi5 jie4]
+  0: EN Arabis, a genus of Brassica family including cress
+     UK різуха (Arabis), рід родини капустяних
+  NOTES ["У джерелі до роду неточно зараховано «cress»; конкретний вид не встановлено."]
+
+86. ID 7726ffa958be5ef5 | line 95502 | 蒲棒 / 蒲棒 [pu2 bang4]
+  0: EN spike or male flower of cattail (Typha orientalis)
+     UK качан, або суцвіття рогозу східного (Typha orientalis; у джерелі названо чоловічою квіткою)
+  NOTES ["У рогозу видимий щільний качан переважно утворений жіночими квітками; англійське «male flower» потребує перевірки."]
+
+87. ID a730b0c1612bf1fa | line 96925 | 虛擬現實置標語言 / 虚拟现实置标语言 [xu1 ni3 xian4 shi2 zhi4 biao1 yu3 yan2]
+  0: EN virtual reality markup language (VRML) (computing)
+     UK мова розмітки віртуальної реальності (VRML) (комп.)
+  NOTES ["Абревіатура VRML стандартно розшифровується як Virtual Reality Modeling Language; англійське markup у джерелі неточне."]
+
+88. ID 4b2bf4396852ee18 | line 102118 | 謝辛 / 谢辛 [Xie4 Xin1]
+  0: EN Chea Sim, president of Cambodian National Assembly
+     UK Чеа Сім, голова Національних зборів Камбоджі
+  NOTES ["Посада Чеа Сіма наведена в джерелі без історичного уточнення; це не слід сприймати як актуальну посаду."]
+
+89. ID d72c78841bec67a3 | line 117812 | 青金石 / 青金石 [qing1 jin1 shi2]
+  0: EN lapis lazuli (mineral of the square albite family)
+     UK лазурит (мінерал групи содаліту)
+  NOTES ["Англійська класифікація square albite family некоректна або пошкоджена; термін передано як лазурит групи содаліту."]
+
+90. ID e928ef5736ed1330 | line 124300 | 黑汗王朝 / 黑汗王朝 [Hei1 han2 Wang2 chao2]
+  0: EN Karakhan Dynasty of central Asia, 8th-10th century
+     UK Караханідська династія в Центральній Азії, VIII–X століття
+  NOTES ["Датування Караханідської династії VIII–X століттями відтворено за джерелом і потребує історичної перевірки."]
+
+91. ID ac0c381e4d0fac94 | line 17446 | 卡利科 / 卡利科 [ka3 li4 ke1]
+  0: EN calico (woven cloth from Caldicot, Kerala, India)
+     UK каліко, бавовняна тканина з Калікута, штат Керала, Індія
+  NOTES ["Назва міста «Caldicot» у джерелі, імовірно, помилка замість Calicut."]
+
+92. ID a885e1de5cb48921 | line 29821 | 奧陶紀 / 奥陶纪 [Ao4 tao2 ji4]
+  0: EN Ordovician (geological period 495-440m years ago)
+     UK ордовикський період (геол.; за джерелом, 495–440 млн років тому)
+  NOTES ["Часові межі ордовику в джерелі застарілі."]
+
+93. ID 52d0fd0e80899cc6 | line 40178 | 徐俊 / 徐俊 [Xu2 Jun4]
+  0: EN Xu Jun (1962-), Chinese Chinese chess grandmaster
+     UK Сюй Цзюнь (нар. 1962), китайський шаховий гросмейстер
+  NOTES ["У джерелі двозначне дублювання Chinese Chinese chess; китайський заголовок позначає шахіста Сюй Цзюня, вид шахів у перекладі не конкретизовано."]
+
+94. ID 580ff613e945794c | line 47567 | 掌骨 / 掌骨 [zhang3 gu3]
+  0: EN metacarpal bone (long bones in the hand and feet)
+     UK п'ясткова кістка (довга кістка кисті)
+  NOTES ["У джерелі помилково згадано також стопи; 掌骨 означає п'ясткові кістки, кістки плесна — 蹠骨."]
+
+95. ID a3aad3cc5dbaa6da | line 57905 | 梅森 / 梅森 [Mei2 sen1]
+  0: EN Martin Mersenne (1588-1648, French mathematician)
+     UK Марен Мерсенн (1588–1648), французький математик
+  NOTES ["У джерелі помилково вказано ім'я Martin; усталене ім'я математика — Marin (Марен)."]
+
+96. ID ebb33c8a998eb32f | line 58694 | 楸樹 / 楸树 [qiu1 shu4]
+  0: EN Catalpa bungei or Manchurian Catalpa, a tea plant
+     UK катальпа Бунге, або маньчжурська катальпа (Catalpa bungei), рослина для приготування чаю
+  NOTES ["Формулювання джерела «a tea plant» неясне; це не чайний кущ Camellia sinensis."]
+
+97. ID 59a9056856a60b3a | line 76488 | 發電量 / 发电量 [fa1 dian4 liang4]
+  0: EN (power station, solar panel etc) output; capacity
+     UK обсяг виробленої електроенергії; виробіток (електростанції, сонячної панелі тощо)
+  NOTES ["Англійське «capacity» може означати потужність, але китайське слово передусім позначає кількість виробленої електроенергії."]
+
+98. ID 68a575c682be4a32 | line 82829 | 竹節草 / 竹节草 [zhu2 jie2 cao3]
+  0: EN Mackie's pest; lovegrass (Chrysopogon aciculatus)
+     UK хризопогон голчастий (Chrysopogon aciculatus), тропічний злак
+  NOTES ["Українська ботанічна назва потребує перевірки; англійські назви в джерелі неоднозначні."]
+
+99. ID b38473879365c4fc | line 96139 | 薩桑王朝 / 萨桑王朝 [Sa4 sang1 Wang2 chao2]
+  0: EN Sassanid Empire of Persia (c. 2nd-7th century AD)
+     UK Сасанідська імперія в Персії (у джерелі: приблизно II–VII століття н. е.)
+  NOTES ["Початок Сасанідської держави зазвичай датують III, а не II століттям; у джерелі неточна дата."]
+
+100. ID 2a79d1e4a22db8da | line 96156 | 薩珊王朝 / 萨珊王朝 [Sa4 shan1 Wang2 chao2]
+  0: EN Sassanid Empire of Persia (c. 2nd-7th century AD)
+     UK Сасанідська імперія в Персії (у джерелі: приблизно II–VII століття н. е.)
+  NOTES ["Початок Сасанідської держави зазвичай датують III, а не II століттям; у джерелі неточна дата."]
+

@@ -1,0 +1,2015 @@
+{
+  "reviewer_model_requested": "gpt-6-astra",
+  "human_validation": false,
+  "reviewed_ids": [
+    "a99e66b4dd1d9f4a",
+    "7c645bb5751058df",
+    "519b63ebf25e5c47",
+    "4a4e4b0484024384",
+    "a4263fd75959190a",
+    "2f9234189e7e098d",
+    "01e4ea047a4787d3",
+    "aba68a6d471200f6",
+    "81f1cd1b6edcd247",
+    "bc226738189d2c75",
+    "481fc3262941f16a",
+    "ed3ceb4ec2343166",
+    "0af41cc4d0921c19",
+    "3275a3869fe27665",
+    "2bf55a6b69da5c90",
+    "6b6785bd71a4d82e",
+    "5fad91cbad8061e1",
+    "cf30e3ddaedd4e16",
+    "369bac708069adbd",
+    "015c8e20849e4cce",
+    "95aff95c9e36f73c",
+    "d85b07ab3584f569",
+    "274e844648102130",
+    "ec7ad530b29b0f19",
+    "c6866fa833ab9442",
+    "20df6afc5eb341f5",
+    "440020139c81c744",
+    "c7dd0b1e493f2aa6",
+    "36ee32d7a49e0969",
+    "d3e20911018cc791",
+    "e971fae0e71384fb",
+    "9adafe20ebacfe1d",
+    "5b6f819def2163f5",
+    "a5215611bd601f58",
+    "38485041709df72e",
+    "9f4360b2a152b0f8",
+    "f8e1ad0ae9c3c661",
+    "e69918bf40dfddb1",
+    "8574d941cbdbf347",
+    "aff0a2afda7bb894",
+    "886f678cb1471599",
+    "19c36cabe2256c85",
+    "86b452ac7b1159c0",
+    "267d75e44ff46973",
+    "d8d7b76c7b14593d",
+    "6e824e391ccbe015",
+    "dd78cccf2ba79895",
+    "d2d7adabf5a093ec",
+    "523b324c230f3798",
+    "56b71de1ebea3eac",
+    "679ab986dfd50a50",
+    "87d92d85f9b9096f",
+    "369a9a8e5be92197",
+    "36a2c80da8e9c0bc",
+    "1bb47c4addf07226",
+    "ab8813780de3ab4a",
+    "947ed2a7a785a609",
+    "0027d0224914df28",
+    "d4bfa38bf1ff0e55",
+    "ce430a17c54d7963",
+    "439e4d891062bbc0",
+    "6de6bf9e64e6cdc0",
+    "c05e6877f9b0e2c5",
+    "9a7de43b47ba7a37",
+    "123c891f494c7fb8",
+    "bc6258fa00e85404",
+    "4a4e28342c5aa544",
+    "d562fa3b19f84985",
+    "733b6daf4604d56f",
+    "e5facc11444ae9a0",
+    "a82fa2d7aba283f2",
+    "55123959663f113c",
+    "a612abfd7419a134",
+    "b8cd1a74daf87eef",
+    "76e77d38c989f139",
+    "7810d0cd34b39c1b",
+    "279bff46e2c09d76",
+    "ae69c8906a915c8f",
+    "176137e4c03fbdbf",
+    "decc780e56551075",
+    "abb3b91772158ffd",
+    "5fe0715b4cef573a",
+    "f286eccbaf37ef70",
+    "f21a299754504fed",
+    "d82a2c4764fa901c",
+    "90ce230ce2717f7a",
+    "e442c9bdb3e03015",
+    "b169771c8e671f59",
+    "141bb0d2b47ae683",
+    "e912513b1013daaf",
+    "a26f2a63ae648da3",
+    "4cf1ab99122739f5",
+    "849e4c6e3ba77a86",
+    "384aa44b7bb66126",
+    "002a016099e40ae4",
+    "81fb62b3be9295c4",
+    "dc80727d9dbda65d",
+    "1f16906dccb4c5f1",
+    "e930b3ae4f47ce14",
+    "143c5fb0a621518e"
+  ],
+  "entries": [
+    {
+      "id": "a99e66b4dd1d9f4a",
+      "source_line": 114823,
+      "traditional": "阿靈頓國家公墓",
+      "simplified": "阿灵顿国家公墓",
+      "pinyin": "A1 ling2 dun4 Guo2 jia1 Gong1 mu4",
+      "outcome": "correction_proposed",
+      "reason": "The cemetery is in Arlington, Virginia; the source attribution does not make the Washington, DC location suitable as the main definition.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Арлінгтонський національний цвинтар у Вашингтоні, округ Колумбія, США (за джерелом)",
+          "after": "Арлінгтонський національний цвинтар в Арлінгтоні, штат Вірджинія, США",
+          "reason": "The cemetery’s own contact page gives Arlington, Virginia, rather than Washington, DC: https://www.arlingtoncemetery.mil/contact .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "7c645bb5751058df",
+      "source_line": 125246,
+      "traditional": "龜殼花",
+      "simplified": "龟壳花",
+      "pinyin": "gui1 ke2 hua1",
+      "outcome": "acceptable",
+      "reason": "The descriptive Ukrainian snake name conveys the Formosan pit-viper gloss, retains Protobothrops mucrosquamatus, and does not claim a verified standard name. The attached naming caveat is appropriate.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The established Ukrainian zoological name has not been verified."
+      ]
+    },
+    {
+      "id": "519b63ebf25e5c47",
+      "source_line": 19902,
+      "traditional": "吉字節",
+      "simplified": "吉字节",
+      "pinyin": "ji2 zi4 jie2",
+      "outcome": "correction_proposed",
+      "reason": "The headword means gigabyte, but its binary quantity needs explicit separation from the decimal unit. The existing note correctly identifies that distinction.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "гігабайт (2^30, або приблизно мільярд байтів, за джерелом)",
+          "after": "гігабайт (10^9 байтів; у джерелі вжито двійкове значення 2^30 байтів)",
+          "reason": "NIST distinguishes decimal GB from binary GiB. The source expression 2^30 is preserved but not made the modern definition of gigabyte: https://physics.nist.gov/cuu/Units/binary.html .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "4a4e4b0484024384",
+      "source_line": 25866,
+      "traditional": "基拉韋厄",
+      "simplified": "基拉韦厄",
+      "pinyin": "Ji1 la1 wei2 e4",
+      "outcome": "correction_proposed",
+      "reason": "The unqualified world superlative is unsupported by a stated criterion; USGS supports the narrower description as one of the most active volcanoes.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Кілауеа, Гаваї, за джерелом найактивніший вулкан світу",
+          "after": "Кілауеа, Гаваї, один із найактивніших вулканів світу",
+          "reason": "USGS describes Kīlauea as one of the world’s most active volcanoes: https://www.usgs.gov/volcanoes/k-lauea .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Найвищий ступінь «найактивніший» відтворено за джерелом; критерій порівняння не зазначено.",
+          "after": "У джерелі вжито «найактивніший вулкан світу» без критерію порівняння; USGS характеризує Кілауеа як один із найактивніших вулканів світу.",
+          "reason": "Retain the relevant source warning, but replace an unresolved superlative caveat with the supported narrower description: https://www.usgs.gov/volcanoes/k-lauea .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "a4263fd75959190a",
+      "source_line": 33734,
+      "traditional": "寰螽",
+      "simplified": "寰螽",
+      "pinyin": "huan2 zhong1",
+      "outcome": "acceptable",
+      "reason": "The descriptive eastern shield-backed katydid equivalent preserves the genus-level identification Atlanticus. Its note accurately limits the claim about Ukrainian nomenclature.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "An established Ukrainian name for this katydid group remains unverified."
+      ]
+    },
+    {
+      "id": "2f9234189e7e098d",
+      "source_line": 41880,
+      "traditional": "恘",
+      "simplified": "恘",
+      "pinyin": "qiu1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian segment faithfully preserves the source uncertainty and the exact 戾[li4] reference. The rare character’s specific meaning cannot be resolved from this gloss, so no replacement sense is proposed.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The meaning of 恘 remains uncertain in the source."
+      ]
+    },
+    {
+      "id": "01e4ea047a4787d3",
+      "source_line": 47878,
+      "traditional": "探路者",
+      "simplified": "探路者",
+      "pinyin": "Tan4 lu4 zhe3",
+      "outcome": "acceptable",
+      "reason": "The translation correctly identifies the NASA Mars spacecraft without repeating the erroneous 1977 date. NASA confirms the note’s 1996 launch and 1997 landing: https://science.nasa.gov/mission/mars-pathfinder/ .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "aba68a6d471200f6",
+      "source_line": 72536,
+      "traditional": "猴猴族",
+      "simplified": "猴猴族",
+      "pinyin": "Hou2 hou2 zu2",
+      "outcome": "acceptable",
+      "reason": "The ethnonym is transparently transliterated and the indigenous-people sense is preserved. The note is correctly attached and does not pretend the spelling is established.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The conventional Ukrainian spelling of Qauqaut remains unverified."
+      ]
+    },
+    {
+      "id": "81f1cd1b6edcd247",
+      "source_line": 73972,
+      "traditional": "環烴",
+      "simplified": "环烃",
+      "pinyin": "huan2 ting1",
+      "outcome": "acceptable",
+      "reason": "The main equivalent cyclic hydrocarbon is correct, while the benzene-ring restriction is explicitly attributed to the source and correctly challenged in the note. Nonaromatic cyclic compounds are recognized by IUPAC: https://www.old.goldbook.iupac.org/html/A/A00216.html .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "bc226738189d2c75",
+      "source_line": 76558,
+      "traditional": "白堊世",
+      "simplified": "白垩世",
+      "pinyin": "Bai2 e4 shi4",
+      "outcome": "correction_proposed",
+      "reason": "The period is correctly identified, but the obsolete numerical limits are asserted in the segment without qualification. Replace them with rounded current ICS limits while recording the source discrepancy.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "крейдовий період (геологічний період 140–65 млн років тому)",
+          "after": "крейдовий період (геологічний період приблизно 143–66 млн років тому)",
+          "reason": "Current ICS chart boundaries are approximately 143.1 and 66 Ma; rounded dates avoid false precision: https://stratigraphy.org/chart/ .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Часові межі наведено за джерелом; вони застарілі.",
+          "after": "Часові межі 140–65 млн років тому в джерелі застарілі; за шкалою ICS крейдовий період тривав приблизно 143–66 млн років тому.",
+          "reason": "The relevant note is updated rather than removed, preserving the original discrepancy and the source-supported correction: https://stratigraphy.org/chart/ .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "481fc3262941f16a",
+      "source_line": 76559,
+      "traditional": "白堊紀",
+      "simplified": "白垩纪",
+      "pinyin": "Bai2 e4 ji4",
+      "outcome": "correction_proposed",
+      "reason": "The standard Chinese Cretaceous-period headword and Ukrainian period name agree. The unqualified 140–65 Ma limits require the same correction as the paired 白堊世 entry.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "крейдовий період (геологічний період 140–65 млн років тому)",
+          "after": "крейдовий період (геологічний період приблизно 143–66 млн років тому)",
+          "reason": "Current ICS chart boundaries are approximately 143.1 and 66 Ma; rounded dates avoid false precision: https://stratigraphy.org/chart/ .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Часові межі наведено за джерелом; вони застарілі.",
+          "after": "Часові межі 140–65 млн років тому в джерелі застарілі; за шкалою ICS крейдовий період тривав приблизно 143–66 млн років тому.",
+          "reason": "The relevant note is updated rather than removed, preserving the original discrepancy and the source-supported correction: https://stratigraphy.org/chart/ .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "ed3ceb4ec2343166",
+      "source_line": 83397,
+      "traditional": "管圓線蟲",
+      "simplified": "管圆线虫",
+      "pinyin": "guan3 yuan2 xian4 chong2",
+      "outcome": "acceptable",
+      "reason": "The rendering appropriately describes a parasitic nematode that can cause meningitis rather than carry meningitis as an organism. CDC supports the causal statement for Angiostrongylus cantonensis: https://www.cdc.gov/dpdx/angiostrongyliasis/index.html . The note correctly leaves the source’s species unspecified.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The exact species intended by the generic Chinese headword is not fixed by the source."
+      ]
+    },
+    {
+      "id": "0af41cc4d0921c19",
+      "source_line": 114448,
+      "traditional": "阻斷服務攻擊",
+      "simplified": "阻断服务攻击",
+      "pinyin": "zu3 duan4 fu2 wu4 gong1 ji1",
+      "outcome": "correction_proposed",
+      "reason": "The Taiwanese and computing labels are preserved; the generic attack is DoS, whereas DDoS specifies a distributed attack. The existing note is relevant and correct.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(Тайвань, інформатика) атака на відмову в обслуговуванні (DDOS)",
+          "after": "(Тайвань, інформатика) атака на відмову в обслуговуванні (DoS)",
+          "reason": "NIST uses DoS for denial of service and DDoS for its distributed form: https://csrc.nist.gov/glossary/term/DoS and https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-61r1.pdf .",
+          "confidence": "high",
+          "issue_type": "terminology"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "3275a3869fe27665",
+      "source_line": 120661,
+      "traditional": "馬其頓共和國",
+      "simplified": "马其顿共和国",
+      "pinyin": "Ma3 qi2 dun4 Gong4 he2 guo2",
+      "outcome": "acceptable",
+      "reason": "The historical Republic of Macedonia name is the actual headword, and the former-Yugoslav-republic qualifier is faithfully translated. The note appropriately prevents treating the name as current.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "2bf55a6b69da5c90",
+      "source_line": 14474,
+      "traditional": "前房角",
+      "simplified": "前房角",
+      "pinyin": "qian2 fang2 jiao3",
+      "outcome": "acceptable",
+      "reason": "The translation correctly includes 角, the chamber angle, rather than equating it with the whole anterior chamber. The note identifies the actual source mismatch; the anatomical distinction is documented by the AAO: https://eyewiki.aao.org/Anterior_Segment_Optical_Coherence_Tomography .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "6b6785bd71a4d82e",
+      "source_line": 18828,
+      "traditional": "口蘑",
+      "simplified": "口蘑",
+      "pinyin": "kou3 mo2",
+      "outcome": "deferred",
+      "reason": "The source combines a suspicious Latin spelling with an English mushroom name that does not securely identify the same taxon. The Ukrainian descriptive name and the note cannot resolve the intended species. Preserve the exact Latin string and defer taxonomic replacement.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The intended mushroom taxon and the status of the spelling Tricholoma mongplicum need specialist source correction.",
+        "The established Ukrainian species name has not been verified."
+      ]
+    },
+    {
+      "id": "5fad91cbad8061e1",
+      "source_line": 41170,
+      "traditional": "志留紀",
+      "simplified": "志留纪",
+      "pinyin": "Zhi4 liu2 ji4",
+      "outcome": "correction_proposed",
+      "reason": "The Silurian translation is correct, but the unqualified old boundaries need replacement with rounded current ICS values.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "силурійський період (геологічний період 440–417 млн років тому)",
+          "after": "силурійський період (геологічний період приблизно 443–420 млн років тому)",
+          "reason": "ICS places the Silurian between approximately 443.1 and 419.62 Ma; round consistently for a general dictionary: https://stratigraphy.org/chart/ .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Часові межі силуру наведені за джерелом і можуть не відповідати сучасній геохронологічній шкалі.",
+          "after": "Часові межі 440–417 млн років тому наведено в джерелі; за шкалою ICS силурійський період тривав приблизно 443–420 млн років тому.",
+          "reason": "Replace tentative concern with verified current rounded boundaries, keeping the historical source values: https://stratigraphy.org/chart/ .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "cf30e3ddaedd4e16",
+      "source_line": 64282,
+      "traditional": "泥盆紀",
+      "simplified": "泥盆纪",
+      "pinyin": "Ni2 pen2 ji4",
+      "outcome": "correction_proposed",
+      "reason": "Although the source dates are labeled as such, current ICS data permit a reliable correction of the Devonian interval, with the old figures retained in the explanatory note.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "девонський період (у джерелі датований 417–354 млн років тому)",
+          "after": "девонський період (геологічний період приблизно 420–359 млн років тому)",
+          "reason": "ICS places the Devonian between approximately 419.62 and 358.86 Ma: https://stratigraphy.org/chart/ .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Наведені в джерелі межі девону застарілі; їх збережено як джерельне датування.",
+          "after": "Часові межі 417–354 млн років тому в джерелі застарілі; за шкалою ICS девонський період тривав приблизно 420–359 млн років тому.",
+          "reason": "The source-attribution note must no longer say that the old limits remain in the corrected segment: https://stratigraphy.org/chart/ .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "369bac708069adbd",
+      "source_line": 77224,
+      "traditional": "皇甫鎛",
+      "simplified": "皇甫镈",
+      "pinyin": "Huang2 fu3 Bo2",
+      "outcome": "correction_proposed",
+      "reason": "The person and approximate date are retained. Removing the unsupported early-Tang qualifier resolves the source’s chronological contradiction without inventing more precise biographical dates.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Хуанфу Бо (бл. 800 року), міністр ранньої доби Тан",
+          "after": "Хуанфу Бо (бл. 800 року), міністр доби Тан",
+          "reason": "The Old Book of Tang biography places him under Dezong, Xianzong, and Muzong, not in the early Tang period. The correction only removes the false early qualifier: https://www.shidianguji.com/book/LS0016/chapter/LS0016_533 .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "015c8e20849e4cce",
+      "source_line": 124064,
+      "traditional": "黃金週",
+      "simplified": "黄金周",
+      "pinyin": "huang2 jin1 zhou1",
+      "outcome": "deferred",
+      "reason": "The literal Golden Week gloss is well formed, and the note correctly flags the time-dependent number and length of holiday periods. The segment lacks an explicit historical scope, and a current holiday-system replacement is not established here.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Which historical holiday arrangement the two seven-day periods describe remains unresolved."
+      ]
+    },
+    {
+      "id": "95aff95c9e36f73c",
+      "source_line": 43006,
+      "traditional": "慈姑",
+      "simplified": "慈姑",
+      "pinyin": "ci2 gu5",
+      "outcome": "deferred",
+      "reason": "The Ukrainian generic arrowhead name is defensible and the Latin token is preserved, but the Chinese name and source species do not securely agree. Flora of China documents the relevant Sagittaria trifolia complex: https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242346028 . The existing caution is warranted.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source’s Sagittaria subulata identification cannot be adopted as a confirmed identification of 慈姑."
+      ]
+    },
+    {
+      "id": "d85b07ab3584f569",
+      "source_line": 82413,
+      "traditional": "窩闊臺",
+      "simplified": "窝阔台",
+      "pinyin": "Wo1 kuo4 tai2",
+      "outcome": "correction_proposed",
+      "reason": "The name and relationship are adequately translated; the death year is contradicted by the Ministry of Education dictionary’s 1186–1241 biography.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Уґедей-хан (1186–1242), син Чингісхана",
+          "after": "Уґедей-хан (1186–1241), син Чингісхана",
+          "reason": "The Ministry of Education biography explicitly gives 1186–1241: https://dict.revised.moe.edu.tw/dictView.jsp?ID=160215&q=1&word=%E8%87%BA .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Рік смерті в джерелі сумнівний: зазвичай указують 1241.",
+          "after": "У джерелі помилково вказано 1242 рік смерті; словник Міністерства освіти Тайваню подає роки життя 1186–1241.",
+          "reason": "The relevant dating issue is resolved by an authoritative dictionary record: https://dict.revised.moe.edu.tw/dictView.jsp?ID=160215&q=1&word=%E8%87%BA .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "274e844648102130",
+      "source_line": 82414,
+      "traditional": "窩闊臺汗",
+      "simplified": "窝阔台汗",
+      "pinyin": "Wo1 kuo4 tai2 han2",
+      "outcome": "correction_proposed",
+      "reason": "The explicit Khan headword identifies the same person as 窩闊臺; correct the same source death-year error while preserving the existing Ukrainian name.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Уґедей-хан (1186–1242), син Чингісхана",
+          "after": "Уґедей-хан (1186–1241), син Чингісхана",
+          "reason": "The Ministry of Education biography explicitly gives 1186–1241: https://dict.revised.moe.edu.tw/dictView.jsp?ID=160215&q=1&word=%E8%87%BA .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Рік смерті в джерелі сумнівний: зазвичай указують 1241.",
+          "after": "У джерелі помилково вказано 1242 рік смерті; словник Міністерства освіти Тайваню подає роки життя 1186–1241.",
+          "reason": "The relevant dating issue is resolved by an authoritative dictionary record: https://dict.revised.moe.edu.tw/dictView.jsp?ID=160215&q=1&word=%E8%87%BA .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "ec7ad530b29b0f19",
+      "source_line": 92960,
+      "traditional": "良桐",
+      "simplified": "良桐",
+      "pinyin": "liang2 tong2",
+      "outcome": "deferred",
+      "reason": "The tree-versus-timber distinction is material: the primary text 郁離子 uses 良桐 as material carved into a musical instrument. It does not establish the source’s Aleurites cordata identification, so an exact botanical replacement is deferred. Source: https://ctext.org/yulizi/liangtong/zh .",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Whether the intended gloss denotes fine timber rather than a tree needs editorial resolution.",
+        "Aleurites cordata is not established by the classical example."
+      ]
+    },
+    {
+      "id": "c6866fa833ab9442",
+      "source_line": 93970,
+      "traditional": "茨菰",
+      "simplified": "茨菰",
+      "pinyin": "ci2 gu5",
+      "outcome": "deferred",
+      "reason": "The Ukrainian epithet accurately describes the Latin species supplied, but that species may be wrong for 茨菰. The attached note is necessary; do not replace the frozen taxon or treat the descriptive epithet as a verified identification.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The Chinese name’s correspondence to Sagittaria subulata remains unresolved."
+      ]
+    },
+    {
+      "id": "20df6afc5eb341f5",
+      "source_line": 94484,
+      "traditional": "菌托",
+      "simplified": "菌托",
+      "pinyin": "jun1 tuo1",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian term volva is correct, and the false spore-container description is explicitly source-attributed and corrected in the note. Mushroom morphology supports the veil-remnant explanation: https://archive.lib.msu.edu/DMC/extension_publications/e2777/E2777-2002.PDF .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "440020139c81c744",
+      "source_line": 123389,
+      "traditional": "鸂鶒",
+      "simplified": "㶉𫛶",
+      "pinyin": "xi1 chi4",
+      "outcome": "acceptable",
+      "reason": "The general waterbird description and comparison to a mandarin duck are fully preserved. The note accurately reports that no exact species is supplied, including for the unusual simplified characters.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The precise modern bird species is unspecified."
+      ]
+    },
+    {
+      "id": "c7dd0b1e493f2aa6",
+      "source_line": 123464,
+      "traditional": "鹼式鹽",
+      "simplified": "碱式盐",
+      "pinyin": "jian3 shi4 yan2",
+      "outcome": "acceptable",
+      "reason": "Основна сіль correctly translates 鹼式鹽, and the unsuitable source examples are visibly attributed rather than endorsed. Taiwan’s chemical nomenclature defines basic salts by retained hydroxide groups: https://terms.naer.edu.tw/media/download/b9133d8b-58bb-11ed-86f7-0050569f32ad.pdf . The attached note is accurate.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "36ee32d7a49e0969",
+      "source_line": 12951,
+      "traditional": "凝血素",
+      "simplified": "凝血素",
+      "pinyin": "ning2 xue4 su4",
+      "outcome": "acceptable",
+      "reason": "The segment correctly separates agglutination from clotting, and the note addresses the source error rather than an unrelated issue. Academia Sinica explicitly uses 凝血素 for hemagglutinin: https://iptt.sinica.edu.tw/shares/720 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "d3e20911018cc791",
+      "source_line": 36079,
+      "traditional": "崑崙",
+      "simplified": "昆仑",
+      "pinyin": "Kun1 lun2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian main referent is Kunlun, and the alternative Karakorum label is explicitly source-attributed. The note correctly warns against treating the two ranges as identical.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e971fae0e71384fb",
+      "source_line": 51749,
+      "traditional": "斯台普斯",
+      "simplified": "斯台普斯",
+      "pinyin": "Si1 tai2 pu3 si1",
+      "outcome": "acceptable",
+      "reason": "The arena’s historical Staples Center name is the headword’s referent. Its historical-name caveat is correctly attached; replacing the headword with a newer commercial name would be unnecessary.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "9adafe20ebacfe1d",
+      "source_line": 89374,
+      "traditional": "聖賢孔子鳥",
+      "simplified": "圣贤孔子鸟",
+      "pinyin": "sheng4 xian2 Kong3 zi3 niao3",
+      "outcome": "correction_proposed",
+      "reason": "The descriptive Ukrainian name and Latin species can be retained, while primary research supports Early Cretaceous rather than Jurassic age.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "конфуціусорніс священний (Confuciusornis sanctus), викопний птах, у джерелі віднесений до юрського періоду",
+          "after": "конфуціусорніс священний (Confuciusornis sanctus), викопний птах ранньої крейди",
+          "reason": "Primary research dates this exact species to the Early Cretaceous Jehol Group: https://www.nature.com/articles/ncomms2377 .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело називає птаха юрським, хоча Confuciusornis sanctus зазвичай датують ранньою крейдою.",
+          "after": "Джерело помилково відносить Confuciusornis sanctus до юрського періоду; вид відомий із ранньокрейдових відкладів. Українську назву подано описово; її усталеність не підтверджено.",
+          "reason": "Resolve the stratigraphic error from primary research while preserving uncertainty about the Ukrainian descriptive name: https://www.nature.com/articles/ncomms2377 .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The conventional Ukrainian species name has not been established; the retained equivalent is descriptive."
+      ]
+    },
+    {
+      "id": "5b6f819def2163f5",
+      "source_line": 97544,
+      "traditional": "螉䗥",
+      "simplified": "螉䗥",
+      "pinyin": "weng1 zong1",
+      "outcome": "correction_proposed",
+      "reason": "The wasp classification is not supported by the Chinese historical definition. A broader parasitic-insect description is supported and avoids inventing a modern species.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "паразитична оса великої рогатої худоби й коней",
+          "after": "паразитична комаха, що живе в шкірі великої рогатої худоби й коней",
+          "reason": "The Ministry of Education’s historical definition of 螉 distinguishes the cattle/horse skin parasite from the separate small-wasp use: https://dict.variants.moe.edu.tw/dictView.jsp?ID=101962 . The published Shuowen commentary directly attests 螉䗥: https://www.hmt.u-toyama.ac.jp/uploads/moriga80.pdf .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Опис паразитичної оси на худобі в джерелі потребує зоологічної перевірки.",
+          "after": "Давні словникові пояснення описують 螉䗥 як комаху, що живе в шкірі великої рогатої худоби й коней; віднесення до ос у джерелі не підтверджене. Точний сучасний вид не встановлено.",
+          "reason": "The source-supported general parasite description can replace the wasp assertion without a speculative species identification: https://www.hmt.u-toyama.ac.jp/uploads/moriga80.pdf .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The exact modern insect taxon remains unidentified."
+      ]
+    },
+    {
+      "id": "a5215611bd601f58",
+      "source_line": 97692,
+      "traditional": "蟈螽屬",
+      "simplified": "蝈螽属",
+      "pinyin": "guo1 zhong1 shu3",
+      "outcome": "acceptable",
+      "reason": "The genus is preserved, the Ukrainian коники is usable for katydids, and the questionable cricket component is explicitly attributed to the source. The note is relevant; no independent standard Ukrainian genus name is asserted.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source’s broad grasshoppers-and-crickets wording remains taxonomically imprecise."
+      ]
+    },
+    {
+      "id": "38485041709df72e",
+      "source_line": 110330,
+      "traditional": "酒神",
+      "simplified": "酒神",
+      "pinyin": "Jiu3 shen2",
+      "outcome": "correction_proposed",
+      "reason": "The translation itself is sound, but the note overstates a strict Greek-versus-Roman separation. Greek primary literature also uses the name Bacchos for Dionysus, so narrow the note rather than delete it.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Бахус є римським відповідником грецького Діоніса; англійське формулювання змішує ці назви.",
+          "after": "Бахус — латинська форма імені Вакх, яким називали Діоніса також у грецькій традиції; це ім’я поширене й у римській міфології. Саме поєднання імен Бахус і Діоніс не є помилкою.",
+          "reason": "The prior note treats overlapping Greek and Roman naming as a definite confusion. Euripides’ Greek Bacchae uses Βάκχος for the same deity: https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0006.tlg017.perseus-grc2%3A64-169/ .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "9f4360b2a152b0f8",
+      "source_line": 118411,
+      "traditional": "韓山師範學院",
+      "simplified": "韩山师范学院",
+      "pinyin": "Han2 shan1 Shi1 fan4 Xue2 yuan4",
+      "outcome": "correction_proposed",
+      "reason": "The official university charter locates Hanshan Normal University in Chaozhou. Replace Shantou and resolve the tentative location note.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Ханьшанський педагогічний університет, за джерелом у Шаньтоу, Гуандун",
+          "after": "Ханьшанський педагогічний університет у Чаочжоу, Гуандун",
+          "reason": "Article 4 of the university’s official charter gives its legal address in Chaozhou, Guangdong: https://edu.gd.gov.cn/attachment/0/508/508897/4065635.pdf .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Місце розташування у джерелі потребує перевірки: університет відомий як заклад у Чаочжоу, а не Шаньтоу.",
+          "after": "У джерелі помилково зазначено Шаньтоу; офіційний статут Ханьшанського педагогічного університету визначає його місцезнаходження в Чаочжоу, провінція Гуандун.",
+          "reason": "Resolve the tentative location issue from the institution’s own charter, article 4: https://edu.gd.gov.cn/attachment/0/508/508897/4065635.pdf .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "f8e1ad0ae9c3c661",
+      "source_line": 118749,
+      "traditional": "順治",
+      "simplified": "顺治",
+      "pinyin": "Shun4 zhi4",
+      "outcome": "correction_proposed",
+      "reason": "The reign-name interval ends in 1661 according to the Palace Museum. Preserve the headword and title while correcting the source’s 1662 endpoint.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Шуньчжі, девіз правління другого імператора Цін (за джерелом, 1644–1662)",
+          "after": "Шуньчжі, девіз правління другого імператора Цін (1644–1661)",
+          "reason": "The Palace Museum gives the Shunzhi era as 1644–1661: https://www.dpm.org.cn/court/lineage/226262.html .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Дати джерела сумнівні: загальноприйнятий період девізу Шуньчжі — 1644–1661.",
+          "after": "У джерелі наведено 1644–1662; Музей імператорського палацу датує період девізу Шуньчжі 1644–1661 роками.",
+          "reason": "Resolve the endpoint discrepancy and preserve the source’s original dates: https://www.dpm.org.cn/court/lineage/226262.html .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e69918bf40dfddb1",
+      "source_line": 120439,
+      "traditional": "首縣",
+      "simplified": "首县",
+      "pinyin": "shou3 xian4",
+      "outcome": "correction_proposed",
+      "reason": "The territorial sense can be confirmed, but it does not by itself establish how the source’s magistrate sense should be translated. Update the note with the confirmed county-seat meaning and leave the officer wording pending.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Джерело визначає 首縣 як посадовця; можливе також територіальне значення головного повіту, яке тут не додано.",
+          "after": "Словник Міністерства освіти Тайваню визначає 首縣 як історичний повіт, де містилася провінційна або окружна адміністрація. Вжите в англійському джерелі значення посадовця потребує окремого підтвердження й уточнення.",
+          "reason": "The territorial meaning is confirmed, not merely possible; the evidence does not establish the precise magistrate extension: https://dict.revised.moe.edu.tw/dictView.jsp?ID=130287&q=1&word=34 .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The source’s magistrate sense and whether it is a metonym for the magistrate of the administrative-seat county remain to be established."
+      ]
+    },
+    {
+      "id": "8574d941cbdbf347",
+      "source_line": 27184,
+      "traditional": "外斜肌",
+      "simplified": "外斜肌",
+      "pinyin": "wai4 xie2 ji1",
+      "outcome": "correction_proposed",
+      "reason": "The anatomical term should identify the external oblique of the abdomen. Its rib attachments do not make sides of the chest an adequate location gloss.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "зовнішній косий м'яз (у джерелі: збоку грудної клітки)",
+          "after": "зовнішній косий м'яз живота",
+          "reason": "The National Library of Medicine describes the external abdominal oblique, including its lower-rib to iliac-crest course: https://meshb.nlm.nih.gov/record/ui?dcmsLinks=true&ui=D000071596 .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "aff0a2afda7bb894",
+      "source_line": 45872,
+      "traditional": "抹不下臉",
+      "simplified": "抹不下脸",
+      "pinyin": "mo3 bu4 xia4 lian3",
+      "outcome": "correction_proposed",
+      "reason": "The literal straight-face rendering misses the idiom’s social reluctance. A primary example concerns people too embarrassed to refuse a donation request, supporting a face/relationship-saving equivalent.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "не могти зберегти незворушний вираз обличчя (ідіома)",
+          "after": "не наважуватися відмовити чи виявити суворість через ніяковість або небажання образити (ідіома)",
+          "reason": "The primary example in 官場現形記, chapter 34, concerns embarrassment about refusing a contribution, not an inability to suppress laughter or keep an impassive face: https://photoapps.yd.chaoxing.com/MobileApp/GDSL/pdf/gddj/1316402.pdf .",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерельне «keep a straight face» неоднозначне; вислів також може стосуватися нездатності вдати суворість або відкинути сором'язливість.",
+          "after": "Вислів стосується ніяковості, небажання образити чи зіпсувати стосунки, через що людина не наважується відмовити або виявити суворість. Буквальне розуміння англійського keep a straight face як незворушного виразу обличчя тут хибне.",
+          "reason": "Narrow the uncertainty to the demonstrated social-face meaning, supported by the primary donation-request example: https://photoapps.yd.chaoxing.com/MobileApp/GDSL/pdf/gddj/1316402.pdf .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "886f678cb1471599",
+      "source_line": 117429,
+      "traditional": "霍頓",
+      "simplified": "霍顿",
+      "pinyin": "Huo4 dun4",
+      "outcome": "acceptable",
+      "reason": "All four English name examples are represented. Without a specific bearer there is no safe single pronunciation correction for Houghton; the attached contextual warning is appropriate.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The pronunciation and established Ukrainian form of each surname may depend on the named person."
+      ]
+    },
+    {
+      "id": "19c36cabe2256c85",
+      "source_line": 15491,
+      "traditional": "勁度係數",
+      "simplified": "劲度系数",
+      "pinyin": "jin4 du4 xi4 shu4",
+      "outcome": "acceptable",
+      "reason": "Коефіцієнт жорсткості correctly repairs the restitution error while retaining the Hooke-law context. Taiwan’s official mechanics terminology gives stiffness coefficient for 勁度係數: https://pedia.cloud.edu.tw/Entry/Detail?title=%E5%8B%81%E5%BA%A6%E4%BF%82%E6%95%B8 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "86b452ac7b1159c0",
+      "source_line": 39199,
+      "traditional": "弗萊威厄斯",
+      "simplified": "弗莱威厄斯",
+      "pinyin": "Fu2 lai2 wei1 e4 si1",
+      "outcome": "acceptable",
+      "reason": "Флавій faithfully preserves the incomplete name supplied. The note correctly presents Josephus as a possibility rather than silently expanding the referent.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The identification specifically as Josephus remains inferential."
+      ]
+    },
+    {
+      "id": "267d75e44ff46973",
+      "source_line": 46319,
+      "traditional": "拒絕服務攻擊",
+      "simplified": "拒绝服务攻击",
+      "pinyin": "ju4 jue2 fu2 wu4 gong1 ji1",
+      "outcome": "correction_proposed",
+      "reason": "The Chinese and English generic denial-of-service term requires DoS rather than the distributed-attack acronym DDOS. The existing note is correctly attached.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(інформ.) атака «відмова в обслуговуванні» (DDOS)",
+          "after": "(інформ.) атака «відмова в обслуговуванні» (DoS)",
+          "reason": "The generic term is DoS; DDoS requires a distributed source. NIST: https://csrc.nist.gov/glossary/term/DoS and https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-61r1.pdf .",
+          "confidence": "high",
+          "issue_type": "terminology"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "d8d7b76c7b14593d",
+      "source_line": 83189,
+      "traditional": "等變壓線",
+      "simplified": "等变压线",
+      "pinyin": "deng3 bian4 ya1 xian4",
+      "outcome": "acceptable",
+      "reason": "Ізалобара and the change-in-pressure explanation are correct; the note supplies the essential time interval and correctly distinguishes a change from a spatial gradient. NOAA definition: https://forecast.weather.gov/glossary.php?word=isallobar .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "6e824e391ccbe015",
+      "source_line": 87772,
+      "traditional": "羅浮山",
+      "simplified": "罗浮山",
+      "pinyin": "Luo2 fu2 shan1",
+      "outcome": "deferred",
+      "reason": "The translation follows the source location, while the note properly requests verification. Locating part of the mountain area in Boluo would not alone disprove an association with Zengcheng; no exclusive-location replacement is justified here.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source’s historical administrative and geographic scope for Luofushan remains unresolved."
+      ]
+    },
+    {
+      "id": "dd78cccf2ba79895",
+      "source_line": 93130,
+      "traditional": "艾草",
+      "simplified": "艾草",
+      "pinyin": "ai4 cao3",
+      "outcome": "acceptable",
+      "reason": "Азійський полин is an acceptable general equivalent. The frozen Artemesia spelling is explicitly explained by the note, and Kew confirms the genus spelling Artemisia: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30001021-2 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source’s misspelled Latin genus token remains frozen."
+      ]
+    },
+    {
+      "id": "d2d7adabf5a093ec",
+      "source_line": 96248,
+      "traditional": "藍光光盤",
+      "simplified": "蓝光光盘",
+      "pinyin": "lan2 guang1 guang1 pan2",
+      "outcome": "correction_proposed",
+      "reason": "The format is correctly separated from DVD, but describing every Blu-ray disc as a Sony disc imposes an unwarranted manufacturer restriction. Retain the format and high-definition-video sense without that restriction.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "диск Blu-ray, оптичний диск Sony для відео високої чіткості",
+          "after": "диск Blu-ray, оптичний диск для відео високої чіткості",
+          "reason": "Blu-ray is a format used by multiple manufacturers, not a Sony-only disc class; the official format licensing FAQ names multiple licensors: https://blu-raydisc.info/format-spec/faq-info.php .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "523b324c230f3798",
+      "source_line": 98594,
+      "traditional": "衰之以屬",
+      "simplified": "衰之以属",
+      "pinyin": "shuai1 zhi1 yi3 shu3",
+      "outcome": "deferred",
+      "reason": "The source’s debility gloss may misread the transitive 衰之, rather than naming weakness as the condition treated. The classical medical context is confirmed in the Suwen concordance, but a specialist interpretation is not secured: https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf .",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The exact traditional-medical interpretation and the supplied pronunciation require specialist review."
+      ]
+    },
+    {
+      "id": "56b71de1ebea3eac",
+      "source_line": 111918,
+      "traditional": "銖",
+      "simplified": "铢",
+      "pinyin": "zhu1",
+      "outcome": "deferred",
+      "reason": "The fractional-weight sense is faithfully rendered, but the fixed 2–3 gram conversion is not validated for a specific historical tael. The note is relevant and should remain rather than replacing the number with another universal conversion.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The historical period and corresponding mass of one zhu remain unspecified."
+      ]
+    },
+    {
+      "id": "679ab986dfd50a50",
+      "source_line": 112285,
+      "traditional": "錦葵",
+      "simplified": "锦葵",
+      "pinyin": "jin3 kui2",
+      "outcome": "deferred",
+      "reason": "The common-name translation is understandable, but the source’s taxonomic equation is unsettled. Kew currently treats Malva sinensis as a synonym of Malva cavanillesiana, which confirms the need for caution rather than a silent change to Malva sylvestris: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A561913-1 .",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The botanical identity intended by 錦葵 and the matching standard Ukrainian name remain unresolved."
+      ]
+    },
+    {
+      "id": "87d92d85f9b9096f",
+      "source_line": 28721,
+      "traditional": "天冬苯丙二肽酯",
+      "simplified": "天冬苯丙二肽酯",
+      "pinyin": "tian1 dong1 ben3 bing3 er4 tai4 zhi3",
+      "outcome": "correction_proposed",
+      "reason": "The Ukrainian substance and use are correct, but the incomplete frozen formula must be marked as a source formula rather than displayed as the substance’s verified composition. The existing corrective note is chemically accurate.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "аспартам C14H18N2O (штучний підсолоджувач)",
+          "after": "аспартам (штучний підсолоджувач; у джерелі формула C14H18N2O)",
+          "reason": "The exact frozen formula is preserved but explicitly attributed. WHO/IARC chemical identification gives C14H18N2O5, supporting the existing note: https://www.ncbi.nlm.nih.gov/books/NBK609291/ .",
+          "confidence": "high",
+          "issue_type": "source_error_attribution"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The exact erroneous source formula is preserved as required."
+      ]
+    },
+    {
+      "id": "369a9a8e5be92197",
+      "source_line": 51763,
+      "traditional": "斯大林",
+      "simplified": "斯大林",
+      "pinyin": "Si1 da4 lin2",
+      "outcome": "correction_proposed",
+      "reason": "The name and description are correct; the Library of Congress authority records support 1878–1953, so the source’s 1879 birth year should be corrected.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Йосип Сталін (1879–1953), радянський диктатор",
+          "after": "Йосип Сталін (1878–1953), радянський диктатор",
+          "reason": "The Library of Congress archival authority identifies Stalin as 1878–1953: https://findingaids.loc.gov/agents/people/20499 .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Рік народження 1879 збережено за джерелом; поширене сучасне датування — 1878.",
+          "after": "У джерелі наведено 1879 рік народження; в авторитетному записі Бібліотеки Конгресу США зазначено роки життя 1878–1953.",
+          "reason": "Replace the vague modern-dating assertion with a verified authority record while retaining the source discrepancy: https://findingaids.loc.gov/agents/people/20499 .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "36a2c80da8e9c0bc",
+      "source_line": 69623,
+      "traditional": "烏里雅蘇台",
+      "simplified": "乌里雅苏台",
+      "pinyin": "Wu1 li3 ya3 su1 tai2",
+      "outcome": "deferred",
+      "reason": "Уліастай is a plausible name rendering, but defining the place name as a Qing name for all Outer Mongolia needs a precise historical administrative source. The attached warning is relevant.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The intended city, jurisdiction, and scope of the Qing-era label remain unresolved."
+      ]
+    },
+    {
+      "id": "1bb47c4addf07226",
+      "source_line": 70576,
+      "traditional": "煽動顛覆國家罪",
+      "simplified": "煽动颠覆国家罪",
+      "pinyin": "shan1 dong4 dian1 fu4 guo2 jia1 zui4",
+      "outcome": "correction_proposed",
+      "reason": "煽動 denotes incitement, not conspiracy. The official Criminal Law text distinguishes inciting subversion from organizing or planning it; the Ukrainian legal gloss should reflect incitement.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "злочин змови з метою повалення державної влади",
+          "after": "злочин підбурювання до повалення державної влади",
+          "reason": "The source mistranslates 煽動 as conspiracy. Article 105’s second paragraph specifically concerns incitement: https://www.gjxfj.gov.cn/2020-12/26/c_139953427.htm .",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайське слово означає підбурювання до повалення держави, тоді як англійський сегмент вживає «змова»; юридичну кваліфікацію треба звірити.",
+          "after": "煽動 означає підбурювання, а не змову; стаття 105 Кримінального кодексу КНР окремо описує підбурювання до повалення державної влади. Англійське conspiring у джерелі неточне.",
+          "reason": "The official statutory text confirms the lexical and legal distinction without adding sentencing or advice: https://www.gjxfj.gov.cn/2020-12/26/c_139953427.htm .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "ab8813780de3ab4a",
+      "source_line": 81061,
+      "traditional": "禮炮號",
+      "simplified": "礼炮号",
+      "pinyin": "Li3 pao4 Hao4",
+      "outcome": "correction_proposed",
+      "reason": "The historical Salyut programme was Soviet and comprised space stations. NASA’s programme history supports correcting the source’s Russian label.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "«Салют», серія російських космічних апаратів",
+          "after": "«Салют», серія радянських космічних станцій",
+          "reason": "NASA’s Salyut history identifies the Soviet space-station series: https://www.nasa.gov/missions/station/50-years-ago-launch-of-salyut-the-worlds-first-space-station/ .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "947ed2a7a785a609",
+      "source_line": 84576,
+      "traditional": "約瑟夫·斯大林",
+      "simplified": "约瑟夫·斯大林",
+      "pinyin": "Yue1 se4 fu1 · Si1 da4 lin2",
+      "outcome": "correction_proposed",
+      "reason": "This expanded Chinese form names the same Joseph Stalin; apply the independently supported 1878 birth-year correction consistently.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Йосип Сталін (1879–1953), радянський диктатор",
+          "after": "Йосип Сталін (1878–1953), радянський диктатор",
+          "reason": "The Library of Congress archival authority identifies Stalin as 1878–1953: https://findingaids.loc.gov/agents/people/20499 .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "У джерелі наведено 1879 рік народження; загальноприйнята сучасна дата — 1878 рік.",
+          "after": "У джерелі наведено 1879 рік народження; в авторитетному записі Бібліотеки Конгресу США зазначено роки життя 1878–1953.",
+          "reason": "Replace the vague modern-dating assertion with a verified authority record while retaining the source discrepancy: https://findingaids.loc.gov/agents/people/20499 .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "0027d0224914df28",
+      "source_line": 95150,
+      "traditional": "葉永烈",
+      "simplified": "叶永烈",
+      "pinyin": "Ye4 Yong3 lie4",
+      "outcome": "correction_proposed",
+      "reason": "The writer is correctly named, but the open-ended biography is now demonstrably stale. The Chinese Writers Association records his death in 2020.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Є Юнле (1940 р. н.), автор науково-популярної літератури",
+          "after": "Є Юнле (1940–2020), автор науково-популярної літератури",
+          "reason": "The Chinese Writers Association’s member biography gives 1940–2020 and the death date 15 May 2020: https://www.chinawriter.com.cn/n1/2016/0627/c404952-28495494.html .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело залишає рік смерті Є Юнле незазначеним; біографічна інформація може бути застарілою.",
+          "after": "Джерело містить незавершене датування 1940–; за біографією Спілки письменників Китаю Є Юнле помер 15 травня 2020 року.",
+          "reason": "Replace hypothetical staleness with a documented biographical correction: https://www.chinawriter.com.cn/n1/2016/0627/c404952-28495494.html .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "d4bfa38bf1ff0e55",
+      "source_line": 100198,
+      "traditional": "角鴞",
+      "simplified": "角鸮",
+      "pinyin": "jiao3 xiao1",
+      "outcome": "correction_proposed",
+      "reason": "The source’s modern-genus synonymy is misleading. Retain both Latin names while distinguishing Megascops from its historical inclusion in Otus.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "совка (рід Megascops, також відомий як Otus)",
+          "after": "совка роду Megascops (раніше включали до роду Otus)",
+          "reason": "AOS and its South American classification committee distinguish the two current genera and document moving New World Otus into Megascops: https://checklist.americanornithology.org/taxa/ and https://www.museum.lsu.edu/~Remsen/SACCBaseline04.htm .",
+          "confidence": "high",
+          "issue_type": "taxonomy"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Наведена в джерелі відповідність родів Megascops та Otus потребує таксономічної перевірки.",
+          "after": "Megascops і Otus у сучасній класифікації є різними родами сов; види Megascops раніше включали до Otus. Джерельне a.k.a. не слід розуміти як їхню повну сучасну тотожність. Усталений український відповідник назви групи не підтверджено.",
+          "reason": "Resolve the genus relationship from the classification authority while retaining Ukrainian-name uncertainty: https://checklist.americanornithology.org/taxa/ and https://www.museum.lsu.edu/~Remsen/SACCBaseline04.htm .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The conventional Ukrainian name for the genus-level group remains unverified."
+      ]
+    },
+    {
+      "id": "ce430a17c54d7963",
+      "source_line": 101947,
+      "traditional": "諾格",
+      "simplified": "诺格",
+      "pinyin": "Nuo4 ge2",
+      "outcome": "correction_proposed",
+      "reason": "Northrop Grumman identifies itself as an aerospace and defense company. The source’s Boeing-division characterization should be replaced, with the factual source error retained in the note.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Northrop Grumman (у джерелі названо аерокосмічним підрозділом Boeing)",
+          "after": "Northrop Grumman, американська аерокосмічна й оборонна компанія",
+          "reason": "The company’s own corporate description and separate NOC stock listing establish the company, not a Boeing division: https://www.northropgrumman.com/who-we-are?trk=public_post_comment-text .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Твердження джерела, що Northrop Grumman є підрозділом Boeing, фактично хибне; назву компанії ідентифіковано, пояснення потребує виправлення джерела.",
+          "after": "У джерелі Northrop Grumman помилково названо підрозділом Boeing; це окрема американська аерокосмічна й оборонна компанія.",
+          "reason": "The corporate identity is verified, so the note should no longer leave its correction pending: https://www.northropgrumman.com/who-we-are?trk=public_post_comment-text .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "439e4d891062bbc0",
+      "source_line": 110605,
+      "traditional": "醜妻近地家中寶",
+      "simplified": "丑妻近地家中宝",
+      "pinyin": "chou3 qi1 jin4 di4 jia1 zhong1 bao3",
+      "outcome": "acceptable",
+      "reason": "The translation correctly restores 近地, nearby land, omitted by the English gloss. The note is attached to the actual omission and the idiom’s literal content is preserved.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "6de6bf9e64e6cdc0",
+      "source_line": 114641,
+      "traditional": "阿斯巴特",
+      "simplified": "阿斯巴特",
+      "pinyin": "a1 si1 ba1 te4",
+      "outcome": "correction_proposed",
+      "reason": "The alternate Chinese aspartame name has the same incomplete frozen formula. Mark it as the source’s formula without altering its characters; retain the chemically correct explanatory note.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "аспартам C14H18N2O (штучний підсолоджувач)",
+          "after": "аспартам (штучний підсолоджувач; у джерелі формула C14H18N2O)",
+          "reason": "The exact frozen formula is preserved but explicitly attributed. WHO/IARC chemical identification gives C14H18N2O5, supporting the existing note: https://www.ncbi.nlm.nih.gov/books/NBK609291/ .",
+          "confidence": "high",
+          "issue_type": "source_error_attribution"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The exact erroneous source formula is preserved as required."
+      ]
+    },
+    {
+      "id": "c05e6877f9b0e2c5",
+      "source_line": 115691,
+      "traditional": "險球",
+      "simplified": "险球",
+      "pinyin": "xian3 qiu2",
+      "outcome": "deferred",
+      "reason": "The literal dangerous-ball rendering is possible, but the source does not distinguish a threatening shot, difficult ball, or risky play. The uncertainty note is appropriately attached.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The intended sport and play situation are needed for a more idiomatic Ukrainian equivalent."
+      ]
+    },
+    {
+      "id": "9a7de43b47ba7a37",
+      "source_line": 122712,
+      "traditional": "鮠",
+      "simplified": "𬶏",
+      "pinyin": "wei2",
+      "outcome": "correction_proposed",
+      "reason": "An authoritative Chinese character dictionary places 鮠 among bagrid catfishes, not shad. Correct the broad fish group without inventing a species.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "різновид оселедцевої риби з головою, схожою на осетрову",
+          "after": "назва сомоподібної риби",
+          "reason": "Academia Sinica defines 鮠 as a fish in the bagrid group, which Taiwan’s education taxonomy places in Siluriformes: https://chardb.iis.sinica.edu.tw/char/26664 and https://pedia.cloud.edu.tw/Entry/Detail?title=%E5%8F%B0%E7%81%A3%E9%AE%A0 . The unsupported shad classification and unverified head comparison should not become the Ukrainian definition.",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Опис у джерелі не дозволяє впевнено визначити вид риби.",
+          "after": "Китайські словникові джерела відносять 鮠 до сомоподібних, тоді як англійське shad означає оселедцеву рибу. Точний вид і джерельне порівняння голови з осетровою не встановлено.",
+          "reason": "The problem is not only missing species identity: the broad taxonomic group conflicts with authoritative Chinese definitions. Sources: https://chardb.iis.sinica.edu.tw/char/26664 and https://pedia.cloud.edu.tw/Entry/Detail?title=%E5%8F%B0%E7%81%A3%E9%AE%A0 .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The precise species and the historical sturgeon-head comparison are not established."
+      ]
+    },
+    {
+      "id": "123c891f494c7fb8",
+      "source_line": 123086,
+      "traditional": "鳴角鴞",
+      "simplified": "鸣角鸮",
+      "pinyin": "Ming2 jiao3 xiao1",
+      "outcome": "correction_proposed",
+      "reason": "The genus names must not be presented as interchangeable current names. A generic Ukrainian owl description avoids equating a screech-owl with the separate English scops-owl group.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "сова-скопс роду Megascops (також Otus)",
+          "after": "сова роду Megascops (раніше включали до роду Otus)",
+          "reason": "The generic owl description does not invent a standardized Ukrainian genus name or conflate English scops-owl with screech-owl. Historical inclusion, rather than current synonymy, is documented by AOS: https://www.museum.lsu.edu/~Remsen/SACCBaseline04.htm .",
+          "confidence": "high",
+          "issue_type": "taxonomy"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Назви родів Megascops і Otus відтворено за джерелом; їхню таксономічну тотожність не підтверджено.",
+          "after": "Megascops і Otus у сучасній класифікації є різними родами сов; види Megascops раніше включали до Otus. Джерельне a.k.a. не слід розуміти як їхню повну сучасну тотожність. Усталений український відповідник назви групи не підтверджено.",
+          "reason": "Resolve the genus relationship from the classification authority while retaining Ukrainian-name uncertainty: https://checklist.americanornithology.org/taxa/ and https://www.museum.lsu.edu/~Remsen/SACCBaseline04.htm .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "A standard Ukrainian group name corresponding to screech-owl remains unverified."
+      ]
+    },
+    {
+      "id": "bc6258fa00e85404",
+      "source_line": 7548,
+      "traditional": "佧",
+      "simplified": "佧",
+      "pinyin": "ka3",
+      "outcome": "acceptable",
+      "reason": "The general historical-ethnonym gloss is faithfully translated. The note correctly reports the source’s lack of a specific people and does not add an unsupported identification.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source does not identify the ethnic group."
+      ]
+    },
+    {
+      "id": "4a4e28342c5aa544",
+      "source_line": 13367,
+      "traditional": "函式庫",
+      "simplified": "函式库",
+      "pinyin": "han2 shi4 ku4",
+      "outcome": "correction_proposed",
+      "reason": "函式庫 denotes a software/function library; a hard-disk partition is a different object. Official Microsoft Taiwanese documentation directly confirms the software usage.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "бібліотека (розділ на жорсткому диску комп'ютера)",
+          "after": "бібліотека функцій (у програмуванні)",
+          "reason": "Microsoft’s official Taiwanese documentation uses 函式庫 for a code library defining callable methods, not a disk partition: https://learn.microsoft.com/zh-tw/dotnet/core/tutorials/create-class-library .",
+          "confidence": "high",
+          "issue_type": "terminology"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело пояснює 函式庫 як розділ жорсткого диска; китайський термін зазвичай означає бібліотеку функцій. Потрібна перевірка англійського тлумачення.",
+          "after": "函式庫 означає бібліотеку функцій або програмну бібліотеку; пояснення як розділу жорсткого диска в англійському джерелі помилкове.",
+          "reason": "The technical usage is directly confirmed in vendor documentation, resolving the note’s request for verification: https://learn.microsoft.com/zh-tw/dotnet/core/tutorials/create-class-library .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "d562fa3b19f84985",
+      "source_line": 25419,
+      "traditional": "坡壘",
+      "simplified": "坡垒",
+      "pinyin": "po1 lei3",
+      "outcome": "acceptable",
+      "reason": "The descriptive transliteration хопея хайнанська preserves the Hainan qualifier, botanical label, and exact Hopea hainanensis identification. The naming caveat is appropriate.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The established Ukrainian botanical name is unverified."
+      ]
+    },
+    {
+      "id": "733b6daf4604d56f",
+      "source_line": 27127,
+      "traditional": "外商直接投資",
+      "simplified": "外商直接投资",
+      "pinyin": "wai4 shang1 zhi2 jie1 tou2 zi1",
+      "outcome": "acceptable",
+      "reason": "Прямі іноземні інвестиції is the correct main equivalent, and OFDI is clearly attributed to the source. The Commerce Ministry defines 外商直接投资 as FDI: https://gzly.mofcom.gov.cn/fta/detail?id=ff808081796d3d7c01797853dac81844 . The note identifies the acronym problem accurately.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e5facc11444ae9a0",
+      "source_line": 58386,
+      "traditional": "椆",
+      "simplified": "椆",
+      "pinyin": "chou2",
+      "outcome": "acceptable",
+      "reason": "The general frost-resistant-tree gloss is preserved without inventing a species. The attached note accurately reflects what the source omits.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The particular tree species is unspecified."
+      ]
+    },
+    {
+      "id": "a82fa2d7aba283f2",
+      "source_line": 74144,
+      "traditional": "瓦赫基爾河",
+      "simplified": "瓦赫基尔河",
+      "pinyin": "Wa3 he4 ji1 er3 He2",
+      "outcome": "deferred",
+      "reason": "The English Vakhsh referent and Chinese transliteration may disagree. The existing Ukrainian translation reproduces the English, but the uncertainty note is material and the river cannot safely be renamed without a geographic identification source.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Whether 瓦赫基爾河 denotes Wakhjir rather than Vakhsh remains unresolved."
+      ]
+    },
+    {
+      "id": "55123959663f113c",
+      "source_line": 76806,
+      "traditional": "白花蛇",
+      "simplified": "白花蛇",
+      "pinyin": "bai2 hua1 she2",
+      "outcome": "acceptable",
+      "reason": "The pointed-snouted pit-viper equivalent is a defensible descriptive rendering, and the exact lower-case source taxon agkistrodon acutus is preserved. The note appropriately avoids claiming standard Ukrainian nomenclature.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The established Ukrainian species name is unverified."
+      ]
+    },
+    {
+      "id": "a612abfd7419a134",
+      "source_line": 81352,
+      "traditional": "科布多",
+      "simplified": "科布多",
+      "pinyin": "Ke1 bu4 duo1",
+      "outcome": "deferred",
+      "reason": "The name Kobdo is recognizable, but the source’s khanate characterization is an unresolved historical administrative claim. The note is correctly attached and should not be removed.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The administrative status and period intended for 科布多 remain unresolved."
+      ]
+    },
+    {
+      "id": "b8cd1a74daf87eef",
+      "source_line": 84660,
+      "traditional": "紅寡婦鳥",
+      "simplified": "红寡妇鸟",
+      "pinyin": "hong2 gua3 fu5 niao3",
+      "outcome": "acceptable",
+      "reason": "Ткачик червоний is an acceptable descriptive weaver-bird equivalent for the red bishop, with exact Euplectes orix identification. The note correctly retains standard-name uncertainty.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The established Ukrainian species name has not been verified."
+      ]
+    },
+    {
+      "id": "76e77d38c989f139",
+      "source_line": 90150,
+      "traditional": "肯普索恩",
+      "simplified": "肯普索恩",
+      "pinyin": "Ken3 pu3 suo3 en1",
+      "outcome": "acceptable",
+      "reason": "The name and Idaho Senate role are correctly rendered as historical rather than current. The note explains precisely that temporal qualification.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "7810d0cd34b39c1b",
+      "source_line": 96768,
+      "traditional": "蘼蕪",
+      "simplified": "蘼芜",
+      "pinyin": "mi2 wu2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian fragrant-herb description follows 蘼蕪 while clearly source-attributing the conflicting Gracilaria confervoides equation. The Ministry of Education describes 蘼蕪 as a fragrant terrestrial herb: https://dict.variants.moe.edu.tw/dictView.jsp?ID=69581 . Retain the conflict note rather than replace the frozen taxon.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The botanical species intended by the Chinese herb name remains unresolved."
+      ]
+    },
+    {
+      "id": "279bff46e2c09d76",
+      "source_line": 106739,
+      "traditional": "轉頭",
+      "simplified": "转头",
+      "pinyin": "zhuan4 tou2",
+      "outcome": "deferred",
+      "reason": "The note correctly flags the distinction between nutation and solar tracking, but the intended specialized sense of 轉頭 is not resolved by the contradictory gloss. Do not silently choose either process.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The Chinese botanical sense intended by this reading requires a domain source."
+      ]
+    },
+    {
+      "id": "ae69c8906a915c8f",
+      "source_line": 114835,
+      "traditional": "阿黑顏",
+      "simplified": "阿黑颜",
+      "pinyin": "a1 hei1 yan2",
+      "outcome": "acceptable",
+      "reason": "The ACG domain expansion, Japanese loanword reference アヘ顔, and Ukrainian transliteration are preserved. The note usefully explains the term’s erotic-graphic context without asserting a different sense.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "176137e4c03fbdbf",
+      "source_line": 36952,
+      "traditional": "巴豆殼",
+      "simplified": "巴豆壳",
+      "pinyin": "ba1 dou4 ke2",
+      "outcome": "acceptable",
+      "reason": "The fruit-shell interpretation is consistent with 殼 and avoids the English bark ambiguity. The source’s traditional laxative-use statement is retained as a dictionary sense, without dosage or treatment advice; the note is appropriately attached.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "A direct pharmacognostic monograph for 巴豆殼 specifically would still be needed to settle the exact material and traditional-use scope."
+      ]
+    },
+    {
+      "id": "decc780e56551075",
+      "source_line": 60514,
+      "traditional": "正極",
+      "simplified": "正极",
+      "pinyin": "zheng4 ji2",
+      "outcome": "correction_proposed",
+      "reason": "Positive electrode and positive pole are correct, but anode is conditional rather than an unrestricted synonym. Keep the legitimate anode sense with its electrolytic-cell context.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "позитивний електрод; позитивний полюс; анод",
+          "after": "позитивний електрод; позитивний полюс; анод (в електролітичній комірці)",
+          "reason": "IUPAC defines anode by oxidation, not positive polarity; its teaching material specifies that the anode is positive in an electrolytic cell: https://goldbook.iupac.org/terms/view/A00370 and https://media.iupac.org/didac/Didac%20Eng/Didac03/Content/R03.htm .",
+          "confidence": "high",
+          "issue_type": "context_qualification"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "abb3b91772158ffd",
+      "source_line": 72953,
+      "traditional": "玉川市",
+      "simplified": "玉川市",
+      "pinyin": "Yu4 chuan1 shi4",
+      "outcome": "deferred",
+      "reason": "The name is transliterated consistently, but no verified Tamagawa city in Akita is established. Official Akita material places Tamagawa facilities within Semboku; this does not identify the source’s intended municipality. Retain the note and defer replacement.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The intended Japanese locality and its administrative status are unresolved."
+      ]
+    },
+    {
+      "id": "5fe0715b4cef573a",
+      "source_line": 79178,
+      "traditional": "矮莖朱砂根",
+      "simplified": "矮茎朱砂根",
+      "pinyin": "ai3 jing1 zhu1 sha1 gen1",
+      "outcome": "acceptable",
+      "reason": "Короткостеблова accurately renders the descriptive short-stem epithet and matches brevicaulis without changing the Latin species. The note properly retains nomenclatural uncertainty.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The established Ukrainian botanical species name is unverified."
+      ]
+    },
+    {
+      "id": "f286eccbaf37ef70",
+      "source_line": 79279,
+      "traditional": "石楠",
+      "simplified": "石楠",
+      "pinyin": "shi2 nan2",
+      "outcome": "acceptable",
+      "reason": "Пилчастолиста is a defensible descriptive epithet for serratifolia, and the exact Latin species keeps the referent clear. The standard-name caveat is sufficient; no name should be invented merely to remove uncertainty.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The established Ukrainian botanical species name is unverified."
+      ]
+    },
+    {
+      "id": "f21a299754504fed",
+      "source_line": 85327,
+      "traditional": "紫蘇屬",
+      "simplified": "紫苏属",
+      "pinyin": "zi3 su1 shu3",
+      "outcome": "acceptable",
+      "reason": "The genus Perilla is correctly named, while the source’s inclusion of basil and mints is explicitly attributed and rejected by the note. The Perilla genus placement is confirmed by Kew: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A190343-2 .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "d82a2c4764fa901c",
+      "source_line": 98782,
+      "traditional": "裂殖菌",
+      "simplified": "裂殖菌",
+      "pinyin": "lie4 zhi2 jun1",
+      "outcome": "acceptable",
+      "reason": "The translation explicitly treats Schizomycetes as historical, and the note correctly explains its bacterial referent instead of endorsing modern fungal classification. LPSN places it under Bacteria: https://lpsn.dsmz.de/class/schizomycetes .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "90ce230ce2717f7a",
+      "source_line": 98783,
+      "traditional": "裂殖菌綱",
+      "simplified": "裂殖菌纲",
+      "pinyin": "lie4 zhi2 jun1 gang1",
+      "outcome": "acceptable",
+      "reason": "The added 綱 is correctly represented by клас, and the historical-taxonomy qualification prevents a modern fungal-class claim. The note has the same supported bacterial explanation as the paired entry: https://lpsn.dsmz.de/class/schizomycetes .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e442c9bdb3e03015",
+      "source_line": 109779,
+      "traditional": "郇山隱修會",
+      "simplified": "郇山隐修会",
+      "pinyin": "Xun2 shan1 yin3 xiu1 hui4",
+      "outcome": "deferred",
+      "reason": "Пріорат Сіону is a suitable name, but fictional masonic order is a substantive historical characterization that has not been verified. The attached warning is relevant and insufficient evidence exists here to substitute a precise organizational history.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source conflates the organization, alleged history, and purported Masonic status; the correct historical scope remains unresolved."
+      ]
+    },
+    {
+      "id": "b169771c8e671f59",
+      "source_line": 15188,
+      "traditional": "功高望重",
+      "simplified": "功高望重",
+      "pinyin": "gong1 gao1 wang4 zhong4",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian gloss correctly understands 望重 as high reputation or esteem, rather than prospects. The note addresses that exact source mistranslation and the idiom label is preserved.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "141bb0d2b47ae683",
+      "source_line": 16983,
+      "traditional": "卑辭厚幣",
+      "simplified": "卑辞厚币",
+      "pinyin": "bei1 ci2 hou4 bi4",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian phrase correctly combines deferential language with generous gifts, matching both parts of 卑辭厚幣. The note identifies the English structural ambiguity without introducing an unsupported new sense.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e912513b1013daaf",
+      "source_line": 24509,
+      "traditional": "國際民間組織",
+      "simplified": "国际民间组织",
+      "pinyin": "guo2 ji4 min2 jian1 zu3 zhi1",
+      "outcome": "correction_proposed",
+      "reason": "The Chinese expression is not limited to humanitarian organizations. Removing that restriction implements the accurate distinction already explained by the note.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "міжнародна неурядова гуманітарна організація",
+          "after": "міжнародна неурядова організація",
+          "reason": "國際 = international, 民間 = nongovernmental/civil, 組織 = organization; no component limits the organization to humanitarian work. The source restriction is already correctly identified in the attached note.",
+          "confidence": "high",
+          "issue_type": "semantic_scope"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "a26f2a63ae648da3",
+      "source_line": 36935,
+      "traditional": "巴縣",
+      "simplified": "巴县",
+      "pinyin": "Ba1 xian4",
+      "outcome": "acceptable",
+      "reason": "The historical Ba-county definition and exact 重慶市|重庆市 reference are retained. The note correctly identifies the historical administrative frame, so no modern-district substitution is warranted.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "4cf1ab99122739f5",
+      "source_line": 39977,
+      "traditional": "待產",
+      "simplified": "待产",
+      "pinyin": "dai4 chan3",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian expression conveys awaiting childbirth, which follows 待產 without requiring labor already to have begun. The note accurately distinguishes the overly narrow English wording; no clinical advice is being supplied.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "849e4c6e3ba77a86",
+      "source_line": 81683,
+      "traditional": "程海湖",
+      "simplified": "程海湖",
+      "pinyin": "Cheng2 hai3 Hu2",
+      "outcome": "correction_proposed",
+      "reason": "The source’s Hunan location is contradicted by Yunnan government material identifying Chenghai in Lijiang’s Yongsheng county. Correct the province and retain the exact Chinese cross-reference.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "озеро Ченхай у Ліцзяні 麗江市|丽江市, Хунань",
+          "after": "озеро Ченхай у Ліцзяні 麗江市|丽江市, Юньнань",
+          "reason": "The Yunnan Forestry and Grassland Administration explicitly locates Chenghai in Yongsheng county, Lijiang, Yunnan: https://lcj.yn.gov.cn/html/2021/zuixindongtai_0827/63680.html . The exact Chinese reference is preserved.",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "У джерелі, ймовірно, помилка: Ліцзян і озеро Ченхай розташовані в Юньнані, а не Хунані.",
+          "after": "У джерелі помилково зазначено Хунань; озеро Ченхай розташоване в повіті Юншен міського округу Ліцзян, провінція Юньнань.",
+          "reason": "The province and administrative location are verified by the responsible provincial government: https://lcj.yn.gov.cn/html/2021/zuixindongtai_0827/63680.html .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "384aa44b7bb66126",
+      "source_line": 85874,
+      "traditional": "統一新羅",
+      "simplified": "统一新罗",
+      "pinyin": "tong3 yi1 Xin1 luo2",
+      "outcome": "correction_proposed",
+      "reason": "The source’s 658 start date is unsupported; the National Museum of Korea uses 668–935 for Unified Silla. Correct the date and proper-name capitalization.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "об'єднана Сілла (658–935), корейське королівство",
+          "after": "Об'єднана Сілла (668–935), корейське королівство",
+          "reason": "The National Museum of Korea dates Unified Silla to 668–935: https://vcm.museum.go.kr/ENG/contents/E0201080400.do?relicId=16248&schM=view&showHallId=757 .",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Початковий рік 658 збережено за джерелом; об'єднану Сіллу зазвичай датують від 668 року.",
+          "after": "У джерелі початковим роком помилково подано 658; Національний музей Кореї використовує для Об'єднаної Сілли датування 668–935.",
+          "reason": "Replace the statement that 658 remains in the translation with the verified museum dating: https://vcm.museum.go.kr/ENG/contents/E0201080400.do?relicId=16248&schM=view&showHallId=757 .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Some historical periodizations use 676 as the start; the proposed 668 follows the cited museum convention."
+      ]
+    },
+    {
+      "id": "002a016099e40ae4",
+      "source_line": 88313,
+      "traditional": "羽尾袋鼯",
+      "simplified": "羽尾袋鼯",
+      "pinyin": "yu3 wei3 dai4 wu2",
+      "outcome": "acceptable",
+      "reason": "The descriptive Ukrainian dwarf-acrobat name is intelligible and the Latin Acrobates pygmaeus identification is exact. The note accurately retains uncertainty about the conventional Ukrainian name.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The established Ukrainian zoological name remains unverified."
+      ]
+    },
+    {
+      "id": "81fb62b3be9295c4",
+      "source_line": 92395,
+      "traditional": "興凱刺鰟鮍",
+      "simplified": "兴凯刺鳑鲏",
+      "pinyin": "xing1 kai3 ci4 pang2 pi2",
+      "outcome": "acceptable",
+      "reason": "The scientific name and small-carp-family-fish explanation are accurately preserved, without fabricating a Ukrainian species name. The note is attached to the genuine naming gap.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The standard Ukrainian species name is not established; the source taxonomy is preserved."
+      ]
+    },
+    {
+      "id": "dc80727d9dbda65d",
+      "source_line": 93154,
+      "traditional": "芋泥",
+      "simplified": "芋泥",
+      "pinyin": "Yu4 ni2",
+      "outcome": "acceptable",
+      "reason": "Паста з таро correctly follows 芋 and retains the Chaozhou snack context. The note accurately explains why the source’s yam is not the appropriate plant equivalent.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "1f16906dccb4c5f1",
+      "source_line": 113337,
+      "traditional": "镻",
+      "simplified": "镻",
+      "pinyin": "die2",
+      "outcome": "acceptable",
+      "reason": "The rare historical poisonous-snake-name gloss is translated without speculative modern identification. The note accurately reflects the source’s limits.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The modern zoological referent of 镻 is unknown."
+      ]
+    },
+    {
+      "id": "e930b3ae4f47ce14",
+      "source_line": 114429,
+      "traditional": "阻值",
+      "simplified": "阻值",
+      "pinyin": "zu3 zhi2",
+      "outcome": "correction_proposed",
+      "reason": "The Chinese word can denote a resistance value, not only impedance. Preserve impedance as a context-dependent possibility while restoring the ordinary resistance sense.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "числове значення електричного імпедансу",
+          "after": "числове значення електричного опору; залежно від контексту — імпедансу",
+          "reason": "Texas Instruments uses 阻值 for a resistor’s resistance value, demonstrating that the headword is broader than the source’s impedance-only gloss: https://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/196/TI_3575CF91A18B945E28750763FC5B_.pdf .",
+          "confidence": "high",
+          "issue_type": "semantic_scope"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Whether resistance or impedance is intended in a particular occurrence depends on the electrical context."
+      ]
+    },
+    {
+      "id": "143c5fb0a621518e",
+      "source_line": 124192,
+      "traditional": "黑冠長臂猿",
+      "simplified": "黑冠长臂猿",
+      "pinyin": "hei1 guan1 chang2 bi4 yuan2",
+      "outcome": "correction_proposed",
+      "reason": "The note can be made more precise: current primate taxonomy distinguishes Nomascus concolor and Nomascus nasutus. The frozen species should not be silently exchanged; retain the unresolved intended-referent warning.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Англійська назва black crested gibbon і латинська Nomascus nasutus можуть позначати різні види; потрібна таксономічна перевірка.",
+          "after": "Сучасна класифікація розрізняє Nomascus concolor, якого називають black crested gibbon, і Nomascus nasutus, східного чорного чубатого гібона. Який саме вид мав на увазі автор цієї статті, не встановлено; джерельну латинську назву збережено.",
+          "reason": "The WWF primate-conservation report distinguishes the two species and their English names, while primary primatological reporting independently lists them as separate species: https://wwfasia.awsassets.panda.org/downloads/primates_of_the_greater_mekong_report__2021___double_page.pdf and https://primate-society.com/ips/public/ips_program/IPS10-175.pdf .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The source’s intended gibbon species remains unresolved.",
+        "The established Ukrainian name corresponding to that intended taxon remains unverified."
+      ]
+    }
+  ]
+}

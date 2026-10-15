@@ -1,0 +1,500 @@
+1. ID 88663b9175c93755 | line 121909 | 高村正彥 / 高村正彦 [Gao1 cun1 Zheng4 yan4]
+  0: EN KOMURA Masahiko (1942-), Japanese politician, foreign minister from 1998, minister of defense from 2007
+     UK Комура Масахіко (1942–), японський політик, міністр закордонних справ із 1998 року, міністр оборони з 2007 року
+  NOTES ["Дати перебування на посадах передано за джерелом; це не твердження про чинні посади."]
+
+2. ID 5559245db5a10033 | line 123554 | 麋鹿 / 麋鹿 [mi2 lu4]
+  0: EN Père David's deer (Elaphurus davidianus), species of deer native to China that is critically endangered
+     UK олень Давида (Elaphurus davidianus), китайський вид оленів під критичною загрозою зникнення
+  NOTES ["Охоронний статус відтворено за джерелом; актуальний статус не перевірено."]
+
+3. ID 55e4ea2f222493c4 | line 123996 | 黃腹扇尾鶲 / 黄腹扇尾鹟 [huang2 fu4 shan4 wei3 weng1]
+  0: EN (bird species of China) yellow-bellied fantail; yellow-bellied fairy fantail (Chelidorhynx hypoxanthus)
+     UK (вид птахів Китаю) жовточерева віялохвістка (Chelidorhynx hypoxanthus)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+4. ID 1c99187f5ec2de02 | line 21950 | 唐代宗 / 唐代宗 [Tang2 Dai4 zong1]
+  0: EN Emperor Taizong of Tang (727-779), reign name of ninth Tang emperor Li Yu 李豫[Li3 Yu4], reigned 762-779
+     UK Дай-цзун (727–779), імператорське ім'я дев'ятого імператора Тан Лі Юя 李豫[Li3 Yu4]; правив у 762–779 роках
+  NOTES ["Англійське Taizong у джерелі суперечить 唐代宗; перекладено як Дай-цзун відповідно до китайського слова й піньїню."]
+
+5. ID f910cd25265a95e5 | line 67963 | 漢元帝 / 汉元帝 [Han4 Yuan2 di4]
+  0: EN Yuan Emperor, reign name of Han Dynasty emperor Liu Shi 劉奭|刘奭[Liu2 Shi4], (74-33 BC), reigned 48-33 BC
+     UK Юань-ді, імператор династії Хань Лю Ши 劉奭|刘奭[Liu2 Shi4] (74–33 до н. е.), правив у 48–33 до н. е.
+  NOTES ["Джерело називає Юань-ді девізом правління; тип імператорського найменування потребує уточнення."]
+
+6. ID 7d497c3fec0eb3ce | line 68676 | 濟水 / 济水 [Ji3 Shui3]
+  0: EN Ji River, former river of north-eastern China which disappeared after the Yellow River flooded in 1852
+     UK Цзі, колишня річка на північному сході Китаю, що зникла після повені Хуанхе 1852 року
+  NOTES ["Дату зникнення річки 1852 наведено за джерелом; історичну дату зміни русла Хуанхе варто перевірити."]
+
+7. ID 9bdf764a5bd8a68f | line 1233 | 三個臭皮匠，勝過一個諸葛亮 / 三个臭皮匠，胜过一个诸葛亮 [san1 ge4 chou4 pi2 jiang5 , sheng4 guo4 yi1 ge4 Zhu1 ge3 Liang4]
+  0: EN variant of 三個臭皮匠，賽過一個諸葛亮|三个臭皮匠，赛过一个诸葛亮[san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4]
+     UK варіант 三個臭皮匠，賽過一個諸葛亮|三个臭皮匠，赛过一个诸葛亮[san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 Zhu1 ge3 Liang4]
+  NOTES ["The variant entry cross-reference is preserved exactly."]
+
+8. ID 848c3fa7c56e280d | line 56078 | 李陵 / 李陵 [Li3 Ling2]
+  0: EN Li Ling (-74 BC), Han dynasty general whose defeat by the Xiongnu 匈奴 in 104 BC led to a major scandal
+     UK Лі Лін (помер 74 до н. е.), ханський полководець, чия поразка від сюнну 匈奴 у 104 до н. е. спричинила великий скандал
+  NOTES ["Рік поразки в джерелі потребує перевірки; зазвичай зазначають 99 до н. е."]
+
+9. ID 70ac882d74c9b571 | line 92644 | 舒夢蘭 / 舒梦兰 [Shu1 Meng4 lan2]
+  0: EN Shu Menglan (1759-1835), Qin dynasty writer, poet and editor of Anthology of ci poems tunes 白香詞譜|白香词谱
+     UK Шу Менлань (1759–1835), письменник і поет династії Цін, упорядник антології мелодій поезії ци 白香詞譜|白香词谱
+  NOTES ["У джерелі «Qin» очевидно стосується династії Цін за наведеними датами."]
+
+10. ID a0b6d49bfef89eaa | line 107229 | 迪斯雷利 / 迪斯雷利 [Di2 si1 lei2 li4]
+  0: EN Benjamin Disraeli (1804-1881), British conservative politician and novelist, prime minister 1868-1880
+     UK Бенджамін Дізраелі (1804–1881), британський консервативний політик і романіст, премʼєр-міністр у період 1868–1880
+  NOTES ["Джерельні 1868–1880 не означають безперервного премʼєрства: Дізраелі обіймав посаду 1868 року та в 1874–1880."]
+
+11. ID 14e7b56b2e41a70d | line 115911 | 雅拉神山 / 雅拉神山 [Ya3 la1 shen2 shan1]
+  0: EN Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan
+     UK гора Ярла-Шампо в повіті Даофу 道孚縣|道孚县[Dao4 fu2 xian4], Гарцзе-Тибетський автономний округ, Сичуань
+  NOTES ["Джерело, ймовірно, змішує гору Яла в Сичуані з Ярла-Шампо в Тибеті; назву й локалізацію збережено за джерелом для перевірки."]
+
+12. ID fdf0a74148ae164b | line 115912 | 雅拉雪山 / 雅拉雪山 [Ya3 la1 xue3 shan1]
+  0: EN Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan
+     UK гора Ярла-Шампо в повіті Даофу 道孚縣|道孚县[Dao4 fu2 xian4], Гарцзе-Тибетський автономний округ, Сичуань
+  NOTES ["Джерело, ймовірно, змішує гору Яла в Сичуані з Ярла-Шампо в Тибеті; назву й локалізацію збережено за джерелом для перевірки."]
+
+13. ID 5dcf84632b229847 | line 115913 | 雅拉香波神山 / 雅拉香波神山 [Ya3 la1 Xiang1 bo1 shen2 shan1]
+  0: EN Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan
+     UK гора Ярла-Шампо в повіті Даофу 道孚縣|道孚县[Dao4 fu2 xian4], Гарцзе-Тибетський автономний округ, Сичуань
+  NOTES ["Джерело, ймовірно, змішує гору Яла в Сичуані з Ярла-Шампо в Тибеті; назву й локалізацію збережено за джерелом для перевірки."]
+
+14. ID c53525a06f52f12f | line 115914 | 雅拉香波雪山 / 雅拉香波雪山 [Ya3 la1 Xiang1 bo1 xue3 shan1]
+  0: EN Mt Yarla Shampo, in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan
+     UK гора Ярла-Шампо в повіті Даофу 道孚縣|道孚县[Dao4 fu2 xian4], Гарцзе-Тибетський автономний округ, Сичуань
+  NOTES ["Джерело, ймовірно, змішує гору Яла в Сичуані з Ярла-Шампо в Тибеті; назву й локалізацію збережено за джерелом для перевірки."]
+
+15. ID 638cae42f4761963 | line 117665 | 靈雀寺 / 灵雀寺 [Ling2 qiao3 si4]
+  0: EN Nyitso Monastery in Dawu County 道孚縣|道孚县[Dao4 fu2 xian4], Garze Tibetan autonomous prefecture, Sichuan
+     UK монастир Ньїцо в повіті Даву 道孚縣|道孚县[Dao4 fu2 xian4], Гарцзе-Тибетська автономна область, Сичуань
+  NOTES ["Українське передавання назви монастиря Nyitso потребує перевірки."]
+
+16. ID 7219d6de2a01be92 | line 69303 | 炎帝 / 炎帝 [Yan2 di4]
+  0: EN Flame Emperors (c. 2000 BC), legendary dynasty descended from Shennong 神農|神农[Shen2 nong2] Farmer God
+     UK Вогненні імператори (бл. 2000 р. до н. е.), легендарна династія нащадків бога-землероба Шеньнуна 神農|神农[Shen2 nong2]
+  NOTES ["Джерело трактує назву як династію Вогненних імператорів; поширене значення — легендарний правитель Яньді. Історичний обсяг і датування потребують перевірки."]
+
+17. ID f122c52ab837d8b2 | line 115899 | 雅各賓派 / 雅各宾派 [Ya3 ge4 bin1 pai4]
+  0: EN Jacobin club, French revolutionary party that played a leading role in the reign of terror 1791-1794
+     UK Якобінський клуб, французьке революційне угруповання, що відігравало провідну роль у терорі 1791–1794 років
+  NOTES ["Дати терору відтворено за джерелом; потребують історичної перевірки."]
+
+18. ID ed7891606bfc3e93 | line 35176 | 尼泊爾鷦鶥 / 尼泊尔鹪鹛 [Ni2 bo2 er3 jiao1 mei2]
+  0: EN (bird species of China) Nepal cupwing; immaculate cupwing; Nepal wren-babbler (Pnoepyga immaculata)
+     UK (вид птахів Китаю) непальська короткохвоста тимелія (Pnoepyga immaculata)
+  NOTES ["Усталена українська видова назва потребує перевірки; подано описовий відповідник."]
+
+19. ID c25f785fa6e79f58 | line 51973 | 新朝 / 新朝 [Xin1 chao2]
+  0: EN the Xin dynasty (8-23 AD) of Wang Mang 王莽, forming the interregnum between the former and later Han
+     UK династія Сінь Ван Мана 王莽 (8–23 н. е.), перерва між Ранньою та Пізньою Хань
+  NOTES ["Початок династії Сінь 8 н. е. подано за джерелом; часто датується 9 н. е."]
+
+20. ID 181d19663127ff84 | line 114566 | 阿巴嘎旗 / 阿巴嘎旗 [A1 ba1 ga1 qi2]
+  0: EN Abag banner or Avga khoshuu in Xilingol League 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Inner Mongolia
+     UK Абаґ, або Авґа, хошун в аймаку Шилін-Гол 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Внутрішня Монголія
+  NOTES ["Українське відтворення монгольської назви хошуну потребує перевірки."]
+
+21. ID 82c8c0eaa0239738 | line 115508 | 隋唐演義 / 隋唐演义 [Sui2 Tang2 Yan3 yi4]
+  0: EN Dramatized History of Sui and Tang, novel by Qing dynasty author Chu Renhuo 褚人獲|褚人获[Chu3 Ren2 huo4]
+     UK «Історичний роман про Суй і Тан», роман письменника доби Цін Чу Женьхо 褚人獲|褚人获[Chu3 Ren2 huo4]
+  NOTES ["Назву роману перекладено описово; усталений український заголовок не перевірено."]
+
+22. ID c69da245e3b2ec10 | line 116725 | 雪山獅子旗 / 雪山狮子旗 [xue3 shan1 shi1 zi5 qi2]
+  0: EN Snow lion banner, banned flag of Tibetan independence movement, featuring mythological Snow Leopard
+     UK прапор зі сніговими левами, заборонений прапор руху за незалежність Тибету із зображенням міфічного снігового звіра
+  NOTES ["Джерело називає зображення Snow Leopard, але китайська назва й прапор стосуються снігового лева; суперечність потребує перевірки."]
+
+23. ID 8e708d99bf0b1ccb | line 13852 | 列寧格勒 / 列宁格勒 [Lie4 ning2 ge2 le4]
+  0: EN Leningrad, former name (1923–1991) of Russian city Saint Petersburg 聖彼得堡|圣彼得堡[Sheng4 bi3 de2 bao3]
+     UK Ленінград, колишня назва (1923–1991 за джерелом) російського міста Санкт-Петербург 聖彼得堡|圣彼得堡[Sheng4 bi3 de2 bao3]
+  NOTES ["У джерелі перейменування на Ленінград датовано 1923 роком; загальноприйнята дата — 1924."]
+
+24. ID c2c9f3a7152fe2ca | line 64041 | 泛珠江三角 / 泛珠江三角 [fan4 zhu1 jiang1 san1 jiao3]
+  0: EN the Pan-Pearl river delta (economic zone including the 5 provinces around Guangzhou and Hong Kong)
+     UK Панперлиннорічкова дельта (за джерелом, економічна зона з п’яти провінцій навколо Ґуанчжоу й Гонконгу)
+  NOTES ["Кількість провінцій у цьому сегменті відрізняється від опису того самого регіону в сусідньому джерельному записі 泛珠三角; потрібна перевірка."]
+
+25. ID f315bebd8df0366c | line 84770 | 紅翅鵙鶥 / 红翅鵙鹛 [hong2 chi4 ju2 mei2]
+  0: EN (bird species of China) white-browed shrike-babbler; Blyth's shrike-babbler (Pteruthius aeralatus)
+     UK (вид птахів Китаю) білоброва сорокопудова тимелія; тимелія Бліта (Pteruthius aeralatus)
+  NOTES ["Назви подано описово; усталені українські видові відповідники потребують перевірки."]
+
+26. ID 2395ba0d5f640b77 | line 98824 | 裕仁 / 裕仁 [Yu4 ren2]
+  0: EN Hirohito, personal name of the Shōwa 昭和[Zhao1 he2] emperor of Japan (1901-1989), reigned 1925-1989
+     UK Хірохіто, особисте ім'я японського імператора Сьова 昭和[Zhao1 he2] (1901–1989), роки правління за джерелом: 1925–1989
+  NOTES ["Початок правління Хірохіто 1925 у джерелі неточний; зазвичай вказують 1926."]
+
+27. ID bb6c37e83368e65c | line 29035 | 天龍八部 / 天龙八部 [Tian1 long2 Ba1 Bu4]
+  0: EN Demigods and Semidevils, wuxia novel by Jin Yong 金庸[Jin1 Yong1] and its TV and screen adaptations
+     UK «Напівбоги й напівдемони», роман у жанрі уся письменника Цзінь Юна 金庸[Jin1 Yong1] та його теле- й кіноекранізації
+  NOTES ["Українську назву роману подано як переклад, її усталеність не перевірено."]
+
+28. ID fbd9d249566a4727 | line 53392 | 昭和 / 昭和 [Zhao1 he2]
+  0: EN Shōwa, Japanese era name, corresponding to the reign (1925-1989) of emperor Hirohito 裕仁[Yu4 ren2]
+     UK Сьова, назва японської ери правління імператора Хірохіто 裕仁[Yu4 ren2] (1926–1989)
+  NOTES ["У джерелі початок ери помилково датовано 1925 роком; ера Сьова почалася 1926 року."]
+
+29. ID c9e23f75186a3b82 | line 55999 | 李恆 / 李恒 [Li3 Heng2]
+  0: EN Li Heng, personal name of thirteenth Tang emperor Muzong 穆宗[Mu4 Zong1] (795-824), reigned 821-825
+     UK Лі Хен, особисте ім'я тринадцятого танського імператора Муцзуна 穆宗[Mu4 Zong1] (795–824), правив у 821–825 роках
+  NOTES ["Дати правління в джерелі суперечать даті смерті; кінцевий рік потребує перевірки."]
+
+30. ID b3188ecde06ce4a1 | line 122919 | 鱗胸鷦鶥 / 鳞胸鹪鹛 [lin2 xiong1 jiao1 mei2]
+  0: EN (bird species of China) scaly-breasted cupwing; scaly-breasted wren-babbler (Pnoepyga albiventer)
+     UK (вид птахів Китаю) лускогрудий кропив'янковий баблер (Pnoepyga albiventer)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+31. ID 2ea0f9732385fc53 | line 58292 | 棘鼻青島龍 / 棘鼻青岛龙 [ji2 bi2 Qing1 dao3 long2]
+  0: EN Tsintaosaurus spinorhinus, a 10 meter long hadrosaur with a single horn on its duck-billed snout
+     UK Tsintaosaurus spinorhinus, десятиметровий гадрозавр з одним рогом на качкодзьобій морді
+  NOTES ["Опис гребеня як одного рога відтворює джерело й може бути застарілою реконструкцією."]
+
+32. ID f8d9baa62ee78fa7 | line 69139 | 灰冠鴉雀 / 灰冠鸦雀 [hui1 guan1 ya1 que4]
+  0: EN (bird species of China) Przevalski's parrotbill; rusty-throated parrotbill (Suthora przewalskii)
+     UK (вид птахів Китаю) сутора Пржевальського; іржастогорла сутора (Suthora przewalskii)
+  NOTES ["Український відповідник назви Suthora przewalskii подано описово; усталену орнітологічну назву слід звірити."]
+
+33. ID 0d2319bdae3adc6b | line 117718 | 青年節 / 青年节 [Qing1 nian2 jie2]
+  0: EN Youth Day (May 4th), PRC national holiday for young people aged 14 to 28, who get half a day off
+     UK День молоді (4 травня), державне свято КНР для молоді віком 14–28 років із правом на пів дня відпочинку
+  NOTES ["Вікові межі та тривалість святкового відпочинку відтворено за джерелом, без перевірки чинних правил."]
+
+34. ID dc37344fec43b0fb | line 87203 | 織田信長 / 织田信长 [Zhi1 tian2 Xin4 chang2]
+  0: EN ODA Nobunaga (1534-1582), Japanese shogun (warlord), played an important role in unifying Japan
+     UK Ода Нобунаґа (1534–1582), японський сьоґун (воєначальник), що відіграв важливу роль в об'єднанні Японії
+  NOTES ["У джерелі Нобунаґу названо сьоґуном, хоча він не обіймав цього титулу; історично точніше «воєначальник, даймьо»."]
+
+35. ID 4beb65a659253143 | line 112313 | 錫爾河 / 锡尔河 [Xi1 er3 He2]
+  0: EN Syr Darya, Central Asian river, flowing from Kyrgiz Republic through Kazakhstan to the Aral sea
+     UK Сирдарʼя, річка Центральної Азії, що бере початок у Киргизстані й тече через Казахстан до Аральського моря
+  NOTES ["Опис течії у джерелі спрощений: Сирдарʼя утворюється від злиття річок і також проходить через Узбекистан та Таджикистан."]
+
+36. ID 515a885913042643 | line 117735 | 青檀 / 青檀 [qing1 tan2]
+  0: EN blue sandalwood (Pteroceltis tatarinowii Maxim), the bark of which is used to manufacture 宣紙|宣纸
+     UK птероцельтис Татаринова (Pteroceltis tatarinowii Maxim), кору якого використовують для виготовлення 宣紙|宣纸
+  NOTES ["Усталена українська ботанічна назва потребує перевірки."]
+
+37. ID 18ee870160fde630 | line 117736 | 青檀樹 / 青檀树 [qing1 tan2 shu4]
+  0: EN blue sandalwood (Pteroceltis tatarinowii Maxim), the bark of which is used to manufacture 宣紙|宣纸
+     UK птероцельтис Татаринова (Pteroceltis tatarinowii Maxim), кору якого використовують для виготовлення 宣紙|宣纸
+  NOTES ["Усталена українська ботанічна назва потребує перевірки."]
+
+38. ID b7441e43ef92ae69 | line 124018 | 黃花崗 / 黄花岗 [Huang2 hua1 gang3]
+  0: EN Huanghuagang (Chrysanthemum Hill) in Guangzhou, scene of disastrous uprising of 23rd April 1911
+     UK Хуанхуаган, «Пагорб хризантем» у Гуанчжоу, місце невдалого повстання 23 квітня 1911 року
+  NOTES ["Дата повстання 23 квітня відтворена за джерелом; поширене датування 27 квітня потребує звірки."]
+
+39. ID e3bc151c1813b42f | line 25700 | 城市運動會 / 城市运动会 [Cheng2 shi4 Yun4 dong4 hui4]
+  0: EN National Intercity Games, Chinese athletics competition, organized every four years since 1988
+     UK Національні міжміські ігри, китайські спортивні змагання, що за джерелом проводяться кожні чотири роки з 1988 року
+  NOTES ["Періодичність і початковий рік відтворено з джерела; актуальність історичної довідки не перевірено."]
+
+40. ID 896e16e92a208067 | line 93745 | 苯並噻吩 / 苯并噻吩 [ben3 bing4 sai1 fen1]
+  0: EN benzothiophene C8H9, a heterocyclic compound (with one benzene ring and one cyclopentene ring)
+     UK бензотіофен, гетероциклічна сполука з бензеновим і тіофеновим кільцями (у джерелі помилково наведено C8H9 та циклопентенове кільце)
+  NOTES ["Формула бензотіофену — C8H6S; формула й опис другого кільця в англійському джерелі помилкові."]
+
+41. ID 47eb72cc8e066cb6 | line 51390 | 文宗 / 文宗 [Wen2 zong1]
+  0: EN Wenzong Emperor, reign name of Yuan Dynasty emperor Tugh Temür (1304-1332), reigned 1328-1332
+     UK Веньцзун, імператор династії Юань Туг-Темур (1304–1332), правив у 1328–1332 роках
+  NOTES ["文宗 — храмове ім’я, а не девіз правління; англійське «reign name» у джерелі неточне."]
+
+42. ID 681b936523fea855 | line 115208 | 陳其邁 / 陈其迈 [Chen2 Qi2 mai4]
+  0: EN Chen Chi-mai (1964-), Taiwanese DPP politician, vice premier of the Republic of China (2019-)
+     UK Чень Цімай (нар. 1964), тайванський політик Демократичної прогресивної партії, віцепрем’єр Китайської Республіки (з 2019)
+  NOTES ["Відкритий період перебування на посаді «з 2019» відтворено за джерелом; актуальність цих відомостей не перевірено."]
+
+43. ID 398fef26dbb18f1e | line 17784 | 卵黃囊 / 卵黄囊 [luan3 huang2 nang2]
+  0: EN yolk sac (ectodermal cells attaching fetus to uterus before the development of the placenta)
+     UK жовтковий мішок (у джерелі описаний як клітини, що прикріплюють плід до матки до формування плаценти)
+  NOTES ["Пояснення походження й функції жовткового мішка в англійському джерелі біологічно неточне."]
+
+44. ID aa0bf2513a0ccd94 | line 51368 | 文在寅 / 文在寅 [Wen2 Zai4 yin2]
+  0: EN Moon Jae-in (1953-), Korean politician and human rights lawyer, president of Korea from 2017
+     UK Мун Чже Ін (нар. 1953), корейський політик і правозахисний адвокат, президент Кореї з 2017 року
+  NOTES ["Відкриту дату президентства «з 2017» збережено за джерелом; це історична, потенційно застаріла глоса."]
+
+45. ID 0f1a7fcd0db4b902 | line 56066 | 李豫 / 李豫 [Li3 Yu4]
+  0: EN Li Yu, personal name of ninth Tang emperor Taizong 代宗[Tai4 zong1] (727-779), reigned 762-779
+     UK Лі Юй, особисте ім'я дев'ятого танського імператора Дайцзуна 代宗[Tai4 zong1] (727–779), правив у 762–779 роках
+  NOTES ["Джерело помилково подає Taizong і [Tai4 zong1] для 代宗; правильно Daizong. Посилання збережене дослівно."]
+
+46. ID 80ca93911a82b79e | line 63543 | 河姆渡遺址 / 河姆渡遗址 [He2 mu3 du4 yi2 zhi3]
+  0: EN Hemudu neolithic archaeological site near Ningbo 長江|长江 in Zhejiang, going back to c. 5000 BC
+     UK Хемуду, неолітична археологічна пам’ятка поблизу Нінбо в Чжецзяні, датована приблизно 5000 р. до н. е. (у джерелі наведено 長江|长江)
+  NOTES ["Посилання 長江|长江 означає Янцзи, а не Нінбо; у джерелі воно не узгоджується з англійським текстом."]
+
+47. ID 1f4d0800cbadcf30 | line 77258 | 皖南事變 / 皖南事变 [Wan3 nan2 Shi4 bian4]
+  0: EN New Fourth Army Incident of 1940, involving fighting between the Nationalists and Communists
+     UK інцидент із Новою четвертою армією 1940 року, зі збройними сутичками між гомінданівцями й комуністами
+  NOTES ["Рік у джерелі помилковий: цей інцидент зазвичай датують січнем 1941 року."]
+
+48. ID 71781545e4c363e5 | line 43468 | 應縣木塔 / 应县木塔 [Ying4 Xian4 mu4 ta3]
+  0: EN the timber pagoda of the Fogong Temple in Ying County, Shanxi, built in 1056 (Song dynasty)
+     UK дерев'яна пагода храму Фоґун у повіті Їнсянь, Шаньсі, збудована 1056 року (за часів династії Сун)
+  NOTES ["Дата відповідає періоду Сун, але пагоду збудовано на території держави Ляо; династична прив'язка джерела неточна."]
+
+49. ID ce34497d3d557e19 | line 25647 | 埃迪卡拉紀 / 埃迪卡拉纪 [Ai1 di2 ka3 la1 ji4]
+  0: EN Ediacaran period (c. 635-542 million years ago), late phase of pre-Cambrian geological era
+     UK едіакарський період (бл. 635–542 млн років тому), пізній період докембрію
+  NOTES ["Часові межі відтворено за джерелом; геохронологічна шкала могла бути уточнена."]
+
+50. ID c0e96d1c790a0b5b | line 51024 | 敬祝 / 敬祝 [jing4 zhu4]
+  0: EN to offer humbly (written at the end of letter to sb of higher status); your humble servant
+     UK шанобливо бажати (формула наприкінці листа до старшого за становищем); Ваш покірний слуга
+  NOTES ["敬祝 зазвичай вводить шанобливе побажання; англійське «your humble servant» у джерелі не є точним буквальним відповідником."]
+
+51. ID bbbdaf685cb71b61 | line 68672 | 濟州 / 济州 [Ji4 zhou1]
+  0: EN Jeju Island special autonomous province (Cheju Island), South Korea, a World Heritage site
+     UK Чеджу, особлива автономна провінція на острові Чеджу в Південній Кореї; об'єкт Світової спадщини
+  NOTES ["Джерело узагальнено називає всю провінцію об'єктом Світової спадщини; статус стосується визначених природних об'єктів."]
+
+52. ID 7124b94e6611920f | line 78422 | 真番郡 / 真番郡 [Zhen1 pan1 jun4]
+  0: EN Zhenpan commandery (108 BC-c. 300 AD), one of four Han dynasty commanderies in north Korea
+     UK округ Чженьпань (108 до н. е. — бл. 300 н. е.), один із чотирьох округів династії Хань у Північній Кореї
+  NOTES ["Дата припинення існування округу в джерелі сумнівна; Чженьпань зазвичай вважають скасованим 82 року до н. е."]
+
+53. ID 69a6ca092b2c9f9d | line 96639 | 蘇貞昌 / 苏贞昌 [Su1 Zhen1 chang1]
+  0: EN Su Tseng-chang (1947-), Taiwanese DPP politician, premier of the Republic of China (2019-)
+     UK Су Чженьчан (1947 р. н.), тайванський політик ДПП, прем'єр Республіки Китай від 2019 року
+  NOTES ["Посада подана за джерелом із відкритим періодом від 2019 року; біографічна інформація застаріла."]
+
+54. ID 5a60fc574bb55019 | line 115058 | 除暴安良 / 除暴安良 [chu2 bao4 an1 liang2]
+  0: EN to root out the strong and give people peace (idiom); to rob the rich and give to the poor
+     UK викорінювати насильників і давати людям спокій (ідіома); забирати в багатих і віддавати бідним
+  NOTES ["Глоса про перерозподіл багатства ширша за основне значення китайського вислову: приборкати лиходіїв і захистити добрих людей."]
+
+55. ID db699cc188dd9ac7 | line 35864 | 岡底斯山 / 冈底斯山 [Gang1 di3 si1 shan1]
+  0: EN Mt Gangdisê (6656m) in southwest Tibet, revered by Tibetans as the center of the universe
+     UK гора Ґандісе (6656 м) у південно-західному Тибеті, яку тибетці шанують як центр усесвіту
+  NOTES ["Назва та висота відтворені за джерелом; імовірно, йдеться про Кайлас, висота якого в сусідньому записі інша."]
+
+56. ID 486229aa7cdd67a7 | line 84867 | 紅頸葦鵐 / 红颈苇鹀 [hong2 jing3 wei3 wu2]
+  0: EN (bird species of China) ochre-rumped bunting; Japanese reed bunting (Emberiza yessoensis)
+     UK (вид птахів Китаю) вівсянка японська очеретяна; вохристонадхвоста вівсянка (Emberiza yessoensis)
+  NOTES ["Назви подано описово; усталений український відповідник потребує перевірки."]
+
+57. ID d3312345e9bdce8b | line 86288 | 維基數據 / 维基数据 [Wei2 ji1 shu4 ju4]
+  0: EN Wikistats, (stats.wikimedia.org), online tool providing statistics for Wikimedia projects
+     UK Вікідані (Wikidata); у джерелі описано Wikistats (stats.wikimedia.org), онлайн-інструмент статистики проєктів Вікімедіа
+  NOTES ["Китайська назва 維基數據 відповідає Wikidata, але англійська глоса описує інший проєкт, Wikistats; потрібне виправлення джерела."]
+
+58. ID 7156874d05d935c1 | line 91616 | 臨屯郡 / 临屯郡 [Lin2 tun2 Jun4]
+  0: EN Lintun Commandery (108 BC–c. 300 AD), one of four Han dynasty commanderies in north Korea
+     UK округ Ліньтунь (108 р. до н. е. — близько 300 р. н. е.), один із чотирьох ханьських округів на півночі Кореї
+  NOTES ["Датування існування округу до близько 300 р. н. е. у джерелі сумнівне; Ліньтунь зазвичай вважають скасованим значно раніше."]
+
+59. ID ebbf8876a4161c44 | line 107023 | 農運會 / 农运会 [Nong2 yun4 hui4]
+  0: EN China National Farmers' Games (sports meeting for peasants held every 4 years since 1988)
+     UK Національні селянські ігри Китаю, спортивні змагання селян, що проводяться раз на чотири роки з 1988
+  NOTES ["Періодичність змагань відтворено з джерела як історичну довідку; актуальність не перевірялася."]
+
+60. ID 6314ce20d66c6a30 | line 22013 | 唐詩三百首 / 唐诗三百首 [Tang2 shi1 San1 bai3 Shou3]
+  0: EN Three Hundred Tang Poems, an anthology collected around 1763 by Sun Zhu 孫誅|孙诛[Sun1 Zhu1]
+     UK «Триста танських віршів», антологія, укладена близько 1763 року Сунь Чжу 孫誅|孙诛[Sun1 Zhu1]
+  NOTES ["Китайське написання імені укладача в джерелі, ймовірно, помилкове; посилання збережено дослівно."]
+
+61. ID 8a0a8f832c54986e | line 56328 | 東坡肉 / 东坡肉 [Dong1 po1 rou4]
+  0: EN stir-fried pork, favorite of Northern Song writer Su Shi 蘇軾|苏轼, a.k.a. Su Dongpo 蘇東坡|苏东坡
+     UK свинина Дунпо, улюблена страва письменника Північної Сун Су Ши 蘇軾|苏轼, також відомого як Су Дунпо 蘇東坡|苏东坡
+  NOTES ["Джерело називає свинину обсмаженою; традиційна страва зазвичай тушкована."]
+
+62. ID 2be2673d180aeab0 | line 83913 | 米哈伊爾·普羅霍羅夫 / 米哈伊尔·普罗霍罗夫 [Mi3 ha1 yi1 er3 · Pu3 luo2 huo4 luo2 fu1]
+  0: EN Mikhail Prokhorov (1965-), Russian billionaire and owner of the Brooklyn Nets (NBA team)
+     UK Михайло Прохоров (нар. 1965), російський мільярдер і власник команди НБА «Бруклін Нетс»
+  NOTES ["Статус власника команди в джерелі застарілий."]
+
+63. ID c2fc883f41867b5c | line 84856 | 紅頭噪鶥 / 红头噪鹛 [hong2 tou2 zao4 mei2]
+  0: EN (bird species of China) chestnut-crowned laughingthrush (Trochalopteron erythrocephalum)
+     UK (вид птахів Китаю) чагарниця каштановоголова (Trochalopteron erythrocephalum)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+64. ID 4e0c2aace6ecbc4b | line 21712 | 哈西納 / 哈西纳 [Ha1 xi1 na4]
+  0: EN Ms Sheikh Hasina (1947-), Bangladesh politician, prime minister 1996-2001 and from 2009
+     UK Шейх Хасіна (нар. 1947), бангладеська політикиня, прем'єр-міністерка в 1996–2001 роках і з 2009 року
+  NOTES ["Часові межі другого терміну подано за джерелом, яке не вказує дати його завершення."]
+
+65. ID 58dc9a4b0dc5ddcd | line 100159 | 角弓反張 / 角弓反张 [jiao3 gong1 fan3 zhang1]
+  0: EN opitoshtonous (med.), muscular spasm of the body associated with tetanus and meningitis
+     UK опістотонус (мед.), судомне вигинання тіла при правці та менінгіті
+  NOTES ["У джерелі назву синдрому подано з помилкою; за китайським терміном мається на увазі опістотонус."]
+
+66. ID 5a22d990211924f1 | line 123380 | 鷹鵰 / 鹰雕 [ying1 diao1]
+  0: EN (bird species of China) mountain hawk-eagle; Hodgson's hawk-eagle (Nisaetus nipalensis)
+     UK (вид птахів Китаю) гірський орел-яструб, або орел-яструб Годжсона (Nisaetus nipalensis)
+  NOTES ["Українська назва описова; усталений орнітологічний відповідник не перевірено."]
+
+67. ID 8b4642549a6331c7 | line 14358 | 剃髮令 / 剃发令 [ti4 fa4 ling4]
+  0: EN the Qing order to all men to shave their heads but keep a queue, first ordered in 1646
+     UK указ Цін, який зобов'язував усіх чоловіків голити голову, залишаючи косу; уперше виданий 1646 року (за джерелом)
+  NOTES ["Рік першого указу про зачіску в джерелі потребує перевірки; часто наводять 1645."]
+
+68. ID 1fce42b6940a16e1 | line 26685 | 墨索里尼 / 墨索里尼 [Mo4 suo3 li3 ni2]
+  0: EN Benito Mussolini (1883-1945), Italian fascist dictator, "Il Duce", president 1922-1943
+     UK Беніто Муссоліні (1883–1945), італійський фашистський диктатор, «дуче», очільник уряду у 1922–1943 роках
+  NOTES ["У джерелі помилково зазначено president; Муссоліні був головою уряду, а не президентом."]
+
+69. ID a731d39ef244251f | line 28186 | 大湄公河次區域 / 大湄公河次区域 [Da4 Mei2 gong1 he2 ci4 qu1 yu4]
+  0: EN Greater Mekong Subregion (GMS), area of economic cooperation between China and Vietnam
+     UK Великий субрегіон Меконгу (GMS), зона економічної співпраці між Китаєм і В'єтнамом
+  NOTES ["Джерельне пояснення неповне: GMS охоплює також інші країни басейну Меконгу."]
+
+70. ID 922da283d7e2588d | line 35812 | 山鶥 / 山鹛 [shan1 mei2]
+  0: EN (bird species of China) Beijing babbler; Chinese hill warbler (Rhopophilus pekinensis)
+     UK (вид птахів Китаю) пекінська тимелія; китайська гірська очеретянка (Rhopophilus pekinensis)
+  NOTES ["Усталена українська видова назва потребує перевірки; подано описові відповідники."]
+
+71. ID 65ae38413bacd664 | line 79226 | 石原慎太郎 / 石原慎太郎 [Shi2 yuan2 Shen4 tai4 lang2]
+  0: EN Ishihara Shintarō (1932-), Japanese author and politician, governor of Tokyo 1999-2012
+     UK Ісіхара Сінтаро (нар. 1932), японський письменник і політик, губернатор Токіо у 1999–2012 рр.
+  NOTES ["Джерело залишає дату смерті відкритою; біографічні дати потребують актуалізації."]
+
+72. ID acdbfef8be75383e | line 123072 | 鳳頭鷹雕 / 凤头鹰雕 [feng4 tou2 ying1 diao1]
+  0: EN (bird species of China) changeable hawk-eagle; crested hawk-eagle (Nisaetus cirrhatus)
+     UK (вид птахів Китаю) мінливий, або чубатий, орел-яструб (Nisaetus cirrhatus)
+  NOTES ["Описова українська назва птаха; усталений відповідник не перевірено."]
+
+73. ID 21b6e479dcda401b | line 20171 | 同翅目 / 同翅目 [tong2 chi4 mu4]
+  0: EN Homoptera (insect suborder including cicadas, aphids, plant-hoppers, shield bugs etc)
+     UK рівнокрилі (Homoptera), група комах, до якої джерело відносить цикад, попелиць, цикадок, щитників тощо
+  NOTES ["Перелік джерела таксономічно неточний: щитники належать до різнокрилих; традиційна група Homoptera також не відповідає сучасному монофілетичному таксону."]
+
+74. ID 98d40c423ca3e380 | line 72949 | 玉山噪鶥 / 玉山噪鹛 [Yu4 Shan1 zao4 mei2]
+  0: EN (bird species of China) white-whiskered laughingthrush (Trochalopteron morrisonianum)
+     UK (вид птахів Китаю) біловуса чагарниця (Trochalopteron morrisonianum)
+  NOTES ["Українська видова назва описова й потребує номенклатурної перевірки."]
+
+75. ID 4a2d2ced19279cfc | line 91199 | 腺嘌呤 / 腺嘌呤 [xian4 piao4 ling4]
+  0: EN adenine nucleotide (A, pairs with thymine T 胸腺嘧啶 in DNA and with uracil U 尿嘧啶 in RNA)
+     UK аденін (A), азотиста основа нуклеотидів, яка утворює пару з тиміном T 胸腺嘧啶 у ДНК та урацилом U 尿嘧啶 у РНК
+  NOTES ["Джерело називає аденін нуклеотидом; точніше це азотиста основа нуклеотидів."]
+
+76. ID cb999d2d501843e1 | line 92300 | 臺灣斑胸鉤嘴鶥 / 台湾斑胸钩嘴鹛 [Tai2 wan1 ban1 xiong1 gou1 zui3 mei2]
+  0: EN (bird species of China) black-necklaced scimitar babbler (Erythrogenys erythrocnemis)
+     UK (вид птахів Китаю) чорносмуга тимелія-криводзьоб (Erythrogenys erythrocnemis)
+  NOTES ["Українська назва описова; усталену назву цього виду слід перевірити за орнітологічним джерелом."]
+
+77. ID 53c1f31975f1e106 | line 104687 | 超泛神論 / 超泛神论 [chao1 fan4 shen2 lun4]
+  0: EN panentheism, theological theory of God as equal to the Universe while transcending it
+     UK панентеїзм, богословське вчення про Бога, що охоплює Всесвіт і водночас перевершує його
+  NOTES ["У джерелі Бог названий рівним Всесвіту; панентеїзм зазвичай розрізняє охоплення Всесвіту Богом і перевершення його."]
+
+78. ID 941cef82e8610e96 | line 105242 | 路德雀鶥 / 路德雀鹛 [Lu4 de2 que4 mei2]
+  0: EN (bird species of China) brown-throated fulvetta; Ludlow's fulvetta (Fulvetta ludlowi)
+     UK (вид птахів Китаю) фульвета Людлоу, бурогорла фульвета (Fulvetta ludlowi)
+  NOTES ["Українську усталену видову назву не підтверджено; наведено відповідник за назвою та науковим визначенням."]
+
+79. ID ad7bd1fbf8bb3151 | line 114214 | 關東地震 / 关东地震 [Guan1 dong1 di4 zhen4]
+  0: EN Kantō earthquake of 1923, magnitude 8.2, that killed 200,000 people in the Tokyo area
+     UK землетрус Канто 1923 року магнітудою 8,2, унаслідок якого, за джерелом, загинуло 200 000 людей у районі Токіо
+  NOTES ["Число загиблих і магнітуда у джерелі потребують історичної перевірки."]
+
+80. ID fc4975b2eeaab208 | line 118207 | 革蘭氏陰性 / 革兰氏阴性 [Ge2 lan2 shi4 yin1 xing4]
+  0: EN Gram negative (bacteria that do not retain Gram stain, often the more dangerous kind)
+     UK грамнегативний (про бактерії, які не утримують барвник за методом Грама; за джерелом, часто небезпечніші)
+  NOTES ["Узагальнення джерела про більшу небезпечність грамнегативних бактерій не є універсальним."]
+
+81. ID f4d0ce7a718cb517 | line 15034 | 劍嘴鶥 / 剑嘴鹛 [jian4 zui3 mei2]
+  0: EN (bird species of China) slender-billed scimitar babbler (Pomatorhinus superciliaris)
+     UK (вид птахів Китаю) тонкодзьоба тимелія-криводзьоб (Pomatorhinus superciliaris)
+  NOTES ["Українська назва птаха описова; усталену видову назву слід перевірити."]
+
+82. ID c4159816f52f019f | line 19517 | 司馬懿 / 司马懿 [Si1 ma3 Yi4]
+  0: EN Sima Yi (179-251), warlord under Cao Cao and subsequently founder of the Jin dynasty
+     UK Сима Ї (179–251), воєначальник під владою Цао Цао, якого джерело називає згодом засновником династії Цзінь
+  NOTES ["Засновником династії був його онук Сима Янь; Сима Ї заклав підвалини влади роду."]
+
+83. ID 409ec140b080bce6 | line 100612 | 訓民正音 / 训民正音 [Xun4 min2 Zheng4 yin1]
+  0: EN Korean text HunMin JongUm promulgated by Sejong Daewang in 1418 to introduce hangeul
+     UK «Хунмін чоним», корейський текст, оприлюднений королем Седжоном Великим у 1418 році для запровадження хангиля
+  NOTES ["Дата 1418 відтворена з джерела, але, ймовірно, помилкова: «Хунмін чоним» зазвичай датують 1446 роком."]
+
+84. ID 0cc4ea6e71ab361c | line 104364 | 赫魯曉夫 / 赫鲁晓夫 [He4 lu3 xiao3 fu5]
+  0: EN Nikita Khrushchev (1894–1971), secretary-general of Soviet Communist Party 1953–1964
+     UK Микита Хрущов (1894–1971), керівник Комуністичної партії Радянського Союзу у 1953–1964 роках
+  NOTES ["Джерело називає посаду генеральним секретарем; фактичний титул Хрущова в цей період був «перший секретар»."]
+
+85. ID 17d022b6ba9c4f93 | line 123771 | 麻生太郎 / 麻生太郎 [Ma2 sheng1 Tai4 lang2]
+  0: EN ASŌ Tarō (1940-), Japanese entrepreneur and LDP politician, prime minister from 2008
+     UK Таро Асо (нар. 1940), японський підприємець і політик ЛДП, прем'єр-міністр із 2008 року
+  NOTES ["Джерело дає відкритий термін перебування на посаді «з 2008 року»; це історичне формулювання, а не твердження про чинного прем’єр-міністра."]
+
+86. ID ea740c52758196a2 | line 25646 | 埃迪卡拉 / 埃迪卡拉 [Ai1 di2 ka3 la1]
+  0: EN Ediacaran (c. 635-542 million years ago), late phase of pre-Cambrian geological era
+     UK едіакарій (бл. 635–542 млн років тому), пізній період докембрію
+  NOTES ["Часові межі відтворено за джерелом; геохронологічна шкала могла бути уточнена."]
+
+87. ID d98ced8c156356ac | line 50518 | 政府大學院 / 政府大学院 [Zheng4 fu3 Da4 xue2 yuan4]
+  0: EN the name of Academia Sinica 中央研究院[Zhong1 yang1 Yan2 jiu1 yuan4] when it was founded
+     UK назва Академії Сініка 中央研究院[Zhong1 yang1 Yan2 jiu1 yuan4] на час її заснування
+  NOTES ["Історичну тотожність 政府大學院 із первісною назвою Academia Sinica передано за джерелом; потребує перевірки."]
+
+88. ID dc1f3302d8ce38a8 | line 54438 | 更新世 / 更新世 [Geng1 xin1 shi4]
+  0: EN Pleistocene (geological epoch from 2m years ago, covering the most recent ice ages)
+     UK плейстоцен (геологічна епоха, що почалася близько 2 млн років тому й охоплює останні льодовикові періоди)
+  NOTES ["Датування початку епохи приблизне й застаріле в джерелі; сучасна межа близько 2,58 млн років тому."]
+
+89. ID d32eaff53328cc04 | line 57158 | 柯文哲 / 柯文哲 [Ke1 Wen2 zhe2]
+  0: EN Ko Wen-je (1959-), Taiwanese independent politician, Mayor of Taipei City from 2014
+     UK Ко Веньчже (нар. 1959), тайванський незалежний політик, мер Тайбея від 2014 року
+  NOTES ["Часовий опис посади в джерелі може бути застарілим."]
+
+90. ID 68a2581b6180e92b | line 57222 | 柳煙花霧 / 柳烟花雾 [liu3 yan1 hua1 wu4]
+  0: EN lit. willow scent and mist of blossom (idiom); scene full of the delights of spring
+     UK букв. вербовий серпанок і квітковий туман (ідіома); краєвид, сповнений весняної принади
+  NOTES ["Джерело тлумачить 煙 як «запах»; тут буквальний образ радше серпанок."]
+
+91. ID 4b7e771c2afbb154 | line 63971 | 法蘭克 / 法兰克 [Fa3 lan2 ke4]
+  0: EN the Franks (Germanic people who arrived in Europe from 600 AD and took over France)
+     UK франки (германський народ, який, за джерелом, прибув до Європи від 600 р. н. е. й заволодів Францією)
+  NOTES ["Датування та опис появи франків у Європі в джерелі сумнівні; франки відомі значно раніше VI–VII століть."]
+
+92. ID fbf271ad73545a28 | line 94443 | 莫霍面 / 莫霍面 [Mo4 huo4 mian4]
+  0: EN Moho (aka Mohorovičić discontinuity, the lower boundary of the earth's lithosphere)
+     UK Мохо (поверхня Мохоровичича; у джерелі визначена як нижня межа літосфери Землі)
+  NOTES ["У джерелі Мохо помилково названо нижньою межею літосфери; це межа земної кори й мантії."]
+
+93. ID 01b5666c6ad049b8 | line 110117 | 鄭夢準 / 郑梦准 [Zheng4 Meng4 zhun3]
+  0: EN Chung Mongjoon (1951-), Korean magnate and the founder of Hyundai 現代|现代[Xian4 dai4]
+     UK Чон Мон Джун (1951–), корейський магнат, у джерелі названий засновником Hyundai 現代|现代[Xian4 dai4]
+  NOTES ["Англійський сегмент помилково приписує Чон Мон Джуну заснування Hyundai; засновником був Чон Чжу Йон."]
+
+94. ID 47b343b7845b0ced | line 124911 | 齊國 / 齐国 [Qi2 guo2]
+  0: EN Qi state of Western Zhou and the Warring states (1122-265 BC), centered in Shandong
+     UK держава Ці доби Західної Чжоу та Воюючих царств (1122–265 до н. е.), із центром у Шаньдуні
+  NOTES ["Дати існування держави Ці відтворено за джерелом; кінцева дата 265 до н. е. потребує перевірки."]
+
+95. ID bfad07558a68e427 | line 18267 | 友誼峰 / 友谊峰 [You3 yi4 Feng1]
+  0: EN Friendship Peak or Khüiten Peak (4,356 m), the highest peak of the Altai mountains
+     UK пік Дружби, або Хуйтен (4356 м), найвища вершина Алтайських гір
+  NOTES ["Твердження джерела про найвищу вершину всього Алтаю потребує перевірки; загальновідомою найвищою є Бєлуха."]
+
+96. ID b6f0a770be4e310e | line 46056 | 拉包爾 / 拉包尔 [La1 bao1 er3]
+  0: EN Rabaul, port city and capital of New Britain, island of northeast Papua New Guinea
+     UK Рабаул, портове місто й столиця острова Нова Британія на північному сході Папуа Нової Гвінеї
+  NOTES ["Статус «столиці Нової Британії» у джерелі потребує уточнення; назву й опис перекладено за джерелом."]
+
+97. ID 274b7240f08c93d4 | line 58269 | 棕頸鉤嘴鶥 / 棕颈钩嘴鹛 [zong1 jing3 gou1 zui3 mei2]
+  0: EN (bird species of China) streak-breasted scimitar babbler (Pomatorhinus ruficollis)
+     UK (вид птахів Китаю) тимелія-криводзьоб смугастогруда (Pomatorhinus ruficollis)
+  NOTES ["Українська видова назва описова; усталений відповідник не підтверджено."]
+
+98. ID a39304e63409d8a9 | line 80744 | 神鵰俠侶 / 神雕侠侣 [Shen2 diao1 Xia2 lu:3]
+  0: EN "The Return of the Condor Heroes" (1959-61 wuxia novel by Jin Yong 金庸[Jin1 Yong1])
+     UK «Повернення героїв Кондора» (роман у жанрі уся, 1959–1961, автор Цзінь Юн 金庸[Jin1 Yong1])
+  NOTES ["Українську назву роману передано за англійською; усталений переклад назви потребує перевірки."]
+
+99. ID 82d1a9072fd20ce0 | line 84639 | 紅嘴鉤嘴鶥 / 红嘴钩嘴鹛 [hong2 zui3 gou1 zui3 mei2]
+  0: EN (bird species of China) black-crowned scimitar babbler (Pomatorhinus ferruginosus)
+     UK (вид птахів Китаю) криводзьоба тимелія з чорною тім'яною шапочкою (Pomatorhinus ferruginosus)
+  NOTES ["Назву подано описово; усталений український видовий відповідник не встановлено."]
+
+100. ID a3e5437035b9b0bf | line 89434 | 聚眾淫亂罪 / 聚众淫乱罪 [ju4 zhong4 yin2 luan4 zui4]
+  0: EN group licentiousness (offense punishable by up to five years in prison in the PRC)
+     UK участь у груповій розпусті (злочин, за який у КНР передбачено до п’яти років позбавлення волі)
+  NOTES ["Відомості про покарання відтворено з джерела; актуальний правовий статус не перевірено."]
+

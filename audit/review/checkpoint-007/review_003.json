@@ -1,0 +1,2045 @@
+{
+  "reviewer_model_requested": "gpt-6-astra",
+  "human_validation": false,
+  "reviewed_ids": [
+    "a10147d034e93f1b",
+    "61bd3fbb2180eaf6",
+    "8114ff27b14bca00",
+    "4355846ebc6874c8",
+    "d4241f0447b38e45",
+    "f2b292e5fc5bd09a",
+    "a8189f577a62e29f",
+    "9fc921a64d3bee06",
+    "fb1578b485e228f9",
+    "ce8de122b0a52bea",
+    "ff4c6bbbd82ee251",
+    "7428a59e84153f04",
+    "e5c0a427983b1263",
+    "4ed7e232a11d40b3",
+    "e43082f1ad686430",
+    "46c3dc824dc5163b",
+    "45b99967441f740c",
+    "1f226558c1404b8f",
+    "979271a309bc487d",
+    "b01bebcc34936fda",
+    "d7ee90e8312460de",
+    "6e08e2f787b10ac0",
+    "06e4e941f3e4ec10",
+    "c902c2ebc04fb179",
+    "e98a81440818cf61",
+    "c51afacfa550e424",
+    "75237b2b173ec02d",
+    "303ea77c0b65a2ff",
+    "d2e5f1a3190d3b44",
+    "b1d7c2afecf9bb7a",
+    "f5d9d3f3d61701bf",
+    "6f9b3fa25efc55d4",
+    "91454b5d533011d2",
+    "f65ae7ace5ed62b9",
+    "3aae5ef905c6feb3",
+    "b0a75d8105568faa",
+    "d12cadaf04abaab9",
+    "2eaa08eba83bca4e",
+    "2548b9de7e11d6aa",
+    "483e7b59cc30a037",
+    "061d724998529677",
+    "369bf8a06008d672",
+    "e14218406b825bc5",
+    "33c383dbb7ee383f",
+    "74eb62a05cc8cedc",
+    "eafcf462baefa63b",
+    "5a50c0fd527606d4",
+    "db26409c2a99a6ff",
+    "f51eeba0256faca4",
+    "1e0ede476c516bff",
+    "41b0a1139e5c9fa3",
+    "ca9739c8a79830a0",
+    "06bb5e572506176b",
+    "8a45594fbf97d3c8",
+    "3880e83fd35b0de9",
+    "467745b6f8cef224",
+    "391eb25166ad1504",
+    "77d9d5fcac16ce58",
+    "59de843169a49bd3",
+    "6261242797cd0a86",
+    "df706a99d44ce6f5",
+    "e6a03850db66e321",
+    "77553e033693174e",
+    "2c921b1a2561bf63",
+    "1e8f71911efe94ce",
+    "0a3043caa76de47e",
+    "eaa878b7b4fcc425",
+    "1dd3db82fa97b6c8",
+    "572ddeca755b8824",
+    "d46625c1042df358",
+    "dca1f46a9852529a",
+    "de4ac8e5e8cf25f4",
+    "edb7cf06daa95b43",
+    "8bd30970bb0b80bd",
+    "232fc7c97124d2e4",
+    "ce8fc647b5f96220",
+    "2cab85a376b1d49e",
+    "2b456b283228b884",
+    "3b71c12be6d433c8",
+    "0d4c24b13fd8e258",
+    "e1f1627b7d80fef4",
+    "8653422f5313fc07",
+    "9b20c762eac91df2",
+    "f402698b177d71e6",
+    "1f4b2bd5656d75d5",
+    "e628f63f4b233edd",
+    "54ee8c38062cdded",
+    "1b83bbd09363259e",
+    "034c950cfdc26c4f",
+    "fcf2b228b8ce0d34",
+    "321fb1a0c488da9d",
+    "51131768480b6b10",
+    "f87b2d021d9b47b6",
+    "3b24704d6280beb9",
+    "6abd72eb868a2974",
+    "a4ebfc3c6e25d515",
+    "0bbde55c8585ec50",
+    "fa4b6da01d7f9cf8",
+    "2480c03fab0fa846",
+    "b334c6ffc0e0cd01"
+  ],
+  "entries": [
+    {
+      "id": "a10147d034e93f1b",
+      "source_line": 114127,
+      "traditional": "闍梨",
+      "simplified": "阇梨",
+      "pinyin": "she2 li2",
+      "outcome": "correction_proposed",
+      "reason": "闍梨 є скороченням назви буддійського наставника; санскритське jala в глосі не підтверджується спеціалізованим словником DILA. Примітка прикріплена правильно, але етимологію можна уточнити.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "буддійський монах (санскрит: jala)",
+          "after": "буддійський наставник (санскрит: ācārya)",
+          "reason": "DILA прямо виводить 闍梨 з 阿闍梨 та подає Ācārya; це точніше, ніж загальне «монах» і помилкове jala. Джерело: https://glossaries.dila.edu.tw/search?g=DFB&term=%E9%97%8D%E6%A2%A8",
+          "confidence": "high",
+          "issue_type": "source_etymology_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Санскритське jala наведено за джерелом; етимологія терміна потребує перевірки.",
+          "after": "闍梨 — скорочення від 阿闍梨, назви буддійського наставника, що походить від санскритського ācārya. Наведене в англійському джерелі jala не є відповідною етимологією. Джерело: https://glossaries.dila.edu.tw/search?g=DFB&term=%E9%97%8D%E6%A2%A8",
+          "reason": "Замість уже розв’язаної етимологічної невизначеності наведено підтверджене пояснення; примітку не видалено.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "61bd3fbb2180eaf6",
+      "source_line": 114676,
+      "traditional": "阿法爾沙漠",
+      "simplified": "阿法尔沙漠",
+      "pinyin": "A1 fa3 er3 Sha1 mo4",
+      "outcome": "correction_proposed",
+      "reason": "Назву Афар передано правильно, але географічний напрямок помилковий навіть із застереженням «за джерелом». Примітка правильно виявляє цю помилку.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "пустеля Афар, південь Ефіопії (за джерелом)",
+          "after": "пустеля Афар, північний схід Ефіопії",
+          "reason": "UNICEF локалізує посушливий регіон Афар на північному сході Ефіопії; NASA показує його біля Еритреї та Джибуті. Джерела: https://www.unicef.org/ethiopia/stories/social-workers-supporting-and-empowering-mothers-afar-region ; https://science.nasa.gov/earth/earth-observatory/afar-depression-ethiopia-5819/",
+          "confidence": "high",
+          "issue_type": "source_geography_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "8114ff27b14bca00",
+      "source_line": 116485,
+      "traditional": "雞翅木",
+      "simplified": "鸡翅木",
+      "pinyin": "ji1 chi4 mu4",
+      "outcome": "acceptable",
+      "reason": "Венге є допустимим деревинним відповідником у наведеному вузькому значенні. Примітка правильно застерігає, що 雞翅木 охоплює ширшу групу деревини: https://lyj.hunan.gov.cn/tslm_71206/lykp/syjs/201512/t20151227_2619427.html",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Переклад зберігає саме вузьке значення англійської глоси; весь обсяг китайської торгової категорії ним не вичерпується."
+      ]
+    },
+    {
+      "id": "4355846ebc6874c8",
+      "source_line": 1275,
+      "traditional": "三原",
+      "simplified": "三原",
+      "pinyin": "San1 yuan2",
+      "outcome": "correction_proposed",
+      "reason": "Обидві китайські форми, піньїнь і посилання визначають топонімічну статтю 三原. Буддійська примітка не має зв’язку ні з цим заголовком, ні з єдиною глосою.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Buddhist phrase retained as an established religious term.",
+          "after": null,
+          "reason": "Unrelated-note contamination: єдиний зміст статті — посилання на 三原縣|三原县[San1 yuan2 Xian4]. Буддійську примітку слід деактивувати; адресата для перенесення не встановлено і не вгадується.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "d4241f0447b38e45",
+      "source_line": 20994,
+      "traditional": "周王朝",
+      "simplified": "周王朝",
+      "pinyin": "Zhou1 wang2 chao2",
+      "outcome": "correction_proposed",
+      "reason": "Династію названо правильно; датування початку потребує виправлення за перевіреним музейним джерелом. Примітка релевантна, але визначення 1027 як конкретного «старого датування» не потрібне для доведеного виправлення.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "династія Чжоу від 1027 року до н. е. (за джерелом)",
+          "after": "династія Чжоу від приблизно 1046 року до н. е.",
+          "reason": "Метрополітен-музей датує Західну Чжоу 1046–771 роками до н. е. Джерело: https://82nd-and-fifth.metmuseum.org/toah/ht/04/eac.html",
+          "confidence": "high",
+          "issue_type": "source_date_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Дата 1027 рік до н. е. є старим датуванням; поширене сучасне датування початку Чжоу — 1046 рік до н. е.",
+          "after": "Англійське джерело подає початок Чжоу від 1027 року до н. е.; музейна хронологія Metropolitan Museum of Art використовує 1046 рік до н. е. Джерело: https://82nd-and-fifth.metmuseum.org/toah/ht/04/eac.html",
+          "reason": "Збережено релевантний конфлікт дат і наведено джерело, без неперевіреної класифікації походження дати 1027.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "f2b292e5fc5bd09a",
+      "source_line": 24250,
+      "traditional": "國務總理",
+      "simplified": "国务总理",
+      "pinyin": "guo2 wu4 zong3 li3",
+      "outcome": "correction_proposed",
+      "reason": "國務總理 — прем’єрська посада, а «державний міністр» помилково відтворює нижчий або інший урядовий ранг. Історичне обмеження джерела можна зберегти.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "державний міністр (заст.)",
+          "after": "прем’єр-міністр (історична назва посади)",
+          "reason": "Двомовний звіт Ліги Націй називає 顧維鈞 former Prime Minister / 前國務總理; офіційні тайванські звіти також зіставляють 國務總理室 з Office of the Prime Minister. Джерело: https://report.ndc.gov.tw/ReportFront/PageSystem/reportFileDownload/C09000286/001",
+          "confidence": "high",
+          "issue_type": "source_title_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "У джерелі minister of state; 國務總理 зазвичай означає прем’єр-міністра, тож історичний посадовий відповідник потребує перевірки.",
+          "after": "國務總理 відповідає посаді прем’єр-міністра; minister of state в англійському джерелі неточно передає ранг. Позначку історичного вжитку збережено; конкретну державу й період не встановлено. Пор. офіційне зіставлення 國務總理室 / Office of the Prime Minister: https://report.ndc.gov.tw/ReportFront/PageSystem/reportFileDownload/C09000286/001",
+          "reason": "Уточнено підтверджений ранг, не приписуючи статті конкретної історичної юрисдикції.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Конкретну державу та період уживання джерело не вказує."
+      ]
+    },
+    {
+      "id": "a8189f577a62e29f",
+      "source_line": 26169,
+      "traditional": "報春花",
+      "simplified": "报春花",
+      "pinyin": "bao4 chun1 hua1",
+      "outcome": "acceptable",
+      "reason": "Родовий відповідник «первоцвіт» правильний; латинську назву Primula malacoides збережено. Неперевірений український видовий епітет не слід видавати за нормативний, і прикріплена примітка саме це застерігає.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталеність української назви «первоцвіт м’якуватий» не встановлено; описовий відповідник залишено без нормалізації."
+      ]
+    },
+    {
+      "id": "9fc921a64d3bee06",
+      "source_line": 28107,
+      "traditional": "大根蘭",
+      "simplified": "大根兰",
+      "pinyin": "da4 gen1 lan2",
+      "outcome": "acceptable",
+      "reason": "«Великокореневий» точно передає описову ознаку 大根 та латинського епітета. Повне Cymbidium macrorrhizum Lindl. збережено, а примітка чітко відмежовує опис від усталеної назви.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Нормативну українську видову назву не встановлено; статус латинського таксона в сучасній систематиці не змінюється."
+      ]
+    },
+    {
+      "id": "fb1578b485e228f9",
+      "source_line": 28179,
+      "traditional": "大清帝國",
+      "simplified": "大清帝国",
+      "pinyin": "Da4 Qing1 Di4 guo2",
+      "outcome": "correction_proposed",
+      "reason": "Назву Великої імперії Цін передано правильно. Кінцева дата 1911 суперечить підтвердженому зреченню 1912 року; примітка про це доречна.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Велика імперія Цін (1644–1911)",
+          "after": "Велика імперія Цін (1644–1912)",
+          "reason": "Палацовий музей датує зречення 12 лютого 1912 року; початкову дату 1644, пов’язану з приходом Цін до Пекіна, збережено. Джерела: https://www.dpm.org.cn/onlineforum/detail/253138.html ; https://www.dpm.org.cn/court/lineage/226262.html?hl=%E9%92%A4%E5%8D%B0",
+          "confidence": "high",
+          "issue_type": "source_date_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "1644 — початок правління Цін із Пекіна; утворення держави під назвою Велика Цін 1636 року є іншим хронологічним критерієм."
+      ]
+    },
+    {
+      "id": "ce8de122b0a52bea",
+      "source_line": 33476,
+      "traditional": "實肘",
+      "simplified": "实肘",
+      "pinyin": "shi2 zhou3",
+      "outcome": "deferred",
+      "reason": "Українська глоса містить конкретне тлумачення опертого ліктя, якого не доводить неясне full arm. Примітка чесно позначає це припущення; незалежного достатнього джерела для остаточної правки не встановлено.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібне фахове джерело з техніки письма або живопису, що визначає 實肘; не слід підміняти невизначеність упевненим описом."
+      ]
+    },
+    {
+      "id": "ff4c6bbbd82ee251",
+      "source_line": 37163,
+      "traditional": "布瓊布拉",
+      "simplified": "布琼布拉",
+      "pinyin": "Bu4 qiong2 bu4 la1",
+      "outcome": "correction_proposed",
+      "reason": "Топонім перекладено правильно, але без уточнення виду столиці глоса застаріла. Уряд Бурунді розрізняє політичну Гітегу та економічну Бужумбуру.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Бужумбура, столиця Бурунді",
+          "after": "Бужумбура, економічна столиця Бурунді; до 2019 року — політична столиця",
+          "reason": "Офіційна сторінка прем’єр-міністра підтверджує обидва статуси й дату 2019. Джерело: https://primature.gov.bi/presentation-generale/",
+          "confidence": "high",
+          "issue_type": "outdated_status"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "7428a59e84153f04",
+      "source_line": 56345,
+      "traditional": "東密德蘭",
+      "simplified": "东密德兰",
+      "pinyin": "Dong1 mi4 de2 lan2",
+      "outcome": "acceptable",
+      "reason": "Регіональний ранг у перекладі виправлено слушно; примітка стосується саме помилкового county. ONS прямо визначає East Midlands як регіон Англії: https://www.ons.gov.uk/explore-local-statistics/areas/E12000004-east-midlands",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e5c0a427983b1263",
+      "source_line": 79329,
+      "traditional": "石竹目",
+      "simplified": "石竹目",
+      "pinyin": "shi2 zhu2 mu4",
+      "outcome": "acceptable",
+      "reason": "«Гвоздикоцвіті» та ранг порядку відповідають 石竹目. Примітка правильно відділяє це від помилкового Class Magnoliopsida; офіційна тайванська ботанічна база зіставляє 石竹目 з Caryophyllales: https://tbd.tbn.org.tw/botanic-taxon/10338",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "4ed7e232a11d40b3",
+      "source_line": 81320,
+      "traditional": "科倫坡",
+      "simplified": "科伦坡",
+      "pinyin": "Ke1 lun2 po1",
+      "outcome": "correction_proposed",
+      "reason": "Назва Коломбо правильна, однак слово «столиця» без уточнення сплутує торговельну та адміністративну функції. Релевантну примітку можна конкретизувати.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Коломбо, столиця Шрі-Ланки",
+          "after": "Коломбо, торговельно-економічна столиця Шрі-Ланки",
+          "reason": "Муніципалітет Котте називає Коломбо commercial capital, а Котте administrative capital. Джерело: https://www.kotte.mc.gov.lk/index.php?Itemid=175&id=25&lang=en&option=com_content&view=article",
+          "confidence": "high",
+          "issue_type": "status_precision"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерельне визначення столиці спрощене; слід розрізняти статус Коломбо та Шрі-Джаяварденепура-Котте.",
+          "after": "Коломбо є торговельно-економічною столицею; Шрі-Джаяварденепура-Котте — адміністративною столицею та місцем парламенту. Джерело: https://www.kotte.mc.gov.lk/index.php?Itemid=175&id=25&lang=en&option=com_content&view=article",
+          "reason": "Примітка була правильно прикріплена; замість загального заклику розрізняти статуси наведено підтверджену відмінність.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e43082f1ad686430",
+      "source_line": 90652,
+      "traditional": "脈管",
+      "simplified": "脉管",
+      "pinyin": "mai4 guan3",
+      "outcome": "deferred",
+      "reason": "Переклад охоплює іменникову китайську основу та прикметникову англійську глосу, але семикрапка подає їх як рівноправні значення. Примітка правильно вказує на частиномовний конфлікт; без достатньої лексикографії не вилучаю жодне з них.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібно встановити самостійний іменниковий та атрибутивний ужиток 脈管, перш ніж остаточно звузити словникову глосу."
+      ]
+    },
+    {
+      "id": "46c3dc824dc5163b",
+      "source_line": 93208,
+      "traditional": "芞",
+      "simplified": "芞",
+      "pinyin": "qi4",
+      "outcome": "acceptable",
+      "reason": "Усі компоненти джерела передано: невизначений вид, запах і застарілий ужиток. Примітка про відсутність видової ідентифікації точно відповідає джерелу.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Конкретний ботанічний вид не вказано; його не вгадано."
+      ]
+    },
+    {
+      "id": "45b99967441f740c",
+      "source_line": 95892,
+      "traditional": "蕓薹",
+      "simplified": "芸薹",
+      "pinyin": "yun2 tai2",
+      "outcome": "acceptable",
+      "reason": "«Суріпиця» засвідчена для олійних форм Brassica rapa в українських реєстрових матеріалах. Латинський вид збережено; примітка правильно пояснює неоднозначність rape. Джерело: https://sops.gov.ua/uploads/page/5a81ae9fcde18.pdf",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Brassica rapa охоплює різні культурні форми; стаття не задає внутрішньовидового таксона."
+      ]
+    },
+    {
+      "id": "1f226558c1404b8f",
+      "source_line": 100662,
+      "traditional": "記憶器",
+      "simplified": "记忆器",
+      "pinyin": "ji4 yi4 qi4",
+      "outcome": "correction_proposed",
+      "reason": "«Мемристор» передає англійське слово, а застереження про помилкове memory transistor слушне. Проте 記憶器 також засвідчено як загальний пристрій пам’яті, тому відповідність саме заголовку залишається відкритою.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Англійський пояснювальний відповідник «memory transistor» неточний: мемристор не є транзистором.",
+          "after": "Пояснення memory transistor у джерелі неточне: мемристор є резистивним елементом із пам’яттю. Водночас 記憶器 уживається й для комп’ютерної пам’яті загалом, тому вузьке зіставлення з мемристором ще потребує перевірки. Джерела: https://iop.cas.cn/xwzx/kydt/201802/t20180213_4951651.html ; https://www.cc.ntu.edu.tw/chinese/about/affair/64.pdf",
+          "reason": "Збережено правильне застереження та додано підтверджений загальний ужиток китайського слова; note-only пропозиція не означає, що вузький сегмент уже перевірено.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Самостійне значення 記憶器 = memristor потребує незалежного спеціального підтвердження; український сегмент поки не виправляється."
+      ]
+    },
+    {
+      "id": "979271a309bc487d",
+      "source_line": 111459,
+      "traditional": "金雞納",
+      "simplified": "金鸡纳",
+      "pinyin": "jin1 ji1 na4",
+      "outcome": "correction_proposed",
+      "reason": "Дерево й алкалоїд у перекладі поставлено як синоніми, хоча латинський ідентифікатор стосується рослини. Примітка правильно помічає змішування, але непідтверджено припускає обидва значення китайського слова.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Джерело поєднує назву хініну з латинською назвою дерева; для 金雞納 можливе позначення рослини або хініну залежно від контексту.",
+          "after": "Cinchona ledgeriana — назва хінного дерева, а хінін є речовиною, яку отримують із рослин роду Cinchona. Англійське джерело змішує ці поняття; самостійне вживання 金雞納 у значенні «хінін» потребує перевірки. Джерело: https://www.efloras.org/florataxon.aspx?flora_id=3&taxon_id=107094",
+          "reason": "Непідтверджене твердження про контекстуальну синонімію звужено до доведеної відмінності рослини та речовини.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Потрібна окрема лексикографічна перевірка значення 金雞納 як назви речовини; Cinchona ledgeriana не змінюється."
+      ]
+    },
+    {
+      "id": "b01bebcc34936fda",
+      "source_line": 111601,
+      "traditional": "釭",
+      "simplified": "釭",
+      "pinyin": "gang1",
+      "outcome": "deferred",
+      "reason": "Глосу про підвісну чашу перекладено буквально, однак перевірений словник MOE подає 釭 як металеве кільце маточини або лампу й не підтверджує рибну чашу. Примітка про потребу історико-лексикографічної перевірки залишається релевантною.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Відсутність цього вузького значення в одному словнику не доводить його неможливості; потрібна історична перевірка. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=4104&la=0&powerMode=0"
+      ]
+    },
+    {
+      "id": "d7ee90e8312460de",
+      "source_line": 115893,
+      "traditional": "雅加達",
+      "simplified": "雅加达",
+      "pinyin": "Ya3 jia1 da2",
+      "outcome": "deferred",
+      "reason": "Джакарту названо правильно. Через перехід до Нусантари поточний столичний статус не варто стверджувати без датованого рішення про фактичне перенесення; примітка справді стосується цього ризику.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Офіційне пояснення 2024 року пов’язує зміну з президентським рішенням, але актуальний стан на дату цього перегляду не встановлено. Джерело: https://setkab.go.id/pemerintah-sahkan-undang-undang-daerah-khusus-jakarta/"
+      ]
+    },
+    {
+      "id": "6e08e2f787b10ac0",
+      "source_line": 118534,
+      "traditional": "韺",
+      "simplified": "韺",
+      "pinyin": "ying1",
+      "outcome": "correction_proposed",
+      "reason": "Рідкісний знак 韺 справді позначає музику легендарного правителя, проте офіційний словник називає 帝嚳, а не неоднозначного Gu.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "музика легендарного імператора Ґу",
+          "after": "музика легендарного імператора Ку",
+          "reason": "MOE визначає 韺 як 帝嚳樂名, тобто назву музики імператора Ку. Джерело: https://dict.variants.moe.edu.tw/dictView.jsp?ID=109007&q=1",
+          "confidence": "high",
+          "issue_type": "source_proper_name_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Ім’я легендарного імператора в джерелі Gu неоднозначне й потребує перевірки.",
+          "after": "韺 — назва музики легендарного імператора Ку (帝嚳); Gu в англійському джерелі не відтворює цю ідентифікацію. Джерело: https://dict.variants.moe.edu.tw/dictView.jsp?ID=109007&q=1",
+          "reason": "Неоднозначність імені розв’язана прямим словниковим визначенням; релевантну примітку уточнено.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "06e4e941f3e4ec10",
+      "source_line": 11622,
+      "traditional": "八塊腹肌",
+      "simplified": "八块腹肌",
+      "pinyin": "ba1 kuai4 fu4 ji1",
+      "outcome": "correction_proposed",
+      "reason": "Нейтральне «кубики» передає загальну ідею, але втрачає явно виражене 八 «вісім». Наявна примітка правильно помічає конфлікт із six pack.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "рельєфні кубики черевного преса",
+          "after": "вісім рельєфних кубиків черевного преса",
+          "reason": "八塊腹肌 безпосередньо називає вісім, а не шість кубиків; вилучення числа не зберігає повного змісту китайської фрази.",
+          "confidence": "high",
+          "issue_type": "omitted_source_specificity"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайський заголовок буквально означає вісім кубиків преса, тоді як англійський сегмент має six pack; переклад передає спільне значення рельєфного преса без хибного узгодження чисел.",
+          "after": "Китайський заголовок буквально означає вісім кубиків черевного преса. Six pack в англійському джерелі суперечить числівнику 八; переклад зберігає вісім.",
+          "reason": "Оновлено пояснення відповідно до пропозиції, не залишаючи хибної заяви, що переклад уникнув чисел.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "c902c2ebc04fb179",
+      "source_line": 15087,
+      "traditional": "力偶",
+      "simplified": "力偶",
+      "pinyin": "li4 ou3",
+      "outcome": "acceptable",
+      "reason": "«Пара сил» правильно передає 力偶; цитоване «момент сил» чітко позначено як текст джерела, а не як синонім. Примітка точна. Підтвердження: https://dict.revised.moe.edu.tw/dictView.jsp?ID=62264&la=1&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e98a81440818cf61",
+      "source_line": 40362,
+      "traditional": "從子",
+      "simplified": "从子",
+      "pinyin": "cong2 zi3",
+      "outcome": "correction_proposed",
+      "reason": "«Син дядька по батькові» помилково зміщує значення в те саме покоління. У перевіреному університетському матеріалі 從子 визначено як сина брата; історична широта терміна може потребувати додаткового контексту.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "син дядька по батькові; небіж",
+          "after": "племінник; небіж (син брата)",
+          "reason": "Матеріал East China University of Science and Technology подає 从子（侄）兄弟之子. Перший англійський відповідник плутає двоюрідного брата з племінником. Джерело: https://mooc.s.ecust.edu.cn/nodedetailcontroller/visitnodedetail?courseId=441650000006066&knowledgeId=225188",
+          "confidence": "high",
+          "issue_type": "source_kinship_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Англійський сегмент поєднує сина батькового брата та небожа; це різні ступені спорідненості, тому неоднозначність джерела збережено явно.",
+          "after": "У значенні родинного зв’язку 從子 означає племінника, зокрема сина брата; paternal uncle’s son у джерелі помилково вказує на двоюрідного брата. Історичні вживання для дальших родичів покоління племінників потребують контексту. Джерело: https://mooc.s.ecust.edu.cn/nodedetailcontroller/visitnodedetail?courseId=441650000006066&knowledgeId=225188",
+          "reason": "Виправлено покоління спорідненості, зберігши обережність щодо історичного обсягу.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "В окремих давніх текстах термін може охоплювати дальших родичів покоління племінників; повний історичний обсяг не встановлено."
+      ]
+    },
+    {
+      "id": "c51afacfa550e424",
+      "source_line": 58214,
+      "traditional": "棕櫚屬",
+      "simplified": "棕榈属",
+      "pinyin": "zong1 lu:2 shu3",
+      "outcome": "correction_proposed",
+      "reason": "Український текст точно повторює англійський таксон, однак Flora of China однозначно зіставляє 棕櫚屬 з Trachycarpus. Примітка правильно прикріплена; виправлення захищеного латинського ідентифікатора не виконується.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "У джерелі вказано Areca, тоді як 棕櫚屬 зазвичай позначає Trachycarpus; таксономічний відповідник потребує перевірки.",
+          "after": "Flora of China визначає 棕櫚屬 як рід Trachycarpus. Areca spp. в англійському джерелі є іншим родом пальм; латинський рядок джерела збережено, а сегмент потребує окремого виправлення таксономічної ідентифікації. Джерело: https://www.efloras.org/florataxon.aspx?flora_id=3&taxon_id=133227",
+          "reason": "Замінено припущення про таксон на пряме підтвердження, не змінюючи збережений латинський ідентифікатор.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "У сегменті лишається підтверджений конфлікт Areca spp. / 棕櫚屬; потрібне редакційне розв’язання вихідного таксона."
+      ]
+    },
+    {
+      "id": "75237b2b173ec02d",
+      "source_line": 60503,
+      "traditional": "正方體",
+      "simplified": "正方体",
+      "pinyin": "zheng4 fang1 ti3",
+      "outcome": "correction_proposed",
+      "reason": "Куб правильно названо, але альтернативна глоса після крапки з комою надмірно розширює значення до будь-якого прямокутного паралелепіпеда. Примітка правильно описує проблему.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "куб; прямокутний паралелепіпед",
+          "after": "куб (прямокутний паралелепіпед із рівними ребрами)",
+          "reason": "正方體 означає куб; прямокутний паралелепіпед є лише родовим поняттям і потребує ознаки рівних ребер. Навчальне розрізнення обох тіл: https://tmrc.tiec.tp.edu.tw/HTML/RSR20081109113143M1S/TMRC/%E9%9D%A2%E5%92%8C%E9%9D%A2.html",
+          "confidence": "high",
+          "issue_type": "overbroad_equivalent"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "303ea77c0b65a2ff",
+      "source_line": 79169,
+      "traditional": "矮楊梅",
+      "simplified": "矮杨梅",
+      "pinyin": "ai3 yang2 mei2",
+      "outcome": "acceptable",
+      "reason": "Карликовість точно відповідає dwarf, 矮 та nana; родову назву й Myrica nana збережено. Примітка адекватно залишає відкритою нормативність української видової назви.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описову назву «восковниця карликова» не перевірено як усталену номенклатурну."
+      ]
+    },
+    {
+      "id": "d2e5f1a3190d3b44",
+      "source_line": 95666,
+      "traditional": "蓑草",
+      "simplified": "蓑草",
+      "pinyin": "suo1 cao3",
+      "outcome": "correction_proposed",
+      "reason": "Українська глоса буквальна, але «ситник» може створювати хибну таксономічну прив’язку. Англійську народну назву знайдено для Eulaliopsis binata; зв’язок саме з китайським 蓑草 недостатньо встановлено.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Точний ботанічний вид за англійською назвою Chinese alpine rush не визначений; переклад описовий.",
+          "after": "Англійська назва Chinese alpine rush засвідчена для Eulaliopsis binata, проте тотожність цього виду китайському 蓑草 тут не підтверджено. Тому буквальний «ситник» і точна ботанічна ідентифікація потребують перевірки. Джерело: https://www.jnr.ac.cn/CN/10.11849/zrzyxb.1993.04.003",
+          "reason": "Уточнено знайдене в первинній ботанічній публікації зіставлення англійської назви, не переносячи його автоматично на китайський заголовок.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Потрібно зіставити 蓑草 із ботанічним таксоном; ні рід Juncus, ні інший вид не слід вгадувати."
+      ]
+    },
+    {
+      "id": "b1d7c2afecf9bb7a",
+      "source_line": 97482,
+      "traditional": "蝦虎魚科",
+      "simplified": "虾虎鱼科",
+      "pinyin": "xia1 hu3 yu2 ke1",
+      "outcome": "acceptable",
+      "reason": "Бичкових і Gobiidae передано правильно; помилковий підряд чітко позначено як цитату з джерела, а примітка правильно виправляє його на родину. Додаткове переформулювання вже коректної глоси не потрібне. Підтвердження родини: https://www.fishbase.org/Summary/FamilySummary.php?family=Gobiidae",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "f5d9d3f3d61701bf",
+      "source_line": 113283,
+      "traditional": "長角羊",
+      "simplified": "长角羊",
+      "pinyin": "chang2 jiao3 yang2",
+      "outcome": "deferred",
+      "reason": "Довгорогість, тибетське походження та антилопу передано, але китайський зоонім не вдалося надійно зіставити з видом. Наявна примітка не підміняє цю прогалину вигаданою латинською назвою.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібне незалежне зоологічне або історико-лексикографічне визначення 長角羊."
+      ]
+    },
+    {
+      "id": "6f9b3fa25efc55d4",
+      "source_line": 115452,
+      "traditional": "陾",
+      "simplified": "陾",
+      "pinyin": "reng2",
+      "outcome": "correction_proposed",
+      "reason": "Первинний академічний словник підтверджує одне зі значень як звук будування стіни. Конкретна лопата каменяра в джерелі не випливає з цього визначення.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "звук лопати каменяра",
+          "after": "звук під час зведення стіни (давн.; одне з тлумачень)",
+          "reason": "Academia Sinica для 陾 зазначає 築墻聲 як одне з тлумачень; це ширше й точніше, ніж звук конкретної лопати. Джерело: https://chardb.iis.sinica.edu.tw/char/25334",
+          "confidence": "high",
+          "issue_type": "unsupported_source_specificity"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Рідкісне звуконаслідувальне значення; пояснення про лопату каменяра відтворює джерело й потребує лексикографічної перевірки.",
+          "after": "Для 陾 у сполуці 陾陾 академічний словник подає «численний» та альтернативне тлумачення «звук зведення стіни». Конкретну лопату каменяра з англійської глоси не підтверджено. Джерело: https://chardb.iis.sinica.edu.tw/char/25334",
+          "reason": "Примітку уточнено за словником; збережено статус одного з історичних тлумачень.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "91454b5d533011d2",
+      "source_line": 118903,
+      "traditional": "頓涅斯克",
+      "simplified": "顿涅斯克",
+      "pinyin": "Dun4 nie4 si1 ke4",
+      "outcome": "acceptable",
+      "reason": "Українська назва області та східне розташування правильні. W. Ukraine є очевидною помилкою джерела; примітка коректно пояснює вже внесене географічне виправлення.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "f65ae7ace5ed62b9",
+      "source_line": 18929,
+      "traditional": "古新統",
+      "simplified": "古新统",
+      "pinyin": "gu3 xin1 tong3",
+      "outcome": "acceptable",
+      "reason": "«Палеоценовий відділ» правильно зберігає стратиграфічний ранг 統, а не геохронологічну епоху чи систему. Примітка про неточне system стосується саме цієї статті й не потребує вилучення.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "3aae5ef905c6feb3",
+      "source_line": 22786,
+      "traditional": "單倍體",
+      "simplified": "单倍体",
+      "pinyin": "dan1 bei4 ti3",
+      "outcome": "correction_proposed",
+      "reason": "Пояснення одного набору хромосом правильне, але 單倍體 позначає гаплоїдний організм або клітину, тоді як український сегмент залишено лише прикметниковим.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "гаплоїдний (з одинарним набором хромосом)",
+          "after": "гаплоїд (організм або клітина з одинарним набором хромосом)",
+          "reason": "Іменниковий відповідник зберігає значення 單倍體, а не лише ознаку. NHGRI підтверджує, що йдеться про один набір хромосом, не одну хромосому: https://www.genome.gov/genetics-glossary/haploid",
+          "confidence": "high",
+          "issue_type": "part_of_speech"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "b0a75d8105568faa",
+      "source_line": 36169,
+      "traditional": "崳",
+      "simplified": "崳",
+      "pinyin": "yu2",
+      "outcome": "correction_proposed",
+      "reason": "Примітка правильно вказує на невстановлену географію, однак перевірка виявила істотніший конфлікт: MOE визначає 崳 як гору в Шаньсі, а не повіт у Шаньдуні. Автоматично замінювати об’єкт без з’ясування джерела не слід.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Рідкісний ієрогліф; конкретний повіт і історичний період у джерелі не названі.",
+          "after": "Глоса county in Shandong province не узгоджується з MOE, де 崳 визначено як назву гори в повіті Юйци провінції Шаньсі. Відповідність вихідному історичному топоніму не встановлено; підміна об’єкта не виконується. Джерело: https://dict.variants.moe.edu.tw/dictView.jsp?ID=57181&q=1",
+          "reason": "Загальну невизначеність доповнено конкретним документованим конфліктом гори/повіту та Шаньсі/Шаньдуну.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Потрібно визначити, який саме історичний об’єкт мав на увазі CEDICT; український сегмент не вважається фактично підтвердженим."
+      ]
+    },
+    {
+      "id": "d12cadaf04abaab9",
+      "source_line": 61796,
+      "traditional": "毫米水銀柱",
+      "simplified": "毫米水银柱",
+      "pinyin": "hao2 mi3 shui3 yin2 zhu4",
+      "outcome": "acceptable",
+      "reason": "毫米水銀柱 буквально й термінологічно означає міліметр ртутного стовпа. Переклад і примітка правильно відокремлюють цю одиницю від мілібара; офіційне підтвердження позначення mmHg: https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202101/t20210121_2228640.html",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "2eaa08eba83bca4e",
+      "source_line": 71950,
+      "traditional": "特提斯海",
+      "simplified": "特提斯海",
+      "pinyin": "Te4 ti2 si1 Hai3",
+      "outcome": "correction_proposed",
+      "reason": "Назву Тетіс передано, але докембрійське датування не відповідає перевіреним геологічним описам. Безпечна правка прибирає хибне датування, не нав’язуючи один із різних обсягів назви.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Тетіс (докембрійський океан)",
+          "after": "Тетіс (давній океан)",
+          "reason": "Геологічна служба США описує Тетіс у палеозойсько-мезозойській еволюції та розрізняє його фази; «докембрійський» як визначення цього океану помилкове. Джерело: https://pubs.usgs.gov/of/1994/0166/report.pdf",
+          "confidence": "high",
+          "issue_type": "source_geological_date_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Датування океану як докембрійського в джерелі сумнівне й потребує геологічної перевірки.",
+          "after": "Визначення pre-Cambrian у джерелі помилкове для Тетіса. Назва охоплює різні геологічні фази; без контексту переклад не задає точних часових меж. Джерело: https://pubs.usgs.gov/of/1994/0166/report.pdf",
+          "reason": "Замість непевного застереження наведено перевірену помилку, але не вгадано конкретної фази океану.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Уточнення Палеотетіс/Неотетіс та точних часових меж потребує контексту, якого стаття не має."
+      ]
+    },
+    {
+      "id": "2548b9de7e11d6aa",
+      "source_line": 77886,
+      "traditional": "直插式",
+      "simplified": "直插式",
+      "pinyin": "zhi2 cha1 shi4",
+      "outcome": "deferred",
+      "reason": "«Вставний» і «з прямими виводами» можуть стосуватися різних технічних конструкцій; inline не дає достатнього контексту для вибору. Примітка коректно зберігає цю проблему.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібна галузь або конкретний тип роз’єму/компонента для розмежування прямого вставляння й монтажу крізь отвори."
+      ]
+    },
+    {
+      "id": "483e7b59cc30a037",
+      "source_line": 108127,
+      "traditional": "連拖帶拉",
+      "simplified": "连拖带拉",
+      "pinyin": "lian2 tuo1 dai4 la1",
+      "outcome": "acceptable",
+      "reason": "«Тягнути й смикати» передає поєднання 拖 і 拉, на відміну від англійського pushing. Примітка правильно пояснює зміщення, а переклад не додає стороннього ідіоматичного змісту.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "061d724998529677",
+      "source_line": 111463,
+      "traditional": "金頂戴菊",
+      "simplified": "金顶戴菊",
+      "pinyin": "jin1 ding3 dai4 ju2",
+      "outcome": "correction_proposed",
+      "reason": "Збережено Regulus satrapa та придатний опис золотого чубчика. Cornell ідентифікує цей вид як golden-crowned kinglet; стандартизованість української назви має лишатися окремо непідтвердженою.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Англійське goldcrest зазвичай стосується Regulus regulus, але тут явно наведено Regulus satrapa.",
+          "after": "Regulus satrapa — golden-crowned kinglet; англійське goldcrest зазвичай позначає Regulus regulus. Український видовий відповідник тут описовий, його нормативність не встановлено. Джерело: https://www.allaboutbirds.org/guide/Golden-crowned_Kinglet/overview",
+          "reason": "Збережено релевантне застереження про англійську назву та явно залишено невизначеність статусу українського епітета.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Нормативну українську назву Regulus satrapa не встановлено; «золотомушка золоточуба» зберігається як описова."
+      ]
+    },
+    {
+      "id": "369bf8a06008d672",
+      "source_line": 111464,
+      "traditional": "金頂戴菊鳥",
+      "simplified": "金顶戴菊鸟",
+      "pinyin": "jin1 ding3 dai4 ju2 niao3",
+      "outcome": "correction_proposed",
+      "reason": "Додавання 鳥 не змінює видового змісту; як і в окремо перевіреній 金頂戴菊, латинський Regulus satrapa та опис золотого чубчика узгоджені. Потрібно зберегти невизначеність української номенклатури.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Англійське goldcrest зазвичай стосується Regulus regulus, але тут явно наведено Regulus satrapa.",
+          "after": "Regulus satrapa — golden-crowned kinglet; англійське goldcrest зазвичай позначає Regulus regulus. Український видовий відповідник тут описовий, його нормативність не встановлено. Джерело: https://www.allaboutbirds.org/guide/Golden-crowned_Kinglet/overview",
+          "reason": "Уточнення належить саме розгорнутому заголовку 金頂戴菊鳥; не слід вважати описовий український епітет перевіреною офіційною назвою.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Нормативну українську видову назву не встановлено; описовий відповідник не вилучається."
+      ]
+    },
+    {
+      "id": "e14218406b825bc5",
+      "source_line": 119738,
+      "traditional": "飛征",
+      "simplified": "飞征",
+      "pinyin": "fei1 zheng1",
+      "outcome": "correction_proposed",
+      "reason": "Архаїчне «птахи й звірі» правильно передає 飛征. MOE безпосередньо підтверджує і написання, і значення, тож відповідну невизначеність можна замінити доказовою приміткою.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Рідкісний архаїчний термін і написання потребують перевірки.",
+          "after": "Написання 飛征 і значення «птахи й звірі» підтверджено MOE; наведено приклад із «Хоу Хань шу». Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=34268&q=1&word=%E5%BE%81",
+          "reason": "Релевантну, але вже розв’язану невизначеність замінено підтвердженням, а не видалено.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "33c383dbb7ee383f",
+      "source_line": 122868,
+      "traditional": "鰱",
+      "simplified": "鲢",
+      "pinyin": "lian2",
+      "outcome": "correction_proposed",
+      "reason": "Латинський рядок точно скопійовано, проте moritrix є проблемою вихідного джерела. FAO використовує molitrix. Оскільки латинські ідентифікатори зберігаються, заміну сегмента не пропоную.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Латинське написання moritrix відтворено з джерела; імовірна описка замість molitrix.",
+          "after": "FAO подає наукову назву білого товстолобика як Hypophthalmichthys molitrix. Moritrix у вихідній глосі є помилковим написанням; захищений латинський рядок джерела поки збережено. Джерело: https://www.fao.org/fishery/docs/CDrom/aquaculture/I1129m/file/en/en_silvercarp.htm",
+          "reason": "Уточнено підтверджене написання, не нормалізуючи латинський рядок мовчки.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Hypophthalmichthys moritrix залишається невалідованим рядком джерела; необхідне окреме рішення щодо виправлення латинської назви."
+      ]
+    },
+    {
+      "id": "74eb62a05cc8cedc",
+      "source_line": 122937,
+      "traditional": "鱮",
+      "simplified": "鱮",
+      "pinyin": "xu4",
+      "outcome": "correction_proposed",
+      "reason": "Як і в окремій статті 鰱, джерельний рядок moritrix не збігається з науковою назвою molitrix у FAO. Для архаїчного 鱮 додатково бажано перевірити історичний видовий обсяг.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Латинське moritrix відтворено з джерела; імовірна описка замість molitrix.",
+          "after": "FAO використовує написання Hypophthalmichthys molitrix для білого товстолобика; moritrix у джерелі помилкове. Окремо слід звірити історичну видову відповідність 鱮; латинський рядок сегмента збережено. Джерело: https://www.fao.org/fishery/docs/CDrom/aquaculture/I1129m/file/en/en_silvercarp.htm",
+          "reason": "Підтверджено орфографічний конфлікт, але не прирівняно без перевірки весь історичний обсяг 鱮 до одного сучасного виду.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Латинський рядок Hypophthalmichthys moritrix не змінюється; історичну видову відповідність 鱮 потрібно звірити окремо."
+      ]
+    },
+    {
+      "id": "eafcf462baefa63b",
+      "source_line": 123097,
+      "traditional": "鳶尾",
+      "simplified": "鸢尾",
+      "pinyin": "yuan1 wei3",
+      "outcome": "correction_proposed",
+      "reason": "Переклад повторює помилковий ранг родини. MOE визначає 鳶尾 як рослину роду ірисів, а не родину; примітку слід зробити точнішою.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "півникові, родина ірисів",
+          "after": "півник; ірис (рослина)",
+          "reason": "MOE визначає 鳶尾 як багаторічну рослину родини 鳶尾科 і роду 鳶尾屬, тож родинний переклад змішує таксономічні ранги. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=164892&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "source_taxonomic_rank_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело визначає родину півникових; слово 鳶尾 може також позначати ірис, що потребує перевірки меж значення.",
+          "after": "鳶尾 називає рослину — півник (ірис), а не родину півникових. MOE відносить її до 鳶尾科; Kew зіставляє 鸢尾 з Iris tectorum. Родинне визначення та написання Iricdaceae в англійському джерелі помилкові. Джерела: https://dict.revised.moe.edu.tw/dictView.jsp?ID=164892&la=0&powerMode=0 ; https://mpns.science.kew.org/mpns-portal/drugDetail?drugName=%E9%B8%A2%E5%B0%BE&filter=&fuzzy=false&nameType=all&query=",
+          "reason": "Уточнено саме помилку рангу; широкий український відповідник не нав’язує непотрібної видової назви.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Видовий обсяг у загальному вжитку може бути ширшим; у ботанічних джерелах 鸢尾 також відповідає Iris tectorum."
+      ]
+    },
+    {
+      "id": "5a50c0fd527606d4",
+      "source_line": 8047,
+      "traditional": "俄羅斯帝國",
+      "simplified": "俄罗斯帝国",
+      "pinyin": "E2 luo2 si1 Di4 guo2",
+      "outcome": "correction_proposed",
+      "reason": "Власну назву передано правильно; 1546 не є початком Російської імперії. Примітка правильно виявляє хронологічний конфлікт, який можна виправити за науковим джерелом.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Російська імперія (1546–1917)",
+          "after": "Російська імперія (1721–1917)",
+          "reason": "Дослідження РАН прямо датує імперію 1721–1917 роками. Джерело: https://new.ras.ru/upload/iblock/943/rtumsj0gz6uc98cia9bpfccl6tn90k5p.pdf",
+          "confidence": "high",
+          "issue_type": "source_date_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Дати Російської імперії в англійському джерелі спірні: зазвичай її датують 1721–1917 рр.; збережено вихідний період 1546–1917 без мовчазного виправлення.",
+          "after": "Російську імперію датують 1721–1917 роками; 1546 у вихідній глосі не є датою її утворення. Джерело: https://new.ras.ru/upload/iblock/943/rtumsj0gz6uc98cia9bpfccl6tn90k5p.pdf",
+          "reason": "Прибрано застарілу заяву про збереження помилкового початку; сам конфлікт із джерелом документовано.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "db26409c2a99a6ff",
+      "source_line": 12433,
+      "traditional": "冒納羅亞",
+      "simplified": "冒纳罗亚",
+      "pinyin": "Mao4 na4 luo2 ya4",
+      "outcome": "acceptable",
+      "reason": "Мауна-Лоа узгоджується з китайською назвою й ознакою вулкана; китайська академічна публікація прямо зіставляє 冒纳罗亚 з Mauna Loa. Примітка правильна: https://www.rcees.cas.cn/kyz/201609/P020230725556425654076.pdf",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "f51eeba0256faca4",
+      "source_line": 20939,
+      "traditional": "周代",
+      "simplified": "周代",
+      "pinyin": "Zhou1 dai4",
+      "outcome": "correction_proposed",
+      "reason": "Назва династії правильна, однак 221 рік до н. е. належить до початку Цінь, а не завершення Чжоу. Прикріплена примітка це правильно пояснює.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "династія Чжоу (1046–221 до н. е., за джерелом)",
+          "after": "династія Чжоу (1046–256 роки до н. е.)",
+          "reason": "Національний музей Нара прямо подає 周代 1046–256 до н. е.; музей Met також закінчує Східну Чжоу 256 роком. Джерела: https://www.narahaku.go.jp/chinese/exhibition/usual/202102_seido/ ; https://82nd-and-fifth.metmuseum.org/toah/ht/04/eac.html",
+          "confidence": "high",
+          "issue_type": "source_date_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "1e0ede476c516bff",
+      "source_line": 25280,
+      "traditional": "均腐土",
+      "simplified": "均腐土",
+      "pinyin": "jun1 fu3 tu3",
+      "outcome": "acceptable",
+      "reason": "Транслітерований ізогумісоль і пояснення рівномірної гумусованості передають надану класифікаційну назву, не замінюючи її іншим ґрунтовим таксоном. Примітка про українську нормативність релевантна.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталений український відповідник isohumisol і межі китайського ґрунтового таксона потребують спеціальної термінологічної перевірки."
+      ]
+    },
+    {
+      "id": "41b0a1139e5c9fa3",
+      "source_line": 26107,
+      "traditional": "堰蜓座",
+      "simplified": "堰蜓座",
+      "pinyin": "Yan4 ting2 zuo4",
+      "outcome": "deferred",
+      "reason": "Українське сузір’я Хамелеон відповідає англійській глосі, але китайська форма 堰蜓座 і тон Yan4 не можуть вважатися перевіреними. Примітка доречно вказує на можливе нестандартне написання.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Необхідна перевірка китайської астрономічної номенклатури; форми заголовка та піньїнь залишено точно як у вході."
+      ]
+    },
+    {
+      "id": "ca9739c8a79830a0",
+      "source_line": 36797,
+      "traditional": "巴克斯",
+      "simplified": "巴克斯",
+      "pinyin": "Ba1 ke4 si1",
+      "outcome": "correction_proposed",
+      "reason": "Нейтральне «бог вина в античній міфології» доречне. Примітка надто легко трактує Greek як помилку: музейна ідентифікація Dionysos/Bacchus охоплює грецьку та римську традиції.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Джерело називає Вакха грецьким богом; це передусім римське ім'я бога, ототожненого з грецьким Діонісом.",
+          "after": "Вакх (Bacchus) і Діоніс — імена того самого бога вина у грецькій та римській традиціях; Bacchus особливо поширене в римському контексті. Саме означення «грецький» не доводить помилки. Джерело: https://www.britishmuseum.org/collection/term/BIOG57949",
+          "reason": "Звужено необґрунтоване протиставлення грецької й римської традицій; правильний нейтральний сегмент збережено.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "06bb5e572506176b",
+      "source_line": 36799,
+      "traditional": "巴克科斯",
+      "simplified": "巴克科斯",
+      "pinyin": "Ba1 ke4 ke1 si1",
+      "outcome": "correction_proposed",
+      "reason": "Для альтернативного китайського написання 巴克科斯 українська назва Вакх і нейтральна міфологічна характеристика також правильні. Окремо перевірена примітка повторює надмірне протиставлення Greek і Bacchus.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Джерело називає Вакха грецьким богом; це передусім римське ім'я бога, ототожненого з грецьким Діонісом.",
+          "after": "Вакх (Bacchus) і Діоніс — імена того самого бога вина у грецькій та римській традиціях; Bacchus особливо поширене в римському контексті. Саме означення «грецький» не доводить помилки. Джерело: https://www.britishmuseum.org/collection/term/BIOG57949",
+          "reason": "Виправлено те саме перебільшення в примітці саме цієї окремої статті; переклад не потребує зміни.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "8a45594fbf97d3c8",
+      "source_line": 48789,
+      "traditional": "搬鋪",
+      "simplified": "搬铺",
+      "pinyin": "ban1 pu4",
+      "outcome": "correction_proposed",
+      "reason": "Обряд стосується перенесення вмираючого на спеціально підготовлену постіль, а не лише облаштування місця. Примітка містить правильний напрямок уточнення, підтверджений культурним джерелом.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "облаштовувати місце для вмираючого",
+          "after": "переносити вмираючого на підготовлену постіль (традиційний обряд)",
+          "reason": "Національна культурна база Тайваню визначає 搬鋪 як перенесення хворого з ліжка до тимчасової постелі в залі. Джерело: https://tcmb.culture.tw/zh-tw/detail?id=170445&indexCode=Culture_Object",
+          "confidence": "high",
+          "issue_type": "meaning_precision"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело не уточнює обряд: 搬鋪 може позначати перенесення вмираючого на підготовлену постіль.",
+          "after": "搬鋪 — традиційне перенесення вмираючого з його ліжка на спеціально підготовлену постіль у головному приміщенні будинку. Джерело: https://tcmb.culture.tw/zh-tw/detail?id=170445&indexCode=Culture_Object",
+          "reason": "Обряд підтверджено первинним культурним описом, тож «може позначати» замінено конкретним поясненням.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "3880e83fd35b0de9",
+      "source_line": 57873,
+      "traditional": "梁山市",
+      "simplified": "梁山市",
+      "pinyin": "Liang2 shan1 shi4",
+      "outcome": "correction_proposed",
+      "reason": "Переклад відтворює Shandong, проте назва 梁山市 офіційно вживається для корейського Янсана. Водночас у Шаньдуні є 梁山县. Первинне джерело CEDICT може містити змішування двох об’єктів, а не лише рангу міста/повіту.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Адміністративний статус у джерелі потребує перевірки; сусідня стаття називає Ляншань повітом.",
+          "after": "梁山市 — офіційна китайська назва міста Янсан у Південній Кореї; у Шаньдуні є повіт 梁山县. Тому джерело може змішувати різні топоніми. Необхідно перевірити задум статті, а не автоматично змінювати «місто» на «повіт». Джерела: https://yangsan.go.kr/ch/contents.do?mid=0102000000 ; https://shandong-chorography.org/database/c89/section/1/article/2/",
+          "reason": "Розширено надто вузьку примітку про адміністративний ранг до перевіреного конфлікту ідентичностей, без вгаданої переадресації.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Потрібно встановити, чи вихідна стаття має стосуватися Янсана в Кореї або Ляншаню в Шаньдуні; жодну ідентифікацію не підставлено мовчки."
+      ]
+    },
+    {
+      "id": "467745b6f8cef224",
+      "source_line": 58043,
+      "traditional": "梯式配股",
+      "simplified": "梯式配股",
+      "pinyin": "ti1 shi4 pei4 gu3",
+      "outcome": "deferred",
+      "reason": "Ступінчастість передає laddering, але не розкриває, чи йдеться про спеціальну схему первинного розміщення або інший механізм продажу. Наявна примітка релевантна й не стверджує неперевірених деталей.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Для точного перекладу 梯式配股 потрібен контекст фінансової практики та авторитетне термінологічне джерело."
+      ]
+    },
+    {
+      "id": "391eb25166ad1504",
+      "source_line": 68131,
+      "traditional": "漸新統",
+      "simplified": "渐新统",
+      "pinyin": "jian4 xin1 tong3",
+      "outcome": "acceptable",
+      "reason": "«Олігоценовий відділ» зберігає хроностратиграфічний ранг 統. Примітка правильно вказує на помилкове system; переклад не змішує відділ із геохронологічною епохою.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "77d9d5fcac16ce58",
+      "source_line": 75794,
+      "traditional": "病因學",
+      "simplified": "病因学",
+      "pinyin": "bing4 yin1 xue2",
+      "outcome": "acceptable",
+      "reason": "«Учення про причини хвороб» точно описує етіологію, закладену в 病因學, і зберігає позначку традиційної китайської медицини. Примітка коректно відокремлює це від ширшої патології.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "59de843169a49bd3",
+      "source_line": 92050,
+      "traditional": "自發電位",
+      "simplified": "自发电位",
+      "pinyin": "zi4 fa1 dian4 wei4",
+      "outcome": "correction_proposed",
+      "reason": "Електроенцефалограма є записом, а 自發電位 означає спонтанний електричний потенціал. Релевантну примітку можна уточнити за двомовною науковою публікацією.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "електроенцефалограма (ЕЕГ)",
+          "after": "спонтанний електричний потенціал",
+          "reason": "Дослідження Shanghai Jiao Tong University прямо зіставляє 自发电位 зі spontaneous potentials, зокрема в нервово-м’язових вимірюваннях, а не лише ЕЕГ. Джерело: https://xuebao.shsmu.edu.cn/CN/10.3969/j.issn.1674-8115.2026.02.016",
+          "confidence": "high",
+          "issue_type": "source_technical_equivalent_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайський термін буквально означає спонтанний електричний потенціал; наведений у джерелі відповідник «електроенцефалограма» потребує перевірки.",
+          "after": "自發電位 — спонтанний електричний потенціал; електроенцефалограма є записом електричної активності мозку й не є прямим відповідником цього терміна. Двомовне засвідчення 自发电位 / spontaneous potentials: https://xuebao.shsmu.edu.cn/CN/10.3969/j.issn.1674-8115.2026.02.016",
+          "reason": "Загальний сумнів замінено підтвердженим термінологічним розрізненням.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "6261242797cd0a86",
+      "source_line": 97481,
+      "traditional": "蝦虎魚",
+      "simplified": "虾虎鱼",
+      "pinyin": "xia1 hu3 yu2",
+      "outcome": "acceptable",
+      "reason": "«Бичок» відповідає goby, а збережений Gobiidae фіксує родинну прив’язку. Примітка слушно не відносить бичків до камбалоподібних; FishBase описує саме родину бичкових: https://www.fishbase.org/Summary/FamilySummary.php?family=Gobiidae",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "df706a99d44ce6f5",
+      "source_line": 110793,
+      "traditional": "里程計",
+      "simplified": "里程计",
+      "pinyin": "li3 cheng2 ji4",
+      "outcome": "acceptable",
+      "reason": "«Лічильник пробігу» точно передає 里程計, пристрій вимірювання відстані, а не швидкості. Примітка прикріплена правильно й зберігає відмінність від speedometer.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e6a03850db66e321",
+      "source_line": 112949,
+      "traditional": "鑒權",
+      "simplified": "鉴权",
+      "pinyin": "jian4 quan2",
+      "outcome": "acceptable",
+      "reason": "«Автентифікація» є засвідченим технічним відповідником у частині вживань 鑒權. Офіційна документація Huawei вживає термін і для перевірки ідентичності, і для доступу; контекстне застереження примітки потрібне. Джерело: https://www.huaweicloud.com/intl/zh-cn/securecenter/compliance/compliance-center/security-infrastructure.html",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Для конкретної системи слід розрізняти автентифікацію й авторизацію; вузький відповідник тут збережено як значення джерела."
+      ]
+    },
+    {
+      "id": "77553e033693174e",
+      "source_line": 118390,
+      "traditional": "韎",
+      "simplified": "韎",
+      "pinyin": "mei4",
+      "outcome": "acceptable",
+      "reason": "Глоса про траву з червоним барвником підтверджена Academia Sinica, яка подає рослинне значення 韎. Примітка про відсутність видової ідентифікації не суперечить загальному опису: https://chardb.iis.sinica.edu.tw/char/25675",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Точний ботанічний вид не додається; словникова вказівка на марену сама по собі не встановлює сучасного видового таксона."
+      ]
+    },
+    {
+      "id": "2c921b1a2561bf63",
+      "source_line": 13735,
+      "traditional": "切空間",
+      "simplified": "切空间",
+      "pinyin": "qie1 kong1 jian1",
+      "outcome": "acceptable",
+      "reason": "«Дотичний простір» правильно передає 切空間; цитату про простір перерізів явно позначено джерельною помилкою. Національний астрономічний словник підтверджує tangent space: https://nadc.china-vo.org/astrodict/termdetails?id=18432",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "1e8f71911efe94ce",
+      "source_line": 33611,
+      "traditional": "審級",
+      "simplified": "审级",
+      "pinyin": "shen3 ji2",
+      "outcome": "correction_proposed",
+      "reason": "Перша українська глоса правильна; «апеляційний рівень» невиправдано звужує другий відповідник, адже 審級 охоплює й першу інстанцію. Примітка загалом точна.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "судова інстанція; апеляційний рівень",
+          "after": "судова інстанція; рівень судового розгляду",
+          "reason": "Офіційне пояснення судової системи відносить 審級 до першої, другої та третьої інстанцій. Джерело: https://www.judicial.gov.tw/tw/cp-1475-58035-45c34-1.html",
+          "confidence": "high",
+          "issue_type": "overly_narrow_equivalent"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "0a3043caa76de47e",
+      "source_line": 42011,
+      "traditional": "恭親王",
+      "simplified": "恭亲王",
+      "pinyin": "Gong1 qin1 wang2",
+      "outcome": "acceptable",
+      "reason": "Уточнення князя Ґун потрібне, оскільки 恭 є частиною конкретного титулу, а не словом «великий». Переклад зберігає цей ідентифікатор та добу Цін; прикріплена примітка правильно пояснює загальність англійської глоси.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Точний український ранговий відповідник 親王 залежить від історичної перекладацької традиції; «великий князь» не нормалізується без такого стандарту."
+      ]
+    },
+    {
+      "id": "eaa878b7b4fcc425",
+      "source_line": 48530,
+      "traditional": "揭諦",
+      "simplified": "揭谛",
+      "pinyin": "jie1 di4",
+      "outcome": "deferred",
+      "reason": "Цзєді та захисне божество відповідають китайському персонажу, але «що відкриває істину» лишається тлумаченням неясного revealer. MOE підтверджує божество, але не цей епітет: https://dict.revised.moe.edu.tw/dictView.jsp?ID=90047&la=0&powerMode=0",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібно перевірити, чи revealer є окремим релігійним титулом або невдалим англійським етимологічним тлумаченням; прикріплену примітку збережено."
+      ]
+    },
+    {
+      "id": "1dd3db82fa97b6c8",
+      "source_line": 51215,
+      "traditional": "數字分頻",
+      "simplified": "数字分频",
+      "pinyin": "shu4 zi4 fen1 pin2",
+      "outcome": "acceptable",
+      "reason": "«Цифровий поділ частоти» є природним відповідником 數字分頻 і не підміняє його розподілом доступу між користувачами. Примітка доречно лишає відкритим точний технічний контекст.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Не визначено, чи джерело описує електронний подільник частоти, цифрове розділення смуг або іншу конкретну схему."
+      ]
+    },
+    {
+      "id": "572ddeca755b8824",
+      "source_line": 53995,
+      "traditional": "暑溫",
+      "simplified": "暑温",
+      "pinyin": "shu3 wen1",
+      "outcome": "deferred",
+      "reason": "Позначку традиційної китайської медицини збережено, але «теплова хвороба» може бути прочитана як сучасний фізіологічний діагноз. Примітка правильно не прирівнює її до такого діагнозу.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібен фаховий відповідник для 暑溫 як конкретної традиційної нозологічної категорії; сучасну хворобу не підставлено."
+      ]
+    },
+    {
+      "id": "d46625c1042df358",
+      "source_line": 54095,
+      "traditional": "暗經",
+      "simplified": "暗经",
+      "pinyin": "an4 jing1",
+      "outcome": "deferred",
+      "reason": "«Прихована менструація» відтворює англійську глосу з позначкою TCM, однак точне традиційне значення 暗經 не встановлено. Примітка чесно фіксує цю невизначеність.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Не слід автоматично ототожнювати 暗經 з аменореєю, криптоменореєю або іншим сучасним діагнозом без спеціального джерела."
+      ]
+    },
+    {
+      "id": "dca1f46a9852529a",
+      "source_line": 72054,
+      "traditional": "牽牛花",
+      "simplified": "牵牛花",
+      "pinyin": "qian1 niu2 hua1",
+      "outcome": "deferred",
+      "reason": "Опис білої облямівки точно повторює English, але китайська назва рослини ширший і не обов’язково означає саме таку окраску. Примітка релевантна, проте видовий та колірний обсяг потребує підтвердження.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "牽牛花 може стосуватися культурних іпомей; офіційна флора описує 牵牛 як Ipomoea nil із різним забарвленням. Без остаточного зіставлення не підставляється інша наукова назва. Джерело: https://www.iplant.cn/fsz/info/Ipomoea%20nil"
+      ]
+    },
+    {
+      "id": "de4ac8e5e8cf25f4",
+      "source_line": 78061,
+      "traditional": "相承",
+      "simplified": "相承",
+      "pinyin": "xiang1 cheng2",
+      "outcome": "acceptable",
+      "reason": "Послідовне передавання або успадкування узгоджується з 相承 як наступністю; це не взаємодоповнення. Примітка доречна; MOE визначає слово як послідовне продовження: https://dict.revised.moe.edu.tw/dictView.jsp?ID=109621&la=1&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "edb7cf06daa95b43",
+      "source_line": 79367,
+      "traditional": "石頭火鍋",
+      "simplified": "石头火锅",
+      "pinyin": "shi2 tou5 huo3 guo1",
+      "outcome": "correction_proposed",
+      "reason": "Переклад глиняного горщика змішує посуд зі стравою. Офіційний тайбейський туристичний матеріал описує 石頭火鍋 як різновид хоґо; примітка правильно виявляє цю проблему.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "глиняний горщик для приготування їжі",
+          "after": "«кам’яне» хоґо (різновид страви хоґо)",
+          "reason": "Офіційний путівник Тайбея описує приготування 石頭火鍋 як страви з попереднім обсмажуванням, а не глиняний горщик. Джерело: https://www.travel.taipei/file/35631/",
+          "confidence": "high",
+          "issue_type": "source_category_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайська назва зазвичай стосується різновиду хоґо; вузьке тлумачення «claypot» у джерелі потребує перевірки.",
+          "after": "石頭火鍋 позначає різновид хоґо; claypot у джерелі помилково підмінює страву назвою посуду. Офіційний путівник Тайбея описує приготування такого хоґо. Джерело: https://www.travel.taipei/file/35631/",
+          "reason": "Відповідний до статті сумнів підтверджено; конкретний рецепт не нав’язано як єдиний.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Є різні традиції приготування «кам’яного» хоґо; переклад не звужується до одного рецепта або матеріалу посуду."
+      ]
+    },
+    {
+      "id": "8bd30970bb0b80bd",
+      "source_line": 81984,
+      "traditional": "積薪厝火",
+      "simplified": "积薪厝火",
+      "pinyin": "ji1 xin1 cuo4 huo3",
+      "outcome": "correction_proposed",
+      "reason": "Українська ідіома «підливати олії у вогонь» означає загострення, тоді як 積薪厝火 описує небезпечне становище з прихованою загрозою. У примітці основне значення помилково ослаблене до можливого відтінку.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "підливати олії у вогонь",
+          "after": "перебувати в становищі, що приховує велику небезпеку (ідіома)",
+          "reason": "MOE тлумачить 積薪厝火 як небезпечну ситуацію з прихованим великим лихом; це не просто розпалювання конфлікту. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=87619&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "idiom_meaning_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Буквальний образ китайського вислову — вогонь під нагромадженими дровами; можливий відтінок прихованої небезпеки.",
+          "after": "Образ вогню під нагромадженими дровами означає становище з великою прихованою небезпекою. Це основне ідіоматичне значення, а не лише можливий відтінок. Англійське to add fuel to the flames неточне. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=87619&la=0&powerMode=0",
+          "reason": "Усунено заниження підтвердженого основного значення до випадкового відтінку.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "232fc7c97124d2e4",
+      "source_line": 83231,
+      "traditional": "筒燈",
+      "simplified": "筒灯",
+      "pinyin": "tong3 deng1",
+      "outcome": "correction_proposed",
+      "reason": "筒燈 — світильник спрямованого вниз світла, часто вбудований. Глоса не має обмежувати його люмінесцентною трубкою; примітка правильно відзначає це змішування.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "люмінесцентна трубка або світильник",
+          "after": "стельовий світильник спрямованого вниз світла (часто вбудований)",
+          "reason": "Каталог виробника прямо називає 筒灯 вбудовані LED-світильники; люмінесцентна технологія не є визначальною. Джерело: https://www.lighting.philips.com.cn/consumer/p/recessed-lights-recessed-light-65w-120mm/6922341960895",
+          "confidence": "high",
+          "issue_type": "source_technical_equivalent_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайське слово часто позначає вбудований циліндричний світильник; англійський опис може бути неточним.",
+          "after": "筒燈 зазвичай позначає стельовий світильник спрямованого вниз світла, часто вбудований; це не назва люмінесцентної трубки. Технологія джерела світла може бути різною. Приклад виробника: https://www.lighting.philips.com.cn/consumer/p/recessed-lights-recessed-light-65w-120mm/6922341960895",
+          "reason": "Підтверджено тип виробу без зайвого обмеження його циліндричною формою або конкретною технологією.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "ce8fc647b5f96220",
+      "source_line": 93012,
+      "traditional": "色度",
+      "simplified": "色度",
+      "pinyin": "se4 du4",
+      "outcome": "correction_proposed",
+      "reason": "Насиченість є вужчою характеристикою, ніж колірність. Китайський стандарт прямо зіставляє 色度 з chromaticity; прикріплене застереження підтверджене.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "насиченість (теорія кольору)",
+          "after": "колірність (теорія кольору)",
+          "reason": "Офіційний стандарт GB/T 15609-2008 має паралельні назви 色度 / chromaticity; saturation не є прямим відповідником. Джерело: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=CE39C01F6B421CF822498DEEE64C57FA",
+          "confidence": "high",
+          "issue_type": "source_technical_equivalent_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "色度 у колориметрії може означати колірність, ширше поняття за насиченість; тут збережено поданий джерелом відповідник.",
+          "after": "У колориметрії 色度 відповідає chromaticity — «колірність». Насиченість є іншою, вужчою характеристикою кольору; джерельне saturation неточне. Джерело: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=CE39C01F6B421CF822498DEEE64C57FA",
+          "reason": "Розв’язано термінологічний сумнів і усунено застаріле пояснення про збереження saturation.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "2cab85a376b1d49e",
+      "source_line": 95349,
+      "traditional": "葶",
+      "simplified": "葶",
+      "pinyin": "ting2",
+      "outcome": "deferred",
+      "reason": "Пошкоджений латинський рядок відтворено точно, а примітка правильно вказує на проблему. Flora of China містить Draba nemorosa та синонім із var. hebecarpa, але це не дозволяє безпосередньо відновити весь рядок bebe carpa.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Draba nemerosa bebe carpa не нормалізується за здогадкою; потрібне редакційне зіставлення з первинним записом. Джерело для можливих форм, не автоматичної заміни: https://www.iplant.cn/foc/pdf/Draba.pdf"
+      ]
+    },
+    {
+      "id": "2b456b283228b884",
+      "source_line": 112887,
+      "traditional": "鐵鋁土",
+      "simplified": "铁铝土",
+      "pinyin": "tie3 lu:3 tu3",
+      "outcome": "acceptable",
+      "reason": "«Фералсол» зберігає ідентифіковану класифікаційну назву, а «фералітний ґрунт» подано пояснювально. Примітка правильно залишає відкритою відповідність українським класифікаційним стандартам.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібно перевірити співвідношення Ferralsol у конкретній системі та ширшого означення «фералітний ґрунт»; жоден таксон не замінено."
+      ]
+    },
+    {
+      "id": "3b71c12be6d433c8",
+      "source_line": 114086,
+      "traditional": "閿",
+      "simplified": "阌",
+      "pinyin": "wen2",
+      "outcome": "acceptable",
+      "reason": "Веньсян і Хенань передано без доданого сучасного адміністративного статусу. Історичний повіт засвідчений архівними джерелами, тому примітка релевантна: https://digitalatlas.ascdc.sinica.edu.tw/map_detail.jsp?id=A103000110",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Одноієрогліфна стаття 閿 є скороченою топонімічною глосою; точний часовий обсяг назви не визначено."
+      ]
+    },
+    {
+      "id": "0d4c24b13fd8e258",
+      "source_line": 114719,
+      "traditional": "阿爾薩斯",
+      "simplified": "阿尔萨斯",
+      "pinyin": "A1 er3 sa4 si1",
+      "outcome": "correction_proposed",
+      "reason": "Топонім Ельзас правильний, але відтворювати його як один французький департамент неправильно. Релевантна примітка вже вказує на потрібне виправлення.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Ельзас, французький департамент (за джерелом)",
+          "after": "Ельзас, історичний регіон Франції",
+          "reason": "Офіційна французька сторінка розрізняє Ельзас і два департаменти Bas-Rhin та Haut-Rhin; нейтральне історико-географічне визначення уникає мінливих деталей адміністративної реформи. Джерело: https://www.bas-rhin.gouv.fr/Actions-de-l-Etat/Collectivites-locales-Intercommunalite/Creation-d-une-collectivite-europeenne-d-Alsace",
+          "confidence": "high",
+          "issue_type": "source_administrative_rank_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Ельзас є історичним регіоном, а не окремим французьким департаментом; категорію джерела позначено як таку.",
+          "after": "Ельзас — історико-географічний регіон Франції; джерельне French department неточно зводить його до одного департаменту. Адміністративне розрізнення Bas-Rhin і Haut-Rhin: https://www.bas-rhin.gouv.fr/Actions-de-l-Etat/Collectivites-locales-Intercommunalite/Creation-d-une-collectivite-europeenne-d-Alsace",
+          "reason": "Оновлено примітку після усунення помилкової категорії, без заяви про всі сучасні повноваження регіону.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e1f1627b7d80fef4",
+      "source_line": 116737,
+      "traditional": "雪梨",
+      "simplified": "雪梨",
+      "pinyin": "xue3 li2",
+      "outcome": "deferred",
+      "reason": "«Груша снігова» відповідає наведеному англійському відповіднику та Pyrus nivalis, але китайська назва культурних груш може не збігатися з цим європейським видом. Примітка правильно фіксує саме проблему ідентифікації.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібна перевірка відповідності 雪梨 та Pyrus nivalis; латинський ідентифікатор залишено без змін і не оголошено підтвердженим."
+      ]
+    },
+    {
+      "id": "8653422f5313fc07",
+      "source_line": 199,
+      "traditional": "㘓",
+      "simplified": "𪢌",
+      "pinyin": "lan2",
+      "outcome": "acceptable",
+      "reason": "Ужиток у сполуці передано точно; рідкісні обидві форми та 㘓哰|𪢌哰[lan2 lao2] не змінені. Примітка стосується саме обмеженості глоси, а не іншої статті.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Самостійний ужиток поза наведеною сполукою не встановлюється цією статтею."
+      ]
+    },
+    {
+      "id": "9b20c762eac91df2",
+      "source_line": 8167,
+      "traditional": "保惠師",
+      "simplified": "保惠师",
+      "pinyin": "Bao3 hui4 shi1",
+      "outcome": "acceptable",
+      "reason": "Параклет і Утішитель є зрозумілими християнськими відповідниками Paraclete. Примітка правильно визнає варіантність традиційного перекладу; зміни релігійного змісту не потрібні.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Правопис транслітерованого терміна та вибір конфесійного відповідника можуть відрізнятися між українськими традиціями."
+      ]
+    },
+    {
+      "id": "f402698b177d71e6",
+      "source_line": 16775,
+      "traditional": "升汞",
+      "simplified": "升汞",
+      "pinyin": "sheng1 gong3",
+      "outcome": "acceptable",
+      "reason": "«Сулема, хлорид ртуті(II)» правильно називає речовину. Примітка зберігає вихідну HgCl як помилку й правильно наводить HgCl₂; жодну формулу не переписано мовчки. Підтвердження: https://pubchem.ncbi.nlm.nih.gov/compound/HgCl2",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "1f4b2bd5656d75d5",
+      "source_line": 38458,
+      "traditional": "庫納",
+      "simplified": "库纳",
+      "pinyin": "ku4 na4",
+      "outcome": "correction_proposed",
+      "reason": "Назва валюти куна правильна, але історичність необхідно позначити в самій глосі. Примітка коректно вказує на перехід Хорватії на євро 2023 року.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "куна (хорватська валюта)",
+          "after": "куна (колишня валюта Хорватії)",
+          "reason": "ЄЦБ підтверджує перехід на євро 1 січня 2023 року; теперішній неуточнений статус валюти вводить в оману. Джерело: https://www.ecb.europa.eu/euro/changeover/croatia/html/index.ga.html",
+          "confidence": "high",
+          "issue_type": "outdated_status"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e628f63f4b233edd",
+      "source_line": 40349,
+      "traditional": "從兄",
+      "simplified": "从兄",
+      "pinyin": "cong2 xiong1",
+      "outcome": "correction_proposed",
+      "reason": "Старший троюрідний брат повторює помилкове second cousin. MOE прямо визначає 從兄 як старшого сина батькового брата, тобто двоюрідного брата.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "старший троюрідний брат",
+          "after": "старший двоюрідний брат по батьківській лінії",
+          "reason": "MOE визначає 從兄 як 堂兄, сина батькового брата зі спільним дідом, старшого за мовця. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=140366&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "source_kinship_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає older male second cousin (старший троюрідний брат); у класичних родинних термінах 從兄 може означати старшого двоюрідного брата по батьківській лінії.",
+          "after": "從兄 означає старшого двоюрідного брата по батьківській лінії; second cousin у джерелі помилково додає ще один ступінь спорідненості. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=140366&la=0&powerMode=0",
+          "reason": "Замість лише можливого класичного значення наведено пряме словникове визначення; вимову не змінено.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Вхідний піньїнь cong2 xiong1 збережено точно; MOE наводить тайванське читання zòng xiōng, яке потребує окремого узгодження, якщо переглядатиметься вимова."
+      ]
+    },
+    {
+      "id": "54ee8c38062cdded",
+      "source_line": 41629,
+      "traditional": "性同一性障礙",
+      "simplified": "性同一性障碍",
+      "pinyin": "xing4 tong2 yi1 xing4 zhang4 ai4",
+      "outcome": "acceptable",
+      "reason": "Історичний діагностичний термін перекладено точно. Примітка правильно відділяє його від твердження, що сама гендерна ідентичність є розладом; це узгоджується з поясненням ВООЗ: https://www.who.int/standards/classifications/frequently-asked-questions/gender-incongruence-and-transgender-health-in-the-icd?trk=article-ssr-frontend-pulse_little-text-block",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "1b83bbd09363259e",
+      "source_line": 51690,
+      "traditional": "斝",
+      "simplified": "斝",
+      "pinyin": "jia3",
+      "outcome": "correction_proposed",
+      "reason": "«Невелика нефритова чаша з вушками» відтворює джерело, але не відповідає основному словниковому опису 斝 як давньої посудини для вина з трьома ніжками. Примітку можна уточнити на підставі MOE.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "невелика нефритова чаша з вушками",
+          "after": "давня посудина для вина на трьох ніжках; винна чаша",
+          "reason": "MOE визначає давній тип посудини з трьома ніжками й двома стовпчиками, а також переносне позначення винної чаші; нефрит не є визначальною ознакою. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=5534&la=1&powerMode=0",
+          "confidence": "high",
+          "issue_type": "source_object_description_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "斝 зазвичай позначає давню ритуальну винну посудину; опис нефритової чаші з вушками збережено за джерелом і потребує звірення.",
+          "after": "斝 — давня посудина для вина, за словниковим описом на трьох ніжках із двома стовпчиками; також переносно «винна чаша». Визначення small jade cup with ears у джерелі неточне. Джерело: https://dict.revised.moe.edu.tw/dictView.jsp?ID=5534&la=1&powerMode=0",
+          "reason": "Релевантну невизначеність замінено перевіреним предметним описом; не приписано всім посудинам один матеріал.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "034c950cfdc26c4f",
+      "source_line": 51947,
+      "traditional": "新成土",
+      "simplified": "新成土",
+      "pinyin": "xin1 cheng2 tu3",
+      "outcome": "acceptable",
+      "reason": "«Примосоль» зберігає спеціальну класифікаційну назву primosol і її ґрунтознавчий контекст. Наявна примітка належно відмежовує транслітерацію від перевіреного нормативного українського терміна.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Нормативність транслітерації та межі таксона в китайській класифікації ґрунтів не встановлено."
+      ]
+    },
+    {
+      "id": "fcf2b228b8ce0d34",
+      "source_line": 54879,
+      "traditional": "月薪",
+      "simplified": "月薪",
+      "pinyin": "yue4 xin1",
+      "outcome": "correction_proposed",
+      "reason": "«Місячна платня» правильна, але уточнення натуральної оплати повторює невмотивоване обмеження джерела. Китайське 月薪 не задає способу виплати.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "місячна платня (зокрема натуральна)",
+          "after": "місячна платня; місячна заробітна плата",
+          "reason": "Офіційне вживання 月薪 охоплює звичайну грошову місячну зарплату; немає лексичного обмеження натуральною формою. Джерело: https://www.mol.gov.tw/1607/28162/28166/28180/28182/28188/29026",
+          "confidence": "high",
+          "issue_type": "unsupported_source_restriction"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "321fb1a0c488da9d",
+      "source_line": 55167,
+      "traditional": "有線新聞網",
+      "simplified": "有线新闻网",
+      "pinyin": "You3 xian4 Xin1 wen2 Wang3",
+      "outcome": "acceptable",
+      "reason": "CNN і український опис мережі новин правильні. Примітка точно виправляє порядок слів в офіційній англійській назві; CNN підтверджує Cable News Network: https://cnnpressroom.blogs.cnn.com/cnn-fact-sheet/",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "51131768480b6b10",
+      "source_line": 78768,
+      "traditional": "督察大隊",
+      "simplified": "督察大队",
+      "pinyin": "du1 cha2 da4 dui4",
+      "outcome": "correction_proposed",
+      "reason": "«Цензурний» невиправдано звужує функції 督察大隊. Офіційні описи такого підрозділу включають службові інспекції, дисципліну й нагляд за поліцією; примітка правильно виявляє проблему.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "бригада цензурного нагляду (КНР)",
+          "after": "інспекційний підрозділ; підрозділ службового нагляду (КНР)",
+          "reason": "Офіційний перелік структури поліції визначає 警务督察大队 як підрозділ службового нагляду й розгляду скарг, а не спеціально цензури. Джерело: https://xxgk.sxgp.gov.cn/gzbm/gpgaj/fdzdgknr/zzjg/nsjg/202202/t20220222_1557013.shtml",
+          "confidence": "high",
+          "issue_type": "source_overly_narrow_meaning"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Китайська назва ширше означає інспекційний підрозділ; вузьке цензурне значення подано за джерелом і потребує перевірки.",
+          "after": "督察大隊 означає інспекційний підрозділ або підрозділ службового нагляду. В офіційному поліцейському вжитку його функції включають перевірку виконання обов’язків і дисципліни; censorship brigade необґрунтовано звужує це до цензури. Джерело: https://xxgk.sxgp.gov.cn/gzbm/gpgaj/fdzdgknr/zzjg/nsjg/202202/t20220222_1557013.shtml",
+          "reason": "Замість загального сумніву наведено перевірений ширший зміст; не стверджено, що всі підрозділи мають однакову компетенцію.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "f87b2d021d9b47b6",
+      "source_line": 87378,
+      "traditional": "續隨子",
+      "simplified": "续随子",
+      "pinyin": "xu4 sui2 zi5",
+      "outcome": "correction_proposed",
+      "reason": "Українські каперси й Capparis spinosa передають English, але не китайське 續隨子: Китайська академія наук прямо ідентифікує його як Euphorbia lathyris. Латинський рядок входу не підмінюється.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "У джерелі, ймовірно, помилкова ідентифікація: 續隨子 зазвичай позначає Euphorbia lathyris, а не Capparis spinosa.",
+          "after": "續隨子 підтверджено як Euphorbia lathyris, а не Capparis spinosa. Англійська глоса помилково ототожнює різні рослини; латинський ідентифікатор вихідного сегмента збережено до окремого виправлення. Джерело: https://www.cas.cn/syky/202604/t20260408_5106098.shtml",
+          "reason": "Знято лише непевність щодо виявленого таксономічного конфлікту; латинський рядок не нормалізовано мовчки.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Залишається підтверджений конфлікт китайського заголовка й Capparis spinosa; потрібне окреме редакційне рішення для виправлення видової ідентифікації."
+      ]
+    },
+    {
+      "id": "3b24704d6280beb9",
+      "source_line": 93178,
+      "traditional": "芕",
+      "simplified": "芕",
+      "pinyin": "sui1",
+      "outcome": "acceptable",
+      "reason": "Невизначений вид лікарської трави передано точно. Примітка повторює реальну обмеженість джерела й не містить стороннього ботанічного ототожнення.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Конкретна рослина в джерелі не ідентифікована."
+      ]
+    },
+    {
+      "id": "6abd72eb868a2974",
+      "source_line": 94347,
+      "traditional": "莔",
+      "simplified": "莔",
+      "pinyin": "meng2",
+      "outcome": "acceptable",
+      "reason": "Рябчик і описова кільчастість узгоджуються з Fritillaria та епітетом verticillata; латинську назву збережено. Примітка правильно залишає відкритою нормативність української назви.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "«Рябчик кільчастий» зберігається як описовий відповідник; усталену українську номенклатурну назву не встановлено."
+      ]
+    },
+    {
+      "id": "a4ebfc3c6e25d515",
+      "source_line": 107204,
+      "traditional": "迦持",
+      "simplified": "迦持",
+      "pinyin": "jia1 chi2",
+      "outcome": "deferred",
+      "reason": "«Закони буддизму» буквально передає загальну англійську глосу, але не визначає точний дисциплінарний або доктринальний обсяг рідкісного 迦持. Примітка правильно прикріплена.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібне первинне або спеціалізоване релігієзнавче підтвердження точного значення 迦持; його не слід автоматично замінювати подібним 加持."
+      ]
+    },
+    {
+      "id": "0bbde55c8585ec50",
+      "source_line": 119105,
+      "traditional": "頭索類",
+      "simplified": "头索类",
+      "pinyin": "tou2 suo3 lei4",
+      "outcome": "correction_proposed",
+      "reason": "Глоса про одного ланцетника звужує вищу групу 頭索類 до роду Branchiostoma. Примітка правильно помічає різницю; український переклад можна розширити, зберігаючи точний латинський рядок.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "ланцетник (Branchiostoma)",
+          "after": "головохордові, зокрема ланцетники (Branchiostoma)",
+          "reason": "Офіційне видання національних парків Тайваню відносить ланцетників до 頭索動物亞門 (Cephalochordata), тобто це представники ширшої групи. Branchiostoma збережено як приклад. Джерело: https://www.taiwan.nps.gov.tw/home/zh-tw/quarterly/7980/7654",
+          "confidence": "high",
+          "issue_type": "source_taxonomic_scope_error"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "fa4b6da01d7f9cf8",
+      "source_line": 119350,
+      "traditional": "類球面",
+      "simplified": "类球面",
+      "pinyin": "lei4 qiu2 mian4",
+      "outcome": "deferred",
+      "reason": "«Витягнутий сфероїд» точно передає prolate spheroid; однак китайське 類球面 може мати ширший обсяг залежно від термінологічної традиції. Примітка правильно утримує це відкритим, а достатньої підстави для заміни вузького значення немає.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Потрібно звірити, чи 類球面 тут означає будь-яку поверхню обертання еліпса, чи саме витягнутий сфероїд; наявне спеціальне вживання prolate не усуває варіантності."
+      ]
+    },
+    {
+      "id": "2480c03fab0fa846",
+      "source_line": 123545,
+      "traditional": "麃",
+      "simplified": "麃",
+      "pinyin": "pao2",
+      "outcome": "acceptable",
+      "reason": "Архаїчну позначку та невизначений різновид оленя передано. Примітка точно відповідає відсутності видової ідентифікації; конкретний вид не вигадано.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело не називає сучасного біологічного виду."
+      ]
+    },
+    {
+      "id": "b334c6ffc0e0cd01",
+      "source_line": 365,
+      "traditional": "䴈",
+      "simplified": "𬸩",
+      "pinyin": "ao3",
+      "outcome": "acceptable",
+      "reason": "Єдину функціональну глосу передано точно, включно з обома рідкісними формами 鶆䴈|𱉵𬸩 і [lai2 ao3]. Примітка про збережене посилання належить цій статті та фактично правильна.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    }
+  ]
+}

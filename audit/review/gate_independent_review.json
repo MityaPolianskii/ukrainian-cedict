@@ -1,0 +1,245 @@
+{
+  "reviewed_files": [
+    "note_gate.py",
+    "test_note_gate.py"
+  ],
+  "supplied_test_run": {
+    "commands": [
+      "python -m unittest -v test_note_gate.py",
+      "python -O -m unittest -v test_note_gate.py"
+    ],
+    "tests_each": 20,
+    "passed_each": 20
+  },
+  "independent_findings": [
+    {
+      "name": "optimized_runtime_validation_bypass",
+      "expected": "Reject cross-entry stale note approval and low-confidence stale patch",
+      "observed": {
+        "returncode": 1,
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"<string>\", line 7, in <module>\n  File \"/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/note_gate.py\", line 41, in apply_gate\n    raise GateValidationError('source-hash mismatch')\nnote_gate.GateValidationError: source-hash mismatch",
+        "interpretation": "Reloaded module raises GateValidationError under -O, correctly rejecting the attempted stale cross-entry event. Initial static audit found asserts; the parent patched them during the independent test run."
+      },
+      "severity": "critical",
+      "minimal_fix": "Replace validation asserts with explicit if/raise checks, preferably a custom GateValidationError subclass; immediate __debug__ guard can temporarily fail closed.",
+      "status": "fixed_and_verified_in_current_gate"
+    },
+    {
+      "name": "returned_evidence_aliases_immutable_input",
+      "expected": "Changes to returned evidence cannot mutate original input rows",
+      "observed": {
+        "input_mutated": true,
+        "input_flags": [
+          "translator_uncertainty",
+          "mutated-through-quarantine"
+        ],
+        "ledger_and_quarantine_share_item": true
+      },
+      "severity": "medium",
+      "minimal_fix": "Deep-copy original_uncertainty_flags when constructing evidence; optionally deep-copy items between quarantine and ledger to make their independence explicit.",
+      "status": "fixed_and_verified_in_current_gate"
+    },
+    {
+      "name": "whitespace_only_review_evidence",
+      "expected": "Reject empty or whitespace-only reason/review source",
+      "observed": {
+        "active_notes": 1,
+        "reason": " ",
+        "review_source": "\t"
+      },
+      "severity": "medium",
+      "minimal_fix": "Require reason and review_source to be strings with nonempty strip(), in both note_event and apply_gate.",
+      "status": "fixed_and_verified_in_current_gate"
+    },
+    {
+      "name": "nonstring_review_evidence",
+      "expected": "Reject malformed evidence metadata",
+      "observed": {
+        "active_notes": 1,
+        "reason_type": "dict",
+        "review_source_type": "list"
+      },
+      "severity": "low",
+      "minimal_fix": "Validate evidence strings and event schema before accepting an event.",
+      "status": "fixed_and_verified_in_current_gate"
+    },
+    {
+      "name": "malformed_legacy_notes_split_into_characters",
+      "expected": "Reject malformed baseline note collection rather than silently changing evidence granularity",
+      "observed": {
+        "notes_total": 16,
+        "first_quarantined_notes": [
+          "n",
+          "o",
+          "t"
+        ]
+      },
+      "severity": "medium",
+      "minimal_fix": "Validate baseline rows: note lists of strings, source/translation segment lists of strings, flags list, exact boolean uncertainty/human markers, unique valid IDs, aligned segments before processing.",
+      "status": "fixed_and_verified_in_current_gate"
+    },
+    {
+      "name": "no_op_patch_counts_as_correction",
+      "expected": "Count actual text changes or explicitly label applied patch events",
+      "observed": {
+        "applied_segment_corrections": 1,
+        "record_correction_count": 1
+      },
+      "severity": "low",
+      "status": "fixed_and_verified_in_current_gate",
+      "minimal_fix": "Reject before == after as a no-op, or omit no-op entries from correction totals."
+    }
+  ],
+  "scope": "Architecture and validation only; no dictionary-linguistic judgments. Gate/test files were not modified.",
+  "reviewed_file_sha256": {
+    "note_gate.py": "282378c0ee3b6fb6119f46196fd9087f916ef376e6fbc0cb4bd666e6ad5205a8",
+    "test_note_gate.py": "f3e667071d3a554a39c3706df0943bcae314e096c5c526fe9d6897f8db5e618e",
+    "compile_repair_candidate.py": "fedb9fcddb31158e162e3af51a477a208aafae8eaf208b71beb5a28ecb8d5463"
+  },
+  "additional_recommendations": [
+    "Add unit tests for whitespace and nonstring evidence, malformed baseline collections, and mutation of returned quarantine flags.",
+    "Exercise rejection of every source/baseline/note hash, boolean/negative note or patch indexes, duplicate patch/review records, reference multiplication/addition/deletion, empty replacements, unaligned source/translation segment arrays, and unsupported human validation.",
+    "The gate authenticates attachment to the supplied baseline, not the authority or correctness of a reviewer. The compiler must preserve a trusted baseline manifest plus the exact review and translation-patch ledgers."
+  ],
+  "compiler_artifact_validation": {
+    "overall_passed": true,
+    "checks": [
+      {
+        "check": "frozen_baseline_hash",
+        "passed": true
+      },
+      {
+        "check": "dictionary_hash",
+        "passed": true
+      },
+      {
+        "check": "exact_record_count_and_order",
+        "passed": true,
+        "detail": 125264
+      },
+      {
+        "check": "reviewed_ids_exactly_checkpoint_selected",
+        "passed": true
+      },
+      {
+        "check": "shard_1_exact_evidence",
+        "passed": true
+      },
+      {
+        "check": "shard_2_exact_evidence",
+        "passed": true
+      },
+      {
+        "check": "shard_3_exact_evidence",
+        "passed": true
+      },
+      {
+        "check": "all_reviewed_source_and_baseline_bindings",
+        "passed": true
+      },
+      {
+        "check": "all_note_event_exact_bindings",
+        "passed": true
+      },
+      {
+        "check": "note_and_patch_event_uniqueness",
+        "passed": true
+      },
+      {
+        "check": "only_reviewed_ids_have_note_events",
+        "passed": true
+      },
+      {
+        "check": "only_high_confidence_nonnop_bound_patches",
+        "passed": true,
+        "detail": 42
+      },
+      {
+        "check": "proposal_application_mapping",
+        "passed": true
+      },
+      {
+        "check": "full_dictionary_independent_reconstruction",
+        "passed": true,
+        "detail": {
+          "error_count": 0,
+          "first_errors": []
+        }
+      },
+      {
+        "check": "all_legacy_notes_have_exactly_one_ledger_event",
+        "passed": true,
+        "detail": 2534
+      },
+      {
+        "check": "quarantine_original_evidence_matches_ledger",
+        "passed": true
+      },
+      {
+        "check": "all_known_contaminated_original_notes_inactive",
+        "passed": true,
+        "detail": 15
+      },
+      {
+        "check": "summary_counts_independently_recomputed",
+        "passed": true,
+        "detail": {
+          "records": 125264,
+          "aligned_segments": 199737,
+          "model_reviewed_records": 979,
+          "corrected_segments": 548,
+          "records_with_corrections": 470,
+          "known_flagged_records": 2534,
+          "human_validated_records": 0
+        }
+      },
+      {
+        "check": "summary_note_dispositions",
+        "passed": true,
+        "detail": {
+          "retain_reviewed": 272,
+          "quarantine_rejected": 13,
+          "quarantine_unreviewed": 2234,
+          "replace_reviewed": 15
+        }
+      },
+      {
+        "check": "summary_correction_total",
+        "passed": true,
+        "detail": 42
+      },
+      {
+        "check": "summary_active_quarantine_totals",
+        "passed": true
+      },
+      {
+        "check": "summary_artifact_hashes",
+        "passed": true
+      },
+      {
+        "check": "baseline_hash_still_unchanged",
+        "passed": true
+      }
+    ],
+    "candidate_dictionary_sha256": "1654a30902d133ad120128d43a8e44a4275bae440de8dc5ec7fe60a9d65c2781",
+    "scope": "Independent read-only verification; no compiler, gate, baseline, or candidate artifact writes.",
+    "final_source_hardening_checks": {
+      "reserved_payload_keys_explicitly_rejected": true,
+      "summary_excludes_own_filename": true
+    }
+  },
+  "compiler_hardening_findings": [
+    {
+      "name": "correction_payload_can_override_bound_identity",
+      "status": "fixed_and_verified_by_final_source_inspection",
+      "minimal_fix": "Apply authoritative id/source/baseline hashes after **c or reject reserved keys. Current actual review payloads do not exploit it."
+    },
+    {
+      "name": "summary_self_inclusion_breaks_identical_retry",
+      "status": "fixed_and_verified_by_final_source_inspection",
+      "minimal_fix": "Exclude REPAIR_SUMMARY.json from the artifacts manifest it contains."
+    }
+  ],
+  "conclusion": "PASS: all previously reported gate defects resolved; 20 tests pass under normal and optimized Python; all 23 independent generated-artifact checks pass; two compiler hardening defects resolved. Semantic linguistic review quality is outside this architecture audit."
+}

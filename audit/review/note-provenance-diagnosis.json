@@ -1,0 +1,1301 @@
+{
+  "audit_version": 1,
+  "created_at_utc": "2026-10-14T23:58:42.963873+00:00",
+  "read_only_corpus_audit": true,
+  "frozen_dictionary": {
+    "path": "ukrainian-cedict-expansion12-9668/publish-public/dictionary.json",
+    "sha256": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+    "records": 125264,
+    "note_records": 2534
+  },
+  "baseline_85596": {
+    "path": "ukrainian-cedict-expansion8-10000/publish-public/dictionary.json",
+    "sha256": "66abcef1c4603e47180ae7f12066e8a3c25d3a738c118e95473c1aee0efc8717",
+    "records": 85596,
+    "note_records": 1396,
+    "exact_record_matches_in_frozen": 85596,
+    "confirmed_note_defects_present": 15
+  },
+  "scope": {
+    "expansion_entries_audited_structurally": 119668,
+    "batches_audited": 1197,
+    "first_cohort_raw_note_records": 165,
+    "first_cohort_effective_notes_topic_reviewed": 167,
+    "confirmed_misattached_or_contaminated_notes": 15,
+    "direct_false_note_claims": 3,
+    "ambiguous_preservation_claims": 3,
+    "later_note_semantic_review": "Not exhaustive; 38 whole-corpus absent-Chinese-anchor candidates inspected, four early misattachments confirmed and remaining candidates principally legitimate alternative/source-error comparisons. Does not prove later notes correct.",
+    "no_full_corpus_semantics_claim": true
+  },
+  "root_cause": {
+    "proven": "Misassociated/contaminated metadata is already inside initial raw output records. Effective-output assembly preserves those fields under the correct source IDs. Frozen final assembly is not where these notes moved.",
+    "strong_inference": "Several wrong notes correspond to exactly the same zero-based position in the preceding batch; others have varied local offsets, refer to a baseline record omitted from the selection, or mix subjects. This supports stale/index-addressed note composition during generation, rather than a global record/ID shift.",
+    "not_proven": "The first-cohort per-batch generation commands/model-invocation transcripts are not retained in the inspected working directory or its audit ZIP. A shared translation prompt survives but does not reveal the construction of the faulty per-record note assignments. Therefore no exact code line causing the original misattachments can be identified; generation hallucination versus manually reused index keys cannot be separated conclusively.",
+    "saved_helper_evidence": "Later retained write helpers zip positional Ukrainian rows with input records and independently attach notes.get(i,[]), automatically assigning id=s[id]. They validate counts and Chinese-reference preservation in glosses, but do not bind notes to source identity. Their local notes initialization resets each call, so this is not evidence of automatic Python state leakage.",
+    "global_offset_repair_rejected": true,
+    "record_id_or_gloss_shift": "No assembly-time ID/gloss shift found in effective-to-frozen comparisons across all 119668 expansion entries. The 15 cases were directly compared semantically and their gloss topics are their own. Raw ID problems do exist separately in four early batches and were corrected in correction files; none is a reported note-mismatch batch.",
+    "unknown_bound": "Confirmed attachment contamination is in next10000, as late as batch097. A non-exhaustive later-cohort anchor screen cannot prove later notes clean, and later positional helpers retain the same class of risk."
+  },
+  "cohort_stats": [
+    {
+      "cohort": "ukrainian-cedict-next10000",
+      "input_entries": 10000,
+      "raw_entries": 9993,
+      "raw_note_records": 165,
+      "effective_note_records": 167,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [
+        "batch_079.json",
+        "batch_086.json",
+        "batch_087.json",
+        "batch_090.json"
+      ],
+      "raw_missing_ids": [
+        "08435f80f243c1f8",
+        "6e211d514975b94c",
+        "865f9569f5eee9e8",
+        "a02b96392ca99b20",
+        "2ec6385ed9a74075",
+        "c4f6a2ebf0143fcc",
+        "06808de097ec17ba",
+        "7a7a4e7b50b591c2"
+      ],
+      "raw_unknown_ids": [
+        "08435f80f24322?"
+      ],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "c463781b3f45f093",
+        "920aafb7093a58ac"
+      ]
+    },
+    {
+      "cohort": "ukrainian-cedict-expansion2-10000",
+      "input_entries": 10000,
+      "raw_entries": 10000,
+      "raw_note_records": 59,
+      "effective_note_records": 94,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [],
+      "raw_missing_ids": [],
+      "raw_unknown_ids": [],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "0fc7df3e3260080e",
+        "ee65bc48a9b55eeb",
+        "88abda63da4f87cc",
+        "06e4e941f3e4ec10",
+        "5f86d4b3fcd3bc69",
+        "10106e80334171f4",
+        "4444b494b31007e5",
+        "db26409c2a99a6ff",
+        "dd1d739ccc8eca13",
+        "3a4ec641cdbe1d75",
+        "265c0f08e8e3f9cd",
+        "192f897ed8daef95",
+        "390f22dab478ba25",
+        "01a836bd11b822d5",
+        "1ff0e5bb622f725c",
+        "ef65b39c45001500",
+        "36ee32d7a49e0969",
+        "4a4e28342c5aa544",
+        "4b37ab6b764d2141",
+        "231fda0d65fd7599",
+        "2c921b1a2561bf63",
+        "0e857e59408070c3",
+        "8e708d99bf0b1ccb",
+        "ae6aa87991add455",
+        "a521102008728f5a",
+        "8b4642549a6331c7",
+        "2bf55a6b69da5c90",
+        "6ef5b1e4d319ba13",
+        "0faf1367ae5f8d1b",
+        "b21eda94a08fbe2e",
+        "f4d0ce7a718cb517",
+        "c902c2ebc04fb179",
+        "b169771c8e671f59",
+        "19c36cabe2256c85",
+        "924d4fd70a26f9b9",
+        "6cec81fe0b6ff515",
+        "d0e5f246680fb157"
+      ]
+    },
+    {
+      "cohort": "ukrainian-cedict-expansion3-10000",
+      "input_entries": 10000,
+      "raw_entries": 10000,
+      "raw_note_records": 170,
+      "effective_note_records": 169,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [],
+      "raw_missing_ids": [],
+      "raw_unknown_ids": [],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "01a4e43a4bfd52a7"
+      ]
+    },
+    {
+      "cohort": "ukrainian-cedict-expansion4-10000",
+      "input_entries": 10000,
+      "raw_entries": 10000,
+      "raw_note_records": 162,
+      "effective_note_records": 163,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [],
+      "raw_missing_ids": [],
+      "raw_unknown_ids": [],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "a21c171135f2ded8",
+        "fc34c3d67a677a21",
+        "9cc10b3f92ab4620"
+      ]
+    },
+    {
+      "cohort": "ukrainian-cedict-expansion5-10000",
+      "input_entries": 10000,
+      "raw_entries": 10000,
+      "raw_note_records": 144,
+      "effective_note_records": 145,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [],
+      "raw_missing_ids": [],
+      "raw_unknown_ids": [],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "1d31ba415b669174"
+      ]
+    },
+    {
+      "cohort": "ukrainian-cedict-expansion6-10000",
+      "input_entries": 10000,
+      "raw_entries": 10000,
+      "raw_note_records": 219,
+      "effective_note_records": 217,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [],
+      "raw_missing_ids": [],
+      "raw_unknown_ids": [],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "3ee9822062cb1a86",
+        "7ad031bb43d2c96a"
+      ]
+    },
+    {
+      "cohort": "ukrainian-cedict-expansion7-10000",
+      "input_entries": 10000,
+      "raw_entries": 10000,
+      "raw_note_records": 172,
+      "effective_note_records": 172,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [],
+      "raw_missing_ids": [],
+      "raw_unknown_ids": [],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "a413a9b9f938c049",
+        "431ded0d555e676b",
+        "0a68926a1c564b7f"
+      ]
+    },
+    {
+      "cohort": "ukrainian-cedict-expansion8-10000",
+      "input_entries": 10000,
+      "raw_entries": 10000,
+      "raw_note_records": 243,
+      "effective_note_records": 242,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [],
+      "raw_missing_ids": [],
+      "raw_unknown_ids": [],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "dddc09ff42476c20",
+        "bc026a7694535ec6",
+        "4caec20564a52abb",
+        "be0ca79cf75edc48"
+      ]
+    },
+    {
+      "cohort": "ukrainian-cedict-expansion9-10000",
+      "input_entries": 10000,
+      "raw_entries": 10000,
+      "raw_note_records": 233,
+      "effective_note_records": 230,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [],
+      "raw_missing_ids": [],
+      "raw_unknown_ids": [],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "710d67012bb5ddbe",
+        "bb7316d6ef1e2d26",
+        "ef7eeab5305f6069",
+        "287d4157482e1804",
+        "6fe96cb719d061c2",
+        "908f13288a472065"
+      ]
+    },
+    {
+      "cohort": "ukrainian-cedict-expansion10-10000",
+      "input_entries": 10000,
+      "raw_entries": 10000,
+      "raw_note_records": 244,
+      "effective_note_records": 248,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [],
+      "raw_missing_ids": [],
+      "raw_unknown_ids": [],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "c5db19a762b33625",
+        "5977cd3c5b5eb569",
+        "2fe580c24d41cb5f",
+        "dd87b831d15d3c2b"
+      ]
+    },
+    {
+      "cohort": "ukrainian-cedict-expansion11-10000",
+      "input_entries": 10000,
+      "raw_entries": 10000,
+      "raw_note_records": 220,
+      "effective_note_records": 229,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [],
+      "raw_missing_ids": [],
+      "raw_unknown_ids": [],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "73ef0c59130e019e",
+        "5434035d7e1ac889",
+        "ab707c844788f072",
+        "a07905587ef7250b",
+        "426f49819ef26eb0",
+        "f9b3c4b1a9a5fb4c",
+        "ccc8bff9f128a50a",
+        "f9dea2c2bfda72ae",
+        "95c1e80a9a8a749e"
+      ]
+    },
+    {
+      "cohort": "ukrainian-cedict-expansion12-9668",
+      "input_entries": 9668,
+      "raw_entries": 9668,
+      "raw_note_records": 428,
+      "effective_note_records": 431,
+      "effective_id_order_mismatches": [],
+      "raw_id_order_mismatches": [],
+      "raw_missing_ids": [],
+      "raw_unknown_ids": [],
+      "raw_duplicate_ids": [],
+      "raw_hash_checkpoint_mismatches": [],
+      "effective_segment_count_mismatches": [],
+      "effective_source_field_mismatches": [],
+      "effective_notes_differ_frozen": [],
+      "effective_glosses_differ_frozen": [],
+      "notes_changed_in_corrections": [
+        "5b6c45b3a144e806",
+        "327bed0cb023f5f3",
+        "2c5bdad91c581d33"
+      ]
+    }
+  ],
+  "confirmed_findings": [
+    {
+      "id": "b0679e8983a2fb13",
+      "traditional": "PU",
+      "pinyin": "P U",
+      "source_line": 108,
+      "english_segments": [
+        "the degree of suspicion that a woman might, after she marries, cheat on her husband (abbr. for \"paternity uncertainty\")"
+      ],
+      "ukrainian_segments": [
+        "ступінь підозри, що жінка може зрадити чоловікові після шлюбу (скорочення від «paternity uncertainty»)"
+      ],
+      "uncertainty_notes": [
+        "“Shitizen” is a derogatory pun on citizen; Ukrainian rendering is explanatory rather than a direct pun."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Shitizen note concerns P民, not PU/paternity uncertainty.",
+      "target_status": "unique_topic_candidate",
+      "candidate_targets": [
+        {
+          "id": "be3a2fe8cfa7e9b6",
+          "traditional": "P民",
+          "pinyin": "P min2",
+          "english_segments": [
+            "(slang) shitizen",
+            "commoner",
+            "hoi polloi"
+          ],
+          "ukrainian_segments": [
+            "(сленг, образливе) «лайномістянин»",
+            "простолюдин",
+            "чернь"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_000.json",
+          "zero_based_batch_index": 81,
+          "selected_row_delta_target_minus_current": 4
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_000.json",
+      "raw_sha256": "e791d3d81c2560e14828cda0f7762da3fec6f2c877f0b71ef5dd04798827d3ed",
+      "batch": "batch_000.json",
+      "zero_based_batch_index": 77,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "d592d648f09d9428",
+      "traditional": "一碗水端平",
+      "pinyin": "yi1 wan3 shui3 duan1 ping2",
+      "source_line": 798,
+      "english_segments": [
+        "lit. to hold a bowl of water level (idiom)",
+        "fig. to be impartial"
+      ],
+      "ukrainian_segments": [
+        "букв. нести чашу з водою рівно (ідіома)",
+        "перен. бути неупередженим"
+      ],
+      "uncertainty_notes": [
+        "The idiom’s object “house” is implicit in the source’s English gloss; rendered literally and figuratively."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "House note belongs to the topic of 一木難支, same position in previous batch; current source is a bowl of water. Note also wrongly says house is implicit.",
+      "target_status": "candidate_needs_rewrite",
+      "candidate_targets": [
+        {
+          "id": "0c3e59873d7edb8f",
+          "traditional": "一木難支",
+          "pinyin": "yi1 mu4 nan2 zhi1",
+          "english_segments": [
+            "lit. a single post cannot prop up a falling house (idiom)",
+            "fig. one is helpless alone"
+          ],
+          "ukrainian_segments": [
+            "букв. одна колона не може підперти будинок, що валиться (ідіома)",
+            "перен. самому не впоратися"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_006.json",
+          "zero_based_batch_index": 38,
+          "selected_row_delta_target_minus_current": -100
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_007.json",
+      "raw_sha256": "33e6f5917916a0272370a3f52fbe975359aec831853ea8f7cccd5a747db55349",
+      "batch": "batch_007.json",
+      "zero_based_batch_index": 38,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "0168943755f632b1",
+      "traditional": "一神教",
+      "pinyin": "yi1 shen2 jiao4",
+      "source_line": 799,
+      "english_segments": [
+        "monotheistic religion",
+        "monotheism"
+      ],
+      "ukrainian_segments": [
+        "монотеїстична релігія",
+        "монотеїзм"
+      ],
+      "uncertainty_notes": [
+        "Theological distinction between monotheism and Unitarianism is preserved as given."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Unitarianism belongs to adjacent 一神論, an original-baseline record, not this monotheistic-religion entry.",
+      "target_status": "unique_topic_candidate",
+      "candidate_targets": [
+        {
+          "id": "6349e1851c8bde7b",
+          "traditional": "一神論",
+          "pinyin": "yi1 shen2 lun4",
+          "english_segments": [
+            "monotheism",
+            "unitarianism (denying the Trinity)"
+          ],
+          "ukrainian_segments": [
+            "монотеїзм",
+            "унітаріанство (заперечення Трійці)"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_007.json",
+          "zero_based_batch_index": 40,
+          "selected_row_delta_target_minus_current": 1
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_007.json",
+      "raw_sha256": "33e6f5917916a0272370a3f52fbe975359aec831853ea8f7cccd5a747db55349",
+      "batch": "batch_007.json",
+      "zero_based_batch_index": 39,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "92b953c247ece388",
+      "traditional": "一路上",
+      "pinyin": "yi1 lu4 shang4",
+      "source_line": 935,
+      "english_segments": [
+        "along the way",
+        "the whole way",
+        "(fig.) the whole time"
+      ],
+      "ukrainian_segments": [
+        "дорогою",
+        "усю дорогу",
+        "(перен.) увесь час"
+      ],
+      "uncertainty_notes": [
+        "Formula One is the established Ukrainian name for the motor-racing series."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Formula One belongs to batch007 index69; note attached to batch008 index69, along the way.",
+      "target_status": "unique_topic_candidate",
+      "candidate_targets": [
+        {
+          "id": "2d13c8f31391138f",
+          "traditional": "一級方程式",
+          "pinyin": "Yi1 ji2 Fang1 cheng2 shi4",
+          "english_segments": [
+            "Formula One (motor racing)"
+          ],
+          "ukrainian_segments": [
+            "Формула-1 (автоперегони)"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_007.json",
+          "zero_based_batch_index": 69,
+          "selected_row_delta_target_minus_current": -100
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_008.json",
+      "raw_sha256": "dbf513fc0bb35bb084665734e3f6f203ebb875ed28e964ddbb1b5248c5792d3a",
+      "batch": "batch_008.json",
+      "zero_based_batch_index": 69,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "3ee7e352b216472a",
+      "traditional": "一遞一個",
+      "pinyin": "yi1 di4 yi1 ge4",
+      "source_line": 966,
+      "english_segments": [
+        "one after another"
+      ],
+      "ukrainian_segments": [
+        "один за одним"
+      ],
+      "uncertainty_notes": [
+        "Orthographic terminology is rendered descriptively; examples and bracketed pinyin are preserved exactly."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Orthography and examples belong to 一致字 at index99 in preceding batch; current source is one after another.",
+      "target_status": "unique_topic_candidate",
+      "candidate_targets": [
+        {
+          "id": "3c99603c3c95afda",
+          "traditional": "一致字",
+          "pinyin": "yi1 zhi4 zi4",
+          "english_segments": [
+            "(orthography) consistent words (e.g. \"dean\", \"bean\", and \"lean\", where \"-ean\" is pronounced the same in each case)",
+            "consistent characters (e.g. 搖|摇[yao2], 遙|遥[yao2] and 謠|谣[yao2], which share a phonetic component that reliably indicates that the pronunciation of the character is yáo)"
+          ],
+          "ukrainian_segments": [
+            "(орфографія) слова зі сталим написанням і вимовою (напр. «dean», «bean» і «lean», де «-ean» у кожному слові вимовляється однаково)",
+            "ієрогліфи зі спільним фонетичним компонентом, який надійно вказує на вимову yáo (напр. 搖|摇[yao2], 遙|遥[yao2] і 謠|谣[yao2])"
+          ],
+          "current_notes": [
+            "The source’s examples and bracketed pinyin are preserved exactly."
+          ],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_007.json",
+          "zero_based_batch_index": 99,
+          "selected_row_delta_target_minus_current": -100
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_008.json",
+      "raw_sha256": "dbf513fc0bb35bb084665734e3f6f203ebb875ed28e964ddbb1b5248c5792d3a",
+      "batch": "batch_008.json",
+      "zero_based_batch_index": 99,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "c78cae2d3e5f1fb9",
+      "traditional": "三世",
+      "pinyin": "san1 shi4",
+      "source_line": 1206,
+      "english_segments": [
+        "the Third (of numbered kings)"
+      ],
+      "ukrainian_segments": [
+        "Третій (у нумерованому списку монархів)"
+      ],
+      "uncertainty_notes": [
+        "The three duties are not specified in the headword gloss beyond their count."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Three duties note is unrelated to the Third. Previous-batch index29 is seven duties; the changed number means even candidate source cannot be accepted verbatim.",
+      "target_status": "ambiguous_or_hallucinated",
+      "candidate_targets": [
+        {
+          "id": "9e2cb1969663823d",
+          "traditional": "七事",
+          "pinyin": "qi1 shi4",
+          "english_segments": [
+            "(archaic) the seven duties of a sovereign"
+          ],
+          "ukrainian_segments": [
+            "(заст.) сім обов’язків правителя"
+          ],
+          "current_notes": [
+            "The source names a group of seven sovereign duties but does not enumerate them."
+          ],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_010.json",
+          "zero_based_batch_index": 29,
+          "selected_row_delta_target_minus_current": -100
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_011.json",
+      "raw_sha256": "0de7271bf8e1c49d5666f9e588595f9442a8fa3783c6b5c185b3f462949ecef6",
+      "batch": "batch_011.json",
+      "zero_based_batch_index": 29,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "87e972dbb1b47cc9",
+      "traditional": "三八",
+      "pinyin": "san1 ba1",
+      "source_line": 1250,
+      "english_segments": [
+        "International Women's Day 婦女節|妇女节[Fu4 nu:3 jie2], 8th March",
+        "foolish",
+        "stupid"
+      ],
+      "ukrainian_segments": [
+        "Міжнародний жіночий день 婦女節|妇女节[Fu4 nu:3 jie2], 8 березня",
+        "дурний",
+        "нетямущий"
+      ],
+      "uncertainty_notes": [
+        "The DINK acronym and cited Chinese holiday name are preserved."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "DINK belongs to 丁克; same note also references the current Womens Day holiday. It is blended, not a wholly movable note.",
+      "target_status": "blended_note_do_not_move",
+      "candidate_targets": [
+        {
+          "id": "f2442d9584e52f5e",
+          "traditional": "丁克",
+          "pinyin": "ding1 ke4",
+          "english_segments": [
+            "Dual Income, No Kids (DINK) (loanword)"
+          ],
+          "ukrainian_segments": [
+            "подвійний дохід, без дітей (DINK) (запозичення)"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_009.json",
+          "zero_based_batch_index": 76,
+          "selected_row_delta_target_minus_current": -197
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_011.json",
+      "raw_sha256": "0de7271bf8e1c49d5666f9e588595f9442a8fa3783c6b5c185b3f462949ecef6",
+      "batch": "batch_011.json",
+      "zero_based_batch_index": 73,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "4355846ebc6874c8",
+      "traditional": "三原",
+      "pinyin": "San1 yuan2",
+      "source_line": 1275,
+      "english_segments": [
+        "see 三原縣|三原县[San1 yuan2 Xian4]"
+      ],
+      "ukrainian_segments": [
+        "див. 三原縣|三原县[San1 yuan2 Xian4]"
+      ],
+      "uncertainty_notes": [
+        "Buddhist phrase retained as an established religious term."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Buddhist-phrase note unrelated to county cross-reference. Previous-batch index98 concerns Daoist souls, not Buddhism; no defensible exact target.",
+      "target_status": "ambiguous_or_hallucinated",
+      "candidate_targets": [
+        {
+          "id": "f1175f2b0361e97e",
+          "traditional": "七魄",
+          "pinyin": "qi1 po4",
+          "english_segments": [
+            "seven mortal forms in Daoism, representing carnal life and desires",
+            "contrasted with 三魂 three immortal souls"
+          ],
+          "ukrainian_segments": [
+            "сім смертних душ у даосизмі, що уособлюють тілесне життя й бажання",
+            "на противагу 三魂, трьом безсмертним душам"
+          ],
+          "current_notes": [
+            "The Daoist concept and contrast are retained; 三魂 appears without pinyin in the source."
+          ],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_010.json",
+          "zero_based_batch_index": 98,
+          "selected_row_delta_target_minus_current": -100
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_011.json",
+      "raw_sha256": "0de7271bf8e1c49d5666f9e588595f9442a8fa3783c6b5c185b3f462949ecef6",
+      "batch": "batch_011.json",
+      "zero_based_batch_index": 98,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "fed846504a2bb8b4",
+      "traditional": "串串",
+      "pinyin": "chuan4 chuan4",
+      "source_line": 3839,
+      "english_segments": [
+        "(coll.) skewers; barbecued food on sticks; (in Sichuan) Sichuan-style hotpot skewers (abbr. for 串串香[chuan4 chuan4 xiang1])",
+        "(coll.) non-pedigree pet (esp. dog or cat); mutt; mixed-breed cat"
+      ],
+      "ukrainian_segments": [
+        "(розм.) шашлички на шпажках; їжа, смажена на паличках; (у Сичуані) сичуанські шашлички для хот-поту (скорочення від 串串香[chuan4 chuan4 xiang1])",
+        "(розм.) безпородна домашня тварина (особливо собака чи кіт); дворняга; безпородний кіт"
+      ],
+      "uncertainty_notes": [
+        "丱 — рідкісний ієрогліф; наведені значення відповідають саме читанню guan4."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Explicit 丱 and guan4 identify batch036 index86, not 串串 index88.",
+      "target_status": "unique_topic_candidate",
+      "candidate_targets": [
+        {
+          "id": "52abc628ac1b7e37",
+          "traditional": "丱",
+          "pinyin": "guan4",
+          "english_segments": [
+            "two tufts of hair",
+            "young",
+            "underage"
+          ],
+          "ukrainian_segments": [
+            "два пучки волосся",
+            "молодий",
+            "неповнолітній"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_036.json",
+          "zero_based_batch_index": 86,
+          "selected_row_delta_target_minus_current": -2
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_036.json",
+      "raw_sha256": "8fe897380e24e7b3a8206b989c6dfea52bc47c8d46e62428f8cea91ccfab01e4",
+      "batch": "batch_036.json",
+      "zero_based_batch_index": 88,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "410ff3a4d8eff115",
+      "traditional": "乍看",
+      "pinyin": "zha4 kan4",
+      "source_line": 4158,
+      "english_segments": [
+        "at first glance"
+      ],
+      "ukrainian_segments": [
+        "на перший погляд"
+      ],
+      "uncertainty_notes": [
+        "乑 — рідкісний ієрогліф; значення «стояти поруч» відповідає поданій словниковій глосі."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Explicit 乑 and standing side by side identify index97, not 乍看 index87.",
+      "target_status": "unique_topic_candidate",
+      "candidate_targets": [
+        {
+          "id": "0ea7d852a518051c",
+          "traditional": "乑",
+          "pinyin": "zhong4",
+          "english_segments": [
+            "to stand side by side",
+            "variant of 眾|众[zhong4]"
+          ],
+          "ukrainian_segments": [
+            "стояти поруч",
+            "варіант 眾|众[zhong4]"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_039.json",
+          "zero_based_batch_index": 97,
+          "selected_row_delta_target_minus_current": 10
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_039.json",
+      "raw_sha256": "e357bebb492b8baaa9db4cc53d455fb90e0c11ac70b14946301532ec50a7cec1",
+      "batch": "batch_039.json",
+      "zero_based_batch_index": 87,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "b8ac45eaf5cef49a",
+      "traditional": "乙酰",
+      "pinyin": "yi3 xian1",
+      "source_line": 4267,
+      "english_segments": [
+        "acetyl (chemistry)"
+      ],
+      "ukrainian_segments": [
+        "ацетил (хімія)"
+      ],
+      "uncertainty_notes": [
+        "Хімічна формула CH3COO− відповідає ацетат-іону; назва «ацетиловий радикал» у вихідній глосі, ймовірно, неточна."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "CH3COO and source phrase acetyl radical belong to indices92/93, not acetyl index88.",
+      "target_status": "two_plausible_targets",
+      "candidate_targets": [
+        {
+          "id": "c0733b2d2f7a1b62",
+          "traditional": "乙酸基",
+          "pinyin": "yi3 suan1 ji1",
+          "english_segments": [
+            "acetyl radical CH3COO-"
+          ],
+          "ukrainian_segments": [
+            "ацетатний радикал CH3COO−"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_040.json",
+          "zero_based_batch_index": 92,
+          "selected_row_delta_target_minus_current": 4
+        },
+        {
+          "id": "cfe4b8d84d6fd893",
+          "traditional": "乙酸根",
+          "pinyin": "yi3 suan1 gen1",
+          "english_segments": [
+            "acetyl radical CH3COO-"
+          ],
+          "ukrainian_segments": [
+            "ацетатний радикал CH3COO−"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_040.json",
+          "zero_based_batch_index": 93,
+          "selected_row_delta_target_minus_current": 5
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_040.json",
+      "raw_sha256": "cc3f35129061e52124d36b78ef24d3c70df1c349662ae702fff580c1641a3010",
+      "batch": "batch_040.json",
+      "zero_based_batch_index": 88,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "97a15e73b89ed7e4",
+      "traditional": "乙酰胺吡咯烷酮",
+      "pinyin": "yi3 xian1 an4 bi3 luo4 wan2 tong2",
+      "source_line": 4268,
+      "english_segments": [
+        "(pharmacology) piracetam (C6H10N2O2), a nootropic"
+      ],
+      "ukrainian_segments": [
+        "(фармакологія) пірацетам (C6H10N2O2), ноотроп"
+      ],
+      "uncertainty_notes": [
+        "Хімічна формула CH3COO− відповідає ацетат-іону; назва «ацетиловий радикал» у вихідній глосі, ймовірно, неточна."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Identical acetyl/acetate note is unrelated to piracetam C6H10N2O2 index89; two possible sources at92/93.",
+      "target_status": "two_plausible_targets",
+      "candidate_targets": [
+        {
+          "id": "c0733b2d2f7a1b62",
+          "traditional": "乙酸基",
+          "pinyin": "yi3 suan1 ji1",
+          "english_segments": [
+            "acetyl radical CH3COO-"
+          ],
+          "ukrainian_segments": [
+            "ацетатний радикал CH3COO−"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_040.json",
+          "zero_based_batch_index": 92,
+          "selected_row_delta_target_minus_current": 3
+        },
+        {
+          "id": "cfe4b8d84d6fd893",
+          "traditional": "乙酸根",
+          "pinyin": "yi3 suan1 gen1",
+          "english_segments": [
+            "acetyl radical CH3COO-"
+          ],
+          "ukrainian_segments": [
+            "ацетатний радикал CH3COO−"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_040.json",
+          "zero_based_batch_index": 93,
+          "selected_row_delta_target_minus_current": 4
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_040.json",
+      "raw_sha256": "cc3f35129061e52124d36b78ef24d3c70df1c349662ae702fff580c1641a3010",
+      "batch": "batch_040.json",
+      "zero_based_batch_index": 89,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "203349f934e0f706",
+      "traditional": "乳酪",
+      "pinyin": "ru3 lao4",
+      "source_line": 4443,
+      "english_segments": [
+        "cheese"
+      ],
+      "ukrainian_segments": [
+        "сир"
+      ],
+      "uncertainty_notes": [
+        "Назва 乳酪餅 регіональна; переклад подає опис джерела, а не усталену українську назву."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Explicit pastry name 乳酪餅 belongs to index61; current index59 is cheese.",
+      "target_status": "unique_topic_candidate",
+      "candidate_targets": [
+        {
+          "id": "46481879f3cc6776",
+          "traditional": "乳酪餅",
+          "pinyin": "ru3 lao4 bing3",
+          "english_segments": [
+            "(Tw) a square sheet of pastry, typically pan-fried and served with savory fillings or sweet jam"
+          ],
+          "ukrainian_segments": [
+            "(Тайвань) квадратний лист тіста, зазвичай смажений на сковороді й поданий із солоною начинкою або солодким варенням"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_042.json",
+          "zero_based_batch_index": 61,
+          "selected_row_delta_target_minus_current": 2
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_042.json",
+      "raw_sha256": "8d8ea76a637b1ef72e14b37e0cc37e8988a0e34400f222eea4cc1f07a48df35c",
+      "batch": "batch_042.json",
+      "zero_based_batch_index": 59,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "cdf351e19875f62b",
+      "traditional": "亂局",
+      "pinyin": "luan4 ju2",
+      "source_line": 4564,
+      "english_segments": [
+        "chaotic situation; turmoil; upheaval"
+      ],
+      "ukrainian_segments": [
+        "хаотична ситуація; сум’яття; потрясіння"
+      ],
+      "uncertainty_notes": [
+        "亂咕攘 є діалектним висловом; передано загальною глосою «турбувати», точний регіональний відтінок неясний."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Explicit 亂咕攘 and disturb belong to index65; current index70 is chaotic situation.",
+      "target_status": "unique_topic_candidate",
+      "candidate_targets": [
+        {
+          "id": "3064590281324b11",
+          "traditional": "亂咕攘",
+          "pinyin": "luan4 gu1 rang5",
+          "english_segments": [
+            "to disturb (dialect)"
+          ],
+          "ukrainian_segments": [
+            "турбувати (діалект)"
+          ],
+          "current_notes": [],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_043.json",
+          "zero_based_batch_index": 65,
+          "selected_row_delta_target_minus_current": -5
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_043.json",
+      "raw_sha256": "f2fed961d9a00cd96b686401f24f7b995603a3051947d3f6b5fd2b3a46b44632",
+      "batch": "batch_043.json",
+      "zero_based_batch_index": 70,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    },
+    {
+      "id": "9350153f3da653f2",
+      "traditional": "儒學",
+      "pinyin": "Ru2 xue2",
+      "source_line": 10196,
+      "english_segments": [
+        "Confucianism"
+      ],
+      "ukrainian_segments": [
+        "конфуціанство"
+      ],
+      "uncertainty_notes": [
+        "Джерело не ідентифікує сучасну групу; назву передано за читанням Bo2."
+      ],
+      "classification": "confirmed_misattached_or_contaminated_note",
+      "reason": "Ethnic group and Bo2 identify 僰 in previous batch096 index7; current batch097 index7 is Confucianism.",
+      "target_status": "unique_topic_candidate",
+      "candidate_targets": [
+        {
+          "id": "0130f4925875d75b",
+          "traditional": "僰",
+          "pinyin": "Bo2",
+          "english_segments": [
+            "name of an ethnic group"
+          ],
+          "ukrainian_segments": [
+            "назва етнічного народу"
+          ],
+          "current_notes": [
+            "У джерелі подано лише назву народу без додаткового контексту."
+          ],
+          "cohort": "ukrainian-cedict-next10000",
+          "batch": "batch_096.json",
+          "zero_based_batch_index": 7,
+          "selected_row_delta_target_minus_current": -100
+        }
+      ],
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_097.json",
+      "raw_sha256": "1d6feee0b465f038a5d557eb0dbc075f849660b61bd7768900b5fdca5f6b6589",
+      "batch": "batch_097.json",
+      "zero_based_batch_index": 7,
+      "raw_notes_equal_frozen": true,
+      "baseline_85596_record_equal_frozen": true,
+      "gloss_alignment_review": "Ukrainian senses follow this records English topic rather than the misplaced notes topic; not a claim of ideal wording or full semantic verification."
+    }
+  ],
+  "other_note_claim_findings": [
+    {
+      "id": "581e2b5796811c30",
+      "traditional": "七喜",
+      "english_segments": [
+        "7 Up (soft drink)",
+        "Hedy Holding Co., PRC computer manufacturer"
+      ],
+      "ukrainian_segments": [
+        "7 Up (газований напій)",
+        "Hedy Holding Co., китайський виробник комп’ютерів"
+      ],
+      "uncertainty_notes": [
+        "The source names a Chinese manufacturer, not the soft-drink brand."
+      ],
+      "classification": "contradicted_by_source",
+      "reason": "Note excludes the soft-drink brand, although source and translation explicitly include 7 Up and Hedy.",
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_010.json",
+      "raw_notes_equal_frozen": true
+    },
+    {
+      "id": "07a02959a82031a5",
+      "traditional": "中國白眉朱雀",
+      "english_segments": [
+        "(bird species of China) Chinese white-browed rosefinch (Carpodacus dubius)"
+      ],
+      "ukrainian_segments": [
+        "китайська білоброва чечевиця (Carpodacus dubius)"
+      ],
+      "uncertainty_notes": [
+        "Українська назва виду може варіюватися; латинську назву не наведено у джерелі, тому назву передано описово."
+      ],
+      "classification": "contradicted_by_source",
+      "reason": "Note says source lacks a Latin name although Carpodacus dubius appears in both source and translation.",
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_032.json",
+      "raw_notes_equal_frozen": true
+    },
+    {
+      "id": "4afe4f4b2b9cce70",
+      "traditional": "丁肇中",
+      "english_segments": [
+        "Samuel C. C. Ting (1936-), American physicist, 1976 Nobel Prize laureate in physics"
+      ],
+      "ukrainian_segments": [
+        "Семюел Ч. Ч. Тін (1936–), американський фізик, лауреат Нобелівської премії з фізики 1976 року"
+      ],
+      "uncertainty_notes": [
+        "The source provides an English personal name; preserved as Samuel C. C. Ting in Latin spelling in Ukrainian transliteration."
+      ],
+      "classification": "contradicted_by_translation",
+      "reason": "Note claims Latin spelling Samuel C. C. Ting is retained in Ukrainian translation, which uses Cyrillic Семюел Ч. Ч. Тін.",
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_010.json",
+      "raw_notes_equal_frozen": true
+    },
+    {
+      "id": "7d1f51478fa398b0",
+      "traditional": "一帶一路",
+      "english_segments": [
+        "Belt and Road Initiative (BRI), Chinese infrastructure and investment strategy launched in 2013"
+      ],
+      "ukrainian_segments": [
+        "Ініціатива «Пояс і шлях» (BRI), китайська інфраструктурна та інвестиційна стратегія, започаткована 2013 року"
+      ],
+      "uncertainty_notes": [
+        "Official English name retained for China’s BRI policy; the gloss follows the source description."
+      ],
+      "classification": "ambiguous_preservation_claim",
+      "reason": "Note claims official English name is retained; Ukrainian text translates name and retains only abbreviation BRI.",
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_005.json",
+      "raw_notes_equal_frozen": true
+    },
+    {
+      "id": "56ae793ce4055f31",
+      "traditional": "三十六計",
+      "english_segments": [
+        "The Thirty-Six Stratagems, a Chinese essay used to illustrate a series of stratagems used in politics, war, and in civil interaction",
+        "all the possible schemes and stratagems"
+      ],
+      "ukrainian_segments": [
+        "«Тридцять шість стратагем» — китайський трактат із низкою стратагем для політики, війни та цивільного життя",
+        "усі можливі хитрощі й стратагеми"
+      ],
+      "uncertainty_notes": [
+        "The work title is transliterated in Ukrainian; scope follows the source."
+      ],
+      "classification": "ambiguous_preservation_claim",
+      "reason": "Note calls title transliterated, but the title is translated into Ukrainian rather than transcribed from Chinese.",
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_011.json",
+      "raw_notes_equal_frozen": true
+    },
+    {
+      "id": "e73ca5509f99f801",
+      "traditional": "中山成彬",
+      "english_segments": [
+        "NAKAYAMA Nariaki (1943–), right-wing Japanese politician and prominent denier of Japanese war crimes"
+      ],
+      "ukrainian_segments": [
+        "Накаяма Наріакі (1943–), японський ультраправий політик, відомий запереченням японських воєнних злочинів"
+      ],
+      "uncertainty_notes": [
+        "Українська передача японського імені може мати варіанти; збережено латинську форму Nariaki в етимоні джерела."
+      ],
+      "classification": "ambiguous_preservation_claim",
+      "reason": "Note says Latin form Nariaki retained in source etymon; Latin exists in source but is not reproduced in Ukrainian text. Clarify if intended to describe output.",
+      "first_available_artifact": "ukrainian-cedict-next10000/raw/batch_033.json",
+      "raw_notes_equal_frozen": true
+    }
+  ],
+  "repair_or_quarantine_proposal": {
+    "changes_made_to_frozen_corpus": false,
+    "preferred_safe_plan": "Create a separate candidate with ID-keyed note dispositions. Quarantine every note without an explicit per-ID semantic review; leave the original note text and record snapshot in an immutable sidecar. Retain every original uncertainty flag and add note_alignment_pending. Restore only reviewed/reworded notes under their verified IDs.",
+    "minimum_known_scope": "Quarantine the 15 confirmed misattachments and 3 direct false claims; review/rewrite 3 ambiguous preservation claims. This fixes known cases only and must not be presented as proving all remaining notes reliable.",
+    "cohort_bounded_option": "A first-cohort remediation can cover all 167 effective notes with the accompanying full note-topic review, but its 146 no-clear-attachment-error outcomes do not validate every factual claim. It does not justify calling later cohorts clean.",
+    "full_corpus_scope": "2534 current notes total. If a fully defensible public clean-note claim is required before full per-ID review finishes, quarantine all not-yet-reviewed note text, including later cohorts, with all original uncertainty flags retained. Sources/glosses and raw audit files remain unchanged.",
+    "no_automatic_remapping": "Even unique-topic targets require rewrite/semantic acceptance: some notes themselves contain unsupported claims. Mixed/ambiguous cases are quarantined, never guessed or offset-shifted.",
+    "sidecar_fields": [
+      "record_id",
+      "source_hash",
+      "original_note",
+      "original_flags",
+      "original_has_known_uncertainty",
+      "original_raw_path",
+      "raw_hash",
+      "disposition",
+      "reason",
+      "candidate_target_ids",
+      "reviewer",
+      "review_time",
+      "replacement_note_if_reviewed"
+    ],
+    "new_candidate_checks": [
+      "Original frozen files and archives hashes unchanged",
+      "All original uncertainty_flags retained per ID",
+      "No original has_known_uncertainty true becomes false",
+      "Quarantined texts absent from presented verified note field",
+      "Every restored note has explicit reviewed target ID and source hash",
+      "All raw audits retained",
+      "Coverage described as note-association review, not complete dictionary semantics"
+    ]
+  },
+  "regression_recommendations": [
+    {
+      "id": "R1",
+      "target": "write_batch.py and writer_050_074.py equivalents",
+      "change": "Require rows and notes keyed by stable source ID, with asserted headword, pinyin and source hash at creation. Reject ordinal-only notes dictionaries and unknown IDs. Never silently attach notes to s[id] by position."
+    },
+    {
+      "id": "R2",
+      "target": "check_progress.py and expansion12 verify_package.py",
+      "change": "Add note-identity records: note_id, record_id, source_sha256, source_anchor, kind, review_status. Check source anchors where asserted. Flag absent Chinese strings/proper names/formulas as review candidates, not automatic errors, because source-correction notes legitimately mention alternatives."
+    },
+    {
+      "id": "R3",
+      "target": "regression fixtures",
+      "change": "Add fixtures for all 15 misattachments, including same-index prior-batch reuse, variable offsets, mixed DINK/holiday content, a target outside selected input (一神論), and ambiguous double acetyl targets. Tests must reject cross-record association even when IDs, segment counts and reference tokens pass."
+    },
+    {
+      "id": "R4",
+      "target": "assembly and uncertainty flags",
+      "change": "Separate review state from note-text presence. Preserve existing has_known_uncertainty and uncertainty_flags by monotone union when notes are quarantined. Current bool(notes) recomputation would silently lose flags after clearing text."
+    },
+    {
+      "id": "R5",
+      "target": "correction/provenance pipeline",
+      "change": "Keep raw immutable. Apply any note repair through an ID-keyed reviewed patch containing before/after hashes, exact original text, disposition and reviewer rationale; regenerate a new candidate only. Preserve archived original notes and audit ZIPs."
+    },
+    {
+      "id": "R6",
+      "target": "semantic review selection",
+      "change": "Review every note for subject alignment and claim consistency, including notes without Chinese tokens. Require explicit note-review coverage, not complex-gloss samples or structural pass status, before asserting metadata is clean."
+    },
+    {
+      "id": "R7",
+      "target": "frozen/published baseline reconciliation",
+      "change": "Flag correction as affecting the already-published baseline too; all 85596 baseline records are inherited unchanged. Do not describe it as only a final expansion defect."
+    },
+    {
+      "id": "R8",
+      "target": "end-to-end tests",
+      "change": "Permute source/translation ordering and repartition batches while preserving IDs. ID-keyed notes must remain on their target. Assert deterministic rerun equality, no original uncertainty flag loss, preservation of raw hashes, and zero unsupported restored notes."
+    }
+  ],
+  "artifacts": {
+    "batch_hashes": "note-provenance-batch-manifest.json",
+    "script_inventory": "note-provenance-script-inventory.json",
+    "all_167_first_cohort_note_reviews": "note-provenance-first-cohort-review.json",
+    "existing_chinese_anchor_candidates": "note-anchor-candidates.json"
+  },
+  "limits": [
+    "No public state or dictionary artifacts changed.",
+    "No surviving first-cohort generation script reproduces the initial error; exact trigger cannot be proven.",
+    "An ID/count/hash/reference-token pass is structural provenance only, not semantic quality.",
+    "On-topic notes can contain factual or wording errors.",
+    "Unique-topic association is not automatic approval to transplant note text."
+  ],
+  "immutability_check": {
+    "frozen_sha256_after": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+    "baseline_sha256_after": "66abcef1c4603e47180ae7f12066e8a3c25d3a738c118e95473c1aee0efc8717"
+  },
+  "validator_negative_control": {
+    "status": "existing_validator_accepts_known_bad_note_metadata",
+    "isolated_probe_path": "ukrainian-cedict-strong-review-2026-10-14/note-validator-regression-probe",
+    "code_copied_unchanged_from": "ukrainian-cedict-next10000/check_progress.py",
+    "checker_sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "command_returncode": 0,
+    "progress": {
+      "as_of_utc": "2026-10-14T23:59:15.749257+00:00",
+      "requested_entries": 10000,
+      "completed_valid_entries": 1000,
+      "completed_valid_segments": 1509,
+      "completed_valid_batches": 10,
+      "present_batches": 10,
+      "failed_batches": [],
+      "uncertain_entries": 52,
+      "unchanged_segment_warnings": 2,
+      "human_validation": false,
+      "machine_draft": true,
+      "public_corpus_modified": false
+    },
+    "known_bad_notes_present": 15,
+    "explanation": "Only copied effective output plus input was validated in isolated audit directory. Originals untouched. Ten affected batches and their 1000 records pass the current structural/reference-token validator despite all 15 known contaminated notes."
+  }
+}

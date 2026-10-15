@@ -1,0 +1,500 @@
+1. ID a99e66b4dd1d9f4a | line 114823 | 阿靈頓國家公墓 / 阿灵顿国家公墓 [A1 ling2 dun4 Guo2 jia1 Gong1 mu4]
+  0: EN Arlington National Cemetery in Washington DC, USA
+     UK Арлінгтонський національний цвинтар у Вашингтоні, округ Колумбія, США (за джерелом)
+  NOTES ["Цвинтар розташований в Арлінгтоні, штат Вірджинія, поблизу Вашингтона; місце в джерелі неточне."]
+
+2. ID 7c645bb5751058df | line 125246 | 龜殼花 / 龟壳花 [gui1 ke2 hua1]
+  0: EN Formosan pit viper (Protobothrops mucrosquamatus)
+     UK тайванська ямкоголова змія (Protobothrops mucrosquamatus)
+  NOTES ["Назву змії подано описово; усталений український зоологічний відповідник не перевірено."]
+
+3. ID 519b63ebf25e5c47 | line 19902 | 吉字節 / 吉字节 [ji2 zi4 jie2]
+  0: EN gigabyte (2^30 or approximately a billion bytes)
+     UK гігабайт (2^30, або приблизно мільярд байтів, за джерелом)
+  NOTES ["За сучасним розрізненням одиниць 2^30 байтів — гібібайт, а гігабайт — 10^9 байтів."]
+
+4. ID 4a4e4b0484024384 | line 25866 | 基拉韋厄 / 基拉韦厄 [Ji1 la1 wei2 e4]
+  0: EN Kilauea, Hawaii, the world's most active volcano
+     UK Кілауеа, Гаваї, за джерелом найактивніший вулкан світу
+  NOTES ["Найвищий ступінь «найактивніший» відтворено за джерелом; критерій порівняння не зазначено."]
+
+5. ID a4263fd75959190a | line 33734 | 寰螽 / 寰螽 [huan2 zhong1]
+  0: EN eastern shield-backed katydid (genus Atlanticus)
+     UK східний щитоносний коник роду Atlanticus
+  NOTES ["Усталений український відповідник англійської назви «eastern shield-backed katydid» не встановлено; подано описову назву."]
+
+6. ID 2f9234189e7e098d | line 41880 | 恘 / 恘 [qiu1]
+  0: EN meaning uncertain, related to 戾[li4], to violate
+     UK значення невизначене; пов'язане з 戾[li4], порушувати
+  NOTES ["Саме джерело позначає значення рідкісного 恘 як невизначене."]
+
+7. ID 01e4ea047a4787d3 | line 47878 | 探路者 / 探路者 [Tan4 lu4 zhe3]
+  0: EN Pathfinder, NASA spacecraft sent to Mars in 1977
+     UK «Патфайндер», космічний апарат NASA для дослідження Марса
+  NOTES ["У джерелі зазначено 1977 рік, що не узгоджується з місією Mars Pathfinder (запуск 1996 року, посадка 1997 року)."]
+
+8. ID aba68a6d471200f6 | line 72536 | 猴猴族 / 猴猴族 [Hou2 hou2 zu2]
+  0: EN Qauqaut, one of the indigenous peoples of Taiwan
+     UK каукаут, один із корінних народів Тайваню
+  NOTES ["Українська передача етноніма Qauqaut не підтверджена як усталена."]
+
+9. ID 81f1cd1b6edcd247 | line 73972 | 環烴 / 环烃 [huan2 ting1]
+  0: EN cyclic hydrocarbon (i.e. involving benzene ring)
+     UK циклічний вуглеводень (у джерелі: з бензеновим кільцем)
+  NOTES ["Циклічні вуглеводні не обмежуються сполуками з бензеновим кільцем; уточнення джерела завузьке."]
+
+10. ID bc226738189d2c75 | line 76558 | 白堊世 / 白垩世 [Bai2 e4 shi4]
+  0: EN Cretaceous (geological period 140-65m years ago)
+     UK крейдовий період (геологічний період 140–65 млн років тому)
+  NOTES ["Часові межі наведено за джерелом; вони застарілі."]
+
+11. ID 481fc3262941f16a | line 76559 | 白堊紀 / 白垩纪 [Bai2 e4 ji4]
+  0: EN Cretaceous (geological period 140-65m years ago)
+     UK крейдовий період (геологічний період 140–65 млн років тому)
+  NOTES ["Часові межі наведено за джерелом; вони застарілі."]
+
+12. ID ed3ceb4ec2343166 | line 83397 | 管圓線蟲 / 管圆线虫 [guan3 yuan2 xian4 chong2]
+  0: EN "eel worm", a parasitic worm carrying meningitis
+     UK ангіостронгілід, паразитичний круглий черв, що може спричиняти менінгіт
+  NOTES ["Джерело неточно називає паразита «eel worm»; точний вид не зазначено."]
+
+13. ID 0af41cc4d0921c19 | line 114448 | 阻斷服務攻擊 / 阻断服务攻击 [zu3 duan4 fu2 wu4 gong1 ji1]
+  0: EN (Tw) (computing) denial-of-service attack (DDOS)
+     UK (Тайвань, інформатика) атака на відмову в обслуговуванні (DDOS)
+  NOTES ["Джерело подає абревіатуру DDOS для загальної відмови в обслуговуванні; DDoS точніше означає розподілену атаку."]
+
+14. ID 3275a3869fe27665 | line 120661 | 馬其頓共和國 / 马其顿共和国 [Ma3 qi2 dun4 Gong4 he2 guo2]
+  0: EN Republic of Macedonia (former Yugoslav republic)
+     UK Республіка Македонія (колишня югославська республіка)
+  NOTES ["Історичну назву держави збережено за джерелом."]
+
+15. ID 2bf55a6b69da5c90 | line 14474 | 前房角 / 前房角 [qian2 fang2 jiao3]
+  0: EN anterior chamber (the front chamber of the eye)
+     UK кут передньої камери ока (у джерелі: передня камера ока)
+  NOTES ["Заголовок 前房角 означає кут передньої камери ока; англійське визначення називає всю передню камеру."]
+
+16. ID 6b6785bd71a4d82e | line 18828 | 口蘑 / 口蘑 [kou3 mo2]
+  0: EN Saint George's mushroom (Tricholoma mongplicum)
+     UK рядовка монгольська (Tricholoma mongplicum)
+  NOTES ["Джерело неузгоджене: англійська назва Saint George's mushroom зазвичай стосується іншого гриба; латинське mongplicum, імовірно, є помилкою замість mongolicum."]
+
+17. ID 5fad91cbad8061e1 | line 41170 | 志留紀 / 志留纪 [Zhi4 liu2 ji4]
+  0: EN Silurian (geological period 440-417m years ago)
+     UK силурійський період (геологічний період 440–417 млн років тому)
+  NOTES ["Часові межі силуру наведені за джерелом і можуть не відповідати сучасній геохронологічній шкалі."]
+
+18. ID cf30e3ddaedd4e16 | line 64282 | 泥盆紀 / 泥盆纪 [Ni2 pen2 ji4]
+  0: EN Devonian (geological period 417-354m years ago)
+     UK девонський період (у джерелі датований 417–354 млн років тому)
+  NOTES ["Наведені в джерелі межі девону застарілі; їх збережено як джерельне датування."]
+
+19. ID 369bac708069adbd | line 77224 | 皇甫鎛 / 皇甫镈 [Huang2 fu3 Bo2]
+  0: EN Huangfu Bo (c. 800), Minister during early Tang
+     UK Хуанфу Бо (бл. 800 року), міністр ранньої доби Тан
+  NOTES ["Вказівка на ранню добу Тан у джерелі не узгоджується з датуванням близько 800 року."]
+
+20. ID 015c8e20849e4cce | line 124064 | 黃金週 / 黄金周 [huang2 jin1 zhou1]
+  0: EN Golden Week, two 7-day national holiday periods
+     UK «Золотий тиждень»: два семиденні періоди загальнонаціональних свят
+  NOTES ["Число й тривалість святкових періодів відтворено за джерелом; актуальні правила не перевірено."]
+
+21. ID 95aff95c9e36f73c | line 43006 | 慈姑 / 慈姑 [ci2 gu5]
+  0: EN arrowhead (Sagittaria subulata, a water plant)
+     UK стрілолист (Sagittaria subulata, водяна рослина, за джерелом)
+  NOTES ["Видове визначення потребує перевірки: 慈姑 зазвичай пов'язують із їстівними формами Sagittaria trifolia, а джерело вказує S. subulata."]
+
+22. ID d85b07ab3584f569 | line 82413 | 窩闊臺 / 窝阔台 [Wo1 kuo4 tai2]
+  0: EN Ögedei Khan (1186-1242), a son of Genghis Khan
+     UK Уґедей-хан (1186–1242), син Чингісхана
+  NOTES ["Рік смерті в джерелі сумнівний: зазвичай указують 1241."]
+
+23. ID 274e844648102130 | line 82414 | 窩闊臺汗 / 窝阔台汗 [Wo1 kuo4 tai2 han2]
+  0: EN Ögedei Khan (1186-1242), a son of Genghis Khan
+     UK Уґедей-хан (1186–1242), син Чингісхана
+  NOTES ["Рік смерті в джерелі сумнівний: зазвичай указують 1241."]
+
+24. ID ec7ad530b29b0f19 | line 92960 | 良桐 / 良桐 [liang2 tong2]
+  0: EN good Chinese wood-oil tree (Aleurites cordata)
+     UK добротне тунгове дерево (Aleurites cordata)
+  NOTES ["Джерело визначає рідкісне 良桐 як дерево; можливий акцент на якісній деревині потребує контексту."]
+
+25. ID c6866fa833ab9442 | line 93970 | 茨菰 / 茨菰 [ci2 gu5]
+  0: EN arrowhead (Sagittaria subulata, a water plant)
+     UK стрілолист шилоподібний (Sagittaria subulata), водна рослина
+  NOTES ["Китайська назва може стосуватися іншого виду стрілолиста; наведене наукове ототожнення потребує перевірки."]
+
+26. ID 20df6afc5eb341f5 | line 94484 | 菌托 / 菌托 [jun1 tuo1]
+  0: EN volva (bag containing spores on stem of fungi)
+     UK вольва (мішкоподібне утворення на ніжці гриба, у джерелі описане як таке, що містить спори)
+  NOTES ["Опис вольви як утворення зі спорами в англійському джерелі неточний: це залишок загального покривала."]
+
+27. ID 440020139c81c744 | line 123389 | 鸂鶒 / 㶉𫛶 [xi1 chi4]
+  0: EN a kind of waterbird resembling a mandarin duck
+     UK водоплавний птах, схожий на качку-мандаринку
+  NOTES ["Джерело не уточнює вид водоплавного птаха."]
+
+28. ID c7dd0b1e493f2aa6 | line 123464 | 鹼式鹽 / 碱式盐 [jian3 shi4 yan2]
+  0: EN alkali salt (soda, lye, calcium carbonate etc)
+     UK основна сіль (у джерелі: сода, луг, карбонат кальцію тощо)
+  NOTES ["Китайське слово означає основну сіль, але джерельні приклади змішують солі й луги; потрібна хімічна перевірка."]
+
+29. ID 36ee32d7a49e0969 | line 12951 | 凝血素 / 凝血素 [ning2 xue4 su4]
+  0: EN hemaglutinin (protein causing blood clotting)
+     UK гемаглютинін (білок, що спричиняє злипання клітин крові)
+  NOTES ["Джерело описує гемаглютинін як білок згортання крові; точніше це білок, що спричиняє аглютинацію клітин крові. Не слід ототожнювати аглютинацію з коагуляцією."]
+
+30. ID d3e20911018cc791 | line 36079 | 崑崙 / 昆仑 [Kun1 lun2]
+  0: EN Kunlun (Karakorum) mountain range in Xinjiang
+     UK гірська система Куньлунь у Сіньцзяні (у джерелі також «Каракорум»)
+  NOTES ["Куньлунь і Каракорум є різними гірськими системами; ототожнення в джерелі помилкове."]
+
+31. ID e971fae0e71384fb | line 51749 | 斯台普斯 / 斯台普斯 [Si1 tai2 pu3 si1]
+  0: EN Staples (Center), sports arena in Los Angeles
+     UK «Стейплс-центр», спортивна арена в Лос-Анджелесі
+  NOTES ["Назву арени збережено як історичну назву зі словникового джерела; вона може бути застарілою."]
+
+32. ID 9adafe20ebacfe1d | line 89374 | 聖賢孔子鳥 / 圣贤孔子鸟 [sheng4 xian2 Kong3 zi3 niao3]
+  0: EN Confuciusornis sanctus (Jurassic fossil bird)
+     UK конфуціусорніс священний (Confuciusornis sanctus), викопний птах, у джерелі віднесений до юрського періоду
+  NOTES ["Джерело називає птаха юрським, хоча Confuciusornis sanctus зазвичай датують ранньою крейдою."]
+
+33. ID 5b6f819def2163f5 | line 97544 | 螉䗥 / 螉䗥 [weng1 zong1]
+  0: EN parasitic wasp (of bovine and equine animals)
+     UK паразитична оса великої рогатої худоби й коней
+  NOTES ["Опис паразитичної оси на худобі в джерелі потребує зоологічної перевірки."]
+
+34. ID a5215611bd601f58 | line 97692 | 蟈螽屬 / 蝈螽属 [guo1 zhong1 shu3]
+  0: EN Gampsocleis genus (grasshoppers and crickets)
+     UK рід Gampsocleis (коники та, за джерелом, цвіркуни)
+  NOTES ["Англійський опис роду змішує коників із цвіркунами."]
+
+35. ID 38485041709df72e | line 110330 | 酒神 / 酒神 [Jiu3 shen2]
+  0: EN Bacchus (the Greek god of wine), aka Dionysus
+     UK Бахус, також Діоніс (бог вина)
+  NOTES ["Бахус є римським відповідником грецького Діоніса; англійське формулювання змішує ці назви."]
+
+36. ID 9f4360b2a152b0f8 | line 118411 | 韓山師範學院 / 韩山师范学院 [Han2 shan1 Shi1 fan4 Xue2 yuan4]
+  0: EN Hanshan Normal University, Shantou, Guangdong
+     UK Ханьшанський педагогічний університет, за джерелом у Шаньтоу, Гуандун
+  NOTES ["Місце розташування у джерелі потребує перевірки: університет відомий як заклад у Чаочжоу, а не Шаньтоу."]
+
+37. ID f8e1ad0ae9c3c661 | line 118749 | 順治 / 顺治 [Shun4 zhi4]
+  0: EN reign name of second Qing emperor (1644-1662)
+     UK Шуньчжі, девіз правління другого імператора Цін (за джерелом, 1644–1662)
+  NOTES ["Дати джерела сумнівні: загальноприйнятий період девізу Шуньчжі — 1644–1661."]
+
+38. ID e69918bf40dfddb1 | line 120439 | 首縣 / 首县 [shou3 xian4]
+  0: EN principal county magistrate in imperial China
+     UK головний повітовий начальник в імператорському Китаї
+  NOTES ["Джерело визначає 首縣 як посадовця; можливе також територіальне значення головного повіту, яке тут не додано."]
+
+39. ID 8574d941cbdbf347 | line 27184 | 外斜肌 / 外斜肌 [wai4 xie2 ji1]
+  0: EN external oblique muscle (sides of the chest)
+     UK зовнішній косий м'яз (у джерелі: збоку грудної клітки)
+  NOTES ["Зовнішній косий м'яз зазвичай є м'язом живота; анатомічне розташування в джерелі неточне."]
+
+40. ID aff0a2afda7bb894 | line 45872 | 抹不下臉 / 抹不下脸 [mo3 bu4 xia4 lian3]
+  0: EN to be unable to keep a straight face (idiom)
+     UK не могти зберегти незворушний вираз обличчя (ідіома)
+  NOTES ["Джерельне «keep a straight face» неоднозначне; вислів також може стосуватися нездатності вдати суворість або відкинути сором'язливість."]
+
+41. ID 886f678cb1471599 | line 117429 | 霍頓 / 霍顿 [Huo4 dun4]
+  0: EN Hotton, Holden, Wharton, Houghton etc (name)
+     UK Готтон, Голден, Вортон, Гоутон тощо (прізвища)
+  NOTES ["Вимова Houghton залежить від носія; українське передавання потребує уточнення для конкретної особи."]
+
+42. ID 19c36cabe2256c85 | line 15491 | 勁度係數 / 劲度系数 [jin4 du4 xi4 shu4]
+  0: EN coefficient of restitution (in Hooke's law)
+     UK коефіцієнт жорсткості в законі Гука (у джерелі: коефіцієнт відновлення)
+  NOTES ["Заголовок і закон Гука вказують на жорсткість пружини; англійське coefficient of restitution є помилковим."]
+
+43. ID 86b452ac7b1159c0 | line 39199 | 弗萊威厄斯 / 弗莱威厄斯 [Fu2 lai2 wei1 e4 si1]
+  0: EN Flavius (Roman historian of 1st century AD)
+     UK Флавій (римський історик I ст. н. е.)
+  NOTES ["Ймовірно, йдеться про Йосипа Флавія; джерело подає лише Flavius."]
+
+44. ID 267d75e44ff46973 | line 46319 | 拒絕服務攻擊 / 拒绝服务攻击 [ju4 jue2 fu2 wu4 gong1 ji1]
+  0: EN (computing) denial-of-service attack (DDOS)
+     UK (інформ.) атака «відмова в обслуговуванні» (DDOS)
+  NOTES ["Китайський термін означає загалом DoS; наведене у джерелі DDOS позначає розподілений різновид такої атаки."]
+
+45. ID d8d7b76c7b14593d | line 83189 | 等變壓線 / 等变压线 [deng3 bian4 ya1 xian4]
+  0: EN isallobar (line of equal pressure gradient)
+     UK ізалобара (лінія однакової зміни тиску)
+  NOTES ["Англійське «pressure gradient» неточне: ізалобара сполучає точки однакової зміни тиску за певний час."]
+
+46. ID 6e824e391ccbe015 | line 87772 | 羅浮山 / 罗浮山 [Luo2 fu2 shan1]
+  0: EN Mt Luofushan in Zengcheng county, Guangdong
+     UK гора Лофушань у повіті Цзенчен, Ґуандун
+  NOTES ["Географічна прив'язка в джерелі потребує перевірки: відома гора Лофушань розташована в районі Боло."]
+
+47. ID dd78cccf2ba79895 | line 93130 | 艾草 / 艾草 [ai4 cao3]
+  0: EN Asian mugwort or wormwood (genus Artemesia)
+     UK азійський полин (рід Artemesia)
+  NOTES ["У джерелі назву роду написано Artemesia; нормативне латинське написання — Artemisia."]
+
+48. ID d2d7adabf5a093ec | line 96248 | 藍光光盤 / 蓝光光盘 [lan2 guang1 guang1 pan2]
+  0: EN Blu-ray disk, Sony high definition DVD disk
+     UK диск Blu-ray, оптичний диск Sony для відео високої чіткості
+  NOTES ["Blu-ray є окремим форматом, а не різновидом DVD; англійське визначення джерела неточне."]
+
+49. ID 523b324c230f3798 | line 98594 | 衰之以屬 / 衰之以属 [shuai1 zhi1 yi3 shu3]
+  0: EN to treat a debility according to its nature
+     UK лікувати ослаблення відповідно до його природи
+  NOTES ["Рідкісний вислів передано за джерелом; медичний або класичний контекст потребує перевірки."]
+
+50. ID 56b71de1ebea3eac | line 111918 | 銖 / 铢 [zhu1]
+  0: EN twenty-fourth part of a tael (2 or 3 grams)
+     UK двадцять четверта частина ляна (2–3 грами)
+  NOTES ["Маса чжу залежала від історичного періоду; величина 2–3 г відтворює джерело й потребує перевірки."]
+
+51. ID 679ab986dfd50a50 | line 112285 | 錦葵 / 锦葵 [jin3 kui2]
+  0: EN common mallow (Malva sinensis), used in TCM
+     UK мальва звичайна (Malva sinensis), що використовується в традиційній китайській медицині
+  NOTES ["Англійська назва common mallow зазвичай стосується Malva sylvestris; наведене Malva sinensis потребує ботанічної перевірки."]
+
+52. ID 87d92d85f9b9096f | line 28721 | 天冬苯丙二肽酯 / 天冬苯丙二肽酯 [tian1 dong1 ben3 bing3 er4 tai4 zhi3]
+  0: EN aspartame C14H18N2O (artificial sweetener)
+     UK аспартам C14H18N2O (штучний підсолоджувач)
+  NOTES ["У джерельній формулі пропущено індекс 5 біля кисню: формула аспартаму — C14H18N2O5."]
+
+53. ID 369a9a8e5be92197 | line 51763 | 斯大林 / 斯大林 [Si1 da4 lin2]
+  0: EN Joseph Stalin (1879-1953), Soviet dictator
+     UK Йосип Сталін (1879–1953), радянський диктатор
+  NOTES ["Рік народження 1879 збережено за джерелом; поширене сучасне датування — 1878."]
+
+54. ID 36a2c80da8e9c0bc | line 69623 | 烏里雅蘇台 / 乌里雅苏台 [Wu1 li3 ya3 su1 tai2]
+  0: EN Uliastai, the Qing name for outer Mongolia
+     UK Уліастай, назва Зовнішньої Монголії за династії Цін
+  NOTES ["Джерело узагальнює назву Уліастай до всієї Зовнішньої Монголії; історичний адміністративний обсяг потребує уточнення."]
+
+55. ID 1bb47c4addf07226 | line 70576 | 煽動顛覆國家罪 / 煽动颠覆国家罪 [shan1 dong4 dian1 fu4 guo2 jia1 zui4]
+  0: EN crime of conspiring to overthrow the state
+     UK злочин змови з метою повалення державної влади
+  NOTES ["Китайське слово означає підбурювання до повалення держави, тоді як англійський сегмент вживає «змова»; юридичну кваліфікацію треба звірити."]
+
+56. ID ab8813780de3ab4a | line 81061 | 禮炮號 / 礼炮号 [Li3 pao4 Hao4]
+  0: EN Salyut (salute), Russian spacecraft series
+     UK «Салют», серія російських космічних апаратів
+  NOTES ["Джерело вживає «Russian»; історично програма «Салют» була радянською."]
+
+57. ID 947ed2a7a785a609 | line 84576 | 約瑟夫·斯大林 / 约瑟夫·斯大林 [Yue1 se4 fu1 · Si1 da4 lin2]
+  0: EN Joseph Stalin (1879-1953), Soviet dictator
+     UK Йосип Сталін (1879–1953), радянський диктатор
+  NOTES ["У джерелі наведено 1879 рік народження; загальноприйнята сучасна дата — 1878 рік."]
+
+58. ID 0027d0224914df28 | line 95150 | 葉永烈 / 叶永烈 [Ye4 Yong3 lie4]
+  0: EN Ye Yonglie (1940-), popular science writer
+     UK Є Юнле (1940 р. н.), автор науково-популярної літератури
+  NOTES ["Джерело залишає рік смерті Є Юнле незазначеним; біографічна інформація може бути застарілою."]
+
+59. ID d4bfa38bf1ff0e55 | line 100198 | 角鴞 / 角鸮 [jiao3 xiao1]
+  0: EN screech owl (genus Megascops, a.k.a. Otus)
+     UK совка (рід Megascops, також відомий як Otus)
+  NOTES ["Наведена в джерелі відповідність родів Megascops та Otus потребує таксономічної перевірки."]
+
+60. ID ce430a17c54d7963 | line 101947 | 諾格 / 诺格 [Nuo4 ge2]
+  0: EN Northrop Grumman (aerospace arm of Boeing)
+     UK Northrop Grumman (у джерелі названо аерокосмічним підрозділом Boeing)
+  NOTES ["Твердження джерела, що Northrop Grumman є підрозділом Boeing, фактично хибне; назву компанії ідентифіковано, пояснення потребує виправлення джерела."]
+
+61. ID 439e4d891062bbc0 | line 110605 | 醜妻近地家中寶 / 丑妻近地家中宝 [chou3 qi1 jin4 di4 jia1 zhong1 bao3]
+  0: EN an ugly wife is a treasure at home (idiom)
+     UK негарна дружина й земля поблизу — домашній скарб (ідіома)
+  NOTES ["Англійський сегмент пропускає 近地 «земля поблизу»; переклад ураховує повний китайський вислів."]
+
+62. ID 6de6bf9e64e6cdc0 | line 114641 | 阿斯巴特 / 阿斯巴特 [a1 si1 ba1 te4]
+  0: EN aspartame C14H18N2O (artificial sweetener)
+     UK аспартам C14H18N2O (штучний підсолоджувач)
+  NOTES ["У джерелі неповна формула аспартаму; загальноприйнята формула C14H18N2O5."]
+
+63. ID c05e6877f9b0e2c5 | line 115691 | 險球 / 险球 [xian3 qiu2]
+  0: EN dangerous ball (in soccer, volleyball etc)
+     UK небезпечний м'яч (у футболі, волейболі тощо)
+  NOTES ["Точний спортивний контекст вислову «небезпечний м’яч» у джерелі не уточнено."]
+
+64. ID 9a7de43b47ba7a37 | line 122712 | 鮠 / 𬶏 [wei2]
+  0: EN a kind of shad with a head like a sturgeon
+     UK різновид оселедцевої риби з головою, схожою на осетрову
+  NOTES ["Опис у джерелі не дозволяє впевнено визначити вид риби."]
+
+65. ID 123c891f494c7fb8 | line 123086 | 鳴角鴞 / 鸣角鸮 [Ming2 jiao3 xiao1]
+  0: EN Screech-owl (genus Megascops, a.k.a. Otus)
+     UK сова-скопс роду Megascops (також Otus)
+  NOTES ["Назви родів Megascops і Otus відтворено за джерелом; їхню таксономічну тотожність не підтверджено."]
+
+66. ID bc6258fa00e85404 | line 7548 | 佧 / 佧 [ka3]
+  0: EN ancient name for an ethnic group in China
+     UK давня назва одного з етносів Китаю
+  NOTES ["У джерелі не уточнено, який саме етнос мається на увазі; подано лише загальну словникову глосу."]
+
+67. ID 4a4e28342c5aa544 | line 13367 | 函式庫 / 函式库 [han2 shi4 ku4]
+  0: EN library (partition on computer hard disk)
+     UK бібліотека (розділ на жорсткому диску комп'ютера)
+  NOTES ["Джерело пояснює 函式庫 як розділ жорсткого диска; китайський термін зазвичай означає бібліотеку функцій. Потрібна перевірка англійського тлумачення."]
+
+68. ID d562fa3b19f84985 | line 25419 | 坡壘 / 坡垒 [po1 lei3]
+  0: EN Hainan hopea (Hopea hainanensis) (botany)
+     UK хопея хайнанська (Hopea hainanensis; бот.)
+  NOTES ["Українську ботанічну назву не перевірено; подано транслітерацію й латинську назву."]
+
+69. ID 733b6daf4604d56f | line 27127 | 外商直接投資 / 外商直接投资 [wai4 shang1 zhi2 jie1 tou2 zi1]
+  0: EN overseas foreign direct investment (OFDI)
+     UK прямі іноземні інвестиції (у джерелі: OFDI)
+  NOTES ["外商直接投資 означає прямі іноземні інвестиції; позначення OFDI в джерелі може помилково вказувати на вихідні інвестиції за кордон."]
+
+70. ID e5facc11444ae9a0 | line 58386 | 椆 / 椆 [chou2]
+  0: EN species of tree resistant to cold weather
+     UK морозостійкий вид дерева
+  NOTES ["Конкретний вид у джерелі не названо."]
+
+71. ID a82fa2d7aba283f2 | line 74144 | 瓦赫基爾河 / 瓦赫基尔河 [Wa3 he4 ji1 er3 He2]
+  0: EN Vakhsh river (upper reaches of Amu Darya)
+     UK річка Вахш (верхів'я Амудар'ї)
+  NOTES ["Китайська назва може позначати Вахджир; відповідність англійському «Vakhsh» у джерелі сумнівна."]
+
+72. ID 55123959663f113c | line 76806 | 白花蛇 / 白花蛇 [bai2 hua1 she2]
+  0: EN long-nosed pit viper (agkistrodon acutus)
+     UK гострорилий щитомордник (agkistrodon acutus)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+73. ID a612abfd7419a134 | line 81352 | 科布多 / 科布多 [Ke1 bu4 duo1]
+  0: EN Qobto or Kobdo, khanate of outer Mongolia
+     UK Кобдо, ханство Зовнішньої Монголії
+  NOTES ["Історичний адміністративний статус Кобдо в джерелі потребує перевірки."]
+
+74. ID b8cd1a74daf87eef | line 84660 | 紅寡婦鳥 / 红寡妇鸟 [hong2 gua3 fu5 niao3]
+  0: EN (ornithology) red bishop (Euplectes orix)
+     UK (орнітол.) ткачик червоний (Euplectes orix)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+75. ID 76e77d38c989f139 | line 90150 | 肯普索恩 / 肯普索恩 [Ken3 pu3 suo3 en1]
+  0: EN (Dirk) Kempthorne (US Senator from Idaho)
+     UK (Дірк) Кемпторн, колишній сенатор США від Айдахо
+  NOTES ["Посаду сенатора відтворено з історичного джерела; це не твердження про нинішню посаду."]
+
+76. ID 7810d0cd34b39c1b | line 96768 | 蘼蕪 / 蘼芜 [mi2 wu2]
+  0: EN Gracilaria confervoides (a fragrant herb)
+     UK запашна трава (у джерелі ототожнена з Gracilaria confervoides)
+  NOTES ["Gracilaria confervoides є водорістю; ототожнення 蘼蕪 із запашною травою цього виду в джерелі суперечливе."]
+
+77. ID 279bff46e2c09d76 | line 106739 | 轉頭 / 转头 [zhuan4 tou2]
+  0: EN nutation (plants turning to face the sun)
+     UK нутація, повертання рослини до сонця
+  NOTES ["Джерело змішує нутацію з повертанням до сонця, тобто геліотропізмом; відтворено його пояснення."]
+
+78. ID ae69c8906a915c8f | line 114835 | 阿黑顏 / 阿黑颜 [a1 hei1 yan2]
+  0: EN (ACG) ahegao (loanword from Japanese アヘ顔)
+     UK (аніме, комікси, ігри) агеґао (запозичення з японського アヘ顔)
+  NOTES ["Термін агеґао позначає стилізований вираз обличчя сексуального збудження в японській еротичній графіці; джерело дає лише запозичену назву."]
+
+79. ID 176137e4c03fbdbf | line 36952 | 巴豆殼 / 巴豆壳 [ba1 dou4 ke2]
+  0: EN bark of Croton tiglium used as purgative
+     UK оболонка плодів Croton tiglium, яку використовують як проносний засіб
+  NOTES ["Англійське bark означає кору, але 殼 у цьому найменуванні вказує на оболонку плодів; джерело потребує уточнення."]
+
+80. ID decc780e56551075 | line 60514 | 正極 / 正极 [zheng4 ji2]
+  0: EN positive electrode; positive pole; anode
+     UK позитивний електрод; позитивний полюс; анод
+  NOTES ["Анод є позитивним електродом не в усіх електрохімічних системах; відповідник залежить від контексту."]
+
+81. ID abb3b91772158ffd | line 72953 | 玉川市 / 玉川市 [Yu4 chuan1 shi4]
+  0: EN Tamagawa city in Akita prefecture, Japan
+     UK місто Тамаґава в префектурі Акіта, Японія
+  NOTES ["Статус окремого міста в джерелі потребує географічної перевірки."]
+
+82. ID 5fe0715b4cef573a | line 79178 | 矮莖朱砂根 / 矮茎朱砂根 [ai3 jing1 zhu1 sha1 gen1]
+  0: EN short-stem Ardisia (Ardisia brevicaulis)
+     UK ардізія короткостеблова (Ardisia brevicaulis)
+  NOTES ["Усталена українська ботанічна назва виду потребує перевірки."]
+
+83. ID f286eccbaf37ef70 | line 79279 | 石楠 / 石楠 [shi2 nan2]
+  0: EN Chinese photinia (Photinia serratifolia)
+     UK фотинія пилчастолиста (Photinia serratifolia)
+  NOTES ["Усталена українська ботанічна назва виду потребує перевірки."]
+
+84. ID f21a299754504fed | line 85327 | 紫蘇屬 / 紫苏属 [zi3 su1 shu3]
+  0: EN genus Perilla (includes basil and mints)
+     UK рід Перила (Perilla); у джерелі до нього також віднесено базилік і м'яту
+  NOTES ["Таксономічна помилка джерела: базилік і м'ята належать до інших родів родини глухокропивових, а не до Perilla."]
+
+85. ID d82a2c4764fa901c | line 98782 | 裂殖菌 / 裂殖菌 [lie4 zhi2 jun1]
+  0: EN Schizomycetes (taxonomic class of fungi)
+     UK дроб'янки (Schizomycetes), історичний таксон, у джерелі названий класом грибів
+  NOTES ["Schizomycetes — застаріле позначення бактерій, історично зараховуваних до грибів."]
+
+86. ID 90ce230ce2717f7a | line 98783 | 裂殖菌綱 / 裂殖菌纲 [lie4 zhi2 jun1 gang1]
+  0: EN Schizomycetes (taxonomic class of fungi)
+     UK клас дроб'янок (Schizomycetes), історичний таксон, у джерелі віднесений до грибів
+  NOTES ["Schizomycetes — застаріле позначення бактерій, історично зараховуваних до грибів."]
+
+87. ID e442c9bdb3e03015 | line 109779 | 郇山隱修會 / 郇山隐修会 [Xun2 shan1 yin3 xiu1 hui4]
+  0: EN Priory of Zion (fictional masonic order)
+     UK Пріорат Сіону (вигаданий масонський орден)
+  NOTES ["Опис Пріорату Сіону як масонського ордену спрощений і сумнівний; відтворено характеристику джерела."]
+
+88. ID b169771c8e671f59 | line 15188 | 功高望重 / 功高望重 [gong1 gao1 wang4 zhong4]
+  0: EN high merit and worthy prospects (idiom)
+     UK великі заслуги й висока пошана (ідіома)
+  NOTES ["Китайське 望重 стосується високої репутації чи пошани, а не перспектив, зазначених англійським prospects."]
+
+89. ID 141bb0d2b47ae683 | line 16983 | 卑辭厚幣 / 卑辞厚币 [bei1 ci2 hou4 bi4]
+  0: EN humble expression for generous donation
+     UK шанобливі слова й щедрі дари
+  NOTES ["Англійська глоса неоднозначна; китайський вислів поєднує покірливу мову з багатими дарами."]
+
+90. ID e912513b1013daaf | line 24509 | 國際民間組織 / 国际民间组织 [guo2 ji4 min2 jian1 zu3 zhi1]
+  0: EN international humanitarian organization
+     UK міжнародна неурядова гуманітарна організація
+  NOTES ["Джерело звужує значення до гуманітарної організації; 民間 насамперед означає неурядовий характер."]
+
+91. ID a26f2a63ae648da3 | line 36935 | 巴縣 / 巴县 [Ba1 xian4]
+  0: EN Ba county in Chongqing 重慶市|重庆市, Sichuan
+     UK повіт Ба в Чунціні 重慶市|重庆市, Сичуань
+  NOTES ["Джерело використовує історичний адміністративний поділ."]
+
+92. ID 4cf1ab99122739f5 | line 39977 | 待產 / 待产 [dai4 chan3]
+  0: EN (of an expectant mother) to be in labor
+     UK бути перед пологами; чекати пологів (про вагітну)
+  NOTES ["Англійське in labor означає вже розпочаті пологи, тоді як 待產 позначає очікування пологів; відповідник обрано за китайським заголовком."]
+
+93. ID 849e4c6e3ba77a86 | line 81683 | 程海湖 / 程海湖 [Cheng2 hai3 Hu2]
+  0: EN Chenghai Lake in Lijiang 麗江市|丽江市, Hunan
+     UK озеро Ченхай у Ліцзяні 麗江市|丽江市, Хунань
+  NOTES ["У джерелі, ймовірно, помилка: Ліцзян і озеро Ченхай розташовані в Юньнані, а не Хунані."]
+
+94. ID 384aa44b7bb66126 | line 85874 | 統一新羅 / 统一新罗 [tong3 yi1 Xin1 luo2]
+  0: EN unified Silla (658-935), Korean kingdom
+     UK об'єднана Сілла (658–935), корейське королівство
+  NOTES ["Початковий рік 658 збережено за джерелом; об'єднану Сіллу зазвичай датують від 668 року."]
+
+95. ID 002a016099e40ae4 | line 88313 | 羽尾袋鼯 / 羽尾袋鼯 [yu3 wei3 dai4 wu2]
+  0: EN feathertail glider (Acrobates pygmaeus)
+     UK акробатець карликовий (Acrobates pygmaeus)
+  NOTES ["Українська видова назва потребує звіряння; точну ідентифікацію подано латинською."]
+
+96. ID 81fb62b3be9295c4 | line 92395 | 興凱刺鰟鮍 / 兴凯刺鳑鲏 [xing1 kai3 ci4 pang2 pi2]
+  0: EN Acanthorhodeus chankaensis (small carp)
+     UK Acanthorhodeus chankaensis (дрібна коропова риба)
+  NOTES ["Усталеної української видової назви не встановлено; збережено наукову назву."]
+
+97. ID dc80727d9dbda65d | line 93154 | 芋泥 / 芋泥 [Yu4 ni2]
+  0: EN yam paste (a snack in Chaozhou cuisine)
+     UK паста з таро (закуска чаочжоуської кухні)
+  NOTES ["Англійське «yam» у джерелі неточне щодо китайського 芋, яке означає таро."]
+
+98. ID 1f16906dccb4c5f1 | line 113337 | 镻 / 镻 [die2]
+  0: EN name of poisonous snake in ancient text
+     UK назва отруйної змії в давньому тексті
+  NOTES ["Джерело не дає змоги визначити сучасний зоологічний відповідник назви змії."]
+
+99. ID e930b3ae4f47ce14 | line 114429 | 阻值 / 阻值 [zu3 zhi2]
+  0: EN numerical value of electrical impedance
+     UK числове значення електричного імпедансу
+  NOTES ["阻值 часто позначає значення електричного опору; джерело конкретизує impedance."]
+
+100. ID 143c5fb0a621518e | line 124192 | 黑冠長臂猿 / 黑冠长臂猿 [hei1 guan1 chang2 bi4 yuan2]
+  0: EN black crested gibbon (Nomascus nasutus)
+     UK чорний чубатий гібон (Nomascus nasutus)
+  NOTES ["Англійська назва black crested gibbon і латинська Nomascus nasutus можуть позначати різні види; потрібна таксономічна перевірка."]
+

@@ -1,0 +1,1735 @@
+{
+  "reviewer_model_requested": "gpt-6-astra",
+  "human_validation": false,
+  "reviewed_ids": [
+    "fe51e1454ea7a473",
+    "6c6bc8dcccd196f5",
+    "57f2857011101e47",
+    "e5fcff334b0d84ba",
+    "9d253807e27b3047",
+    "1ee005504dc97787",
+    "6b4f383df465db33",
+    "6a08e86e5eee299a",
+    "b3c4ccffee937cf0",
+    "1f1de821660e71d5",
+    "a4bf1b0b1e9a40ee",
+    "48ba194cf48e7040",
+    "76e6ecd96d748bb8",
+    "6c43750f70667376",
+    "d5da6aa4857de8cc",
+    "3a19457f749b6d8d",
+    "b5be3b75302771b3",
+    "320d776942c2fcb7",
+    "0440107ce8c669c5",
+    "15b1bc4ac00d3e23",
+    "c20bf55908137e02",
+    "f1c84b4a42d9fe35",
+    "835b7d2ee479acd5",
+    "dcd0c263d3c0717d",
+    "c8f08f40d38fb9d7",
+    "4180570d7f426358",
+    "d76822d86915672c",
+    "d8b2e7be4db5b5c7",
+    "6636ef7713f43a22",
+    "090e58a411691414",
+    "0d24928061d02530",
+    "c57dcd535ad6879f",
+    "edbcd353de4ab47d",
+    "f8ed9ec10db06ffc",
+    "c4e9b68b32fe1667",
+    "42ab8c3dab5cbda8",
+    "5861c6b434420708",
+    "7c10d131a29b855b",
+    "156a6911e8afc247",
+    "49180378572c30ba",
+    "df7f4866a5dec603",
+    "bd42e340e6654d43",
+    "166c0e13b1d39c34",
+    "4d5783317c67c715",
+    "2a391e9d6e7fd181",
+    "dd1d739ccc8eca13",
+    "6c471a7119f5b4c0",
+    "0287577f24401f0a",
+    "005cc7db36f3f68d",
+    "d35aa05ded77d57a",
+    "b0c8a55e9bb71121",
+    "e96f1f593f6cc965",
+    "2c8557d64a79b2fe",
+    "5be82b099efff5f8",
+    "9d811db63c58bd12",
+    "74be29af218651f4",
+    "1c5ad869069171c4",
+    "27e67803efbcdb3c",
+    "bc4d532eb2a73555",
+    "a973f37fe8da1b70",
+    "f951d758af352798",
+    "6bc987db079c9175",
+    "9147309f7537d0bc",
+    "07f9e328e9fcd08f",
+    "083dcedafcc45230",
+    "4b0ff39760e118f3",
+    "57292f96f514cf90",
+    "065b0910a7eafc8c",
+    "bed1b3a47ae70a89",
+    "6402ff9b4ec33f40",
+    "df44f933a9dd9c3d",
+    "021710d6fac2ca9c",
+    "a2bcfe49b118f8bb",
+    "aefe55391d26449e",
+    "32fdbb637f4e2356",
+    "f0416bbebfd78326",
+    "3e5970f278f929fb",
+    "7e46d5a3371d6545",
+    "3387815e0c000f77",
+    "6e9e7ab847e5bacf",
+    "95fc8c4d219e7a4b",
+    "c6e8763c3c040e00",
+    "4995a66e6057807d",
+    "0bb0b3e6c8a77fff",
+    "12b685827b6ee410",
+    "1c9b6e2d4a6d9c20",
+    "283b2a833c20764a",
+    "a80f66f6b1c8f838",
+    "ec0083f0c1145f1c",
+    "5e813d796ea42824",
+    "d275bd0e6fbeddaf",
+    "9cad107390c7d64e",
+    "716db48105c74684",
+    "dccfca479b66b788",
+    "b9d5778dcde4f14e",
+    "54a9a09367fdf1ee",
+    "08f39c4c4914d1b0",
+    "c7932061bffee30b",
+    "0dcb1919b2a6668b",
+    "c7a6ed208a4ce3d7"
+  ],
+  "entries": [
+    {
+      "id": "fe51e1454ea7a473",
+      "source_line": 88842,
+      "traditional": "老馬嘶風",
+      "simplified": "老马嘶风",
+      "pinyin": "lao3 ma3 si1 feng1",
+      "outcome": "acceptable",
+      "reason": "Both Chinese forms and lao3 ma3 si1 feng1 support the neighing-horse image; 嘶 is not sniffing. The figurative sense and the note are appropriate. The Ministry of Education defines 老馬嘶風 as old age with ambition undiminished: https://dict.revised.moe.edu.tw/dictView.jsp?ID=60128&la=1&powerMode=0",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійське «sniffs» не відповідає 嘶 «іржати»; буквальний образ уточнено за китайським висловом."
+      ]
+    },
+    {
+      "id": "6c6bc8dcccd196f5",
+      "source_line": 88848,
+      "traditional": "老驥嘶風",
+      "simplified": "老骥嘶风",
+      "pinyin": "lao3 ji4 si1 feng1",
+      "outcome": "acceptable",
+      "reason": "The old-steed image preserves 驥 and correctly renders 嘶 as neighing rather than the English sniffing. The ambition sense is coherent with 老驥嘶風. The note identifies this exact lexical discrepancy and is retained, not treated as a separate uncertain Ukrainian species/name claim.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійське «sniffs» не відповідає 嘶 «іржати»; буквальний образ уточнено за китайським висловом."
+      ]
+    },
+    {
+      "id": "57f2857011101e47",
+      "source_line": 92302,
+      "traditional": "臺灣棕噪鶥",
+      "simplified": "台湾棕噪鹛",
+      "pinyin": "Tai2 wan1 zong1 zao4 mei2",
+      "outcome": "acceptable",
+      "reason": "The rusty laughingthrush description is intelligible, and Pterorhinus poecilorhynchus is unchanged. 臺灣棕噪鶥/台湾棕噪鹛 and its pinyin are preserved. The note honestly limits the claim to an unverified Ukrainian species name; no nomenclatural or territorial reclassification is certified.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталений український видовий відповідник потребує перевірки; наукову назву збережено."
+      ]
+    },
+    {
+      "id": "e5fcff334b0d84ba",
+      "source_line": 96317,
+      "traditional": "藍頭紅尾鴝",
+      "simplified": "蓝头红尾鸲",
+      "pinyin": "lan2 tou2 hong2 wei3 qu2",
+      "outcome": "acceptable",
+      "reason": "Синьоголова conveys the head/cap coloration in 藍頭 and blue-capped; горихвістка conveys redstart. The Latin name is exact. The explicitly descriptive naming note is pertinent and does not claim a verified Ukrainian standard.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву птаха подано описово за китайською й англійською назвами; усталений орнітологічний відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "9d253807e27b3047",
+      "source_line": 111379,
+      "traditional": "金翅噪鶥",
+      "simplified": "金翅噪鹛",
+      "pinyin": "jin1 chi4 zao4 mei2",
+      "outcome": "acceptable",
+      "reason": "The Assam geographic epithet and laughingthrush group are intelligibly conveyed. 金翅 literally emphasizes golden wings rather than Assam, but different vernacular epithets are not by themselves a source contradiction. The exact taxon and naming caution are retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська видова назва потребує перевірки за орнітологічною номенклатурою."
+      ]
+    },
+    {
+      "id": "1ee005504dc97787",
+      "source_line": 111778,
+      "traditional": "銀喉長尾山雀",
+      "simplified": "银喉长尾山雀",
+      "pinyin": "yin2 hou2 chang2 wei3 shan1 que4",
+      "outcome": "acceptable",
+      "reason": "The silver throat and long-tailed tit/bushtit description track 銀喉長尾山雀 and the English. Aegithalos glaucogularis remains exact. Acceptance is of the descriptive translation only, with the species-name caution retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська видова назва потребує орнітологічної перевірки."
+      ]
+    },
+    {
+      "id": "6b4f383df465db33",
+      "source_line": 123991,
+      "traditional": "黃腳綠鳩",
+      "simplified": "黄脚绿鸠",
+      "pinyin": "huang2 jiao3 lu:4 jiu1",
+      "outcome": "acceptable",
+      "reason": "Жовтоногий зелений голуб directly conveys yellow-footed green pigeon and 黃腳綠鳩. The Latin taxon is preserved, and the note clearly says that the Ukrainian ornithological name is unverified.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "6a08e86e5eee299a",
+      "source_line": 124342,
+      "traditional": "黑眉鴉雀",
+      "simplified": "黑眉鸦雀",
+      "pinyin": "hei1 mei2 ya1 que4",
+      "outcome": "acceptable",
+      "reason": "Світлодзьоба сутора follows pale-billed parrotbill, while 黑眉 emphasizes the eyebrows; differing vernacular epithets alone do not demonstrate a mistaken taxon. Suthora atrosuperciliaris and the descriptive-name caveat are preserved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "b3c4ccffee937cf0",
+      "source_line": 124389,
+      "traditional": "黑臉噪鶥",
+      "simplified": "黑脸噪鹛",
+      "pinyin": "hei1 lian3 zao4 mei2",
+      "outcome": "acceptable",
+      "reason": "Маскова чагарниця is an understandable descriptive rendering of masked laughingthrush and is compatible with the black-face image in 黑臉. The taxon is exact, and the relevant naming caveat is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "1f1de821660e71d5",
+      "source_line": 124416,
+      "traditional": "黑頂噪鶥",
+      "simplified": "黑顶噪鹛",
+      "pinyin": "hei1 ding3 zao4 mei2",
+      "outcome": "acceptable",
+      "reason": "Чорнолиця conveys the English black-faced, whereas 黑頂 emphasizes the crown. The unchanged taxon disambiguates the supplied entry; no standardized Ukrainian name or independent Chinese/common-name equivalence is certified. The on-topic naming caveat remains.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "a4bf1b0b1e9a40ee",
+      "source_line": 21683,
+      "traditional": "哈梅內伊",
+      "simplified": "哈梅内伊",
+      "pinyin": "Ha1 mei2 nei4 yi1",
+      "outcome": "deferred",
+      "reason": "The personal name, birth year, religious title and office are translated intelligibly. The supplied source does not establish that the open-ended Supreme Leader description remains current. The note accurately discloses that limitation; the biographical status is deferred rather than revalidated from old text.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Біографічну посаду відтворено за джерелом без перевірки її актуальності."
+      ]
+    },
+    {
+      "id": "48ba194cf48e7040",
+      "source_line": 22419,
+      "traditional": "喀什市",
+      "simplified": "喀什市",
+      "pinyin": "Ka1 shi2 Shi4",
+      "outcome": "correction_proposed",
+      "reason": "The source makes Kashgar City subordinate to itself, and the Ukrainian repeats that contradiction. A narrow correction moves the unchanged Chinese cross-reference onto the city and gives the prefecture relationship. The official Kashgar economic-zone planning document identifies 喀什市 among the county-level units of 喀什地区: https://www.kstq.gov.cn/kashi/xxgk/202010/6b3d77609a6c47558b9353ab546e7ca3/files/1621485132331_96614.pdf",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Кашгар, місто повітового рівня в Кашгарі 喀什市[Ka1 shi2 Shi4], Сіньцзян",
+          "after": "Кашгар 喀什市[Ka1 shi2 Shi4], місто повітового рівня в окрузі Кашгар, Сіньцзян",
+          "reason": "Correct the self-subordination while preserving the exact Chinese/pinyin reference by attaching it to the city. The prefecture relationship is supported by the official Kashgar planning document cited in the entry reason.",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело помилково підпорядковує місто самому собі; ймовірно, мається на увазі округ Кашгар.",
+          "after": "Джерело помилково розміщує 喀什市 у самому 喀什市; місто належить до округу Кашгар.",
+          "reason": "The official source resolves the prefecture relationship; the note should describe the demonstrated source problem rather than leave the relationship as a guess.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "76e6ecd96d748bb8",
+      "source_line": 26092,
+      "traditional": "堪察加柳鶯",
+      "simplified": "堪察加柳莺",
+      "pinyin": "Kan1 cha2 jia1 liu3 ying1",
+      "outcome": "acceptable",
+      "reason": "Камчатський вівчарик conveys Kamchatka leaf warbler and the geographic modifier 堪察加. Phylloscopus examinandus is exact. The note is relevant and keeps the Ukrainian standardized name unresolved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву не перевірено; подано описовий відповідник і латинську назву."
+      ]
+    },
+    {
+      "id": "6c43750f70667376",
+      "source_line": 39798,
+      "traditional": "彭斯",
+      "simplified": "彭斯",
+      "pinyin": "Peng2 si1",
+      "outcome": "deferred",
+      "reason": "The name, party and birth year are adequately translated, but від 2017 року leaves the vice-presidential tenure open. The note properly identifies the historical wording and missing end date. Current-office accuracy is not established, so this entry is deferred.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Відомості про перебування на посаді наведено за історично сформульованим джерелом; кінцевої дати джерело не містить."
+      ]
+    },
+    {
+      "id": "d5da6aa4857de8cc",
+      "source_line": 51568,
+      "traditional": "斑胸噪鶥",
+      "simplified": "斑胸噪鹛",
+      "pinyin": "ban1 xiong1 zao4 mei2",
+      "outcome": "acceptable",
+      "reason": "Плямистогруда conveys both 斑胸 and spot-breasted, and чагарниця is an intelligible laughingthrush rendering. The exact Garrulax merulinus identification and the explicitly unverified Ukrainian-name note are preserved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+      ]
+    },
+    {
+      "id": "3a19457f749b6d8d",
+      "source_line": 54103,
+      "traditional": "暗胸朱雀",
+      "simplified": "暗胸朱雀",
+      "pinyin": "an4 xiong1 zhu1 que4",
+      "outcome": "acceptable",
+      "reason": "Темногруда matches 暗胸 and dark-breasted; чечевиця is an intelligible rosefinch rendering. Procarduelis nipalensis is unchanged. The on-topic Ukrainian nomenclature caution remains unresolved without blocking descriptive translation adequacy.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву слід звірити з орнітологічною номенклатурою."
+      ]
+    },
+    {
+      "id": "b5be3b75302771b3",
+      "source_line": 57296,
+      "traditional": "栗喉鵙鶥",
+      "simplified": "栗喉鵙鹛",
+      "pinyin": "li4 hou2 ju2 mei2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian follows black-eared shrike-babbler, whereas 栗喉 emphasizes the chestnut throat. These vernacular descriptions need not be literal counterparts. The exact Pteruthius melanotis name and explicit descriptive/normative-name distinction are retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська видова назва описова; нормативний відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "320d776942c2fcb7",
+      "source_line": 66041,
+      "traditional": "淡喉鷯鶥",
+      "simplified": "淡喉鹩鹛",
+      "pinyin": "dan4 hou2 liao2 mei2",
+      "outcome": "acceptable",
+      "reason": "The pale-throat modifier is correctly conveyed and the entry remains identifiable through Spelaeornis kinneari. The wren-babbler group is rendered loosely rather than as a verified Ukrainian genus name. The existing descriptive-name caveat is relevant and retained; no claim of standardized terminology is made.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова назва; усталений український видовий відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "0440107ce8c669c5",
+      "source_line": 69156,
+      "traditional": "灰岩柳鶯",
+      "simplified": "灰岩柳莺",
+      "pinyin": "hui1 yan2 liu3 ying1",
+      "outcome": "acceptable",
+      "reason": "Вапняковий conveys limestone and 灰岩; вівчарик conveys the leaf-warbler group. The exact Phylloscopus calciatilis name is retained. The note correctly distinguishes a descriptive rendering from a verified Ukrainian name.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Український відповідник limestone leaf warbler подано описово; усталене найменування Phylloscopus calciatilis потребує перевірки."
+      ]
+    },
+    {
+      "id": "15b1bc4ac00d3e23",
+      "source_line": 69164,
+      "traditional": "灰斑鶲",
+      "simplified": "灰斑鹟",
+      "pinyin": "hui1 ban1 weng1",
+      "outcome": "acceptable",
+      "reason": "The grey-streaked flycatcher description is understandable and the taxon Muscicapa griseisticta is exact. The note pertains specifically to the descriptive epithet and is retained; neither a standardized name nor a taxonomic update is asserted.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Український епітет сіро-смугаста подано описово; усталене найменування Muscicapa griseisticta потребує перевірки."
+      ]
+    },
+    {
+      "id": "c20bf55908137e02",
+      "source_line": 69226,
+      "traditional": "灰頭柳鶯",
+      "simplified": "灰头柳莺",
+      "pinyin": "hui1 tou2 liu3 ying1",
+      "outcome": "acceptable",
+      "reason": "Сіроголовий is supported by 灰頭 and broadly conveys the grey hood/head of the English name. Phylloscopus xanthoschistos remains exact. The note appropriately leaves the standard Ukrainian equivalent open.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву Phylloscopus xanthoschistos передано описово; український стандартний відповідник не встановлено."
+      ]
+    },
+    {
+      "id": "f1c84b4a42d9fe35",
+      "source_line": 69643,
+      "traditional": "烏鵑",
+      "simplified": "乌鹃",
+      "pinyin": "wu1 juan1",
+      "outcome": "correction_proposed",
+      "reason": "The drongo-cuckoo group and taxon are preserved, but з прямим хвостом can describe a straight tail rather than the square-ended tail denoted by square-tailed. A minimal descriptive correction specifies the terminal edge. The naming caveat remains valid.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(вид птахів Китаю) дронгова зозуля з прямим хвостом (Surniculus lugubris)",
+          "after": "(вид птахів Китаю) дронгова зозуля з прямим кінцевим краєм хвоста (Surniculus lugubris)",
+          "reason": "Square-tailed refers to the squared terminal outline, not merely a straight tail. This remains a descriptive rendering rather than an asserted Ukrainian standard.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву Surniculus lugubris передано описово; усталений український видовий відповідник потребує звірки."
+      ]
+    },
+    {
+      "id": "835b7d2ee479acd5",
+      "source_line": 73095,
+      "traditional": "王毅",
+      "simplified": "王毅",
+      "pinyin": "Wang2 Yi4",
+      "outcome": "deferred",
+      "reason": "The name, dates and two offices faithfully reproduce the source, but the open-ended minister and state-councilor terms cannot be treated as verified current or uninterrupted tenures. The note is correctly targeted; temporal accuracy remains deferred.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Посади й відкриті часові проміжки передано за джерелом; цей біографічний запис потребує актуалізації."
+      ]
+    },
+    {
+      "id": "dcd0c263d3c0717d",
+      "source_line": 76550,
+      "traditional": "白喉紅尾鴝",
+      "simplified": "白喉红尾鸲",
+      "pinyin": "bai2 hou2 hong2 wei3 qu2",
+      "outcome": "acceptable",
+      "reason": "Білогорла горихвістка conveys 白喉 and white-throated redstart without changing Phoenicurus schisticeps. The Ukrainian species-name uncertainty is relevant and retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "c8f08f40d38fb9d7",
+      "source_line": 76610,
+      "traditional": "白斑尾柳鶯",
+      "simplified": "白斑尾柳莺",
+      "pinyin": "bai2 ban1 wei3 liu3 ying1",
+      "outcome": "acceptable",
+      "reason": "The Kloss eponym is reasonably rendered as Клосса and the leaf-warbler group is intelligible. 白斑尾 describes a different feature, which alone does not disprove the common-name equivalence. Phylloscopus ogilviegranti and the naming caveat are preserved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "4180570d7f426358",
+      "source_line": 76768,
+      "traditional": "白胸鴉雀",
+      "simplified": "白胸鸦雀",
+      "pinyin": "bai2 xiong1 ya1 que4",
+      "outcome": "acceptable",
+      "reason": "Білогруда follows 白胸 and white-breasted; сутора is intelligible for parrotbill. The exact taxon Paradoxornis ruficeps is retained. The relevant caution does not claim that a Ukrainian standard has been checked.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "d76822d86915672c",
+      "source_line": 76891,
+      "traditional": "白頂溪鴝",
+      "simplified": "白顶溪鸲",
+      "pinyin": "bai2 ding3 xi1 qu2",
+      "outcome": "acceptable",
+      "reason": "Білоголова is a reasonable broad rendering of white-capped/白頂, and горихвістка conveys redstart. Phoenicurus leucocephalus is exact. The naming caveat remains explicitly unresolved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "d8b2e7be4db5b5c7",
+      "source_line": 76913,
+      "traditional": "白頰山鷓鴣",
+      "simplified": "白颊山鹧鸪",
+      "pinyin": "bai2 jia2 shan1 zhe4 gu1",
+      "outcome": "acceptable",
+      "reason": "Білощока куріпка conveys white-cheeked partridge and 白頰山鷓鴣. Arborophila atrogularis is unchanged. The note is correctly confined to the Ukrainian name, not a demonstrated translation error.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву подано описово; усталена українська форма потребує перевірки."
+      ]
+    },
+    {
+      "id": "6636ef7713f43a22",
+      "source_line": 76916,
+      "traditional": "白頸噪鶥",
+      "simplified": "白颈噪鹛",
+      "pinyin": "bai2 jing3 zao4 mei2",
+      "outcome": "acceptable",
+      "reason": "Білошия conveys 白頸 and white-necked, and чагарниця conveys laughingthrush. Garrulax strepitans remains exact. The standard-name uncertainty is appropriately retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "090e58a411691414",
+      "source_line": 85062,
+      "traditional": "純色噪鶥",
+      "simplified": "纯色噪鹛",
+      "pinyin": "chun2 se4 zao4 mei2",
+      "outcome": "acceptable",
+      "reason": "Луската conveys the supplied English scaly; 純色 emphasizes a different plumage description. Different common-name epithets do not alone establish a taxon error. Trochalopteron subunicolor is exact and the naming note is pertinent.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "0d24928061d02530",
+      "source_line": 85383,
+      "traditional": "細嘴短趾百靈",
+      "simplified": "细嘴短趾百灵",
+      "pinyin": "xi4 zui3 duan3 zhi3 bai3 ling2",
+      "outcome": "deferred",
+      "reason": "The Hume eponym and lark group are identifiable, but малий is not a literal rendering of short-toed/短趾 and may rely on an unverified Ukrainian generic naming convention. The existing naming caution is retained, and no new standardized species name is invented.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "c57dcd535ad6879f",
+      "source_line": 85422,
+      "traditional": "細紋葦鶯",
+      "simplified": "细纹苇莺",
+      "pinyin": "xi4 wen2 wei3 ying1",
+      "outcome": "acceptable",
+      "reason": "Строката очеретянка intelligibly conveys the speckled reed-warbler description, with Acrocephalus sorghophilus preserved exactly. The note correctly leaves the conventional Ukrainian species name unverified.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "edbcd353de4ab47d",
+      "source_line": 104660,
+      "traditional": "超基性岩",
+      "simplified": "超基性岩",
+      "pinyin": "chao1 ji1 xing4 yan2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian already corrects the source’s silicates/silica confusion: the conventional less-than-45-percent criterion refers to SiO2, not the total proportion of silicate minerals. The exact on-topic note is supported by the Geological Survey of Sweden: https://www.sgu.se/en/geology-of-sweden/rocks/bedrock/",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Англійське silicates у визначенні неточне: класифікаційний поріг 45 % стосується кремнезему SiO2; переклад узгоджено з геологічним терміном."
+      ]
+    },
+    {
+      "id": "f8ed9ec10db06ffc",
+      "source_line": 110116,
+      "traditional": "鄭國渠",
+      "simplified": "郑国渠",
+      "pinyin": "Zheng4 guo2 qu2",
+      "outcome": "correction_proposed",
+      "reason": "The English 264 BC date is reproduced incorrectly in Ukrainian. Primary institutional research places the beginning of construction in 246 BC; the correction explicitly says construction began, avoiding a claim about completion. https://agri-history.ihns.ac.cn/books/aa15.htm and https://www.wra.gov.tw/NewsRiverNoun_Content.aspx?n=25142&s=2509",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "канал Чженго, зрошувальний канал завдовжки 150 км у Шаансі, споруджений 264 року до н. е.",
+          "after": "канал Чженго, зрошувальний канал завдовжки 150 км у Шаансі, будівництво якого розпочалося 246 року до н. е.",
+          "reason": "Primary institutional historical research supports 246 BC as the beginning of construction, not 264 BC or a securely established completion date. Other supplied details are preserved.",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Дата спорудження каналу в джерелі потребує перевірки; для Чженго зазвичай наводять близько 246 року до н. е.",
+          "after": "У джерелі зазначено 264 рік до н. е.; інституційні історичні джерела датують початок будівництва 246 роком до н. е. Точний рік завершення тут не встановлено.",
+          "reason": "Resolve the supported start-date correction while retaining the genuine start/completion distinction; sources are cited in the entry reason.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "У джерелі зазначено 264 рік до н. е.; інституційні історичні джерела датують початок будівництва 246 роком до н. е. Точний рік завершення тут не встановлено."
+      ]
+    },
+    {
+      "id": "c4e9b68b32fe1667",
+      "source_line": 112702,
+      "traditional": "鏽腹短翅鶇",
+      "simplified": "锈腹短翅鸫",
+      "pinyin": "xiu4 fu4 duan3 chi4 dong1",
+      "outcome": "acceptable",
+      "reason": "Рудочеревий conveys rusty-bellied and 鏽腹, and короткокрил conveys shortwing. Brachypteryx hyperythra is exact. The descriptive-name caveat remains appropriate.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву передано описово; усталений відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "42ab8c3dab5cbda8",
+      "source_line": 118750,
+      "traditional": "順治帝",
+      "simplified": "顺治帝",
+      "pinyin": "Shun4 zhi4 di4",
+      "outcome": "correction_proposed",
+      "reason": "The Palace Museum chronology supports birth in 1638, accession in 1643 and death in 1661; 1644 marks the Shunzhi era and entry into Beijing rather than first accession. The proposed correction resolves the source’s 1662 date and distinguishes accession from era dating. https://www.dpm.org.cn/court/lineage/226262.html and https://www.dpm.org.cn/court/event/159873.html",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Фулінь, імператор Шуньчжі (за джерелом, 1638–1662), другий імператор Цін, правив у 1644–1662 роках",
+          "after": "Фулінь, імператор Шуньчжі (1638–1661), другий імператор Цін, правив у 1643–1661 роках",
+          "reason": "The Palace Museum chronology establishes accession in 1643 and death in 1661. Retain the supplied identity and dynasty description, and do not confuse the 1644 era/Beijing accession ceremonies with first accession.",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "У джерелі сумнівні дати: смерть імператора зазвичай датують 1661 роком, початок його правління — 1643.",
+          "after": "За хронологією Музею імператорського палацу, Шуньчжі народився 1638 року, зійшов на престол 1643 року й помер 1661 року; 1644 рік є першим роком девізу правління Шуньчжі та роком переїзду до Пекіна.",
+          "reason": "Replace a hedged date suspicion with the specifically checked chronology, distinguishing the regnal-era year from accession; sources are cited in the entry reason.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "5861c6b434420708",
+      "source_line": 119948,
+      "traditional": "飯後一支煙，賽過活神仙",
+      "simplified": "饭后一支烟，赛过活神仙",
+      "pinyin": "fan4 hou4 yi1 zhi1 yan1 , sai4 guo4 huo2 shen2 xian1",
+      "outcome": "acceptable",
+      "reason": "The proverb’s after-meal smoking image and exaggerated comparison with immortals are conveyed naturally. The note is directly relevant and accurately distinguishes a traditional proverb from a health-benefit claim. No medical efficacy claim is added.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Наведено традиційне прислів’я, а не твердження про користь куріння."
+      ]
+    },
+    {
+      "id": "7c10d131a29b855b",
+      "source_line": 120047,
+      "traditional": "飾胸鷸",
+      "simplified": "饰胸鹬",
+      "pinyin": "shi4 xiong1 yu4",
+      "outcome": "acceptable",
+      "reason": "Жовтоволий is an understandable descriptive rendering of buff-breasted, and побережник conveys sandpiper. The exact supplied Tryngites subruficollis is retained without silent taxonomic modernization. The standard-name caution remains.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "156a6911e8afc247",
+      "source_line": 123575,
+      "traditional": "麗星噪鶥",
+      "simplified": "丽星噪鹛",
+      "pinyin": "li4 xing1 zao4 mei2",
+      "outcome": "acceptable",
+      "reason": "Бутанська чагарниця conveys Bhutan laughingthrush while preserving Trochalopteron imbricatum. The Chinese ornamental/star epithet need not be translated literally to reproduce the supplied common-name meaning. The naming note is relevant.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "49180378572c30ba",
+      "source_line": 123854,
+      "traditional": "黃嘴藍鵲",
+      "simplified": "黄嘴蓝鹊",
+      "pinyin": "huang2 zui3 lan2 que4",
+      "outcome": "acceptable",
+      "reason": "Жовтодзьоба синя сорока directly conveys yellow-billed blue magpie and 黃嘴藍鵲. Urocissa flavirostris is exact. The description is adequate with the unverified-nomenclature note retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "df7f4866a5dec603",
+      "source_line": 123982,
+      "traditional": "黃肛啄花鳥",
+      "simplified": "黄肛啄花鸟",
+      "pinyin": "huang2 gang1 zhuo2 hua1 niao3",
+      "outcome": "acceptable",
+      "reason": "Жовтопідхвостий intelligibly conveys the yellow-vented region in the bird name, and квіткоїд conveys flowerpecker. Dicaeum chrysorrheum remains exact; the on-topic naming caveat is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "bd42e340e6654d43",
+      "source_line": 124001,
+      "traditional": "黃腹鶲鶯",
+      "simplified": "黄腹鹟莺",
+      "pinyin": "huang2 fu4 weng1 ying1",
+      "outcome": "acceptable",
+      "reason": "The yellow belly in 黃腹 and yellow-bellied is preserved and Abroscopus superciliaris is exact. Вівчарик is a broad, unverified vernacular rendering here, not a certified generic assignment. The descriptive-name caveat is pertinent and retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "166c0e13b1d39c34",
+      "source_line": 124422,
+      "traditional": "黑頦果鳩",
+      "simplified": "黑颏果鸠",
+      "pinyin": "hei1 ke1 guo3 jiu1",
+      "outcome": "acceptable",
+      "reason": "Чорнопідборідний фруктовий голуб conveys black-chinned fruit dove and 黑頦果鳩 descriptively. The exact Ptilinopus leclancheri name and the unverified Ukrainian-name caveat are preserved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "4d5783317c67c715",
+      "source_line": 124434,
+      "traditional": "黑頭鵯",
+      "simplified": "黑头鹎",
+      "pinyin": "hei1 tou2 bei1",
+      "outcome": "acceptable",
+      "reason": "Чорноголовий бюльбюль directly conveys black-headed bulbul and 黑頭鵯. Brachypodius melanocephalos is unchanged. The note is relevant to the remaining Ukrainian naming uncertainty.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "2a391e9d6e7fd181",
+      "source_line": 125077,
+      "traditional": "龍宮貝",
+      "simplified": "龙宫贝",
+      "pinyin": "long2 gong1 bei4",
+      "outcome": "acceptable",
+      "reason": "The descriptive Rumphius slit-shell name and occurrence in Japan and Taiwan are conveyed, with the organism clarified as a mollusc. Entemnotrochus rumphii is exact. The note appropriately declines to claim an established Ukrainian name.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву молюска подано описово; усталений український відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "dd1d739ccc8eca13",
+      "source_line": 12453,
+      "traditional": "冕柳鶯",
+      "simplified": "冕柳莺",
+      "pinyin": "mian3 liu3 ying1",
+      "outcome": "acceptable",
+      "reason": "The eastern crowned warbler description is intelligible and preserves Phylloscopus coronatus. The note correctly distinguishes descriptive translation from name standardization and uses the Latin name for the supplied identification without claiming taxonomic revalidation.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська назва виду є описовим перекладом; її усталеність не перевірено. Точний вид визначає збережена латинська назва."
+      ]
+    },
+    {
+      "id": "6c471a7119f5b4c0",
+      "source_line": 33348,
+      "traditional": "察哈爾",
+      "simplified": "察哈尔",
+      "pinyin": "Cha2 ha1 er3",
+      "outcome": "deferred",
+      "reason": "The Ukrainian follows the source’s 1912–1936 period, but historical territorial and provincial status remain unresolved. The note’s asserted postwar restoration is not independently established in this review; it is narrowed to the defensible need to check the period and administrative status.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Період існування провінції в джерелі потребує уточнення: Чахар відновлювали після війни.",
+          "after": "Період 1912–1936 і межі застосування назви «провінція Чахар» потребують перевірки за історико-адміністративними джерелами.",
+          "reason": "Retain the relevant historical-status caution without asserting an independently unverified postwar-restoration narrative.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Період 1912–1936 і межі застосування назви «провінція Чахар» потребують перевірки за історико-адміністративними джерелами."
+      ]
+    },
+    {
+      "id": "0287577f24401f0a",
+      "source_line": 51560,
+      "traditional": "斑翅朱雀",
+      "simplified": "斑翅朱雀",
+      "pinyin": "ban1 chi4 zhu1 que4",
+      "outcome": "acceptable",
+      "reason": "Трисмугаста conveys three-banded, and the rosefinch group is intelligible. 斑翅 describes the wings rather than the number of bands, without necessarily conflicting. Carpodacus trifasciatus and the nomenclature caveat remain exact.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+      ]
+    },
+    {
+      "id": "005cc7db36f3f68d",
+      "source_line": 51562,
+      "traditional": "斑翅鳳頭鵑",
+      "simplified": "斑翅凤头鹃",
+      "pinyin": "ban1 chi4 feng4 tou2 juan1",
+      "outcome": "acceptable",
+      "reason": "Both Jacobin cuckoo and pied cuckoo alternatives are represented. The source taxon Clamator jacobinus is exact, and the note correctly marks the Ukrainian naming as descriptive rather than standardized.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."
+      ]
+    },
+    {
+      "id": "d35aa05ded77d57a",
+      "source_line": 55870,
+      "traditional": "朱允炆",
+      "simplified": "朱允炆",
+      "pinyin": "Zhu1 Yun3 wen2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian Юньвень correctly follows 允炆 and Yun3 wen2 rather than the source typo Yuanwen. The Jianwen cross-reference 建文[Jian4 Wen2] is exact. The note is directly supported by the supplied Chinese and pinyin and is retained.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "У джерелі латинкою помилково «Zhu Yuanwen»; переклад відповідає 允炆 і Yun3 wen2."
+      ]
+    },
+    {
+      "id": "b0c8a55e9bb71121",
+      "source_line": 57323,
+      "traditional": "栗額鵙鶥",
+      "simplified": "栗额鵙鹛",
+      "pinyin": "li4 e2 ju2 mei2",
+      "outcome": "acceptable",
+      "reason": "The clicking sound and shrike-babbler group are conveyed descriptively, with Pteruthius intermedius unchanged. 栗額 uses a plumage feature instead of the English vocalization feature; this is not itself a contradiction. The unverified-name note remains.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська видова назва описова; нормативний відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "e96f1f593f6cc965",
+      "source_line": 69730,
+      "traditional": "烷基苯磺酸鈉",
+      "simplified": "烷基苯磺酸钠",
+      "pinyin": "wan2 ji1 ben3 huang2 suan1 na4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian accurately reproduces the English dodecyl compound, but 烷基 means alkyl generally and does not specify the dodecyl chain. The existing note correctly identifies the scope discrepancy. Selection of a general or specific chemical sense is deferred instead of silently equating them.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Китайська назва позначає алкілбензенсульфонат натрію загалом, тоді як англійське пояснення конкретизує додецильний різновид."
+      ]
+    },
+    {
+      "id": "2c8557d64a79b2fe",
+      "source_line": 76767,
+      "traditional": "白胸苦惡鳥",
+      "simplified": "白胸苦恶鸟",
+      "pinyin": "bai2 xiong1 ku3 e4 niao3",
+      "outcome": "acceptable",
+      "reason": "Білогруда follows 白胸 and white-breasted; багновиця is an intelligible vernacular bird-group rendering. Amaurornis phoenicurus remains exact. The on-topic standard-name uncertainty is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "5be82b099efff5f8",
+      "source_line": 76784,
+      "traditional": "白腹短翅鴝",
+      "simplified": "白腹短翅鸲",
+      "pinyin": "bai2 fu4 duan3 chi4 qu2",
+      "outcome": "acceptable",
+      "reason": "The white-bellied redstart description is understandable and Luscinia phaenicuroides is preserved. The source’s English group term does not by itself verify a Ukrainian generic assignment; the existing note specifically retains that uncertainty.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська родова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "9d811db63c58bd12",
+      "source_line": 76912,
+      "traditional": "白頰噪鶥",
+      "simplified": "白颊噪鹛",
+      "pinyin": "bai2 jia2 zao4 mei2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian follows the English white-browed, while 白頰 emphasizes white cheeks. These vernacular naming differences do not alone establish an erroneous species identification. Pterorhinus sannio and the naming caveat are preserved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "74be29af218651f4",
+      "source_line": 79087,
+      "traditional": "短嘴山椒鳥",
+      "simplified": "短嘴山椒鸟",
+      "pinyin": "duan3 zui3 shan1 jiao1 niao3",
+      "outcome": "acceptable",
+      "reason": "Короткодзьобий conveys short-billed and 短嘴. Личинкоїд is an intelligible broad rendering for the supplied minivet, with Pericrocotus brevirostris unchanged. The Ukrainian ornithological-name caution remains.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська видова назва потребує орнітологічної звірки."
+      ]
+    },
+    {
+      "id": "1c5ad869069171c4",
+      "source_line": 94723,
+      "traditional": "菲律賓鵑鳩",
+      "simplified": "菲律宾鹃鸠",
+      "pinyin": "Fei1 lu:4 bin1 juan1 jiu1",
+      "outcome": "acceptable",
+      "reason": "Філіппінська горлиця-зозуля conveys the geographic modifier and cuckoo-dove description without changing Macropygia tenuirostris. The explicitly descriptive Ukrainian name remains subject to nomenclature checking, as the note states.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву птаха подано описово; усталений відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "27e67803efbcdb3c",
+      "source_line": 99226,
+      "traditional": "褐胸山鷓鴣",
+      "simplified": "褐胸山鹧鸪",
+      "pinyin": "he4 xiong1 shan1 zhe4 gu1",
+      "outcome": "acceptable",
+      "reason": "Смугастоспинна follows English bar-backed, whereas 褐胸 describes the brown breast. Different descriptive vernacular names can coexist. Arborophila brunneopectus is exact, and the note honestly leaves the standard Ukrainian name unchecked.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "bc4d532eb2a73555",
+      "source_line": 99239,
+      "traditional": "褐馬雞",
+      "simplified": "褐马鸡",
+      "pinyin": "he4 ma3 ji1",
+      "outcome": "acceptable",
+      "reason": "Бурий вухатий фазан conveys brown eared pheasant and the brown modifier 褐. Crossoptilon mantchuricum is exact. The naming caveat is relevant and retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "a973f37fe8da1b70",
+      "source_line": 111231,
+      "traditional": "金宇中",
+      "simplified": "金宇中",
+      "pinyin": "Jin1 Yu3 zhong1",
+      "outcome": "deferred",
+      "reason": "The Korean personal name, founder description and company are intelligible, but the open lifetime 1936– is copied from the old source rather than established as current. The note correctly discloses the source limitation. Biographical updating remains deferred.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело залишає дату смерті відкритою; переклад зберігає його датування."
+      ]
+    },
+    {
+      "id": "f951d758af352798",
+      "source_line": 112255,
+      "traditional": "錢永健",
+      "simplified": "钱永健",
+      "pinyin": "Qian2 Yong3 jian4",
+      "outcome": "correction_proposed",
+      "reason": "The Nobel Foundation confirms Roger Tsien’s death in 2016, supporting the note’s specific year. The correction closes the lifetime and retains the complete source Latin name alongside the unambiguous Ukrainian surname, avoiding a guessed standard rendering of Yonchien. https://www.nobelprize.org/prizes/chemistry/2008/tsien/facts/ and https://www.nobelprize.org/prizes/chemistry/2008/tsien/biographical/",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Роджер Йонцзянь Цянь (1952–), американський хімік китайського походження, нобелівський лауреат 2008 року",
+          "after": "Роджер Цянь (Roger Yonchien Tsien; 1952–2016), американський хімік китайського походження, нобелівський лауреат 2008 року",
+          "reason": "The Nobel Foundation confirms 2016 as the death year. Keeping the full source Latin personal name avoids guessing a standardized Ukrainian rendering of Yonchien while preserving the individual’s identity.",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело не подає року смерті (2016); датування збережене як у джерелі.",
+          "after": "Нобелівський фонд підтверджує рік смерті 2016; відкрите датування 1952– у джерелі застаріле. Повне ім’я Roger Yonchien Tsien збережено латинкою; усталену українську передачу середнього імені не встановлено.",
+          "reason": "Update the note to match the researched lifetime correction and explicitly retain the genuine personal-name rendering uncertainty.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Нобелівський фонд підтверджує рік смерті 2016; відкрите датування 1952– у джерелі застаріле. Повне ім’я Roger Yonchien Tsien збережено латинкою; усталену українську передачу середнього імені не встановлено."
+      ]
+    },
+    {
+      "id": "6bc987db079c9175",
+      "source_line": 113073,
+      "traditional": "長嘴鉤嘴鶥",
+      "simplified": "长嘴钩嘴鹛",
+      "pinyin": "chang2 zui3 gou1 zui3 mei2",
+      "outcome": "acceptable",
+      "reason": "Велика follows English large, and тимелія-серподзьоб descriptively conveys scimitar babbler; 長嘴 emphasizes the bill. Erythrogenys hypoleucos remains exact. The note leaves standard Ukrainian nomenclature unresolved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву передано описово; усталений відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "9147309f7537d0bc",
+      "source_line": 113074,
+      "traditional": "長嘴鷯鶥",
+      "simplified": "长嘴鹩鹛",
+      "pinyin": "chang2 zui3 liao2 mei2",
+      "outcome": "acceptable",
+      "reason": "The long bill in 長嘴 and long-billed is correctly represented. The compound тимелія-волове очко is understandable as a descriptive wren-babbler rendering, not endorsed as a standard name. Napothera malacoptila and the naming caveat are retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву передано описово; усталений відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "07f9e328e9fcd08f",
+      "source_line": 113117,
+      "traditional": "長尾鷯鶥",
+      "simplified": "长尾鹩鹛",
+      "pinyin": "chang2 wei3 liao2 mei2",
+      "outcome": "correction_proposed",
+      "reason": "Сіровола denotes a grey crop/breast region and does not faithfully render grey-bellied. Сірочерева corrects the body region while leaving the descriptive wren-babbler expression, Latin taxon, Chinese forms and pinyin intact. The unverified Ukrainian naming note remains.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(вид птахів Китаю) сіровола тимелія-волове очко (Spelaeornis reptatus)",
+          "after": "(вид птахів Китаю) сірочерева тимелія-волове очко (Spelaeornis reptatus)",
+          "reason": "Grey-bellied describes the belly, not the crop/воло. Change only сіровола to сірочерева and retain the descriptive-name caveat.",
+          "confidence": "high",
+          "issue_type": "mistranslation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву передано описово; усталений відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "083dcedafcc45230",
+      "source_line": 122911,
+      "traditional": "鱗喉綠啄木鳥",
+      "simplified": "鳞喉绿啄木鸟",
+      "pinyin": "lin2 hou2 lu:4 zhuo2 mu4 niao3",
+      "outcome": "acceptable",
+      "reason": "Смугастогорлий дятел conveys streak-throated woodpecker, with the throat pattern also reflected in 鱗喉. Picus xanthopygaeus remains exact. The existing descriptive-name caveat is pertinent.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "4b0ff39760e118f3",
+      "source_line": 123845,
+      "traditional": "黃喉雀鶥",
+      "simplified": "黄喉雀鹛",
+      "pinyin": "huang2 hou2 que4 mei2",
+      "outcome": "acceptable",
+      "reason": "Жовтогорла conveys 黃喉 and yellow-throated; фульвета is a recognizable descriptive/transliterated group term. Schoeniparus cinereus is exact. The note correctly avoids asserting a standardized Ukrainian species name.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "57292f96f514cf90",
+      "source_line": 123989,
+      "traditional": "黃腰響蜜鴷",
+      "simplified": "黄腰响蜜䴕",
+      "pinyin": "huang2 yao1 xiang3 mi4 lie4",
+      "outcome": "acceptable",
+      "reason": "Жовтопоперековий conveys the yellow-rumped feature in 黃腰, and воскоїд is an intelligible honeyguide rendering. Indicator xanthonotus remains exact. The on-topic Ukrainian naming uncertainty is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "065b0910a7eafc8c",
+      "source_line": 124079,
+      "traditional": "黃頸啄木鳥",
+      "simplified": "黄颈啄木鸟",
+      "pinyin": "huang2 jing3 zhuo2 mu4 niao3",
+      "outcome": "acceptable",
+      "reason": "The Darjeeling geographic name is rendered intelligibly and дятел matches woodpecker. 黃頸 has a different descriptive epithet, which is not alone a taxon contradiction. Dendrocopos darjellensis and the naming note are preserved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "bed1b3a47ae70a89",
+      "source_line": 124337,
+      "traditional": "黑眉柳鶯",
+      "simplified": "黑眉柳莺",
+      "pinyin": "hei1 mei2 liu3 ying1",
+      "outcome": "acceptable",
+      "reason": "The supplied sulphur-breasted warbler description is recognizable in сірчистогрудий вівчарик. 黑眉 emphasizes the eyebrows rather than the English breast-color epithet. Phylloscopus ricketti is exact, and the note correctly leaves standard nomenclature unverified.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."
+      ]
+    },
+    {
+      "id": "6402ff9b4ec33f40",
+      "source_line": 28527,
+      "traditional": "大金背啄木鳥",
+      "simplified": "大金背啄木鸟",
+      "pinyin": "da4 jin1 bei4 zhuo2 mu4 niao3",
+      "outcome": "deferred",
+      "reason": "The Ukrainian reproduces the English description, but the source requires taxonomic review beyond Ukrainian naming. Cornell identifies buff-spotted flameback as Chrysocolaptes lucidus, and BirdLife/IUCN distinguishes greater flameback Chrysocolaptes guttacristatus from formerly broader C. lucidus. The Chinese 大金背啄木鳥 and China label may reflect that older broader concept. Keep the supplied Latin name unchanged and defer the mapping. https://birdsoftheworld.org/bow/species/busfla1/cur/introduction and https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22726548A94924862.en",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Українську усталену назву виду не встановлено; англійське видове означення передано описово.",
+          "after": "Українську усталену назву виду не встановлено. Джерельне поєднання 大金背啄木鳥, позначки «вид птахів Китаю» та buff-spotted flameback (Chrysocolaptes lucidus) потребує таксономічного узгодження: сучасні джерела розрізняють Chrysocolaptes lucidus і greater flameback Chrysocolaptes guttacristatus, яких раніше об’єднували.",
+          "reason": "The original note only covered Ukrainian naming and omitted a substantive source mapping risk supported by Cornell and BirdLife/IUCN. Retain naming uncertainty and add the unresolved source-taxonomy distinction without changing the supplied taxon.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Українську усталену назву виду не встановлено. Джерельне поєднання 大金背啄木鳥, позначки «вид птахів Китаю» та buff-spotted flameback (Chrysocolaptes lucidus) потребує таксономічного узгодження: сучасні джерела розрізняють Chrysocolaptes lucidus і greater flameback Chrysocolaptes guttacristatus, яких раніше об’єднували."
+      ]
+    },
+    {
+      "id": "df44f933a9dd9c3d",
+      "source_line": 39760,
+      "traditional": "彩鷸",
+      "simplified": "彩鹬",
+      "pinyin": "cai3 yu4",
+      "outcome": "acceptable",
+      "reason": "Бекас-маляр is an understandable descriptive painted-snipe rendering and the exact Rostratula benghalensis identification is preserved. The greater species distinction is carried by the Latin name rather than a verified Ukrainian common name; the note appropriately leaves nomenclature open.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталений український видовий відповідник Rostratula benghalensis потребує перевірки."
+      ]
+    },
+    {
+      "id": "021710d6fac2ca9c",
+      "source_line": 51935,
+      "traditional": "新店",
+      "simplified": "新店",
+      "pinyin": "Xin1 dian4",
+      "outcome": "correction_proposed",
+      "reason": "The city label is outdated relative to the official district designation. The proposed translation uses district while retaining the exact New Taipei cross-reference. Official New Taipei material explicitly places the area in 新北市新店區: https://www.xindian.land.ntpc.gov.tw/cp.aspx?n=6545",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Сіньдянь, місто у складі Нового Тайбея 新北市[Xin1 bei3 shi4], Тайвань",
+          "after": "Сіньдянь, район Нового Тайбея 新北市[Xin1 bei3 shi4], Тайвань",
+          "reason": "Official New Taipei material uses the district designation for Xindian. Preserve the exact Chinese reference and pinyin while correcting the administrative unit.",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Адміністративний статус «місто» збережено за джерелом; Сіньдянь може бути районом Нового Тайбея.",
+          "after": "Джерело зберігає колишнє позначення «місто»; офіційні матеріали Нового Тайбея називають Сіньдянь районом (新店區).",
+          "reason": "The official source resolves the tentative district-status question; no unverified conversion date is added.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "a2bcfe49b118f8bb",
+      "source_line": 51936,
+      "traditional": "新店市",
+      "simplified": "新店市",
+      "pinyin": "Xin1 dian4 shi4",
+      "outcome": "correction_proposed",
+      "reason": "The headword 新店市 is the historical city name, so the correction retains that historical status and explains the district designation rather than silently changing the headword. The New Taipei reference remains exact. Official district evidence: https://www.xindian.land.ntpc.gov.tw/cp.aspx?n=6545",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Сіньдянь, місто у складі Нового Тайбея 新北市[Xin1 bei3 shi4], Тайвань",
+          "after": "Сіньдянь, колишнє місто, нині район Нового Тайбея 新北市[Xin1 bei3 shi4], Тайвань",
+          "reason": "Preserve the historical city meaning of 新店市 and explain the official district status, rather than treating a former city as a present city within New Taipei.",
+          "confidence": "high",
+          "issue_type": "source_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Адміністративний статус «місто» збережено за джерелом; статус потребує актуалізації.",
+          "after": "新店市 є колишньою назвою міста Сіньдянь; офіційні матеріали Нового Тайбея використовують назву району 新店區.",
+          "reason": "Clarify the historical headword/current administrative distinction using the official source cited in the entry reason.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "aefe55391d26449e",
+      "source_line": 54079,
+      "traditional": "暗灰鵑鵙",
+      "simplified": "暗灰鹃鵙",
+      "pinyin": "an4 hui1 juan1 ju2",
+      "outcome": "acceptable",
+      "reason": "Чорнокрилий conveys English black-winged; личинкоїд is an intelligible cuckooshrike rendering. 暗灰 gives another plumage description without necessarily conflicting. Lalage melaschistos and the standard-name caveat remain exact.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву слід звірити з орнітологічною номенклатурою."
+      ]
+    },
+    {
+      "id": "32fdbb637f4e2356",
+      "source_line": 58270,
+      "traditional": "棕頸雪雀",
+      "simplified": "棕颈雪雀",
+      "pinyin": "zong1 jing3 xue3 que4",
+      "outcome": "acceptable",
+      "reason": "Рудошиїй conveys rufous-necked and 棕頸, while сніговий в’юрок intelligibly conveys snowfinch. Pyrgilauda ruficollis is unchanged. The standard Ukrainian naming caution remains pertinent.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталений український видовий відповідник не підтверджено."
+      ]
+    },
+    {
+      "id": "f0416bbebfd78326",
+      "source_line": 58272,
+      "traditional": "棕額長尾山雀",
+      "simplified": "棕额长尾山雀",
+      "pinyin": "zong1 e2 chang2 wei3 shan1 que4",
+      "outcome": "acceptable",
+      "reason": "Рудолоба conveys rufous-fronted and 棕額, and the long-tailed tit/bushtit description is intelligible. Aegithalos iouschistos is exact. The unverified species-name note is retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталений український видовий відповідник не підтверджено."
+      ]
+    },
+    {
+      "id": "3e5970f278f929fb",
+      "source_line": 64865,
+      "traditional": "活期貸款",
+      "simplified": "活期贷款",
+      "pinyin": "huo2 qi1 dai4 kuan3",
+      "outcome": "acceptable",
+      "reason": "The translation correctly assigns the repayment demand to the lender/кредитор, repairing the source’s borrower error. The Ukrainian explanation makes the demand-loan sense clear, and the note is on-topic. The lender distinction is supported by the CFPB: https://www.consumerfinance.gov/ask-cfpb/what-is-a-demand-feature-what-does-it-mean-if-the-demand-feature-is-checked-off-on-my-closing-disclosure-en-1997/",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "У джерелі помилково названо позичальника, а не кредитора стороною, яка може вимагати повернення."
+      ]
+    },
+    {
+      "id": "7e46d5a3371d6545",
+      "source_line": 66063,
+      "traditional": "淡綠鵙鶥",
+      "simplified": "淡绿鵙鹛",
+      "pinyin": "dan4 lu:4 ju2 mei2",
+      "outcome": "acceptable",
+      "reason": "The green color and shrike-babbler description are conveyed without inventing a standardized species name. Pteruthius xanthochlorus is exact. The existing descriptive-name caveat is appropriately retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова назва; усталений український видовий відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "3387815e0c000f77",
+      "source_line": 66064,
+      "traditional": "淡腳樹鶯",
+      "simplified": "淡脚树莺",
+      "pinyin": "dan4 jiao3 shu4 ying1",
+      "outcome": "acceptable",
+      "reason": "The pale feet and bush-warbling-bird description are understandable, with Hemitesia pallidipes unchanged. Очеретянковий is not endorsed as a verified taxonomic placement; the note explicitly leaves the Ukrainian conventional name unresolved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова назва; усталений український видовий відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "6e9e7ab847e5bacf",
+      "source_line": 66072,
+      "traditional": "淡黃腰柳鶯",
+      "simplified": "淡黄腰柳莺",
+      "pinyin": "dan4 huang2 yao1 liu3 ying1",
+      "outcome": "acceptable",
+      "reason": "Лимонногузий conveys the lemon-colored rump of the English and pale-yellow rump in 淡黃腰. Phylloscopus chloronotus is exact. The note correctly identifies the remaining uncertainty as nomenclatural.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова назва; усталений український видовий відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "95fc8c4d219e7a4b",
+      "source_line": 69157,
+      "traditional": "灰岩鷦鶥",
+      "simplified": "灰岩鹪鹛",
+      "pinyin": "hui1 yan2 jiao1 mei2",
+      "outcome": "acceptable",
+      "reason": "The Annam and limestone-rock association is conveyed, with Gypsophila annamensis preserved. Чагарниця is a broad unverified vernacular rendering here, not a certified genus assignment. The note is on-topic and retains that limitation.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву Gypsophila annamensis передано описово; точний український орнітологічний відповідник не встановлено."
+      ]
+    },
+    {
+      "id": "c6e8763c3c040e00",
+      "source_line": 70058,
+      "traditional": "無用之樹",
+      "simplified": "无用之树",
+      "pinyin": "wu2 yong4 zhi1 shu4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian tracks the source’s useless-person gloss and preserves 逍遙遊|逍遥游, but the equation of 無用之樹 with a pejorative person label and the source attribution need textual verification. The philosophical caution is relevant; the headword’s lexical scope is deferred rather than settled from the English alone.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело зводить образ «непотрібного дерева» в Чжуан-цзи до «нікчемної людини»; філософський зміст ширший і потребує контекстної перевірки."
+      ]
+    },
+    {
+      "id": "4995a66e6057807d",
+      "source_line": 76579,
+      "traditional": "白尾藍仙鶲",
+      "simplified": "白尾蓝仙鹟",
+      "pinyin": "bai2 wei3 lan2 xian1 weng1",
+      "outcome": "acceptable",
+      "reason": "Білохвоста мухоловка conveys the white-tailed flycatcher description and 白尾. Leucoptilon concretum is exact. The note appropriately leaves the Ukrainian generic designation unverified.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська родова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "0bb0b3e6c8a77fff",
+      "source_line": 76678,
+      "traditional": "白玉菇",
+      "simplified": "白玉菇",
+      "pinyin": "bai2 yu4 gu1",
+      "outcome": "acceptable",
+      "reason": "The white beech-mushroom description, cultivation qualifier and Hypsizygus tessellatus are all retained. The note accurately says the established Ukrainian common name remains unchecked, without making an unsupported taxonomic correction.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська назва гриба потребує перевірки."
+      ]
+    },
+    {
+      "id": "12b685827b6ee410",
+      "source_line": 76699,
+      "traditional": "白眉山鷓鴣",
+      "simplified": "白眉山鹧鸪",
+      "pinyin": "bai2 mei2 shan1 zhe4 gu1",
+      "outcome": "acceptable",
+      "reason": "Куріпка з білим намистом conveys white-necklaced partridge descriptively. 白眉 uses a different visible feature and does not alone invalidate the source common name. Arborophila gingica and the explicit descriptive-name caveat remain intact.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву подано описово; усталена українська назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "1c9b6e2d4a6d9c20",
+      "source_line": 76706,
+      "traditional": "白眉藍姬鶲",
+      "simplified": "白眉蓝姬鹟",
+      "pinyin": "bai2 mei2 lan2 ji1 weng1",
+      "outcome": "acceptable",
+      "reason": "Ультрамаринова мухоловка directly conveys the English common-name description, and Ficedula superciliaris is unchanged. 白眉藍姬鶲 describes brow and blue color rather than requiring a literal Ukrainian name. The naming note is pertinent.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "283b2a833c20764a",
+      "source_line": 77215,
+      "traditional": "皇族內閣",
+      "simplified": "皇族内阁",
+      "pinyin": "Huang2 zu2 nei4 ge2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian faithfully renders the supplied cabinet description, but 皇族內閣 denotes a royal-family cabinet and the emergency/purpose explanation needs historical verification. The note is narrowed from an asserted chronological simplification to a specific unresolved purpose/chronology question, avoiding an unsupported claim that May itself is impossible.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Формулювання про протидію сіньхайським повстанцям у травні 1911 року хронологічно спрощене.",
+          "after": "Причина створення 皇族內閣 у травні 1911 року та її зв’язок із подіями Сіньхайської революції потребують історичної перевірки.",
+          "reason": "Keep a defensible on-topic source caution without implying that the May timing by itself disproves any relationship to revolutionary unrest.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Причина створення 皇族內閣 у травні 1911 року та її зв’язок із подіями Сіньхайської революції потребують історичної перевірки."
+      ]
+    },
+    {
+      "id": "a80f66f6b1c8f838",
+      "source_line": 79098,
+      "traditional": "短尾鷦鶥",
+      "simplified": "短尾鹪鹛",
+      "pinyin": "duan3 wei3 jiao1 mei2",
+      "outcome": "acceptable",
+      "reason": "Смугаста conveys streaked and тимелія-волоочко is intelligible as a descriptive wren-babbler expression. 短尾 emphasizes another feature. Gypsophila brevicaudata is exact, and the Ukrainian standardized-name uncertainty remains explicit.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Описова українська назва; усталений видовий відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "ec0083f0c1145f1c",
+      "source_line": 84746,
+      "traditional": "紅眉松雀",
+      "simplified": "红眉松雀",
+      "pinyin": "hong2 mei2 song1 que4",
+      "outcome": "acceptable",
+      "reason": "Багряноброва conveys crimson-browed and 紅眉, and чечевиця is an intelligible finch-group rendering. Carpodacus subhimachalus remains exact. The naming caveat is relevant and retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву подано описово; усталений відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "5e813d796ea42824",
+      "source_line": 84778,
+      "traditional": "紅胸啄花鳥",
+      "simplified": "红胸啄花鸟",
+      "pinyin": "hong2 xiong1 zhuo2 hua1 niao3",
+      "outcome": "acceptable",
+      "reason": "Вогнистогрудий conveys fire-breasted and the red breast in 紅胸; квіткоїд conveys flowerpecker. Dicaeum ignipectus is exact. The standard-name uncertainty is retained without manufacturing a new Ukrainian name.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська видова назва потребує перевірки."
+      ]
+    },
+    {
+      "id": "d275bd0e6fbeddaf",
+      "source_line": 84791,
+      "traditional": "紅腰朱雀",
+      "simplified": "红腰朱雀",
+      "pinyin": "hong2 yao1 zhu1 que4",
+      "outcome": "acceptable",
+      "reason": "Червономантійна is intelligible as a descriptive red-mantled epithet. 紅腰 emphasizes the rump instead; different vernacular names are not automatically contradictory. Carpodacus rhodochlamys and the naming caveat are preserved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву подано описово; усталений український відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "9cad107390c7d64e",
+      "source_line": 93328,
+      "traditional": "花彩雀鶯",
+      "simplified": "花彩雀莺",
+      "pinyin": "hua1 cai3 que4 ying1",
+      "outcome": "acceptable",
+      "reason": "Білоброва conveys white-browed and the tit-warbler expression is understandable as a common-name rendering. Leptopoecile sophiae is exact. The note correctly leaves the Ukrainian species name unverified.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталений український видовий відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "716db48105c74684",
+      "source_line": 93899,
+      "traditional": "范蠡",
+      "simplified": "范蠡",
+      "pinyin": "Fan4 Li3",
+      "outcome": "deferred",
+      "reason": "The name and occupations are intelligible, but the 488 BC death year conflicts with the entry’s historical caution and is not verified. No alternative lifetime is guessed. The source chronology remains deferred with the on-topic uncertainty note retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Наведений у джерелі рік смерті 488 до н. е. сумнівний; його слід перевірити за історичним джерелом."
+      ]
+    },
+    {
+      "id": "dccfca479b66b788",
+      "source_line": 94560,
+      "traditional": "菟絲子",
+      "simplified": "菟丝子",
+      "pinyin": "tu4 si1 zi3",
+      "outcome": "deferred",
+      "reason": "Повитиця, the parasitic habit and seed-use statement track the English, with the supplied Cuscuta sinensis preserved exactly. Kew accepts Cuscuta chinensis, but this review must not silently substitute a different Latin spelling for the source. The identification/spelling issue remains deferred. https://powo.science.kew.org/taxon/267360-1",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Наведене в джерелі латинське написання Cuscuta sinensis потребує таксономічної перевірки."
+      ]
+    },
+    {
+      "id": "b9d5778dcde4f14e",
+      "source_line": 113075,
+      "traditional": "長嘴鷸",
+      "simplified": "长嘴鹬",
+      "pinyin": "chang2 zui3 yu4",
+      "outcome": "acceptable",
+      "reason": "Довгодзьобий conveys long-billed and 長嘴. The exact Limnodromus scolopaceus taxon preserves identification while the note leaves the Ukrainian species-name convention unverified. No independent standard-name claim is made.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву передано описово; усталений відповідник потребує перевірки."
+      ]
+    },
+    {
+      "id": "54a9a09367fdf1ee",
+      "source_line": 116204,
+      "traditional": "雙斑綠柳鶯",
+      "simplified": "双斑绿柳莺",
+      "pinyin": "shuang1 ban1 lu:4 liu3 ying1",
+      "outcome": "acceptable",
+      "reason": "Двосмугий conveys two-barred/雙斑, and вівчарик conveys the leaf-warbler group. Phylloscopus plumbeitarsus is exact. The note correctly specifies the taxon against which Ukrainian nomenclature should be checked.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву передано описово; точне найменування слід звірити за Phylloscopus plumbeitarsus."
+      ]
+    },
+    {
+      "id": "08f39c4c4914d1b0",
+      "source_line": 116748,
+      "traditional": "雪白菇",
+      "simplified": "雪白菇",
+      "pinyin": "xue3 bai2 gu1",
+      "outcome": "acceptable",
+      "reason": "The white beech-mushroom description and cultivated-white-variety qualification are both present, and Hypsizygus tessellatus is exact despite the reordered parenthesis. The note accurately describes a descriptive rather than verified standard Ukrainian name.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську назву гриба подано описово; латинську назву збережено."
+      ]
+    },
+    {
+      "id": "c7932061bffee30b",
+      "source_line": 116792,
+      "traditional": "雲南柳鶯",
+      "simplified": "云南柳莺",
+      "pinyin": "Yun2 nan2 liu3 ying1",
+      "outcome": "acceptable",
+      "reason": "Юньнанський is supported by 雲南/Yun2 nan2 and the taxon epithet yunnanensis, even though the English common name uses Chinese. The geographic rendering is coherent and the note explicitly leaves nomenclature verification open.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську видову назву передано за географічним означенням; потрібна номенклатурна перевірка."
+      ]
+    },
+    {
+      "id": "0dcb1919b2a6668b",
+      "source_line": 116793,
+      "traditional": "雲南白斑尾柳鶯",
+      "simplified": "云南白斑尾柳莺",
+      "pinyin": "Yun2 nan2 bai2 ban1 wei3 liu3 ying1",
+      "outcome": "acceptable",
+      "reason": "Девісона reasonably renders the English Davison eponym and Phylloscopus intensior is unchanged. The note’s request to check contemporary name/taxon correspondence is directly relevant and remains unresolved; this acceptance concerns the supplied descriptive translation, not a taxonomic certification.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву Девісона передано за англійським джерелом; відповідність сучасному Phylloscopus intensior потребує перевірки."
+      ]
+    },
+    {
+      "id": "c7a6ed208a4ce3d7",
+      "source_line": 123378,
+      "traditional": "鷹鴞",
+      "simplified": "鹰鸮",
+      "pinyin": "ying1 xiao1",
+      "outcome": "acceptable",
+      "reason": "The single Ukrainian expression conveys the shared brown owl referent of brown boobook/brown hawk-owl, rather than needing two artificially different Ukrainian names. Ninox scutulata is exact. The descriptive Ukrainian-name caution is pertinent and retained.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська назва описова; усталений орнітологічний відповідник не перевірено."
+      ]
+    }
+  ]
+}

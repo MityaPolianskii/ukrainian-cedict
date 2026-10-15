@@ -1,0 +1,795 @@
+{
+  "schema_version": 1,
+  "status": "pass",
+  "completed_at_utc": "2026-10-15T01:06:10.055285+00:00",
+  "scope": "Final cumulative handoff reproducibility, exact all-flagged coverage, decision evidence, conservative note handling and editorial queue.",
+  "baseline_dictionary_sha256": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+  "final_dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+  "frozen_replay_helper_sha256": "28b324d03aa82b0a50a5a05a724df7532bf4a99c73072f3691d840d2563fc79a",
+  "all_2534_original_flagged_entries_reviewed_exactly_once": true,
+  "reviewed_source_segments": 3677,
+  "remaining_original_flagged_entries_unreviewed": 0,
+  "structural_and_evidence_checks_passed": 37902,
+  "portable_normal_and_optimized_replay_exact": true,
+  "portable_json_reads_outside_package_blocked": true,
+  "intermediate_dictionaries_required_for_replay": false,
+  "all_original_records_order_source_fields_and_uncertainty_flags_preserved": true,
+  "all_15_known_contaminated_original_notes_inactive": true,
+  "all_originals_and_frozen_artifacts_unchanged": true,
+  "segment_proposals": 470,
+  "segment_corrections_applied": 459,
+  "segment_proposals_held": 11,
+  "held_note_proposals": 7,
+  "reviewed_note_attachments_withheld_inactive": 4,
+  "priority_editorial_entries": 882,
+  "compiled_unresolved_review_ratings": 880,
+  "reviewer_uncertainty_inventory_entries": 1978,
+  "review_outcomes": {
+    "acceptable": 1109,
+    "deferred": 873,
+    "correction_proposed": 552
+  },
+  "final_counts": {
+    "records": 125264,
+    "aligned_segments": 199737,
+    "model_reviewed_records": 3211,
+    "corrected_segments": 965,
+    "records_with_corrections": 879,
+    "known_flagged_records": 2534,
+    "human_validated_records": 0
+  },
+  "final_stats": {
+    "baseline_records": 125264,
+    "source_segments": 199737,
+    "notes_total": 2534,
+    "notes_by_disposition": {
+      "quarantine_rejected": 18,
+      "quarantine_unreviewed": 4,
+      "replace_reviewed": 385,
+      "retain_reviewed": 2127
+    },
+    "active_notes": 2512,
+    "quarantined_original_notes": 407,
+    "preserved_flagged_records": 2534,
+    "checkpoint_reviewed_records": 2534,
+    "applied_segment_corrections": 459,
+    "human_validated_records": 0
+  },
+  "human_validation": false,
+  "linguistic_accuracy_certified": false,
+  "public_writes": false,
+  "runtime_approved": false,
+  "component_reports": {
+    "cumulative_handoff_audit.009.coverage.json": {
+      "sha256": "294a3d1d40b0a2b3ad1654d6db3a1db5c44397ac63a660cd0004bb40971ba7b9",
+      "status": "pass"
+    },
+    "cumulative_handoff_audit.009.replay.json": {
+      "sha256": "843d95f68e068e3911d4f9af71ee1ead0b24a5834a78b4ce7b4c173cd6660542",
+      "status": "pass"
+    },
+    "cumulative_handoff_audit.009.held.json": {
+      "sha256": "f9aebcfbe6d330cb893ac9800879fc94c660842965cfccec4f78037ad0a65b2c",
+      "status": "pass"
+    },
+    "cumulative_handoff_audit.009.editorial.json": {
+      "sha256": "2d1c2db057767cfc41cca9ffc1b88b13535eae736fd783748a3073eec0fbbc0b",
+      "status": "pass"
+    }
+  },
+  "limits": [
+    "The pass certifies tested structural/evidence consistency and exact reconstruction, not linguistic truth, a corpus-wide accuracy estimate, or human review.",
+    "This model-review cohort contains 2,534 originally flagged entries. The other 122,730 entries were not linguistically reviewed in this pass.",
+    "Zero remaining unreviewed entries does not mean resolved source uncertainty. Four reviewed note attachments remain inactive and 18 proposal operations remain held.",
+    "The 882 editorial-priority entries are a union of deferred outcomes, held proposals and inactive note attachments, not 882 proven mistranslations.",
+    "Replay uses the immutable original, final six candidate files, note_gate.py and the frozen replay helper. Keep the known original/helper/final hashes with the handoff; internal hash agreement is not an external authenticity guarantee."
+  ],
+  "evidence_inventory": {
+    "/workspace/scratch/d049744f7576/ukrainian-cedict-expansion12-9668/publish-public/dictionary.json": {
+      "sha256": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+      "bytes": 98853036,
+      "role": "replay-protected evidence"
+    },
+    "EDITORIAL_FOLLOWUP_QUEUE.json": {
+      "sha256": "8fc0160763536a7e0c4ca9513267e8a2aa3edc328546425e97a11acf3358b189",
+      "bytes": 3422106,
+      "role": "independently checked evidence"
+    },
+    "VERIFIED_HANDOFF.json": {
+      "sha256": "033b4e6442a9d546bc3cbfd0566aefa50545b3499b54d0a47a078469c8898a0a",
+      "bytes": 3403,
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "candidate-checkpoint-002/REPAIR_SUMMARY.json": {
+      "sha256": "359889c3daaa649e7a0feb6c46b40f5047fb13f02ceafca7e5e42c74e34711b8",
+      "bytes": 5773,
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-003/REPAIR_SUMMARY.json": {
+      "sha256": "1c9a8014cd94129e91a6e974eea91594f627b2074270c6a528b3ebc7f3d4b81b",
+      "bytes": 6897,
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-004/REPAIR_SUMMARY.json": {
+      "sha256": "eaeda98d0ae0b6678f2e3eedadfc13f9b87dcbc9db76c01df5aac97a9fd54c2a",
+      "bytes": 8021,
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-005/REPAIR_SUMMARY.json": {
+      "sha256": "7ed3e00b32293cc98eb39af836aac65fc28d9a5bbb04256bd13f33bad81d13ca",
+      "bytes": 9141,
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-006/REPAIR_SUMMARY.json": {
+      "sha256": "38c524e03f2a0d74bda418ee4a9dcf33766c54fa821f338e5514560b5cf2b741",
+      "bytes": 10257,
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-007/REPAIR_SUMMARY.json": {
+      "sha256": "c1118124ca2e7d771d18bf2ace4d509eaf16a2c6fbca85d1cdda8675f776ae72",
+      "bytes": 11378,
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-008/REPAIR_SUMMARY.json": {
+      "sha256": "6492651b1898c98ccaed837f90b285c56addacd9b2b34f682106f7ebba1a60d0",
+      "bytes": 12495,
+      "role": "checkpoint evidence summary; no intermediate dictionary needed"
+    },
+    "candidate-checkpoint-009/ALL_CORRECTION_PROPOSALS.json": {
+      "sha256": "d5dcc730e8df44397268475af850509dcaf207ded8f993675efae43b27f03b4e",
+      "bytes": 556115,
+      "role": "replay-protected evidence"
+    },
+    "candidate-checkpoint-009/NOTE_QUARANTINE.json": {
+      "sha256": "7c8cf56fb4e51229a985a743bac3d28ba2f87b2bddacf0ac1b0b666527fe1c88",
+      "bytes": 609666,
+      "role": "replay-protected evidence"
+    },
+    "candidate-checkpoint-009/NOTE_REVIEW_LEDGER.json": {
+      "sha256": "8a3a39a101ab69175b1c7167204a7fcc64678819d4b05a24a82af3e7415670b7",
+      "bytes": 2682423,
+      "role": "replay-protected evidence"
+    },
+    "candidate-checkpoint-009/REPAIR_OVERLAY.json": {
+      "sha256": "8423f35a7b4338f50697fad68d24510940124b9cf538a8bdd46e9e695dd645a6",
+      "bytes": 4178723,
+      "role": "replay-protected evidence"
+    },
+    "candidate-checkpoint-009/REPAIR_SUMMARY.json": {
+      "sha256": "6c38fea0128fe20c0557527c37502c9ac94c841ab1c8d3410d1339f643016b18",
+      "bytes": 13609,
+      "role": "replay-protected evidence"
+    },
+    "candidate-checkpoint-009/dictionary.json": {
+      "sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+      "bytes": 98905992,
+      "role": "replay-protected evidence"
+    },
+    "checkpoint-001/input_001.json": {
+      "sha256": "cc27b1715c5815af33db121f50e87d0a0784fa971a7699d6ebad7902fdf4260b",
+      "bytes": 135736,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-001/input_001.txt": {
+      "sha256": "891286bbab76f4d5fe054cab7d5680e83fa3b49b94da1d4531800f1bec48a882",
+      "bytes": 69493,
+      "role": "readable review input companion"
+    },
+    "checkpoint-001/input_002.json": {
+      "sha256": "7b7030c50ad16bfbcb762410e8c1d9338ec9726fa044d5db3fa7d57a03fe965d",
+      "bytes": 124874,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-001/input_002.txt": {
+      "sha256": "b24141c7444ad6380e5c0a5e66926e65b569187437c2c46741c6db0c88f41b75",
+      "bytes": 60553,
+      "role": "readable review input companion"
+    },
+    "checkpoint-001/input_003.json": {
+      "sha256": "c81a21dbbd808d7970e798e301cf6bb0a974e90f0c9b91b27b35843539ac36f8",
+      "bytes": 111862,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-001/input_003.txt": {
+      "sha256": "cebaaa82012a1b85521ea4cf50cd278e7a2a68db272b9f95ff05ff192a78c71f",
+      "bytes": 46835,
+      "role": "readable review input companion"
+    },
+    "checkpoint-001/manifest.json": {
+      "sha256": "aea77c1c57de321229007b7a8893b6f8aefe6f4c515ca612e41a304a1e01fba7",
+      "bytes": 8635,
+      "role": "review cohort manifest"
+    },
+    "checkpoint-001/review_001.json": {
+      "sha256": "686cd952c0f6517f8708fefdcf864861af1d8ba83a0e9d153c34d96b4885d13a",
+      "bytes": 78458,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-001/review_002.json": {
+      "sha256": "417e08e4caa993973205510790d4ff5318606596dc1b409fb324a02c4155ac82",
+      "bytes": 81372,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-001/review_003.json": {
+      "sha256": "7965778723dccb0c4d9cf720fa6f413d1d72cff7b4516dd755d49b10852c21cd",
+      "bytes": 94959,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/VERIFIED_CHECKPOINT.json": {
+      "sha256": "ca39a8834ddbad3b61c17b20c05fad99da256162f2674ecf2ac96a2d95c699b8",
+      "bytes": 1109,
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-002/application_decisions.json": {
+      "sha256": "95f490e2cfcbe756c4ca5c6fe65c76ad42f4abd0562d7c94869a4d473eb223e4",
+      "bytes": 10520,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/input_001.json": {
+      "sha256": "46a423937ed21f95823aae1427f515857861773f2cc5d000fdf060391edb4680",
+      "bytes": 126437,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/input_001.txt": {
+      "sha256": "81f72f642c0db12f6498047519a433d6b2632dcdbc1f6ede0ca3b4718cfadf52",
+      "bytes": 59918,
+      "role": "readable review input companion"
+    },
+    "checkpoint-002/input_002.json": {
+      "sha256": "8c18a13cf38e4c4e0993b405a9c3a427df534c40b548e389578ff751d00769d1",
+      "bytes": 118893,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/input_002.txt": {
+      "sha256": "62396c51baa478deb2be339c0cf71bba890756b41637f7f6f221b70e780542d1",
+      "bytes": 54375,
+      "role": "readable review input companion"
+    },
+    "checkpoint-002/input_003.json": {
+      "sha256": "ee8177b0f976e984e09cb5e3dcf4773f1122c179b0a2b3de617b37f639198804",
+      "bytes": 105617,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/input_003.txt": {
+      "sha256": "c219cce7e69d8040c9e4db228e41c8f0ba2cef67989122f7a07ae427581fdb5e",
+      "bytes": 44942,
+      "role": "readable review input companion"
+    },
+    "checkpoint-002/manifest.json": {
+      "sha256": "243f2ba677a81f427dc62e3b0a4f697b1a523f79bd7209d130003306a3bd8220",
+      "bytes": 7977,
+      "role": "review cohort manifest"
+    },
+    "checkpoint-002/review_001.json": {
+      "sha256": "896a862d6dd7b15d3e473a02027e5de9de21a44f70857a8de65ffd504f3fa005",
+      "bytes": 102477,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/review_002.json": {
+      "sha256": "32954f8c38873af16d2d15b642c097273367427be719c0432907fb3938ff7fa0",
+      "bytes": 111595,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-002/review_003.json": {
+      "sha256": "6afd834fa5ba519fba2658aa0691d69b32fb8b6796259eab4584b522193b3ce7",
+      "bytes": 94774,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/VERIFIED_CHECKPOINT.json": {
+      "sha256": "37b8d4cd0d036d9ac2ccdeb3a1281758bc0f1e2a7ddc9942f15422da15f5b4c5",
+      "bytes": 1109,
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-003/application_decisions.json": {
+      "sha256": "c6798563cfd7cd88deb812b26b4403fedbfdacb7b9ced9e5cb806d7d7758d7ba",
+      "bytes": 18749,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/input_001.json": {
+      "sha256": "337276b539db707a1ea070da52e60e6862e601ad8288a6238afcb25eafa9f4f3",
+      "bytes": 97384,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/input_001.txt": {
+      "sha256": "49dd70f41216292f95f53e29b47ffc164376e191451d1de71d6033b06dac4e1a",
+      "bytes": 39216,
+      "role": "readable review input companion"
+    },
+    "checkpoint-003/input_002.json": {
+      "sha256": "9ced0c8bf4e825e1257247efef2988e410e44e31ad5b0317383b52d72168704b",
+      "bytes": 113841,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/input_002.txt": {
+      "sha256": "db4cbab3fd6fbccc4cb2e08e3ee22ed2d9892d24aa6c5962238f5bce57d141b5",
+      "bytes": 50391,
+      "role": "readable review input companion"
+    },
+    "checkpoint-003/input_003.json": {
+      "sha256": "4141b044f88471191bf61c185622ed6b713e800a75d3544332b3848b3709eb40",
+      "bytes": 135343,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/input_003.txt": {
+      "sha256": "2f590062a49650509ba2fcb985c6f47e8ca8edf0fab03b1acc6839a0279914df",
+      "bytes": 65199,
+      "role": "readable review input companion"
+    },
+    "checkpoint-003/manifest.json": {
+      "sha256": "7176c87d42c15e2dbdf99e5dc1e2bb741f31f9f668bba8ed4602f885ebecf6cb",
+      "bytes": 7982,
+      "role": "review cohort manifest"
+    },
+    "checkpoint-003/review_001.json": {
+      "sha256": "3e37f94cb636db40d966ecea65259c3c5b4c33136ba8f0b54d14a3429dd2fbf1",
+      "bytes": 100736,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/review_002.json": {
+      "sha256": "2083d85fbc6d54494565bc045b50a800085898b93315289df895368a8ebc399f",
+      "bytes": 89663,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-003/review_003.json": {
+      "sha256": "0acbfab301c0351f55353411c3dd9729b8927c977171aa2c59707a6dd4802be4",
+      "bytes": 113401,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/VERIFIED_CHECKPOINT.json": {
+      "sha256": "a688cdec65e5a918be5ab9ef0afc49a0bff1386a90ce59d413fb2705d711b471",
+      "bytes": 1111,
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-004/application_decisions.json": {
+      "sha256": "12d64db96ca8c253ba5b646ea691b408b5a2c6b866733995d570bb516c217562",
+      "bytes": 28519,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/input_001.json": {
+      "sha256": "5136650c78d9d8256955af050a78f33598283670c0c861cbd54786e717bf1c14",
+      "bytes": 120951,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/input_001.txt": {
+      "sha256": "f324731db25cd05afe75b620895519d2760f43a5d2051409ae431a5b6863d575",
+      "bytes": 54579,
+      "role": "readable review input companion"
+    },
+    "checkpoint-004/input_002.json": {
+      "sha256": "08b2fc599f84a3091c318dc2dd5b54f307ca6dcd44af293b36e6ca22e9578ca5",
+      "bytes": 113160,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/input_002.txt": {
+      "sha256": "ea73b94edb6ee5059a241772b2f2a3cc1eda2e76e98e42c575e49fd1a475e62d",
+      "bytes": 48108,
+      "role": "readable review input companion"
+    },
+    "checkpoint-004/input_003.json": {
+      "sha256": "60ca2d33b19d430fa22ae3b166e6cf40ed7af88e8b4a67e34c1539b449f05bc2",
+      "bytes": 110312,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/input_003.txt": {
+      "sha256": "da94f619deff40219f33ee3eebb33074900056a5481471588461326b37a3bac7",
+      "bytes": 45723,
+      "role": "readable review input companion"
+    },
+    "checkpoint-004/manifest.json": {
+      "sha256": "b9e56de0f6485fa8e1cd436be96366308afae7ca2616ccbfd39bb1fcb93143b6",
+      "bytes": 7982,
+      "role": "review cohort manifest"
+    },
+    "checkpoint-004/review_001.json": {
+      "sha256": "a01b91ab172bc9c502eda691b8a20ce9810e1139712e1106a9639e80e35d1943",
+      "bytes": 110856,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/review_002.json": {
+      "sha256": "b88a09691661ffe763eea0c6cae2c9d142f1f4ca232a223a3e1c4cbf2d089476",
+      "bytes": 100804,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-004/review_003.json": {
+      "sha256": "97fa3f8f2c5f986a6333ce58b59469affba2b144c79215c06747596ccc7539a8",
+      "bytes": 93724,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/VERIFIED_CHECKPOINT.json": {
+      "sha256": "7b3207b169f1ca89bd59fadd1b7c04b6dcc35b8a3cecff17073bb090fc301904",
+      "bytes": 1111,
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-005/application_decisions.json": {
+      "sha256": "2dba2de5a9b22626d42934b56c7a1951cf8365d5877ff3e0dc084ec6ad8ebb4b",
+      "bytes": 21056,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/input_001.json": {
+      "sha256": "14cceb1b5486b138943ce729218beb061c829f0bf800da6575b2ebec87d37322",
+      "bytes": 108968,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/input_001.txt": {
+      "sha256": "ca3c8e2f18569d027ddccdf9bb12ee607e2b1dccd890bfa7a8cce5d2c8573cd6",
+      "bytes": 44563,
+      "role": "readable review input companion"
+    },
+    "checkpoint-005/input_002.json": {
+      "sha256": "186f70f71bafbcbedc405abeeb26e9ac07621f0d60c09617ff77bbb86b76e736",
+      "bytes": 108576,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/input_002.txt": {
+      "sha256": "e08acc05ba27e77c0ec52f8fd781b4a267ac16e789eaa0a788611fc135115bb0",
+      "bytes": 44542,
+      "role": "readable review input companion"
+    },
+    "checkpoint-005/input_003.json": {
+      "sha256": "99fd21902bc968a013f62a803bec936209c53d1aee3894a26f8c1d5cdc66f8a6",
+      "bytes": 107519,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/input_003.txt": {
+      "sha256": "fd3bb0548e8beacbf6020105632bf46baa391a18b5d670c7f013d4dc466a0882",
+      "bytes": 43892,
+      "role": "readable review input companion"
+    },
+    "checkpoint-005/manifest.json": {
+      "sha256": "8447365f9d64535ad3dac13692c70fa8fe51bf96a89a758f7409563566e3dcf1",
+      "bytes": 7982,
+      "role": "review cohort manifest"
+    },
+    "checkpoint-005/review_001.json": {
+      "sha256": "aedd5eafb97772cdc1f35c705704c09cff046e56c2f7aaf44b12bf37f7954f70",
+      "bytes": 102929,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/review_002.json": {
+      "sha256": "4ed5080c2f2c92c74eee8698031e8a7194ceac85125b9ab536506e0f4a13f858",
+      "bytes": 97780,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-005/review_003.json": {
+      "sha256": "2d4814f23f690b1cbbac529a742162c907b40f811a1816417c60e334f2d03e08",
+      "bytes": 111059,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/VERIFIED_CHECKPOINT.json": {
+      "sha256": "6e7958eccaf6d9d2caf8100a02b259d3844f9b2f288ac4e8feafaff686600bc8",
+      "bytes": 1110,
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-006/application_decisions.json": {
+      "sha256": "a78e55c1634a6afc42fa4d86940ec723515ef8b633c853605db1ed72c6b1d891",
+      "bytes": 53280,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/input_001.json": {
+      "sha256": "c065e2fa7e4c3307856c49fc212da014a20d801ae6419c836518795f606f3324",
+      "bytes": 107329,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/input_001.txt": {
+      "sha256": "f68458a61cf49d483dfb531ddab5acef98d8b5c14a4bd22d43581b0251ec9f27",
+      "bytes": 44050,
+      "role": "readable review input companion"
+    },
+    "checkpoint-006/input_002.json": {
+      "sha256": "a121c318022ee2cffab969b7708f3c01c73f50f63229d537d2532451e4e45919",
+      "bytes": 105254,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/input_002.txt": {
+      "sha256": "7e9b1e22de4d6c5e542fdb63a0b055a755372e31d8acff801da310dc1033f59a",
+      "bytes": 42657,
+      "role": "readable review input companion"
+    },
+    "checkpoint-006/input_003.json": {
+      "sha256": "da6edb9b62b79c0b4aead214d1a84370ef512264195e1e1350979e530a17c916",
+      "bytes": 104879,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/input_003.txt": {
+      "sha256": "ad0b42ba73f47232fd83b4d75c4d7bef0e5593347971368671d3556a906cbe84",
+      "bytes": 43048,
+      "role": "readable review input companion"
+    },
+    "checkpoint-006/manifest.json": {
+      "sha256": "d239b8bc9219c4b8de68cf6dff0c49073b09b85d832a6b8237d3402a2875f46e",
+      "bytes": 7982,
+      "role": "review cohort manifest"
+    },
+    "checkpoint-006/review_001.json": {
+      "sha256": "59f1bccfea68ce753a564676e066968f0bbf0ff8443ef99d192bb0678f97d627",
+      "bytes": 107584,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/review_002.json": {
+      "sha256": "9a8727b6323837cbbf93c549c3bc3278919afb71c0f63506437b2081ec1ace40",
+      "bytes": 112240,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-006/review_003.json": {
+      "sha256": "a2e2ad61787cb424809cbe8687197292f8145404f5f74166c100b87a2d989d20",
+      "bytes": 140477,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/VERIFIED_CHECKPOINT.json": {
+      "sha256": "6c2ea8ab25034635feb07c9c850567a80fead692bf4e31f816f2a342afda51e0",
+      "bytes": 1111,
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-007/application_decisions.json": {
+      "sha256": "b43529a6925226766159316ba98e0e303d11c1a330c7d1d3186959b6650c7f94",
+      "bytes": 67968,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/input_001.json": {
+      "sha256": "14a9d8d2652f01ec907a8631d2d1e1d2a677a10c8410d133d770f610c2ce8225",
+      "bytes": 101495,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/input_001.txt": {
+      "sha256": "1a3dc576e67a8afecdeab31dae0046efc7a6581cbfcc74a1a33c681755d849d9",
+      "bytes": 40803,
+      "role": "readable review input companion"
+    },
+    "checkpoint-007/input_002.json": {
+      "sha256": "5be02e7fd6f611fbaa7007d85061340adc1c4123755ab1639af2934486313fff",
+      "bytes": 97801,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/input_002.txt": {
+      "sha256": "a1c64054201e9106f0b00d3ff174d2fb88ef908a0cf4d7f114adfe6bf805ffc5",
+      "bytes": 38444,
+      "role": "readable review input companion"
+    },
+    "checkpoint-007/input_003.json": {
+      "sha256": "0d0677cc6e7c73518e676121272bd1857461e331e0944e6d7575b433fabb6712",
+      "bytes": 94655,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/input_003.txt": {
+      "sha256": "88443c22c7827d4b56c3214096f4547742de710a620a3ab66463bb16624ac028",
+      "bytes": 36271,
+      "role": "readable review input companion"
+    },
+    "checkpoint-007/manifest.json": {
+      "sha256": "08d7d8e1b1b7dd411f7ab38484907a086c10dd8a7100a6f5640084a27dc1db6d",
+      "bytes": 7982,
+      "role": "review cohort manifest"
+    },
+    "checkpoint-007/review_001.json": {
+      "sha256": "1c669c35cd78caf3630b914d008125b97f0d78ada849e4730c4ad814131150dd",
+      "bytes": 103943,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/review_002.json": {
+      "sha256": "7a41a05437ed0faa6a17f34142fbbb17df3bfd814e8ff64290c2db66e7b339ab",
+      "bytes": 121282,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-007/review_003.json": {
+      "sha256": "95cec7d40d0b6d0fc6845b624a095f185c6b7ee4e6e9f7385a98c269878cfb09",
+      "bytes": 135018,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/VERIFIED_CHECKPOINT.json": {
+      "sha256": "d0fcdd56f819783b7d53a8c69ddb40109f0b2e071bcd10f95672022eea517ace",
+      "bytes": 1110,
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-008/application_decisions.json": {
+      "sha256": "84cb467a2ccb21c98c4f3810529cb7c900dc86d260c412f4d2843cc98a4a3e01",
+      "bytes": 49339,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/input_001.json": {
+      "sha256": "eb0e06856fe1d2ac7ce654556290f08524f25d829288e61b8da5c45b98f47484",
+      "bytes": 91433,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/input_001.txt": {
+      "sha256": "016e21eb4389454dd5aaba65e09b273e70d4d4abd9389daf819b85ed772b5445",
+      "bytes": 33807,
+      "role": "readable review input companion"
+    },
+    "checkpoint-008/input_002.json": {
+      "sha256": "ffe4795f04b02b2c69db3cbc9f885e99bad0fee3cab00fa44d924a984e068b3a",
+      "bytes": 89524,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/input_002.txt": {
+      "sha256": "144ebfc4e9b21574cffddaf2440d04e028f2e91dd363621e33741c4e79aa01c1",
+      "bytes": 32409,
+      "role": "readable review input companion"
+    },
+    "checkpoint-008/input_003.json": {
+      "sha256": "8a2c354d9bb02312f1f3dfee428d2940e3f35d151f8a7487ef2ad52ca60110b9",
+      "bytes": 88516,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/input_003.txt": {
+      "sha256": "c69740e0081e66551a7e7c370a5c350aba11e22e288353e2a1fb22a804d20375",
+      "bytes": 32059,
+      "role": "readable review input companion"
+    },
+    "checkpoint-008/manifest.json": {
+      "sha256": "c4a4abfc4955dd8b2ccb6dfce08a8477f45fefb9547d63762428affc3dc7acaa",
+      "bytes": 7982,
+      "role": "review cohort manifest"
+    },
+    "checkpoint-008/review_001.json": {
+      "sha256": "25e056370eaeb70b08e3864aed7934dc3f24c9a6e2f73514f6d83bb7d0e4c231",
+      "bytes": 99445,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/review_002.json": {
+      "sha256": "c6f300df144ba248f22cced610c8c360d09317cb24096b9c0c87a525503a38e1",
+      "bytes": 94846,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-008/review_003.json": {
+      "sha256": "fc94a3049a2d3b5753255be2bc0dc4d1304e0036e32c2b01dbebb57c5960089b",
+      "bytes": 108759,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/VERIFIED_CHECKPOINT.json": {
+      "sha256": "eb213837a15749ce9a0b553011b8ba4b410f1906abd14009a9f34db56ed8a13c",
+      "bytes": 1108,
+      "role": "independent checkpoint attestation"
+    },
+    "checkpoint-009/application_decisions.json": {
+      "sha256": "3cb560fe8a6a920f7bd605eff0fd963d8cc37c3de1d99158c174dc0f41d53dfa",
+      "bytes": 26961,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/input_001.json": {
+      "sha256": "6cccb65935675a524a2bc4e2183313a09009bf21c0560ed1099e8772fe78cd47",
+      "bytes": 38790,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/input_001.txt": {
+      "sha256": "30386625f3080fe690c532486b698649ca5e45051bda690c4d83138401f68b44",
+      "bytes": 13672,
+      "role": "readable review input companion"
+    },
+    "checkpoint-009/input_002.json": {
+      "sha256": "53dc179ad6a92e639af28964f19cad309db586b881aac93c72d863933024c39a",
+      "bytes": 37169,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/input_002.txt": {
+      "sha256": "4214cd59eb080e01218c74bb9570af227eeb5e7629eb7fc0d9a14b6c684acbec",
+      "bytes": 12291,
+      "role": "readable review input companion"
+    },
+    "checkpoint-009/input_003.json": {
+      "sha256": "ec71453f1a2dfdb184da28cc71c2f753b2308013134a8131bc05e8bfcb1a09e5",
+      "bytes": 36286,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/input_003.txt": {
+      "sha256": "b046b46f5af78e167ee8ec522d67193d110c64f4f861088360f9c30b1a18807a",
+      "bytes": 12112,
+      "role": "readable review input companion"
+    },
+    "checkpoint-009/manifest.json": {
+      "sha256": "112f780d4dbeecf870d7e76cb3e1e71926b84b4ef4f28a18ad871e1401d3b18b",
+      "bytes": 3998,
+      "role": "review cohort manifest"
+    },
+    "checkpoint-009/review_001.json": {
+      "sha256": "801a9b94229b2de6e231da3a82859fa0cf67a7467b8bf7c45c717a66e8248111",
+      "bytes": 66469,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/review_002.json": {
+      "sha256": "be2ba042ddc7f4f95a7efda12028ddca300ceab13c1f948d0bd3bd05cafa6e81",
+      "bytes": 53947,
+      "role": "independently checked evidence"
+    },
+    "checkpoint-009/review_003.json": {
+      "sha256": "d95be7c69ebc2d85ed49629dccccfe1cb3a858c1278a211c0c210a690a3cce15",
+      "bytes": 61423,
+      "role": "independently checked evidence"
+    },
+    "compile_repair_candidate.py": {
+      "sha256": "fedb9fcddb31158e162e3af51a477a208aafae8eaf208b71beb5a28ecb8d5463",
+      "bytes": 8944,
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "compile_review_checkpoint.py": {
+      "sha256": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e",
+      "bytes": 12597,
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "corrected-candidate/REPAIR_OVERLAY.json": {
+      "sha256": "05c9be642a0d43a2724247fa79462978aa1a00c3acb7467311120e3dc6bbb01e",
+      "bytes": 444752,
+      "role": "independently checked evidence"
+    },
+    "corrected-candidate/REPAIR_SUMMARY.json": {
+      "sha256": "f804b0217c13a197be20447a0b472b921d6b8c8b240c798a2f8acdb98012835c",
+      "bytes": 4291,
+      "role": "independently checked evidence"
+    },
+    "cumulative_handoff_audit.009.coverage.json": {
+      "sha256": "294a3d1d40b0a2b3ad1654d6db3a1db5c44397ac63a660cd0004bb40971ba7b9",
+      "bytes": 2055562,
+      "role": "independent audit report"
+    },
+    "cumulative_handoff_audit.009.editorial.json": {
+      "sha256": "2d1c2db057767cfc41cca9ffc1b88b13535eae736fd783748a3073eec0fbbc0b",
+      "bytes": 761877,
+      "role": "independent audit report"
+    },
+    "cumulative_handoff_audit.009.held.json": {
+      "sha256": "f9aebcfbe6d330cb893ac9800879fc94c660842965cfccec4f78037ad0a65b2c",
+      "bytes": 614496,
+      "role": "independent audit report"
+    },
+    "cumulative_handoff_audit.009.replay.json": {
+      "sha256": "843d95f68e068e3911d4f9af71ee1ead0b24a5834a78b4ce7b4c173cd6660542",
+      "bytes": 58208,
+      "role": "independent audit report"
+    },
+    "cumulative_handoff_audit.editorial.py": {
+      "sha256": "de721c38c4d80635527da98e4c73e2150adb8adc8f1a6ca1b527d53e19f5a129",
+      "bytes": 6988,
+      "role": "audit reproduction script"
+    },
+    "cumulative_handoff_audit.final.py": {
+      "sha256": "9c3a90aa6a4e42e8e020f9980e4994b14689c1d7a7699aff2f444c3e24eb5d02",
+      "bytes": 19375,
+      "role": "audit reproduction script"
+    },
+    "cumulative_handoff_audit.held.py": {
+      "sha256": "415dcf79dfaca623465a1c403460a1658c97fabdb8fff368241583720344c2c3",
+      "bytes": 8582,
+      "role": "audit reproduction script"
+    },
+    "cumulative_handoff_audit.py": {
+      "sha256": "a8fc0344421c01189fc6734e8c77bd4770f932a31fcf8c916101530206c347ad",
+      "bytes": 15825,
+      "role": "audit reproduction script"
+    },
+    "gate_independent_review.json": {
+      "sha256": "6fee9d9be87b16ebb715bce8ffa8bbce05074763881d3bf56ed152c15abd9ab0",
+      "bytes": 9171,
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "note-provenance-diagnosis.json": {
+      "sha256": "74358d30fb0e3490bb009432349a4936b2c3ade2e72ccd200b3beacafb397b22",
+      "bytes": 58088,
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "note_gate.py": {
+      "sha256": "282378c0ee3b6fb6119f46196fd9087f916ef376e6fbc0cb4bd666e6ad5205a8",
+      "bytes": 10358,
+      "role": "replay-protected evidence"
+    },
+    "remaining_flagged_review_queue.json": {
+      "sha256": "9c31bc411fa6a360e43620bb77adabe23c3e03b716cf03ba6615c9b1af6c96ea",
+      "bytes": 2483296,
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "replay_cumulative_overlay.py": {
+      "sha256": "28b324d03aa82b0a50a5a05a724df7532bf4a99c73072f3691d840d2563fc79a",
+      "bytes": 5294,
+      "role": "replay-protected evidence"
+    },
+    "test_note_gate.py": {
+      "sha256": "f3e667071d3a554a39c3706df0943bcae314e096c5c526fe9d6897f8db5e618e",
+      "bytes": 5836,
+      "role": "reproducibility or supporting audit evidence"
+    },
+    "verify_versioned_checkpoint.py": {
+      "sha256": "294ffed64d55fddea73dab727b54f5d4ad7e3156e5a5922e12b6297c69d36b02",
+      "bytes": 26780,
+      "role": "replay-protected evidence"
+    }
+  },
+  "evidence_files": 141
+}

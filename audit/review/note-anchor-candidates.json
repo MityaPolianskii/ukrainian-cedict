@@ -1,0 +1,622 @@
+[
+  {
+    "id": "fed846504a2bb8b4",
+    "headword": "串串",
+    "source_line": 3839,
+    "note_index": 0,
+    "note": "丱 — рідкісний ієрогліф; наведені значення відповідають саме читанню guan4.",
+    "absent_chinese_anchors": [
+      "丱"
+    ],
+    "source": "串串 串串 [chuan4 chuan4] /(coll.) skewers; barbecued food on sticks; (in Sichuan) Sichuan-style hotpot skewers (abbr. for 串串香[chuan4 chuan4 xiang1])/(coll.) non-pedigree pet (esp. dog or cat); mutt; mixed-breed cat/",
+    "translation": [
+      "(розм.) шашлички на шпажках; їжа, смажена на паличках; (у Сичуані) сичуанські шашлички для хот-поту (скорочення від 串串香[chuan4 chuan4 xiang1])",
+      "(розм.) безпородна домашня тварина (особливо собака чи кіт); дворняга; безпородний кіт"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "410ff3a4d8eff115",
+    "headword": "乍看",
+    "source_line": 4158,
+    "note_index": 0,
+    "note": "乑 — рідкісний ієрогліф; значення «стояти поруч» відповідає поданій словниковій глосі.",
+    "absent_chinese_anchors": [
+      "乑"
+    ],
+    "source": "乍看 乍看 [zha4 kan4] /at first glance/",
+    "translation": [
+      "на перший погляд"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "203349f934e0f706",
+    "headword": "乳酪",
+    "source_line": 4443,
+    "note_index": 0,
+    "note": "Назва 乳酪餅 регіональна; переклад подає опис джерела, а не усталену українську назву.",
+    "absent_chinese_anchors": [
+      "乳酪餅"
+    ],
+    "source": "乳酪 乳酪 [ru3 lao4] /cheese/",
+    "translation": [
+      "сир"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "cdf351e19875f62b",
+    "headword": "乱局",
+    "source_line": 4564,
+    "note_index": 0,
+    "note": "亂咕攘 є діалектним висловом; передано загальною глосою «турбувати», точний регіональний відтінок неясний.",
+    "absent_chinese_anchors": [
+      "亂咕攘"
+    ],
+    "source": "亂局 乱局 [luan4 ju2] /chaotic situation; turmoil; upheaval/",
+    "translation": [
+      "хаотична ситуація; сум’яття; потрясіння"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "2fdb77728ed26edf",
+    "headword": "吴哥城",
+    "source_line": 20617,
+    "note_index": 0,
+    "note": "Джерело подає Ankorwat, але 吳哥城 означає Анґкор-Тхом; Анґкор-Ват відповідає 吳哥窟.",
+    "absent_chinese_anchors": [
+      "吳哥窟"
+    ],
+    "source": "吳哥城 吴哥城 [Wu2 ge1 cheng2] /Ankorwat, Cambodia/",
+    "translation": [
+      "Анґкор-Тхом, Камбоджа"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "a07681ce1dbc7a58",
+    "headword": "坏鸟",
+    "source_line": 26879,
+    "note_index": 0,
+    "note": "Розмовне написання 壞鳥 може передавати 壞了; третє значення залежить від такого вживання.",
+    "absent_chinese_anchors": [
+      "壞了"
+    ],
+    "source": "壞鳥 坏鸟 [huai4 niao3] /sinister person/unsavory character/broken (not in working order)/",
+    "translation": [
+      "зловісна людина",
+      "неприємний тип",
+      "зламаний; несправний"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "740ae6d41ec44efd",
+    "headword": "奎星",
+    "source_line": 29576,
+    "note_index": 0,
+    "note": "Джерело, імовірно, плутає 奎星 з 魁星: Велика Ведмедиця не належить до 28 місячних стоянок.",
+    "absent_chinese_anchors": [
+      "魁星"
+    ],
+    "source": "奎星 奎星 [Kui2 xing1] /Kuixing, the Great Bear, one of the 28 constellations/",
+    "translation": [
+      "Куйсін, Велика Ведмедиця, одне з 28 сузір'їв (за джерелом)"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "8f02305f9b8017ae",
+    "headword": "孙诛",
+    "source_line": 31688,
+    "note_index": 0,
+    "note": "У заголовку 孫誅, імовірно, помилка замість імені 孫洙; переклад передає зазначену особу.",
+    "absent_chinese_anchors": [
+      "孫洙"
+    ],
+    "source": "孫誅 孙诛 [Sun1 Zhu1] /Sun Zhu (1711-1778), poet and compiler of Three Hundred Tang Poems 唐詩三百首|唐诗三百首[Tang2 shi1 San1 bai3 Shou3]/also known by assumed name 蘅塘退士[Heng2 tang2 Tui4 shi4]/",
+    "translation": [
+      "Сунь Чжу (1711–1778), поет і укладач «Трьохсот танських віршів» 唐詩三百首|唐诗三百首[Tang2 shi1 San1 bai3 Shou3]",
+      "також відомий під псевдонімом 蘅塘退士[Heng2 tang2 Tui4 shi4]"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "fc34c3d67a677a21",
+    "headword": "将",
+    "source_line": 33948,
+    "note_index": 0,
+    "note": "Джерельне «to checkmate» надто вузьке: 將 зазвичай означає оголошувати шах; мат окремо позначається 將死.",
+    "absent_chinese_anchors": [
+      "將死"
+    ],
+    "source": "將 将 [jiang1] /will/shall/to use/to take/to checkmate/just a short while ago/(introduces object of main verb, used in the same way as 把[ba3])/",
+    "translation": [
+      "буде (показник майбутнього)",
+      "має; буде",
+      "використовувати",
+      "брати",
+      "оголошувати шах (у джерелі — ставити мат)",
+      "щойно",
+      "вводить додаток головного дієслова, як 把[ba3]"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "991bb954e1cf6ee2",
+    "headword": "峰火台",
+    "source_line": 36004,
+    "note_index": 0,
+    "note": "Написання 峰火臺, імовірно, варіант або помилка замість 烽火臺.",
+    "absent_chinese_anchors": [
+      "烽火臺"
+    ],
+    "source": "峰火臺 峰火台 [feng1 huo3 tai2] /fire beacon tower (used in frontier regions in former times to relay information about the enemy, using smoke by day and fire at night)/",
+    "translation": [
+      "сигнальна вежа (у давнину передавала звістки про ворога на прикордонні: димом удень і вогнем уночі)"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "700a20192897c5a9",
+    "headword": "崋",
+    "source_line": 36067,
+    "note_index": 0,
+    "note": "Подані значення схожі на 華, а не на рідкісний гірський ієрогліф 崋; запис потребує перевірки.",
+    "absent_chinese_anchors": [
+      "華"
+    ],
+    "source": "崋 崋 [hua2] /flowery/illustrious/Chinese/",
+    "translation": [
+      "квітчастий",
+      "славетний",
+      "китайський"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "3963776309f3f870",
+    "headword": "彭湖",
+    "source_line": 39801,
+    "note_index": 0,
+    "note": "Джерело пише 彭湖 замість звичного 澎湖; географічний опис передано без виправлення китайського заголовка.",
+    "absent_chinese_anchors": [
+      "澎湖"
+    ],
+    "source": "彭湖 彭湖 [Peng2 hu2] /Penghu island county of Taiwan, off the coast of Kaohsiung/",
+    "translation": [
+      "Пенху, острівний повіт Тайваню біля узбережжя Гаосюна"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "a71c5a4e536841fe",
+    "headword": "彭湖岛",
+    "source_line": 39802,
+    "note_index": 0,
+    "note": "Джерело пише 彭湖島 замість звичного 澎湖島; географічний опис передано без виправлення китайського заголовка.",
+    "absent_chinese_anchors": [
+      "澎湖島"
+    ],
+    "source": "彭湖島 彭湖岛 [Peng2 hu2 Dao3] /Penghu island county of Taiwan, off the coast of Kaohsiung/",
+    "translation": [
+      "Пенху, острівний повіт Тайваню біля узбережжя Гаосюна"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "7dffef60e1c90c8d",
+    "headword": "征传",
+    "source_line": 40646,
+    "note_index": 0,
+    "note": "Значення джерела відповідає радше 征傳, ніж 徵傳; передано наведену глосу із застереженням щодо графіки.",
+    "absent_chinese_anchors": [
+      "征傳"
+    ],
+    "source": "徵傳 征传 [zheng1 zhuan4] /narrative of long journey/campaign record/",
+    "translation": [
+      "оповідь про далеку подорож",
+      "запис воєнного походу"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "1c8da628888bf824",
+    "headword": "恬噪",
+    "source_line": 41984,
+    "note_index": 0,
+    "note": "Рідкісний запис 恬噪 із значенням «каркати» потребує перевірки; можливе змішання з 聒噪.",
+    "absent_chinese_anchors": [
+      "聒噪"
+    ],
+    "source": "恬噪 恬噪 [tian2 zao4] /to caw/",
+    "translation": [
+      "каркати"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "580ff613e945794c",
+    "headword": "掌骨",
+    "source_line": 47567,
+    "note_index": 0,
+    "note": "У джерелі помилково згадано також стопи; 掌骨 означає п'ясткові кістки, кістки плесна — 蹠骨.",
+    "absent_chinese_anchors": [
+      "蹠骨"
+    ],
+    "source": "掌骨 掌骨 [zhang3 gu3] /metacarpal bone (long bones in the hand and feet)/",
+    "translation": [
+      "п'ясткова кістка (довга кістка кисті)"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "fbc2002efd5d3017",
+    "headword": "损赠",
+    "source_line": 48614,
+    "note_index": 0,
+    "note": "Написання 損贈 нетипове; ймовірно, у джерелі помилка замість 捐贈.",
+    "absent_chinese_anchors": [
+      "捐贈"
+    ],
+    "source": "損贈 损赠 [sun3 zeng4] /to donate/donation/",
+    "translation": [
+      "жертвувати",
+      "пожертва"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "985f1a051c1e5027",
+    "headword": "昆",
+    "source_line": 52907,
+    "note_index": 0,
+    "note": "Поетичний стиль у джерелі не конкретизовано; можливий зв'язок із 西崑體.",
+    "absent_chinese_anchors": [
+      "西崑體"
+    ],
+    "source": "昆 昆 [kun1] /descendant/elder brother/a style of Chinese poetry/",
+    "translation": [
+      "нащадок",
+      "старший брат",
+      "стиль китайської поезії"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "518c332a7f72d61e",
+    "headword": "杞妇",
+    "source_line": 56210,
+    "note_index": 0,
+    "note": "Джерело, ймовірно, плутає держави 杞 і 齊; історичну атрибуцію слід перевірити.",
+    "absent_chinese_anchors": [
+      "齊"
+    ],
+    "source": "杞婦 杞妇 [Qi3 fu4] /the wife of 杞梁[Qi3 Liang2], a senior official of the state of Qi 杞[Qi3] who died on a military expedition/(fig.) a widow/",
+    "translation": [
+      "дружина Ці Ляна 杞梁[Qi3 Liang2], високопосадовця держави Ці 杞[Qi3], загиблого у військовому поході",
+      "(перен.) вдова"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "fe348ba4ce31d406",
+    "headword": "枉顾",
+    "source_line": 56674,
+    "note_index": 0,
+    "note": "Значення джерела відповідають радше 罔顧; 枉顧 може також бути ввічливим висловом про відвідини. Потрібна перевірка.",
+    "absent_chinese_anchors": [
+      "罔顧"
+    ],
+    "source": "枉顧 枉顾 [wang3 gu4] /to neglect/to misuse/to mistreat/to abuse/",
+    "translation": [
+      "нехтувати",
+      "неправильно використовувати",
+      "погано поводитися",
+      "зловживати"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "1f4f059eb08d99f3",
+    "headword": "棕枝全日",
+    "source_line": 58211,
+    "note_index": 0,
+    "note": "Написання 全日 у заголовку нетипове; звичайна назва — 棕枝主日.",
+    "absent_chinese_anchors": [
+      "棕枝主日"
+    ],
+    "source": "棕枝全日 棕枝全日 [zong1 zhi1 quan2 ri4] /Palm Sunday (Christian Festival one week before Easter)/",
+    "translation": [
+      "Вербна неділя (християнське свято за тиждень до Великодня)"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "769a60ee04c36793",
+    "headword": "正值",
+    "source_line": 60428,
+    "note_index": 0,
+    "note": "Значення «чесний, порядний» у джерелі, ймовірно, змішані з 正直[zheng4 zhi2].",
+    "absent_chinese_anchors": [
+      "正直"
+    ],
+    "source": "正值 正值 [zheng4 zhi2] /just at the time of/honest/upright/(math.) positive value/",
+    "translation": [
+      "саме в час",
+      "чесний",
+      "порядний",
+      "(мат.) додатне значення"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "c2c9f3a7152fe2ca",
+    "headword": "泛珠江三角",
+    "source_line": 64041,
+    "note_index": 0,
+    "note": "Кількість провінцій у цьому сегменті відрізняється від опису того самого регіону в сусідньому джерельному записі 泛珠三角; потрібна перевірка.",
+    "absent_chinese_anchors": [
+      "泛珠三角"
+    ],
+    "source": "泛珠江三角 泛珠江三角 [fan4 zhu1 jiang1 san1 jiao3] /the Pan-Pearl river delta (economic zone including the 5 provinces around Guangzhou and Hong Kong)/",
+    "translation": [
+      "Панперлиннорічкова дельта (за джерелом, економічна зона з п’яти провінцій навколо Ґуанчжоу й Гонконгу)"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "25fa4d69694a6fbc",
+    "headword": "派遗",
+    "source_line": 64944,
+    "note_index": 0,
+    "note": "Написання 派遺 нетипове для цих значень; імовірне змішання з 派遣, але заголовок не змінено.",
+    "absent_chinese_anchors": [
+      "派遣"
+    ],
+    "source": "派遺 派遗 [pai4 yi2] /to send (sb) on a mission/to dispatch/",
+    "translation": [
+      "посилати когось із дорученням",
+      "відряджати"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "e568444c9136b5ea",
+    "headword": "熨",
+    "source_line": 70724,
+    "note_index": 0,
+    "note": "熨 yu4 вживається в 熨帖 зі значеннями доречності, зручності або душевного спокою; «прасувати» належить yun4. Джерельне smooth недостатньо конкретне для певного перекладу.",
+    "absent_chinese_anchors": [
+      "熨帖"
+    ],
+    "source": "熨 熨 [yu4] /reconciled/smooth/",
+    "translation": [
+      "спокійний; умиротворений",
+      "гладкий; пригладжений"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "bc026a7694535ec6",
+    "headword": "盛妆",
+    "source_line": 77472,
+    "note_index": 0,
+    "note": "Обидва англійські сегменти, ймовірно, належать до 盛壯 і не відповідають поданому написанню 盛妝. Перекладено значення поданого китайського слова; помилкові англійські значення не відтворено. Потрібна редакторська перевірка.",
+    "absent_chinese_anchors": [
+      "盛壯"
+    ],
+    "source": "盛妝 盛妆 [sheng4 zhuang1] /vigorous/strong and healthy/",
+    "translation": [
+      "пишний макіяж",
+      "святкове вбрання"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "387d62ce1b8d9fd2",
+    "headword": "硫酸铁",
+    "source_line": 79732,
+    "note_index": 0,
+    "note": "Джерело вказує «ferrous sulfate» (заліза(II)), але китайська назва без 亞 зазвичай стосується сульфату заліза(III); ступінь окиснення потребує уточнення.",
+    "absent_chinese_anchors": [
+      "亞"
+    ],
+    "source": "硫酸鐵 硫酸铁 [liu2 suan1 tie3] /ferrous sulfate/",
+    "translation": [
+      "сульфат заліза"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "bf52be6bf724259e",
+    "headword": "纵横",
+    "source_line": 86964,
+    "note_index": 0,
+    "note": "Джерело поєднує 合縱連橫 (дипломатичні стратегії) з назвою школи дипломатів, звичайно 縱橫家; точність цього історичного тлумачення потребує перевірки.",
+    "absent_chinese_anchors": [
+      "縱橫家"
+    ],
+    "source": "縱橫 纵横 [zong4 heng2] /lit. warp and weft in weaving; vertically and horizontal/length and breadth/criss-crossed/able to move unhindered/abbr. for 合縱連橫|合纵连横[He2 zong4 Lian2 heng2], School of Diplomacy during the Warring States Period (475-221 BC)/",
+    "translation": [
+      "букв. основа й уток у ткацтві; вертикально й горизонтально",
+      "уздовж і впоперек",
+      "перехрещений; перехресний",
+      "мати змогу вільно пересуватися",
+      "скорочення 合縱連橫|合纵连横[He2 zong4 Lian2 heng2], Школи дипломатії доби Воюючих царств (475–221 рр. до н. е.)"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "80e1ae8df967ee7f",
+    "headword": "声名",
+    "source_line": 89621,
+    "note_index": 0,
+    "note": "Значення «заява» у джерелі нетипове для 聲名 і може бути змішанням з омонімом 聲明; потрібна перевірка.",
+    "absent_chinese_anchors": [
+      "聲明"
+    ],
+    "source": "聲名 声名 [sheng1 ming2] /reputation/declaration/",
+    "translation": [
+      "репутація",
+      "заява"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "aac049a745a070fe",
+    "headword": "腺样",
+    "source_line": 91202,
+    "note_index": 0,
+    "note": "Китайське 腺樣 зазвичай є прикметником «залозоподібний»; для глоткового мигдалика очікується 腺樣體. Подані іменникові значення відтворено за джерелом.",
+    "absent_chinese_anchors": [
+      "腺樣體"
+    ],
+    "source": "腺樣 腺样 [xian4 yang4] /adenoid gland/pharyngeal tonsil/",
+    "translation": [
+      "аденоїдна тканина",
+      "глотковий мигдалик"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "a1e14601cda43eba",
+    "headword": "轻重主次",
+    "source_line": 106349,
+    "note_index": 0,
+    "note": "Усі англійські сегменти помилково приписують нейтральному 輕重主次 значення «перевернути пріоритети», властиве 輕重倒置; у перекладі розбіжність явно позначено.",
+    "absent_chinese_anchors": [
+      "輕重倒置"
+    ],
+    "source": "輕重主次 轻重主次 [qing1 zhong4 zhu3 ci4] /to invert the importance of things (i.e. stress the incidental and neglect the main point)/lacking a sense of perspective/to put the cart before the horse/",
+    "translation": [
+      "важливість і другорядність справ (у джерелі: плутати їх, наголошуючи на побічному)",
+      "співвідношення важливого й другорядного (у джерелі: нездатність його оцінити)",
+      "черговість пріоритетів (у джерелі: ставити віз поперед коня)"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "a07905587ef7250b",
+    "headword": "醇",
+    "source_line": 110536,
+    "note_index": 0,
+    "note": "Сегмент «sterols» у джерелі потребує перевірки: загальне хімічне значення 醇 — спирт; стероли є вужчою групою сполук, зазвичай 甾醇.",
+    "absent_chinese_anchors": [
+      "甾醇"
+    ],
+    "source": "醇 醇 [chun2] /alcohol/wine with high alcohol content/rich/pure/good wine/sterols/",
+    "translation": [
+      "спирт",
+      "міцне вино",
+      "насичений",
+      "чистий",
+      "добре вино",
+      "стероли"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "d2f015c89029ddb1",
+    "headword": "杂沓",
+    "source_line": 116390,
+    "note_index": 0,
+    "note": "Значення «дрібний ремісник» для 雜沓 сумнівне й, імовірно, змішане з 雜流; збережено для перевірки.",
+    "absent_chinese_anchors": [
+      "雜流"
+    ],
+    "source": "雜沓 杂沓 [za2 ta4] /small craftsman (contemptuous)/clatter (e.g. of footsteps)/jumbled mass/press of bodies/tumult/",
+    "translation": [
+      "дрібний ремісник (зневажл.)",
+      "тупіт; стукіт, напр. кроків",
+      "безладна маса",
+      "тіснява",
+      "сум'яття"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "7f93702fdc8445e2",
+    "headword": "音素",
+    "source_line": 118498,
+    "note_index": 0,
+    "note": "Англійське phoneme зазвичай відповідає 音位; 音素 точніше означає окремий звук мовлення.",
+    "absent_chinese_anchors": [
+      "音位"
+    ],
+    "source": "音素 音素 [yin1 su4] /phoneme/",
+    "translation": [
+      "звук мовлення"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "b4b06a54a27596bc",
+    "headword": "顶目",
+    "source_line": 118638,
+    "note_index": 0,
+    "note": "Схоже на помилкове написання 項目; значення збережено за джерелом.",
+    "absent_chinese_anchors": [
+      "項目"
+    ],
+    "source": "頂目 顶目 [ding3 mu4] /item/event/project/",
+    "translation": [
+      "пункт",
+      "захід",
+      "проєкт"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "8054920469cad1f4",
+    "headword": "体表",
+    "source_line": 121704,
+    "note_index": 0,
+    "note": "Значення «термометр для тіла» нетипове для 體表 і може походити від змішання з 體溫表; збережено за джерелом.",
+    "absent_chinese_anchors": [
+      "體溫表"
+    ],
+    "source": "體表 体表 [ti3 biao3] /surface of the body/periphery of the body/body thermometer/(literary) a person's appearance/",
+    "translation": [
+      "поверхня тіла",
+      "зовнішня частина тіла",
+      "термометр для тіла",
+      "(літ.) зовнішність людини"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "c9b0308b504d36d3",
+    "headword": "髳",
+    "source_line": 122190,
+    "note_index": 0,
+    "note": "Значення 髳 у джерелі збігаються з 髦, що може бути джерельним змішанням; передано всі сегменти з застереженням.",
+    "absent_chinese_anchors": [
+      "髦"
+    ],
+    "source": "髳 髳 [mao2] /bang (hair)/fashionable/mane/",
+    "translation": [
+      "чубчик",
+      "модний",
+      "грива"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  },
+  {
+    "id": "276d2961afbb785f",
+    "headword": "鼋",
+    "source_line": 124709,
+    "note_index": 0,
+    "note": "Джерело дає «морська черепаха», тоді як споріднене слово 黿魚 стосується м’якотілої черепахи; таксон потребує перевірки.",
+    "absent_chinese_anchors": [
+      "黿魚"
+    ],
+    "source": "黿 鼋 [yuan2] /sea turtle/",
+    "translation": [
+      "морська черепаха"
+    ],
+    "status": "heuristic_candidate_not_confirmed"
+  }
+]

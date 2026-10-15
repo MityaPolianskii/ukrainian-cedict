@@ -1,0 +1,700 @@
+1. ID e64eeec11535945f | line 112918 | 鑀 / 鑀 [ai4]
+  0: EN einsteinium (chemistry) (Tw)
+     UK ейнштейній (хімія; Тайвань)
+  1: EN ionium (former name of thorium)
+     UK іоній (колишня назва торію)
+  NOTES ["Іоній — історична назва ізотопу торію-230; формулювання джерела «колишня назва торію» неточне."]
+
+2. ID 147c41e6060e5d36 | line 118377 | 韋瓦第 / 韦瓦第 [Wei2 wa3 di4]
+  0: EN Vivaldi (name)
+     UK Вівальді (прізвище)
+  1: EN Antonio Vivaldi (1675-1741), Italian composer
+     UK Антоніо Вівальді (1678–1741), італійський композитор
+  NOTES ["Рік народження 1675 у джерелі помилковий; подано загальноприйнятий 1678."]
+
+3. ID 5505011a66ca0111 | line 58863 | 榿樹 / 桤树 [qi1 shu4]
+  0: EN long peduncled alder (Alnus cremastogyne)
+     UK вільха довгоквітконосна (Alnus cremastogyne)
+  1: EN Alnus trebeculata
+     UK Alnus trebeculata
+  NOTES ["Назву Alnus trebeculata відтворено як у джерелі; можливе помилкове написання."]
+
+4. ID f67f2b510debe56c | line 93580 | 苘 / 苘 [qing3]
+  0: EN Indian mallow (Abutilon theophrasti)
+     UK канатник Теофраста (Abutilon theophrasti)
+  1: EN Indian hemp (cannabis)
+     UK індійські коноплі (канабіс)
+  NOTES ["Джерело поєднує канатник і коноплі, ботанічно різні рослини; другий відповідник потребує перевірки."]
+
+5. ID 264cc8cb2212cce9 | line 93581 | 苘麻 / 苘麻 [qing3 ma2]
+  0: EN Indian mallow (Abutilon theophrasti)
+     UK канатник Теофраста (Abutilon theophrasti)
+  1: EN Indian hemp (cannabis)
+     UK індійські коноплі (канабіс)
+  NOTES ["Джерело поєднує канатник і коноплі, ботанічно різні рослини; другий відповідник потребує перевірки."]
+
+6. ID a1796ef02e7e347c | line 96224 | 藁本 / 藁本 [gao3 ben3]
+  0: EN Ligusticum levisticum (Chinese lovage root)
+     UK Ligusticum levisticum (корінь китайського любистку)
+  1: EN ligusticum root
+     UK корінь лігустикуму
+  NOTES ["Видову назву Ligusticum levisticum у джерелі слід перевірити."]
+
+7. ID f4a932f4dd237396 | line 114937 | 降結腸 / 降结肠 [jiang4 jie2 chang2]
+  0: EN descending colon (anatomy)
+     UK низхідна ободова кишка (анатомія)
+  1: EN third section of large intestine
+     UK третій відділ товстої кишки
+  NOTES ["«Третій відділ товстої кишки» — спрощене формулювання джерела; точна нумерація залежить від анатомічного поділу."]
+
+8. ID e8312c3ed176d894 | line 116249 | 雙獨 / 双独 [shuang1 du2]
+  0: EN double and single
+     UK обоє з подружжя — єдині діти у своїх батьків
+  1: EN allowed dispensation to have second child
+     UK право на винятковий дозвіл мати другу дитину
+  NOTES ["Неясне англійське «double and single» витлумачено за китайським терміном: обоє з подружжя є єдиними дітьми."]
+
+9. ID bc73489ad661924d | line 37187 | 布谷鳥 / 布谷鸟 [bu4 gu3 niao3]
+  0: EN cuckoo (Cercococcyx spp.)
+     UK зозуля (види роду Cercococcyx)
+  1: EN same as 杜鵑鳥|杜鹃鸟[du4 juan1 niao3]
+     UK те саме, що 杜鵑鳥|杜鹃鸟[du4 juan1 niao3]
+  NOTES ["Родове визначення Cercococcyx у джерелі вужче за звичайне значення китайського слова «зозуля»."]
+
+10. ID b9d3512aee89ac78 | line 50766 | 敘利亞文 / 叙利亚文 [Xu4 li4 ya4 wen2]
+  0: EN Syriac language (from c. 2nd century BC)
+     UK сирійська мова (приблизно з II ст. до н. е.)
+  1: EN the Syriac script
+     UK сирійське письмо
+  NOTES ["Датування сирійської мови II століттям до н. е. збережене за джерелом; хронологію варто перевірити."]
+
+11. ID a23a75df837732d6 | line 70116 | 無線電收發機 / 无线电收发机 [wu2 xian4 dian4 shou1 fa1 ji1]
+  0: EN transceiver
+     UK прийомопередавач
+  1: EN radio frequency receiver, broadcaster or relay
+     UK радіочастотний приймач, передавач або ретранслятор
+  NOTES ["Другий англійський сегмент перелічує приймач, передавач або ретранслятор, хоча китайська назва точно означає прийомопередавач; обсяг джерела ширший."]
+
+12. ID 2c16dc9c26e4c9c3 | line 83669 | 簇莖石竹 / 簇茎石竹 [cu4 jing1 shi2 zhu2]
+  0: EN boreal carnation or northern pink
+     UK північна гвоздика; гвоздика повзуча
+  1: EN Dianthus repens (botany)
+     UK Dianthus repens (бот.)
+  NOTES ["Українська видова назва потребує номенклатурної перевірки."]
+
+13. ID 6d8f27ca3a91c92e | line 69921 | 無底坑 / 无底坑 [wu2 di3 keng1]
+  0: EN the bottomless pit (Hell in the Bible)
+     UK бездонна прірва (пекло в Біблії)
+  1: EN pitless (elevator)
+     UK без приямка (про ліфт)
+  NOTES ["Другий сегмент є вузькотехнічним уживанням про відсутність ліфтового приямка; його зв'язок із заголовним словом потребує перевірки."]
+
+14. ID 614d7ac212db7f37 | line 8215 | 保角對應 / 保角对应 [bao3 jiao3 dui4 ying4]
+  0: EN (math.) distance-preserving correspondence
+     UK (мат.) відповідність, що зберігає кути
+  1: EN conformal map
+     UK конформне відображення
+  NOTES ["Перше англійське тлумачення «distance-preserving» не узгоджується з 保角 («збереження кутів»); тут перекладено відповідно до китайського терміна й стандартного значення conformal map."]
+
+15. ID 6b42eefc679e5f20 | line 57070 | 柞櫟 / 柞栎 [zuo4 li4]
+  0: EN Mongolian oak (Quercus dentata)
+     UK монгольський дуб (Quercus dentata)
+  1: EN see also 槲樹|槲树[hu2 shu4]
+     UK див. також 槲樹|槲树[hu2 shu4]
+  NOTES ["Англійська назва та латинська назва в джерелі не узгоджуються: Quercus dentata — дуб зубчастий."]
+
+16. ID 3c2db18d0223cf8b | line 58970 | 槲 / 槲 [hu2]
+  0: EN Mongolian oak (Quercus dentata)
+     UK дуб зубчастий (Quercus dentata)
+  1: EN see also 槲樹|槲树[hu2 shu4]
+     UK див. також 槲樹|槲树[hu2 shu4]
+  NOTES ["Англійська назва Mongolian oak не відповідає наведеному Quercus dentata; переклад узгоджено з латинською назвою та китайським словом."]
+
+17. ID 19d47863a4b97517 | line 98892 | 補碼 / 补码 [bu3 ma3]
+  0: EN complementary code
+     UK доповняльний код
+  1: EN binary code with 0 and 1 interchanged
+     UK двійковий код із взаємною заміною 0 та 1
+  NOTES ["Другий сегмент описує обернений код, тоді як китайський термін зазвичай означає доповняльний код; збережено джерельні сегменти."]
+
+18. ID 9c7667b147ada0ff | line 113553 | 開伯爾 / 开伯尔 [Kai1 bo2 er3]
+  0: EN Khyber province of Pakistan
+     UK провінція Хайбер у Пакистані
+  1: EN Northwest Frontier province
+     UK Північно-Західна прикордонна провінція
+  NOTES ["Назву провінції в джерелі подано скорочено: йдеться про Хайбер-Пахтунхву."]
+
+19. ID ac554dc413b035a2 | line 122140 | 髡 / 髡 [kun1]
+  0: EN scalping
+     UK скальпування
+  1: EN to make the head bald (as corporal punishment)
+     UK позбавляти волосся на голові як тілесне покарання
+  NOTES ["Англійське scalping може бути надто сильним: 髡 насамперед означає гоління голови як покарання; джерельний сегмент збережено із застереженням."]
+
+20. ID e5b36ca0421e7e41 | line 96802 | 虎斑鸚鵡 / 虎斑鹦鹉 [hu3 ban1 ying1 wu3]
+  0: EN budgerigar (genus Psittacella, several species)
+     UK тигровий папуга (рід Psittacella, кілька видів; у джерелі названо хвилястим папужкою)
+  1: EN budgie
+     UK хвилястий папужка
+  NOTES ["Джерело змішує тигрових папуг роду Psittacella з хвилястим папужкою, який належить до іншого роду."]
+
+21. ID 18c9b5923ca383ad | line 122876 | 鰷 / 鲦 [tiao2]
+  0: EN Korean sharpbelly (fish, Hemiculter leucisculus)
+     UK корейська востробрюшка (Hemiculter leucisculus)
+  1: EN chub
+     UK головень
+  NOTES ["Джерело поєднує Hemiculter leucisculus із chub; друге таксономічне значення потребує перевірки."]
+
+22. ID da4b850c4a37dc83 | line 115143 | 陰極 / 阴极 [yin1 ji2]
+  0: EN cathode
+     UK катод
+  1: EN negative electrode (i.e. emitting electrons)
+     UK негативний електрод (що випускає електрони)
+  NOTES ["Катод не завжди є негативним електродом; другу глосу джерела слід розуміти в контексті електронної емісії."]
+
+23. ID 66c430dec8a3cea3 | line 120751 | 馬拉加 / 马拉加 [Ma3 la1 jia1]
+  0: EN Málaga, Spain
+     UK Малага, Іспанія
+  1: EN Malaga city in Iranian East Azerbaijan
+     UK Малага, місто в іранському Східному Азербайджані
+  NOTES ["Друга географічна назва «Malaga» в Ірані незвична; залишено форму джерела, без ототожнення з іншим містом."]
+
+24. ID e5444562b37062a0 | line 16911 | 半糖夫妻 / 半糖夫妻 [ban4 tang2 fu1 qi1]
+  0: EN weekend spouse
+     UK подружжя, що бачиться лише на вихідних
+  1: EN relationship involving a sugar-daddy
+     UK стосунки з матеріально забезпеченим покровителем
+  NOTES ["Друге англійське тлумачення нетипове для 半糖夫妻; потребує перевірки."]
+
+25. ID 822696c5b040b241 | line 26996 | 夌 / 夌 [ling2]
+  0: EN to dawdle
+     UK баритися
+  1: EN the name of the father of the Emperor Yao
+     UK ім'я батька імператора Яо
+  NOTES ["Незвичне джерельне тлумачення 夌; особове ім'я та значення «баритися» потребують звірення з історичним контекстом."]
+
+26. ID 0c2e221d49554f78 | line 52743 | 日電 / 日电 [Ri4 dian4]
+  0: EN NEC (Nippon Electronic Company)
+     UK NEC (японська електронна компанія)
+  1: EN abbr. for 日電電子|日电电子
+     UK скор. від 日電電子|日电电子
+  NOTES ["У джерелі NEC розшифровано як Nippon Electronic Company; загальноприйнята назва — Nippon Electric Company."]
+
+27. ID cb41479345989042 | line 79306 | 石灰華 / 石灰华 [shi2 hui1 hua2]
+  0: EN travertine (geology)
+     UK травертин (геол.)
+  1: EN tufa (a type of banded marble)
+     UK вапняковий туф (за джерелом, різновид смугастого мармуру)
+  NOTES ["Джерело неточно ототожнює туф зі смугастим мармуром; геологічне формулювання потребує перевірки."]
+
+28. ID 90c51dd5ca96fd64 | line 79718 | 硫球 / 硫球 [liu2 qiu2]
+  0: EN Luzon, island of the Philippines
+     UK Лусон, острів Філіппін
+  1: EN the Ryukyu islands
+     UK острови Рюкю
+  NOTES ["Рідкісне історичне написання; географічні ототожнення подано за джерелом."]
+
+29. ID 6f3b894938e1b891 | line 97687 | 蟅 / 蟅 [zhe4]
+  0: EN locust
+     UK сарана
+  1: EN Chinese ground beetle (Eupolyphaga sinensis)
+     UK китайський земляний тарган (Eupolyphaga sinensis)
+  NOTES ["Англійське «ground beetle» не відповідає Eupolyphaga sinensis; переклад орієнтовано на зазначений вид таргана."]
+
+30. ID c73d6bc375caa056 | line 99956 | 視聽材料 / 视听材料 [shi4 ting1 cai2 liao4]
+  0: EN evidence of material seen and heard
+     UK свідчення про побачене й почуте
+  1: EN oral testimony
+     UK усні свідчення
+  NOTES ["Глоси джерела описують свідчення про побачене й почуте; звичайне буквальне значення словосполучення — аудіовізуальні матеріали."]
+
+31. ID 70b8a441aeaf6916 | line 16915 | 半胱氨酸 / 半胱氨酸 [ban4 guang1 an1 suan1]
+  0: EN cysteine (Cys), an amino acid
+     UK цистеїн (Cys), амінокислота
+  1: EN mercaptoethyl amine
+     UK меркаптоетиламін
+  NOTES ["Другий англійський сегмент хімічно не тотожний цистеїну й потребує перевірки."]
+
+32. ID f2482a048340ec97 | line 28109 | 大梁 / 大梁 [Da4 liang2]
+  0: EN capital of Wei 魏 during Warring states
+     UK Далян, столиця царства Вей 魏 у період Воюючих царств
+  1: EN CL:根[gen1]
+     UK лічильне слово: 根[gen1]
+  NOTES ["Лічильне слово 根 стосується балки 大梁, а не назви столиці; джерело змішує власну назву з іншим значенням."]
+
+33. ID 42dbc346fce9a467 | line 122035 | 高良薑 / 高良姜 [gao1 liang2 jiang1]
+  0: EN Thai ginger
+     UK тайський імбир
+  1: EN lesser galangale (Kaempferia galanga)
+     UK малий галангал (Kaempferia galanga)
+  NOTES ["Джерело змішує назви галангалу: 高良薑 зазвичай пов’язують з Alpinia officinarum, але тут наведено Kaempferia galanga; латинську назву збережено без виправлення."]
+
+34. ID 79594b7b10bc5fb6 | line 39536 | 彈性模量 / 弹性模量 [tan2 xing4 mo2 liang4]
+  0: EN modulus of elasticity
+     UK модуль пружності
+  1: EN coefficient of restitution
+     UK коефіцієнт відновлення
+  NOTES ["Другий сегмент джерела, coefficient of restitution, позначає іншу фізичну величину, ніж модуль пружності; збережено як окремий сегмент із застереженням."]
+
+35. ID 5439c36993c865ec | line 52480 | 旋覆花 / 旋覆花 [xuan2 fu4 hua1]
+  0: EN (botany) convolvulvus
+     UK (бот.) оман (у джерелі названо convolvulvus)
+  1: EN Flos Inulae (Chinese herb)
+     UK квітки оману, Flos Inulae (китайська лікарська сировина)
+  NOTES ["Англійське convolvulvus позначає берізку й суперечить китайському 旋覆花 та другому сегменту Flos Inulae (квітки оману). Суперечність позначено явно."]
+
+36. ID 212affe36012eb30 | line 57840 | 桫 / 桫 [suo1]
+  0: EN horse chestnut
+     UK гіркокаштан
+  1: EN Stewartia pseudocamellia (botany)
+     UK стюартія несправжньокамелієва (Stewartia pseudocamellia; бот.)
+  NOTES ["Джерело поєднує різні рослини; значення 桫 потребує перевірки."]
+
+37. ID c65a2936ede9b486 | line 70291 | 煉丹術 / 炼丹术 [lian4 dan1 shu4]
+  0: EN maker of immortality pill
+     UK виготовлювач пігулок безсмертя
+  1: EN concocting magic pills
+     UK мистецтво виготовлення чарівних пігулок
+  NOTES ["Перший англійський сегмент позначає людину, хоча китайське слово означає мистецтво чи метод виготовлення пігулок; джерело потребує перевірки."]
+
+38. ID 9280e0f8a34277e5 | line 80250 | 磺胺 / 磺胺 [huang2 an4]
+  0: EN sulfa drugs
+     UK сульфаніламідні препарати
+  1: EN sulfanilamide (used to reduce fever)
+     UK сульфаніламід (за джерелом, для зниження гарячки)
+  NOTES ["Сульфаніламід є протимікробним препаратом; опис його як жарознижувального в джерелі неточний."]
+
+39. ID dee59037d4880b71 | line 108183 | 連續介質力學 / 连续介质力学 [lian2 xu4 jie4 zhi4 li4 xue2]
+  0: EN mechanics of a continuous medium
+     UK механіка суцільного середовища
+  1: EN fluid mechanics
+     UK механіка рідин
+  NOTES ["Механіка рідин у другому сегменті є лише частиною механіки суцільного середовища."]
+
+40. ID dc2327120074caa1 | line 41627 | 性別認同障礙 / 性别认同障碍 [xing4 bie2 ren4 tong2 zhang4 ai4]
+  0: EN gender identity disorder (GID)
+     UK розлад гендерної ідентичності (GID)
+  1: EN gender dysphoria
+     UK гендерна дисфорія
+  NOTES ["Джерело поєднує історичний діагностичний термін «розлад гендерної ідентичності» та «гендерна дисфорія»; це не цілком тотожні сучасні поняття."]
+
+41. ID c59d67c1b79d90b5 | line 118600 | 頂包 / 顶包 [ding3 bao1]
+  0: EN to serve as forced labor
+     UK відбувати примусові роботи
+  1: EN to take the rap for sb
+     UK брати на себе чужу провину
+  NOTES ["Значення «відбувати примусові роботи» нетипове; збережено за джерелом."]
+
+42. ID 85b98ad52009d9b3 | line 122815 | 鯪鯉甲 / 鲮鲤甲 [ling2 li3 jia3]
+  0: EN pangolin (Manis pentadactylata)
+     UK панголін (Manis pentadactylata)
+  1: EN scaly ant-eater
+     UK лускатий мурахоїд
+  NOTES ["Джерело тлумачить слово як тварину, але 甲 може позначати луску або панцир; потрібна перевірка."]
+
+43. ID 54b95cdde799d06f | line 24478 | 國際共產主義運動 / 国际共产主义运动 [guo2 ji4 gong4 chan3 zhu3 yi4 yun4 dong4]
+  0: EN Comintern
+     UK Комінтерн
+  1: EN the international communist movement
+     UK міжнародний комуністичний рух
+  NOTES ["Комінтерн у джерелі є конкретною організацією, тоді як китайський вислів означає міжнародний комуністичний рух загалом."]
+
+44. ID 93b56632255d701e | line 53369 | 春黃菊 / 春黄菊 [chun1 huang2 ju2]
+  0: EN yellow chrysanthemum
+     UK жовта хризантема
+  1: EN chamomile (Anthemis spp.)
+     UK роман (рослини роду Anthemis)
+  NOTES ["Джерело поєднує побутове «жовта хризантема» з ботанічним родом Anthemis; ці значення слід розрізняти."]
+
+45. ID 4caec20564a52abb | line 83412 | 管座 / 管座 [guan3 zuo4]
+  0: EN to mount an electronic valve
+     UK панель; гніздо для електронної лампи
+  1: EN to plug in a bulb
+     UK патрон для лампочки
+  NOTES ["Англійські дієслівні глоси неточні: китайське слово називає гніздо або панель, а не дію встановлення."]
+
+46. ID f477b1d269e5b479 | line 93513 | 芷 / 芷 [zhi3]
+  0: EN angelica (type of iris)
+     UK дягель
+  1: EN plant root used in TCM
+     UK корінь рослини, що використовується в традиційній китайській медицині
+  NOTES ["Англійське джерело помилково описує дягель як різновид ірису; ботанічне ототожнення потребує перевірки."]
+
+47. ID 753d2ecd4c406888 | line 51062 | 敲榨 / 敲榨 [qiao1 zha4]
+  0: EN to press (fruit)
+     UK вичавлювати (фрукти)
+  1: EN variant of 敲詐|敲诈[qiao1 zha4]
+     UK варіант 敲詐|敲诈[qiao1 zha4]
+  NOTES ["Значення «вичавлювати фрукти» для 敲榨 нетипове; збережено за джерелом."]
+
+48. ID ddabe347e2ea43da | line 55321 | 朔望 / 朔望 [shuo4 wang4]
+  0: EN the new moon
+     UK молодик
+  1: EN the first day of the lunar month
+     UK перший день місячного місяця
+  NOTES ["Джерело подає лише молодик; китайське 朔望 зазвичай означає молодик і повню."]
+
+49. ID ecb3d043b27ae646 | line 36642 | 巨海扇蛤 / 巨海扇蛤 [ju4 hai3 shan4 ge2]
+  0: EN great scallop (Pecten maxiumus)
+     UK великий морський гребінець (Pecten maxiumus)
+  1: EN king scallop
+     UK королівський морський гребінець
+  NOTES ["У латинській назві джерела описка: нормативно Pecten maximus."]
+
+50. ID 6fc76c53a34e9c03 | line 61366 | 殿下 / 殿下 [dian4 xia4]
+  0: EN Your Majesty (honorific)
+     UK Ваша Величносте (шанобливе звертання)
+  1: EN His or Her Highness
+     UK Його або Її Високість
+  NOTES ["殿下 зазвичай відповідає «Високість»; англійське «Your Majesty» може бути неточним."]
+
+51. ID bd95f63d183d7a62 | line 95107 | 落葉松 / 落叶松 [luo4 ye4 song1]
+  0: EN larch tree (Pinus larix)
+     UK модрина (Pinus larix)
+  1: EN deciduous pine tree
+     UK листопадне хвойне дерево
+  NOTES ["Pinus larix у джерелі є історичною назвою; точна таксономічна відповідність потребує перевірки."]
+
+52. ID 02f09eec009d28c9 | line 101657 | 調研人員 / 调研人员 [tiao2 yan2 ren2 yuan2]
+  0: EN research workers
+     UK дослідники
+  1: EN survey and research workers
+     UK працівники, що проводять обстеження й дослідження
+  NOTES ["Джерело подає tiao2 yan2, хоча 調研 звичайно читається diao4 yan2; переклад збережено за китайським терміном."]
+
+53. ID 01ef4570dc81ec4a | line 25249 | 圱 / 圱 [qian1]
+  0: EN a field of three li
+     UK поле розміром три лі
+  1: EN old variant of 阡[qian1]
+     UK старий варіант 阡[qian1]
+  NOTES ["Джерело не уточнює, чи три лі означають довжину, ширину або площу поля."]
+
+54. ID ad5c67f0696aae67 | line 78323 | 看花眼 / 看花眼 [kan1 hua1 yan3]
+  0: EN to be dazzled
+     UK бути засліпленим
+  1: EN to not believe one's own eyes
+     UK не вірити власним очам
+  NOTES ["Читання kan1 для 看 тут потребує перевірки; у значенні зорового сприйняття очікується kan4."]
+
+55. ID 38750c8d917d244b | line 84257 | 精神衰弱 / 精神衰弱 [jing1 shen2 shuai1 ruo4]
+  0: EN psychasthenia
+     UK психастенія
+  1: EN obsessive-compulsive disorder
+     UK обсесивно-компульсивний розлад
+  NOTES ["Англійське джерело подає психастенію й ОКР як відповідники; їх не слід вважати тотожними сучасними діагнозами."]
+
+56. ID 1806bb6826c0e0e8 | line 103602 | 貼水 / 贴水 [tie1 shui3]
+  0: EN agio (charge for changing currency)
+     UK ажіо; збір за обмін валюти
+  1: EN premium
+     UK премія; курсовий дисконт
+  NOTES ["Джерело поєднує agio/premium з 貼水, яке у фінансах часто означає дисконт; точне значення залежить від контексту."]
+
+57. ID 3c05a146f09fccc0 | line 26481 | 填鴨 / 填鸭 [tian2 ya1]
+  0: EN to force-feed ducks
+     UK примусово відгодовувати качок
+  1: EN (cooking) stuffed duck
+     UK (кулін.) відгодована качка
+  NOTES ["Англійське stuffed duck двозначне; за китайським 填鴨 йдеться про примусово відгодовану качку, а не фаршировану страву."]
+
+58. ID 54bd836dcb42147a | line 50955 | 散板 / 散板 [san3 ban3]
+  0: EN to fall apart
+     UK розпадатися
+  1: EN opera section in free rhythm
+     UK оперний фрагмент у вільному ритмі
+  NOTES ["Значення «розпадатися» для 散板 нетипове; джерело також містить усталене музичне значення."]
+
+59. ID 1f0fd454a8a08037 | line 58972 | 槲樹 / 槲树 [hu2 shu4]
+  0: EN Mongolian oak (Quercus dentata)
+     UK дуб зубчастий (Quercus dentata)
+  1: EN Daimyo oak
+     UK дуб даймьо
+  NOTES ["Англійське Mongolian oak у першому сегменті не відповідає Quercus dentata."]
+
+60. ID 64cad1ccde3d360a | line 120766 | 馬掌 / 马掌 [ma3 zhang3]
+  0: EN the cutin skin of a horse's hoof
+     UK рогова оболонка кінського копита
+  1: EN horseshoe
+     UK підкова
+  NOTES ["Англійське cutin щодо копита неточне; китайському слову відповідає рогова оболонка."]
+
+61. ID 4a3f011fe2c7be95 | line 123270 | 鶖鷺 / 鹙鹭 [qiu1 lu4]
+  0: EN oriole
+     UK вивільга
+  1: EN black drongo (Dicrurus macrocercus)
+     UK чорний дронго (Dicrurus macrocercus)
+  NOTES ["Джерело поєднує вивільгу й чорного дронго; відповідність китайському найменуванню потребує перевірки."]
+
+62. ID cf0eb82bd6f118c3 | line 125254 | 龜背竹 / 龟背竹 [gui1 bei4 zhu2]
+  0: EN split-leaf philodendron
+     UK монстера з розсіченим листям
+  1: EN Monstera deliciosa
+     UK Monstera deliciosa
+  NOTES ["Джерело називає Monstera deliciosa філодендроном; подано назву монстери відповідно до таксона й китайської лексеми."]
+
+63. ID 08b48b0164257209 | line 31473 | 存活率 / 存活率 [cun2 huo2 lu:4]
+  0: EN (med.) survival rate
+     UK мед. рівень виживаності
+  1: EN (med.) recovery rate
+     UK мед. частка одужань
+  NOTES ["«Recovery rate» у джерелі не є точним синонімом виживаності 存活率."]
+
+64. ID 7dffef60e1c90c8d | line 40646 | 徵傳 / 征传 [zheng1 zhuan4]
+  0: EN narrative of long journey
+     UK оповідь про далеку подорож
+  1: EN campaign record
+     UK запис воєнного походу
+  NOTES ["Значення джерела відповідає радше 征傳, ніж 徵傳; передано наведену глосу із застереженням щодо графіки."]
+
+65. ID 6bf5a4608f25e917 | line 44812 | 打法 / 打法 [da3 fa3]
+  0: EN to play (a card)
+     UK ходити картою
+  1: EN to make a move in a game
+     UK робити хід у грі
+  NOTES ["Джерело подає дієслівні значення, тоді як 打法 зазвичай означає спосіб гри чи ведення бою; потрібна перевірка вихідного запису."]
+
+66. ID ba3744bfdf320a2f | line 93935 | 茆 / 茆 [mao3]
+  0: EN type of water plant
+     UK вид водної рослини
+  1: EN (dialect) loess hills
+     UK (діал.) лесові пагорби
+  NOTES ["Водну рослину в джерелі не уточнено."]
+
+67. ID 2710fcdef9928a87 | line 115172 | 陰道口 / 阴道口 [yin1 dao4 kou3]
+  0: EN female external genitalia (anatomy)
+     UK вхід до піхви (частина зовнішніх жіночих статевих органів, анатомія)
+  1: EN vulva
+     UK отвір піхви у вульві
+  NOTES ["Китайський термін означає вхід до піхви; англійські глоси надмірно узагальнюють його до всіх зовнішніх статевих органів або вульви."]
+
+68. ID 339cd33b802cba6f | line 61980 | 氟硅酸 / 氟硅酸 [fu2 gui1 suan1]
+  0: EN fluorosilicic acid H2SiF6
+     UK гексафторосилікатна кислота H2SiF6
+  1: EN fluorosilicate
+     UK фторосилікат
+  NOTES ["Другий сегмент джерела називає сіль кислоти, хоча китайський заголовок позначає саму кислоту."]
+
+69. ID 1d46600386c90f46 | line 69219 | 灰赤楊 / 灰赤杨 [hui1 chi4 yang2]
+  0: EN gray alder (Alnus incana)
+     UK вільха сіра (Alnus incana)
+  1: EN speckled alder
+     UK крапчаста вільха
+  NOTES ["Speckled alder може позначати окремий підвид вільхи сірої; таксономічний обсяг другого сегмента не уточнено."]
+
+70. ID f6c4da02b7866dc6 | line 70216 | 無限小數 / 无限小数 [wu2 xian4 xiao3 shu4]
+  0: EN infinitesimal
+     UK нескінченно мала величина
+  1: EN infinite decimal expansion
+     UK нескінченний десятковий дріб
+  NOTES ["Перший англійський сегмент «нескінченно мала величина» суперечить китайському терміну, що означає нескінченний десятковий дріб; потрібна перевірка джерела."]
+
+71. ID 0058e6280444188f | line 78763 | 睢鳩 / 睢鸠 [sui1 jiu1]
+  0: EN plover (Charadrius morinellus)
+     UK хрустан (Charadrius morinellus)
+  1: EN dotterell
+     UK хрустан
+  NOTES ["Видова назва Charadrius morinellus відповідає хрустану; поєднання китайської назви з цим видом у джерелі потребує орнітологічної перевірки."]
+
+72. ID 21787debb50b170e | line 79694 | 硝基苯 / 硝基苯 [xiao1 ji1 ben3]
+  0: EN nitrobenzene
+     UK нітробензен
+  1: EN benzoil nitrate (chemistry)
+     UK нітробензен (хім.)
+  NOTES ["У другому сегменті джерела «benzoil nitrate» помилково подано як синонім; китайський термін однозначно означає нітробензен."]
+
+73. ID 22c3b69de7001823 | line 85142 | 紙魚 / 纸鱼 [zhi3 yu2]
+  0: EN silverfish (Lepisma saccarina)
+     UK лусочниця звичайна (Lepisma saccarina)
+  1: EN fish moth
+     UK сріблянка (комаха)
+  NOTES ["У джерелі латинський видовий епітет подано як saccarina; звичайне написання — saccharina."]
+
+74. ID 6d4c2cf81ac24e26 | line 91172 | 腹哀 / 腹哀 [fu4 ai1]
+  0: EN Abdominal Lament
+     UK «Скорбота живота» (назва точки)
+  1: EN acupuncture point SP 16
+     UK акупунктурна точка SP 16
+  NOTES ["Буквальний переклад назви акупунктурної точки не є усталеною українською назвою."]
+
+75. ID 14c2c1705af71a54 | line 97511 | 蝴蝶酥 / 蝴蝶酥 [hu2 die2 su1]
+  0: EN crispy short-crust pastry
+     UK хрустке пісочне печиво
+  1: EN mille-feuilles
+     UK мільфей (листкове тістечко)
+  NOTES ["Джерело змішує пісочну випічку та мільфей; китайська назва зазвичай стосується листкового печива у формі метелика."]
+
+76. ID 26ba77a7c9095c59 | line 119367 | 顧不得 / 顾不得 [gu4 bu5 de5]
+  0: EN unable to change sth
+     UK не мати змоги змінити щось
+  1: EN unable to deal with
+     UK не мати змоги зайнятися
+  NOTES ["Англійське «unable to change» нетипове; китайське слово зазвичай означає неможливість приділити увагу."]
+
+77. ID 8d971921c9835aee | line 16734 | 千里馬 / 千里马 [qian1 li3 ma3]
+  0: EN lit. ten thousand mile horse
+     UK букв. кінь, що долає тисячу лі
+  1: EN fine steed
+     UK чудовий скакун
+  NOTES ["Джерело подає «ten thousand mile», але 千里 буквально означає «тисяча лі»."]
+
+78. ID 7f3aa23a755d86c8 | line 95262 | 葛粉 / 葛粉 [ge2 fen3]
+  0: EN starch of pueraria root
+     UK крохмаль із кореня пуерарії
+  1: EN arrowroot flour
+     UK крохмальне борошно, подібне до ароуруту
+  NOTES ["Англійське arrowroot flour може бути неточним узагальненням: 葛粉 позначає крохмаль кудзу."]
+
+79. ID 96786c411b9935ff | line 104010 | 質量數 / 质量数 [zhi4 liang4 shu4]
+  0: EN atomic weight of an element
+     UK масове число атома (у джерелі названо атомною вагою елемента)
+  1: EN atomic mass
+     UK масове число (у джерелі названо атомною масою)
+  NOTES ["質量數 означає масове число, а не атомну вагу чи атомну масу; неточні англійські формулювання позначено в перекладі."]
+
+80. ID 83e92f98ea668990 | line 25462 | 坯件 / 坯件 [pi1 jian4]
+  0: EN blank (for a coin etc)
+     UK заготовка для монети тощо
+  1: EN breed or strain
+     UK порода або штам
+  NOTES ["Значення «порода або штам» для 坯件 незвичне й потребує перевірки."]
+
+81. ID db3171d500d0763d | line 45054 | 扣帽子 / 扣帽子 [kou4 mao4 zi5]
+  0: EN to tag sb with unfair label
+     UK навішувати на когось несправедливий ярлик
+  1: EN power word
+     UK дискредитувальний ярлик
+  NOTES ["Англійське «power word» неточне; передано функцію образливого ярлика відповідно до 扣帽子."]
+
+82. ID ed9cff9f9d204fa4 | line 45575 | 投票率 / 投票率 [tou2 piao4 lu:4]
+  0: EN proportion of vote
+     UK частка голосування
+  1: EN turnout in election
+     UK явка на виборах
+  NOTES ["«Proportion of vote» у джерелі нечітке; звичайне значення 投票率 — виборча явка."]
+
+83. ID f13637205cef7b41 | line 69064 | 火燒雲 / 火烧云 [huo3 shao1 yun2]
+  0: EN nuée ardente
+     UK пекуча вулканічна хмара
+  1: EN hot cloud of volcanic ash
+     UK гаряча хмара вулканічного попелу
+  NOTES ["Наведені англійські сегменти стосуються вулканічної хмари; звичайне китайське значення — почервонілі на світанку або заході хмари. Потрібна перевірка джерела."]
+
+84. ID 11ec0ac2af5644da | line 74873 | 甲型球蛋白 / 甲型球蛋白 [jia3 xing2 qiu2 dan4 bai2]
+  0: EN alpha globulin
+     UK альфа-глобулін
+  1: EN alpha fetoprotein (AFP)
+     UK альфа-фетопротеїн (АФП)
+  NOTES ["Альфа-глобулін та альфа-фетопротеїн не є точними синонімами; обидва значення наведено за джерелом."]
+
+85. ID ea236feeb502ff4e | line 84847 | 紅鈴蟲 / 红铃虫 [hong2 ling2 chong2]
+  0: EN pink bollworm
+     UK рожевий бавовниковий черв'як
+  1: EN Pectinophora gassypiella
+     UK Pectinophora gassypiella (вид метелика)
+  NOTES ["Латинська назва в джерелі, імовірно, містить помилку: звичайне написання — gossypiella."]
+
+86. ID c0c2a9edf5933ab7 | line 105916 | 車龍 / 车龙 [che1 long2]
+  0: EN long queue of slow-moving traffic
+     UK довга черга повільного транспорту
+  1: EN tram
+     UK трамвай
+  NOTES ["Значення «трамвай» наведено в джерелі; для 車龍 звичайним є значення довгої колони транспорту."]
+
+87. ID edc52d7c7953a5dc | line 119447 | 顯花植物 / 显花植物 [xian3 hua1 zhi2 wu4]
+  0: EN Phanerogamae (botany)
+     UK явношлюбні рослини (Phanerogamae) (бот.)
+  1: EN flowering plants
+     UK квіткові рослини
+  NOTES ["Phanerogamae історично охоплює насінні рослини загалом, а не лише квіткові; джерело змішує обсяги."]
+
+88. ID 607422ed76806a7d | line 37804 | 平方平均數 / 平方平均数 [ping2 fang1 ping2 jun1 shu4]
+  0: EN root mean square (RMS)
+     UK середнє квадратичне (RMS)
+  1: EN quadratic root
+     UK середнє квадратичне значення
+  NOTES ["Друге англійське визначення quadratic root неточне; китайський термін означає середнє квадратичне, а не окремий квадратний корінь."]
+
+89. ID 474197f0505fd98d | line 40579 | 微機化 / 微机化 [wei1 ji1 hua4]
+  0: EN miniaturization
+     UK мініатюризація
+  1: EN micro-miniaturization
+     UK мікромініатюризація
+  NOTES ["Англійські глоси описують мініатюризацію, але 微機化 буквально стосується впровадження мікрокомп’ютерів; відповідність значення потребує перевірки."]
+
+90. ID 95389ceb05be31d3 | line 40942 | 心理統計學 / 心理统计学 [xin1 li3 tong3 ji4 xue2]
+  0: EN psychometrics
+     UK психометрія
+  1: EN quantitative psychology
+     UK кількісна психологія
+  NOTES ["Китайський термін 心理統計學 точніше відповідає психологічній статистиці; джерело наводить ширші суміжні галузі."]
+
+91. ID 25fa4d69694a6fbc | line 64944 | 派遺 / 派遗 [pai4 yi2]
+  0: EN to send (sb) on a mission
+     UK посилати когось із дорученням
+  1: EN to dispatch
+     UK відряджати
+  NOTES ["Написання 派遺 нетипове для цих значень; імовірне змішання з 派遣, але заголовок не змінено."]
+
+92. ID 1805098aaa218e6e | line 79711 | 硫代硫酸鈉 / 硫代硫酸钠 [liu2 dai4 liu2 suan1 na4]
+  0: EN sodium hyposulfide
+     UK гіпосульфіт натрію
+  1: EN sodium thiosulfate
+     UK тіосульфат натрію
+  NOTES ["Перший англійський сегмент «sodium hyposulfide» є неточним; китайський термін означає тіосульфат натрію, історично гіпосульфіт."]
+
+93. ID 6517def8e4fb7fd7 | line 80704 | 神聖週 / 神圣周 [shen2 sheng4 zhou1]
+  0: EN Holy week
+     UK Страсний тиждень
+  1: EN Easter week (esp. Catholic)
+     UK передвеликодній тиждень (особливо в католицизмі)
+  NOTES ["Джерельне «Easter week» може означати тиждень після Великодня, тоді як «Holy week» — перед ним; переклад узгоджено з останнім."]
+
+94. ID 0303702d40ed1730 | line 108684 | 過氧化氫酶 / 过氧化氢酶 [guo4 yang3 hua4 qing1 mei2]
+  0: EN catalase (enzyme)
+     UK каталаза (фермент)
+  1: EN hydrogen peroxidase
+     UK воднева пероксидаза
+  NOTES ["Другий англійський синонім неточний: китайський термін позначає каталазу."]
+
+95. ID 02ce54a5037e07e5 | line 117001 | 雷龍 / 雷龙 [lei2 long2]
+  0: EN apatosaurus
+     UK апатозавр
+  1: EN former name: brontosaurus
+     UK колишня назва: бронтозавр
+  NOTES ["Таксономічне співвідношення апатозавра й бронтозавра в джерелі може бути застарілим."]
+
+96. ID 6a370e896f74848b | line 117166 | 電烙鐵 / 电烙铁 [dian4 lao4 tie5]
+  0: EN electric iron
+     UK електричний паяльник
+  1: EN electric soldering iron
+     UK електропаяльник
+  NOTES ["Англійське electric iron тут витлумачено як паяльник відповідно до китайського слова, а не праска."]
+
+97. ID 886e2293d2a75651 | line 20742 | 吸附性 / 吸附性 [xi1 fu4 xing4]
+  0: EN absorption
+     UK адсорбція
+  1: EN absorbability (chemistry)
+     UK адсорбційна здатність (хім.)
+  NOTES ["Джерело вживає absorption/absorbability, але 吸附 позначає поверхневе поглинання — адсорбцію."]
+
+98. ID dd937268cebf7d6b | line 79782 | 硬碰硬 / 硬碰硬 [ying4 peng4 ying4]
+  0: EN to meet force with force
+     UK відповідати силою на силу
+  1: EN painstaking
+     UK наполегливий; копіткий
+  NOTES ["Другий сегмент «painstaking» нетиповий для цього вислову й потребує контекстуальної перевірки."]
+
+99. ID aa51082325cff2c6 | line 86767 | 編錄 / 编录 [bian1 lu4]
+  0: EN to select and edict
+     UK добирати й редагувати
+  1: EN to edit extracts
+     UK редагувати витяги
+  NOTES ["Англійське «edict», імовірно, є друкарською помилкою замість «edit»; перекладено відповідно до 編錄."]
+
+100. ID 64c4733caa3de50e | line 106560 | 轉位 / 转位 [zhuan4 wei4]
+  0: EN index (rotating gauge)
+     UK індексування, поворот на заданий кут
+  1: EN cam gradation
+     UK кулачковий поділ повороту
+  NOTES ["Технічні англійські пояснення index (rotating gauge) і cam gradation неясні; перекладено як кутове позиціювання, відповідно до китайського слова."]
+

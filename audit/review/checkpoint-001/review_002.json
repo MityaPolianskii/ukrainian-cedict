@@ -1,0 +1,1766 @@
+{
+  "reviewer_model_requested": "gpt-6-astra",
+  "human_validation": false,
+  "reviewed_ids": [
+    "ee65bc48a9b55eeb",
+    "72e6fe640783945b",
+    "9f58adc2191b75d5",
+    "acfb0c5ab280935b",
+    "ccc8bff9f128a50a",
+    "37350977f7f32d93",
+    "fe348ba4ce31d406",
+    "4e11baa2206404ac",
+    "95041035876df18e",
+    "baaf1838aa09fea8",
+    "ee57ca92cdd7f7eb",
+    "f9641b4fea239906",
+    "714f171e5c1a38ad",
+    "82b67809beba042e",
+    "c46ade526ae07f25",
+    "61951c2549d38f77",
+    "55d3957ac3ba50fb",
+    "f0d980df3eda024a",
+    "62b42dbbaf37110e",
+    "2964c629b80ef235",
+    "6965c4c12ad85f69",
+    "a715cfc758574054",
+    "efe1bb09df74d341",
+    "e9915aa352a31786",
+    "808d1285a80253d8",
+    "a1e14601cda43eba",
+    "a521102008728f5a",
+    "d48a467fb89b4524",
+    "79f80e1c6351383d",
+    "143a393dcc6df31b",
+    "43b28dae4179b88c",
+    "bf8e1d48485ffce0",
+    "685bf8a9eae7063e",
+    "f916b05453aff4ce",
+    "60179d1c4d1feeb0",
+    "f2fb88b8a7b22d49",
+    "8593e4c64d2fdc10",
+    "0cd881d81c2d3889",
+    "c308e28bdac39051",
+    "cec15c8d172af36a",
+    "e820149c56e11456",
+    "c5d8d0f0e6db9c52",
+    "f8a17bd21aa917b9",
+    "e05be2da4d4c685c",
+    "44a0c96f94abf33a",
+    "5e3051cb8e6d0e9a",
+    "5209ec69b437c1f3",
+    "5bdf6f459fdcaf8b",
+    "c9e5098f8fd05dbd",
+    "9350c21310dd3c1a",
+    "d8be32130b17e8b2",
+    "e8bfeb7813e710de",
+    "709de7dab4bea91e",
+    "0b8066bc5e8ca7da",
+    "27f094f4212a5b89",
+    "bc33c206a993425f",
+    "6ec3cf102e3be79c",
+    "bf5f1a3d7eea6fbd",
+    "4de5f2ba874ea756",
+    "7962678ec528b2f0",
+    "84348379c42a95fa",
+    "54375bb8f425acf9",
+    "87e972dbb1b47cc9",
+    "3b219e87d89b633a",
+    "863e8ee7d25574ab",
+    "121478e440135ab6",
+    "5ee45ad7784dc003",
+    "84514498b0749ccb",
+    "4b7b705d1b8f66c8",
+    "9fbba5b7b6f48896",
+    "b52659bf5e2f921f",
+    "21f5ee544d438189",
+    "320c04b3d74996db",
+    "a07681ce1dbc7a58",
+    "f9b3c4b1a9a5fb4c",
+    "291286b7bb6012e1",
+    "d9926bc0b2597377",
+    "d180f2efa70002ad",
+    "cb519a1035b8ecbd",
+    "6c7ace763f325799",
+    "97c15c1c311c746f",
+    "327bed0cb023f5f3",
+    "6ef3be27faa11ef9",
+    "b1cb8744e380dc2d",
+    "07fc90cfbe236df5",
+    "cb95b42c3f5ccce5",
+    "e65dee45188edf7b",
+    "fff4e00f393bc040",
+    "7db2c063de559678",
+    "10853236e08d69a8",
+    "fafad87581b4652f",
+    "980cb8cdf8d73f52",
+    "e7762cb91547a8ae",
+    "1991d10e6ce94028",
+    "4c89fed5984065c3",
+    "35ddafb5fc7256f9",
+    "985f1a051c1e5027",
+    "2f710ed6058953fd",
+    "fd594aa5d8579328",
+    "92b953c247ece388"
+  ],
+  "entries": [
+    {
+      "id": "ee65bc48a9b55eeb",
+      "source_line": 11294,
+      "traditional": "全勝",
+      "simplified": "全胜",
+      "pinyin": "quan2 sheng4",
+      "outcome": "deferred",
+      "reason": "The total-victory and surpassing senses are sound. The unidentified tank and the game-specific scope of slam cannot be settled from the supplied source.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the tank sense of 全勝 and whether slam means all tricks, all games, or another sporting result. The current «розіграші» should not be treated as verified terminology."
+      ]
+    },
+    {
+      "id": "72e6fe640783945b",
+      "source_line": 118150,
+      "traditional": "面膜",
+      "simplified": "面膜",
+      "pinyin": "mian4 mo2",
+      "outcome": "correction_proposed",
+      "reason": "The mask senses are correct, but the translation silently narrows both cleanser and facial treatment to application of a mask. Retain the broader source meanings and keep the Chinese/source mismatch in the note.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 1,
+          "before": "очищувальна маска для обличчя",
+          "after": "очищувальний засіб для обличчя",
+          "reason": "Cleanser does not itself specify a mask. The note already records the broader English-source scope.",
+          "confidence": "high",
+          "issue_type": "unsupported_narrowing"
+        },
+        {
+          "segment_index": 3,
+          "before": "косметична процедура з нанесенням маски на обличчя",
+          "after": "косметична процедура для обличчя",
+          "reason": "Facial treatment does not necessarily involve applying a mask; the added procedure detail is unsupported.",
+          "confidence": "high",
+          "issue_type": "unsupported_narrowing"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The English cleanser and facial (treatment) are broader than 面膜; they still need source-level validation."
+      ]
+    },
+    {
+      "id": "9f58adc2191b75d5",
+      "source_line": 78767,
+      "traditional": "督察",
+      "simplified": "督察",
+      "pinyin": "du1 cha2",
+      "outcome": "deferred",
+      "reason": "Supervision, superintendence, and inspector are translated accurately. «Цензурний нагляд» reproduces censorship, but its inclusion under 督察 is an unresolved source issue, already correctly flagged.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify censorship as a sense of 督察 rather than silently replacing it with general inspection."
+      ]
+    },
+    {
+      "id": "acfb0c5ab280935b",
+      "source_line": 62481,
+      "traditional": "水箱",
+      "simplified": "水箱",
+      "pinyin": "shui3 xiang1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian equivalents for tank, automobile radiator, cistern, and lavabo are sound translations of their respective glosses. Lavabo is not securely supported by this Chinese headword.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Source-level validation is needed for lavabo/умивальник under 水箱."
+      ]
+    },
+    {
+      "id": "ccc8bff9f128a50a",
+      "source_line": 111986,
+      "traditional": "銷路",
+      "simplified": "销路",
+      "pinyin": "xiao1 lu4",
+      "outcome": "correction_proposed",
+      "reason": "The core sale/market senses are good. «Збутова подія» is an unnatural calque and the additional «продаж» does not convey an event clearly.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 3,
+          "before": "продаж; збутова подія",
+          "after": "захід із продажу товарів",
+          "reason": "Provides a natural, explicit rendering of sales event without assuming a discount sale or deleting the source sense.",
+          "confidence": "high",
+          "issue_type": "unnatural_calque"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Значення «sales event» у джерелі потребує перевірки: 銷路 зазвичай означає збут, ринок або можливості збуту; значення окремого торговельного заходу неочевидне. Буквальне «збутова подія» також не є усталеним українським відповідником.",
+          "after": "Значення «sales event» у джерелі потребує перевірки: 銷路 зазвичай означає збут, ринок або можливості збуту; значення окремого заходу з продажу товарів неочевидне.",
+          "reason": "Retains the source warning while removing commentary about the superseded calque.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Sales event remains an unverified source sense of 銷路."
+      ]
+    },
+    {
+      "id": "37350977f7f32d93",
+      "source_line": 119494,
+      "traditional": "風向標",
+      "simplified": "风向标",
+      "pinyin": "feng1 xiang4 biao1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian wind-indicator terms and propeller-blade gloss are intelligible and faithful. The propeller sense is a source/headword conflict, not a mistranslation.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify propellor blade under 風向標; do not infer that every occurrence of vane has that sense."
+      ]
+    },
+    {
+      "id": "fe348ba4ce31d406",
+      "source_line": 56674,
+      "traditional": "枉顧",
+      "simplified": "枉顾",
+      "pinyin": "wang3 gu4",
+      "outcome": "correction_proposed",
+      "reason": "The source/headword conflict remains unresolved. Independently, «погано поводитися» can mean misbehave, whereas mistreat requires a target.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 2,
+          "before": "погано поводитися",
+          "after": "погано поводитися з кимось",
+          "reason": "Restores the object-directed meaning of mistreat rather than describing the subject’s own bad behavior.",
+          "confidence": "high",
+          "issue_type": "argument_structure"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Значення джерела відповідають радше 罔顧; 枉顧 може також бути ввічливим висловом про відвідини. Потрібна перевірка.",
+          "after": "Перший сегмент «to neglect» ближчий до 罔顧. Значення «to misuse», «to mistreat» і «to abuse» також потребують окремої перевірки; їх не можна автоматично визнати значеннями 罔顧. 枉顧 може бути ввічливим висловом про відвідини.",
+          "reason": "The original note overgeneralizes by suggesting that all four English senses correspond to 罔顧. This revision keeps the uncertainty explicit.",
+          "confidence": "medium"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Verify whether the source confuses 枉顧 and 罔顧. Even if neglect belongs to the latter, misuse/mistreat/abuse require separate verification."
+      ]
+    },
+    {
+      "id": "4e11baa2206404ac",
+      "source_line": 119127,
+      "traditional": "頭路",
+      "simplified": "头路",
+      "pinyin": "tou2 lu4",
+      "outcome": "deferred",
+      "reason": "Clue, narrative thread, and first-class quality are rendered plausibly. The bare English mate does not establish which sense was intended, so «товариш» cannot yet be approved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve mate under 頭路; do not select companion, partner, or a nautical rank without evidence."
+      ]
+    },
+    {
+      "id": "95041035876df18e",
+      "source_line": 25438,
+      "traditional": "坦承",
+      "simplified": "坦承",
+      "pinyin": "tan3 cheng2",
+      "outcome": "deferred",
+      "reason": "The three admission/confession glosses are semantically adequate. Calmly is accurately translated but is not a normal standalone equivalent of the verb 坦承; the existing warning is appropriate.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify or repair the English calmly segment at source level."
+      ]
+    },
+    {
+      "id": "baaf1838aa09fea8",
+      "source_line": 7878,
+      "traditional": "依稀",
+      "simplified": "依稀",
+      "pinyin": "yi1 xi1",
+      "outcome": "deferred",
+      "reason": "The vague/dim meanings and Ukrainian probability expressions individually match their English glosses. The last two glosses are not validated Chinese senses.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Probably and very likely need source-level verification for 依稀."
+      ]
+    },
+    {
+      "id": "ee57ca92cdd7f7eb",
+      "source_line": 125098,
+      "traditional": "龍捲風",
+      "simplified": "龙卷风",
+      "pinyin": "long2 juan3 feng1",
+      "outcome": "deferred",
+      "reason": "Tornado/twister and hurricane/cyclone are translated correctly as separate English terms. The problematic equivalence is already present in the source and must not be hidden by merging the weather phenomena.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve hurricane and cyclone under 龍捲風; keep the existing distinction between source error and translation."
+      ]
+    },
+    {
+      "id": "f9641b4fea239906",
+      "source_line": 43346,
+      "traditional": "憭",
+      "simplified": "憭",
+      "pinyin": "liao3",
+      "outcome": "deferred",
+      "reason": "All four Ukrainian adjectives faithfully translate the supplied English. A rare-character dictionary is needed to resolve the severe/cold senses and their reading; no speculative change is proposed.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Validate severe and cold for 憭 with pinyin liao3."
+      ]
+    },
+    {
+      "id": "714f171e5c1a38ad",
+      "source_line": 115698,
+      "traditional": "隮",
+      "simplified": "𬯀",
+      "pinyin": "ji1",
+      "outcome": "acceptable",
+      "reason": "All four supplied historical senses are faithfully represented; upward/downward movement is not automatically a contradiction in a polysemous historical character.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The historical attestation and reading of these rare senses were not independently verified; the existing note accurately discloses that limitation."
+      ]
+    },
+    {
+      "id": "82b67809beba042e",
+      "source_line": 112172,
+      "traditional": "錄",
+      "simplified": "录",
+      "pinyin": "lu4",
+      "outcome": "deferred",
+      "reason": "Diary, record, and copy are translated correctly. The doubtful hit sense is faithfully retained and explicitly qualified rather than silently removed.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Lexicographic verification is required for to hit under 錄."
+      ]
+    },
+    {
+      "id": "c46ade526ae07f25",
+      "source_line": 85549,
+      "traditional": "組圖",
+      "simplified": "组图",
+      "pinyin": "zu3 tu2",
+      "outcome": "correction_proposed",
+      "reason": "The series/set interpretation is disclosed in the note and is compatible with 組圖. In this pictorial context, «образ» is a wrong sense selection for image.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 1,
+          "before": "образ (у серії)",
+          "after": "зображення (у серії)",
+          "reason": "Image here is a visual picture in a collection, not an abstract image, character, or mental conception.",
+          "confidence": "high",
+          "issue_type": "wrong_sense"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source lists individual image types rather than a collection; the existing note should remain."
+      ]
+    },
+    {
+      "id": "61951c2549d38f77",
+      "source_line": 1230,
+      "traditional": "三個和尚沒水喝",
+      "simplified": "三个和尚没水喝",
+      "pinyin": "san1 ge4 he2 shang5 mei2 shui3 he1",
+      "outcome": "correction_proposed",
+      "reason": "The proverb and its full one/two/three-monk explanation are preserved. Two small but meaningful fixes restore explicit water in the literal gloss and the missing verb in the final clause.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "букв. трьом ченцям нема чого пити (ідіома)",
+          "after": "букв. трьом ченцям немає води для пиття (ідіома)",
+          "reason": "The literal source specifically says no water to drink, not merely nothing to drink.",
+          "confidence": "high",
+          "issue_type": "omission"
+        },
+        {
+          "segment_index": 2,
+          "before": "(якщо один монах, він принесе собі воду; якщо двоє — принесуть удвох; але якщо їх троє чи більше, ніхто не візьметься по воду)",
+          "after": "(якщо один монах, він принесе собі воду; якщо двоє — принесуть удвох; але якщо їх троє чи більше, ніхто не візьметься принести воду)",
+          "reason": "«Візьметься по воду» is an incomplete construction; adding принести preserves the stated responsibility for fetching water.",
+          "confidence": "high",
+          "issue_type": "grammar"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "55d3957ac3ba50fb",
+      "source_line": 52053,
+      "traditional": "新羅王朝",
+      "simplified": "新罗王朝",
+      "pinyin": "Xin1 luo2 Wang2 chao2",
+      "outcome": "deferred",
+      "reason": "The kingdom, historical narrative, and Chinese/pinyin cross-references are retained. The doubtful Unified Silla start year is explicitly identified as a source issue; historical dates should not be guessed.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify 658–935 for Unified Silla and the source’s compressed chronology around 660. Korean name conventions were not normalized in this pass."
+      ]
+    },
+    {
+      "id": "f0d980df3eda024a",
+      "source_line": 1128,
+      "traditional": "七情",
+      "simplified": "七情",
+      "pinyin": "qi1 qing2",
+      "outcome": "correction_proposed",
+      "reason": "The emotional-state list and every Chinese/pinyin reference are preserved. «Задум» means a plan/intention and is not the intended thought/rumination sense.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 1,
+          "before": "сім почуттів традиційної китайської медицини: радість 喜[xi3], гнів 怒[nu4], тривога 憂|忧[you1], задум 思[si1], скорбота 悲[bei1], страх 恐[kong3], переляк 驚|惊[jing1]",
+          "after": "сім почуттів традиційної китайської медицини: радість 喜[xi3], гнів 怒[nu4], тривога 憂|忧[you1], роздуми 思[si1], скорбота 悲[bei1], страх 恐[kong3], переляк 驚|惊[jing1]",
+          "reason": "Thought in this emotional-state list denotes thinking/rumination, not an intention or plan. All source cross-references and romanizations remain exact.",
+          "confidence": "high",
+          "issue_type": "wrong_sense"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Seven relations is insufficiently contextualized; determine whether it means medicinal-substance relationships before accepting the interpersonal-sounding «стосунків»."
+      ]
+    },
+    {
+      "id": "62b42dbbaf37110e",
+      "source_line": 25728,
+      "traditional": "城門失火，殃及池魚",
+      "simplified": "城门失火，殃及池鱼",
+      "pinyin": "cheng2 men2 shi1 huo3 , yang1 ji2 chi2 yu2",
+      "outcome": "correction_proposed",
+      "reason": "The translations faithfully retain all source segments, but the note understates a major semantic conflict: suffering as a bystander is not responsibility for one’s own acts.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Другий і третій джерельні відповідники лише приблизні: основний сенс ідіоми — стороння біда завдає шкоди невинним.",
+          "after": "Основний сенс ідіоми — стороння біда завдає шкоди непричетним. Другий сегмент про відповідальність за власні дії цьому не відповідає, тому його не слід вважати лише приблизним синонімом. Третій сегмент — широка аналогія зі спільною бідою, а не точне тлумачення ідіоми.",
+          "reason": "Distinguishes a contradictory source interpretation from a merely approximate literary analogy.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The English responsibility and bell-tolls analogies require source-level review; the proposed note does not delete either gloss."
+      ]
+    },
+    {
+      "id": "2964c629b80ef235",
+      "source_line": 1116,
+      "traditional": "七夕節",
+      "simplified": "七夕节",
+      "pinyin": "Qi1 xi1 jie2",
+      "outcome": "acceptable",
+      "reason": "Festival date, festival names, the lovers, and the complete Chinese/pinyin reference are preserved. The annual meeting is conveyed naturally; no substantive correction is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "6965c4c12ad85f69",
+      "source_line": 37117,
+      "traditional": "布托",
+      "simplified": "布托",
+      "pinyin": "Bu4 tuo1",
+      "outcome": "deferred",
+      "reason": "The supplied note explicitly records the source’s office/term errors and the corrected office for Benazir. Segment 1 omits the faulty source date range rather than replacing it; the intended factual-edit policy needs resolution before approval.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the historical offices and dates before adding corrected terms to the main gloss. Preserve the source’s original 1971–1979 claim in the audit record rather than silently treating it as correct."
+      ]
+    },
+    {
+      "id": "a715cfc758574054",
+      "source_line": 70822,
+      "traditional": "熱河",
+      "simplified": "热河",
+      "pinyin": "Re4 he2",
+      "outcome": "deferred",
+      "reason": "The region, abolition/division, imperial-resort sense, and full Chinese/pinyin cross-reference are accurately retained. The revised Qing-origin phrasing avoids but does not resolve the source’s province-status issue.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the historical administrative status and chronology of Rehe; no new province-creation date is inferred here."
+      ]
+    },
+    {
+      "id": "efe1bb09df74d341",
+      "source_line": 125216,
+      "traditional": "龐德",
+      "simplified": "庞德",
+      "pinyin": "Pang2 De2",
+      "outcome": "deferred",
+      "reason": "The name senses and Pound biography are accurately conveyed. The Pang De chronology, affiliation, and claimed victory reproduce disputed source claims that need historical review.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify victor over Guan Yu and the Cao Wei/Three Kingdoms framing for a figure stated to have died in 219."
+      ]
+    },
+    {
+      "id": "e9915aa352a31786",
+      "source_line": 74384,
+      "traditional": "生命在於運動",
+      "simplified": "生命在于运动",
+      "pinyin": "sheng1 ming4 zai4 yu2 yun4 dong4",
+      "outcome": "deferred",
+      "reason": "The saying and physical-exercise paraphrases are translated faithfully. The Aristotle attribution is already marked unverified and should not be approved solely because it appears in the source.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the Aristotle attribution independently before presenting it as established authorship."
+      ]
+    },
+    {
+      "id": "808d1285a80253d8",
+      "source_line": 78668,
+      "traditional": "眾星捧月",
+      "simplified": "众星捧月",
+      "pinyin": "zhong4 xing1 peng3 yue4",
+      "outcome": "deferred",
+      "reason": "The surrounding-stars image and all three figurative glosses are clear and accurate. The claimed Analects provenance is explicitly qualified and remains unresolved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the exact textual source of 眾星捧月 rather than assuming related star imagery proves this wording occurs in the Analects."
+      ]
+    },
+    {
+      "id": "a1e14601cda43eba",
+      "source_line": 106349,
+      "traditional": "輕重主次",
+      "simplified": "轻重主次",
+      "pinyin": "qing1 zhong4 zhu3 ci4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian makes the neutral-priority versus inverted-priority source mismatch explicit in every segment and preserves all three source ideas. This is a source-entry defect, not an unmarked translation error.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Determine whether the headword should be 輕重主次 or whether English glosses from an inversion-of-priorities entry were attached incorrectly. No reassignment is authorized by this review."
+      ]
+    },
+    {
+      "id": "a521102008728f5a",
+      "source_line": 14344,
+      "traditional": "刻鵠類鶩",
+      "simplified": "刻鹄类鹜",
+      "pinyin": "ke4 hu2 lei4 wu4",
+      "outcome": "deferred",
+      "reason": "The carving image and both opposing outcome glosses are translated faithfully. The contradiction between total failure and a reasonably good imperfect result is correctly noted.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve the source’s total-failure interpretation before final approval; do not silently drop either source sense."
+      ]
+    },
+    {
+      "id": "d48a467fb89b4524",
+      "source_line": 23489,
+      "traditional": "噶",
+      "simplified": "噶",
+      "pinyin": "ga2",
+      "outcome": "correction_proposed",
+      "reason": "The dialect particle and its pinyin reference are preserved. Restore the explicit Latin phonetic rendering ga alongside the Ukrainian explanation; the Tibetan Ge phrase remains unresolved.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "фонетичне «ґа» для передачі тибетських і монгольських звуків",
+          "after": "фонетичне ga («ґа»), що використовується для передачі тибетських і монгольських звуків",
+          "reason": "Preserves the source phonetic romanization ga explicitly while retaining the Ukrainian pronunciation aid.",
+          "confidence": "high",
+          "issue_type": "romanization_preservation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Tibetan Ge: language of Buddha is too unclear to validate or replace without a specialist source."
+      ]
+    },
+    {
+      "id": "79f80e1c6351383d",
+      "source_line": 52604,
+      "traditional": "日化",
+      "simplified": "日化",
+      "pinyin": "ri4 hua4",
+      "outcome": "deferred",
+      "reason": "The household-chemicals gloss and its full Chinese/pinyin expansion are preserved. The linguistic terms are intelligible, but their attribution to 日化 needs verification before any terminology normalization.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify whether the rhotacization senses belong to 日化; do not silently substitute 兒化 or alter the headword."
+      ]
+    },
+    {
+      "id": "143a393dcc6df31b",
+      "source_line": 87788,
+      "traditional": "羅生門",
+      "simplified": "罗生门",
+      "pinyin": "Luo2 sheng1 men2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian correctly avoids asserting the disputed novel genre by using «літературний твір», while the note explicitly records the source discrepancy. Both figurative meanings are retained.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The established Ukrainian title/name convention was not independently standardized; no speculative respelling is proposed."
+      ]
+    },
+    {
+      "id": "43b28dae4179b88c",
+      "source_line": 24913,
+      "traditional": "土鱉",
+      "simplified": "土鳖",
+      "pinyin": "tu3 bie1",
+      "outcome": "acceptable",
+      "reason": "The professional/entrepreneur contrast, exact 海歸 reference, and colloquial insult are sound. The ground-beetle versus cockroach correction is explicitly disclosed rather than silently changing taxonomy.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The descriptive Ukrainian insect name is not asserted to be a formally standardized species name."
+      ]
+    },
+    {
+      "id": "bf8e1d48485ffce0",
+      "source_line": 71072,
+      "traditional": "燕雀處堂",
+      "simplified": "燕雀处堂",
+      "pinyin": "yan4 que4 chu4 tang2",
+      "outcome": "deferred",
+      "reason": "All supplied meanings are faithfully translated. The literal caged-bird/pavilion image conflicts with the Chinese wording and must be repaired at source level, not silently passed as literal.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the literal image of 燕雀處堂; the supplied Chinese contains swallows/sparrows and a hall/house, while the English adds a cage."
+      ]
+    },
+    {
+      "id": "685bf8a9eae7063e",
+      "source_line": 96858,
+      "traditional": "處堂燕雀",
+      "simplified": "处堂燕雀",
+      "pinyin": "chu4 tang2 yan4 que4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian preserves the same literal and figurative meanings as the reversed-form idiom. Its note correctly distinguishes the Chinese bird/house image from the source’s added cage/pavilion.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve the literal source image consistently with the 燕雀處堂 entry."
+      ]
+    },
+    {
+      "id": "f916b05453aff4ce",
+      "source_line": 57796,
+      "traditional": "桑帕約",
+      "simplified": "桑帕约",
+      "pinyin": "Sang1 pa4 yue1",
+      "outcome": "deferred",
+      "reason": "The surname, politician, and Brazilian town senses are translated coherently. The open-ended biography is already flagged; neither current biographical data nor Portuguese name conventions should be guessed.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the biographical end date and Ukrainian Portuguese-name conventions before any update."
+      ]
+    },
+    {
+      "id": "60179d1c4d1feeb0",
+      "source_line": 89279,
+      "traditional": "聖奧古斯丁",
+      "simplified": "圣奥古斯丁",
+      "pinyin": "Sheng4 ao4 gu3 si1 ding1",
+      "outcome": "deferred",
+      "reason": "The saint and theologian senses are accurate. The municipality description reproduces a source error already identified in the note; the German place-name spelling convention also merits verification.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Validate the Sankt Augustin/Beuel/Bonn relationship and the established Ukrainian rendering of Sankt Augustin."
+      ]
+    },
+    {
+      "id": "f2fb88b8a7b22d49",
+      "source_line": 115528,
+      "traditional": "隒",
+      "simplified": "隒",
+      "pinyin": "yan3",
+      "outcome": "acceptable",
+      "reason": "All parts of the unusual mountain-shape comparison, steep streambank, and rough mountain-path gloss are preserved without added interpretation.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The historical senses of this rare character remain unverified, as the existing note explicitly states."
+      ]
+    },
+    {
+      "id": "8593e4c64d2fdc10",
+      "source_line": 75072,
+      "traditional": "甸",
+      "simplified": "甸",
+      "pinyin": "dian4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian is faithful to all three English glosses. The mourning-attire sense is an unresolved source issue, not grounds for replacing the character’s senses by intuition.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify whether the source has confused a territorial/administrative sense involving 甸 with mourning categories; this is a hypothesis, not an approved correction."
+      ]
+    },
+    {
+      "id": "0cd881d81c2d3889",
+      "source_line": 76603,
+      "traditional": "白托",
+      "simplified": "白托",
+      "pinyin": "bai2 tuo1",
+      "outcome": "deferred",
+      "reason": "The day-care expansion and both Chinese/pinyin cross-references are exact. The greed/swindler senses and the claimed homophony are source uncertainties correctly identified by the note.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Validate the last two senses and the source’s homonym claim despite bai2 versus bai4."
+      ]
+    },
+    {
+      "id": "c308e28bdac39051",
+      "source_line": 51128,
+      "traditional": "整風運動",
+      "simplified": "整风运动",
+      "pinyin": "zheng3 feng1 yun4 dong4",
+      "outcome": "deferred",
+      "reason": "The rectification/purge meanings and all dates are retained. The 1950 anti-rightist characterization is already flagged as a historical source issue.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the source’s 1950 versus 1957 campaign terminology before factual normalization."
+      ]
+    },
+    {
+      "id": "cec15c8d172af36a",
+      "source_line": 89922,
+      "traditional": "肉豆蔻",
+      "simplified": "肉豆蔻",
+      "pinyin": "rou4 dou4 kou4",
+      "outcome": "deferred",
+      "reason": "Nutmeg, mace, the family name, and the source’s oil description are faithfully translated. A family-level label is broader than the headword and still needs source-level validation.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Validate the Myristicaceae family sense and its broad oil description under 肉豆蔻 rather than treating them as a species definition."
+      ]
+    },
+    {
+      "id": "e820149c56e11456",
+      "source_line": 19714,
+      "traditional": "合",
+      "simplified": "合",
+      "pinyin": "ge3",
+      "outcome": "deferred",
+      "reason": "The source’s three measurements and the 升/斗 characters are preserved. The peck warning is useful, but an approximate English measure does not by itself resolve the inconsistent equivalences.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve one-tenth of a peck against 100 ml, one-tenth of a sheng, and one-hundredth of a dou, with historical versus modern units distinguished."
+      ]
+    },
+    {
+      "id": "c5d8d0f0e6db9c52",
+      "source_line": 37078,
+      "traditional": "布什",
+      "simplified": "布什",
+      "pinyin": "Bu4 shi2",
+      "outcome": "acceptable",
+      "reason": "Both Bush names and life-date statements are preserved. The presidential-term changes are explicitly documented in the existing note, so they are not silent translation drift; no additional change is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "f8a17bd21aa917b9",
+      "source_line": 109186,
+      "traditional": "遮天蔽日",
+      "simplified": "遮天蔽日",
+      "pinyin": "zhe1 tian1 bi4 ri4",
+      "outcome": "deferred",
+      "reason": "The literal 日→sun correction is explicitly documented, and the other supplied figurative meanings are retained. The broad figurative glosses remain a Chinese/source alignment issue.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify earth-shattering, omnipresent, and of universal importance for 遮天蔽日."
+      ]
+    },
+    {
+      "id": "e05be2da4d4c685c",
+      "source_line": 61284,
+      "traditional": "殺人不過頭點地",
+      "simplified": "杀人不过头点地",
+      "pinyin": "sha1 ren2 bu4 guo4 tou2 dian3 di4",
+      "outcome": "deferred",
+      "reason": "All three English idiomatic paraphrases are translated accurately, but the note identifies that they fail to explain the Chinese expression’s limit-on-persecution sense. Translating the wrong source more elegantly would not solve this.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "This entry requires source-level semantic reconstruction with all original glosses retained in the audit trail."
+      ]
+    },
+    {
+      "id": "44a0c96f94abf33a",
+      "source_line": 119728,
+      "traditional": "飛刀",
+      "simplified": "飞刀",
+      "pinyin": "fei1 dao1",
+      "outcome": "deferred",
+      "reason": "The throwing-knife and off-hours-surgeon meanings are good. The machine-tool equivalent «летючий різець» looks like an unverified calque, but a standard Ukrainian tool term should not be invented.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the Ukrainian equivalent of fly cutter and whether a descriptive «фреза з одним різцем» is appropriate for this specific sense. This is not yet a proposed correction."
+      ]
+    },
+    {
+      "id": "5e3051cb8e6d0e9a",
+      "source_line": 109048,
+      "traditional": "遠志",
+      "simplified": "远志",
+      "pinyin": "yuan3 zhi4",
+      "outcome": "deferred",
+      "reason": "The ambition/ideal senses and botanical Latin name are retained accurately. The species mismatch in the medicinal-plant sense is explicitly flagged and cannot be resolved by translation alone.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the Polygala species intended by 遠志; no medicinal-use or taxonomic correction is inferred here."
+      ]
+    },
+    {
+      "id": "5209ec69b437c1f3",
+      "source_line": 90058,
+      "traditional": "股癬",
+      "simplified": "股癣",
+      "pinyin": "gu3 xuan3",
+      "outcome": "deferred",
+      "reason": "The groin dermatophyte infection and colloquial jock-itch wording are adequate. The source’s emphasis on sexual transmission is a medical-content issue requiring validation, not automatic endorsement.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The claim especially sexually transmitted requires qualified medical-source review before publication. The existing note should not be read as clinical validation of that emphasis."
+      ]
+    },
+    {
+      "id": "5bdf6f459fdcaf8b",
+      "source_line": 124991,
+      "traditional": "齒頰生香",
+      "simplified": "齿颊生香",
+      "pinyin": "chi3 jia2 sheng1 xiang1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian follows the English taste/salivation/anticipation glosses. The source’s interpretation differs from the pleasant aroma/lingering taste image signaled by the Chinese, and the note correctly leaves that unresolved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the literal aroma sense and whether the source’s anticipatory-drooling interpretations are valid for 齒頰生香."
+      ]
+    },
+    {
+      "id": "c9e5098f8fd05dbd",
+      "source_line": 96028,
+      "traditional": "薄面",
+      "simplified": "薄面",
+      "pinyin": "bo2 mian4",
+      "outcome": "correction_proposed",
+      "reason": "The first two glosses retain the source’s uncertain wording. In the request formula, the omitted object of «осоромити» leaves whose face is to be saved unclear.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 2,
+          "before": "зробіть це заради мене, щоб не осоромити (скромно про себе)",
+          "after": "зробіть це заради мене, щоб не осоромити мене (скромно про себе)",
+          "reason": "Restores the explicit first-person object required by save my face without adding a new idiomatic interpretation.",
+          "confidence": "high",
+          "issue_type": "omission"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source’s meager sensibilities wording and the relation of blushing face to 薄面 remain unverified."
+      ]
+    },
+    {
+      "id": "9350c21310dd3c1a",
+      "source_line": 89883,
+      "traditional": "肉夾饃",
+      "simplified": "肉夹馍",
+      "pinyin": "rou4 jia1 mo2",
+      "outcome": "deferred",
+      "reason": "The burger/sandwich explanations and regional statement are well rendered. The steamed-bun wording reproduces a source issue already disclosed in the note.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the source’s steamed-bun characterization of 肉夾饃; do not silently rewrite the cooking method."
+      ]
+    },
+    {
+      "id": "d8be32130b17e8b2",
+      "source_line": 90285,
+      "traditional": "背氣",
+      "simplified": "背气",
+      "pinyin": "bei4 qi4",
+      "outcome": "deferred",
+      "reason": "Breathing cessation, anger-related fainting, and stroke are all translated faithfully as distinct source glosses. The stroke equivalence remains medically unvalidated.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Validate to have a stroke as a sense of 背氣 before publication; the faithful translation alone does not establish medical equivalence."
+      ]
+    },
+    {
+      "id": "e8bfeb7813e710de",
+      "source_line": 55430,
+      "traditional": "朝覲",
+      "simplified": "朝觐",
+      "pinyin": "chao2 jin4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian accurately reproduces the source’s emperor-gives-an-audience wording, but this reverses the ordinary participant perspective of 朝覲. The retained note correctly exposes the source problem.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve give audience versus attend/pay respects at an audience; retain the hajj sense and all original glosses."
+      ]
+    },
+    {
+      "id": "709de7dab4bea91e",
+      "source_line": 116022,
+      "traditional": "集部",
+      "simplified": "集部",
+      "pinyin": "ji2 bu4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian consistently renders the source’s noncanonical framing and explicitly explains the apocryphal adaptation. The larger error is classifying 集部 through canonicity instead of its bibliographic category.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the traditional bibliographic category before replacing or supplementing these source glosses."
+      ]
+    },
+    {
+      "id": "0b8066bc5e8ca7da",
+      "source_line": 10329,
+      "traditional": "兀",
+      "simplified": "兀",
+      "pinyin": "wu4",
+      "outcome": "acceptable",
+      "reason": "The literary labels and all height, bareness, and still/yet senses are faithfully translated. No substantive Ukrainian error or note contamination was found.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "27f094f4212a5b89",
+      "source_line": 115839,
+      "traditional": "雁過拔毛",
+      "simplified": "雁过拔毛",
+      "pinyin": "yan4 guo4 ba2 mao2",
+      "outcome": "acceptable",
+      "reason": "The literal goose image and opportunistic-for-profit implication are clear. The source’s neutral pragmatic gloss is retained as «практичний» alongside an explicitly explained contextual qualification.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The note transparently records the difference between source neutrality and the idiom’s negative coloring; no unsupported deletion is proposed."
+      ]
+    },
+    {
+      "id": "bc33c206a993425f",
+      "source_line": 36723,
+      "traditional": "差商",
+      "simplified": "差商",
+      "pinyin": "cha1 shang1",
+      "outcome": "correction_proposed",
+      "reason": "The three Ukrainian mathematical terms correspond to their English glosses. The note incorrectly describes finite difference as simply a broader sense rather than acknowledging a distinct mathematical concept.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Останнє значення джерела ширше від звичного значення 差商; термінологічну відповідність слід перевірити.",
+          "after": "Останнє значення джерела потребує перевірки: «скінченна різниця» і «різницеве відношення» — різні математичні поняття, тому перше не слід подавати просто як ширший відповідник 差商.",
+          "reason": "Corrects the unsupported broader/narrower relationship while preserving all source terms.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Validate finite difference as a source gloss for 差商; the note correction does not authorize deleting it."
+      ]
+    },
+    {
+      "id": "6ec3cf102e3be79c",
+      "source_line": 26818,
+      "traditional": "壓線",
+      "simplified": "压线",
+      "pinyin": "ya1 xian4",
+      "outcome": "deferred",
+      "reason": "The three Ukrainian phrases are comprehensible, but pressure crease does not itself establish ironing, and the figurative labor-for-another sense needs its specific historical context.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify «запрасована» as opposed to a pressed crease generally, and establish the context of the figurative toil-for-another sense."
+      ]
+    },
+    {
+      "id": "bf5f1a3d7eea6fbd",
+      "source_line": 41604,
+      "traditional": "怦怦",
+      "simplified": "怦怦",
+      "pinyin": "peng1 peng1",
+      "outcome": "correction_proposed",
+      "reason": "The thumping and eager/anxious glosses are adequately rendered. In faithful and upright, «праведний» adds a religious/moral-righteousness shade where honest/upright is the safer exact sense.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 2,
+          "before": "вірний і праведний",
+          "after": "вірний і чесний",
+          "reason": "Чесний is the less marked rendering of upright here; праведний can add a stronger righteousness or religious shade. This is a medium-confidence precision proposal, not a claim that the existing word is impossible.",
+          "confidence": "medium",
+          "issue_type": "register_precision"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Рідкісні додаткові значення 怦怦 («нетерпляче прагнути», «вірний і праведний») наведено за джерелом; вони потребують перевірки.",
+          "after": "Додаткові значення 怦怦 («нетерпляче й тривожно прагнути» та «вірний і чесний») наведено за джерелом; вони потребують перевірки.",
+          "reason": "Conditional on accepting the medium-confidence segment correction: keep the source uncertainty and update its quoted Ukrainian wording. If the segment correction is not accepted, retain the original on-topic note instead.",
+          "confidence": "medium"
+        }
+      ],
+      "remaining_uncertainty": [
+        "The two non-onomatopoeic source senses of 怦怦 still need lexicographic verification."
+      ]
+    },
+    {
+      "id": "4de5f2ba874ea756",
+      "source_line": 42985,
+      "traditional": "愷撒",
+      "simplified": "恺撒",
+      "pinyin": "Kai3 sa1",
+      "outcome": "deferred",
+      "reason": "The name, extension to imperial titles, and supplied dates are faithfully retained. The source’s death-date error is explicitly marked; this review does not silently replace it.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve the source’s 42 BC death date against the 44 BC date recorded in the note before approving the historical gloss."
+      ]
+    },
+    {
+      "id": "7962678ec528b2f0",
+      "source_line": 71652,
+      "traditional": "牛樟",
+      "simplified": "牛樟",
+      "pinyin": "niu2 zhang1",
+      "outcome": "deferred",
+      "reason": "The Latin taxon and Taiwan origin are preserved, and the Ukrainian names are plausible descriptive translations. The note correctly avoids asserting that they are established botanical names.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify Ukrainian common-name conventions and the source’s small-leaf/stout camphor labels before standardizing them."
+      ]
+    },
+    {
+      "id": "84348379c42a95fa",
+      "source_line": 103976,
+      "traditional": "賧",
+      "simplified": "赕",
+      "pinyin": "dan3",
+      "outcome": "deferred",
+      "reason": "The fine/atonement gloss is rendered with appropriate distancing from the source’s historical label; the exact Taiwan pronunciation is retained. The river sense remains unsupported.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify river under 賧 without altering the supplied dan3 or Taiwan [tan4] readings by guesswork."
+      ]
+    },
+    {
+      "id": "54375bb8f425acf9",
+      "source_line": 104168,
+      "traditional": "贈",
+      "simplified": "赠",
+      "pinyin": "zeng4",
+      "outcome": "deferred",
+      "reason": "Gift-giving and posthumous honorary-title meanings are correct. Repel is faithfully translated, but its presence under 贈 is not substantiated by the supplied entry.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify to repel for 贈 before approving it as a Chinese sense."
+      ]
+    },
+    {
+      "id": "87e972dbb1b47cc9",
+      "source_line": 1250,
+      "traditional": "三八",
+      "simplified": "三八",
+      "pinyin": "san1 ba1",
+      "outcome": "correction_proposed",
+      "reason": "Metadata-only contamination: all three Ukrainian glosses are semantically adequate, but the uncertainty note refers to DINK, which occurs nowhere in this entry.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "The DINK acronym and cited Chinese holiday name are preserved.",
+          "after": null,
+          "reason": "Quarantine this exact original note without deleting it from the audit trail or clearing the original uncertainty flags. The DINK clause is unrelated to 三八; the holiday-reference clause is relevant but is not uncertainty. DINK suggests another acronym entry, but the intended headword is not verified, so do not reassign it.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "3b219e87d89b633a",
+      "source_line": 114553,
+      "traditional": "阿姆哈拉",
+      "simplified": "阿姆哈拉",
+      "pinyin": "A1 mu3 ha1 la1",
+      "outcome": "deferred",
+      "reason": "The name, language, and adjective are translated correctly as supplied. Ethiopian remains a broader source designation than Amhara, as the existing note correctly warns.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the intended scope of Ethiopian and the source’s province/language/ethnic-group grouping."
+      ]
+    },
+    {
+      "id": "863e8ee7d25574ab",
+      "source_line": 26294,
+      "traditional": "塑鋼",
+      "simplified": "塑钢",
+      "pinyin": "su4 gang1",
+      "outcome": "correction_proposed",
+      "reason": "The polymer descriptions are accurately rendered. Preserve Delrin as the source’s identifiable commercial name instead of presenting only a lowercase Ukrainian generic-looking form.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 1,
+          "before": "делрін",
+          "after": "Delrin (делрін)",
+          "reason": "Retains the exact identifiable source product name and its Ukrainian rendering.",
+          "confidence": "high",
+          "issue_type": "proper_name_preservation"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The regional/contextual material senses of 塑鋼 need source-level confirmation; acetal/Delrin and rigid PVC should not be collapsed into a single material."
+      ]
+    },
+    {
+      "id": "121478e440135ab6",
+      "source_line": 68780,
+      "traditional": "濾餅",
+      "simplified": "滤饼",
+      "pinyin": "lu:4 bing3",
+      "outcome": "correction_proposed",
+      "reason": "The solid-residue gloss is sound and the filtrate/filter-cake conflict is already flagged. The note should also disclose the interpretation of the source typo can sugar as cane sugar.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Перший англійський сегмент filtrate суперечить значенню китайського слова: воно позначає фільтрувальний осад, а не рідину, що пройшла крізь фільтр; потрібна перевірка джерела.",
+          "after": "Перший англійський сегмент filtrate суперечить значенню китайського слова: воно позначає фільтрувальний осад, а не рідину, що пройшла крізь фільтр. У третьому сегменті can sugar, імовірно, є друкарською помилкою замість cane sugar; «тростинного цукру» — інтерпретація цієї помилки. Обидві розбіжності потребують перевірки джерела.",
+          "reason": "Records a previously undisclosed source-spelling interpretation without changing the English source or asserting the inference as certain.",
+          "confidence": "medium"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Filtrate remains a source/headword contradiction. The third gloss’s intended spelling and precise sugar-processing stage still need confirmation."
+      ]
+    },
+    {
+      "id": "5ee45ad7784dc003",
+      "source_line": 57661,
+      "traditional": "桁楊",
+      "simplified": "桁杨",
+      "pinyin": "hang2 yang2",
+      "outcome": "deferred",
+      "reason": "Stocks, generic punishment equipment, and torture instrument are faithfully translated. The source’s knives component is a literal-interpretation issue already exposed by the note.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify stocks and knives as the literal explanation of 桁楊 before replacing the source image."
+      ]
+    },
+    {
+      "id": "84514498b0749ccb",
+      "source_line": 54585,
+      "traditional": "曼珠沙華",
+      "simplified": "曼珠沙华",
+      "pinyin": "man4 zhu1 sha1 hua1",
+      "outcome": "deferred",
+      "reason": "The scientific name and exact Sanskrit mañjusaka are preserved, and the Ukrainian descriptions are understandable. The English common-name calque is not an established Ukrainian name merely because it is literal.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the Ukrainian plant-name conventions and cluster amaryllis label; keep Lycoris radiata and mañjusaka exact."
+      ]
+    },
+    {
+      "id": "4b7b705d1b8f66c8",
+      "source_line": 57064,
+      "traditional": "柚木",
+      "simplified": "柚木",
+      "pinyin": "you4 mu4",
+      "outcome": "deferred",
+      "reason": "All three citrus glosses are faithfully translated, but the supplied note identifies a whole-entry headword mismatch with teak. This cannot be repaired as a Ukrainian-only edit.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the Chinese headword/taxon mapping. Do not silently substitute teak or reassign the pomelo senses."
+      ]
+    },
+    {
+      "id": "9fbba5b7b6f48896",
+      "source_line": 31703,
+      "traditional": "孳乳",
+      "simplified": "孳乳",
+      "pinyin": "zi1 ru3",
+      "outcome": "deferred",
+      "reason": "Multiplication and reproduction are rendered well. Compounds is narrowed to compound words, while the note itself admits that the linguistic/character-formation context is uncertain.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve the intended domain and object of derive (compounds); do not invent a chemistry or word-formation interpretation."
+      ]
+    },
+    {
+      "id": "b52659bf5e2f921f",
+      "source_line": 107306,
+      "traditional": "迷惑龍",
+      "simplified": "迷惑龙",
+      "pinyin": "mi2 huo5 long2",
+      "outcome": "deferred",
+      "reason": "Apatosaurus, the historical brontosaurus gloss, and the exact 雷龍 cross-reference are preserved. The source’s taxonomic relationship needs current specialist verification.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify whether former name is accurate in the intended historical/taxonomic context before publication."
+      ]
+    },
+    {
+      "id": "21f5ee544d438189",
+      "source_line": 114655,
+      "traditional": "阿普吐龍",
+      "simplified": "阿普吐龙",
+      "pinyin": "a1 pu3 tu3 long2",
+      "outcome": "deferred",
+      "reason": "The translation consistently matches the synonymous apatosaurus entry and retains the exact 雷龍 reference. Its taxonomic caveat is appropriate.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve the same apatosaurus/brontosaurus source issue as 迷惑龍; keep both entries consistent after verification."
+      ]
+    },
+    {
+      "id": "320c04b3d74996db",
+      "source_line": 35332,
+      "traditional": "居心",
+      "simplified": "居心",
+      "pinyin": "ju1 xin1",
+      "outcome": "deferred",
+      "reason": "The intentions and determination senses are clear. The tranquil-heart sense is faithfully translated but remains a source-level mismatch already identified by the note.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify a tranquil heart or mind for 居心 rather than deleting it without evidence."
+      ]
+    },
+    {
+      "id": "a07681ce1dbc7a58",
+      "source_line": 26879,
+      "traditional": "壞鳥",
+      "simplified": "坏鸟",
+      "pinyin": "huai4 niao3",
+      "outcome": "acceptable",
+      "reason": "The sinister/unsavory person meanings and broken/not-working meaning are all conveyed. The note appropriately makes the latter conditional on colloquial 壞了-like writing rather than claiming one universal interpretation.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The colloquial spelling context remains relevant; the third sense should retain its explanatory note."
+      ]
+    },
+    {
+      "id": "f9b3c4b1a9a5fb4c",
+      "source_line": 111350,
+      "traditional": "金石",
+      "simplified": "金石",
+      "pinyin": "jin1 shi2",
+      "outcome": "correction_proposed",
+      "reason": "The metal/stone senses are correct and the source correction is documented, but the main inscription gloss drops the explicitly supplied bronze reference.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 2,
+          "before": "напис на металі або камені",
+          "after": "напис на металі (зокрема бронзі) або камені",
+          "reason": "Restores the source’s bronze material while keeping the Chinese-grounded stone interpretation explicitly explained in the existing note.",
+          "confidence": "high",
+          "issue_type": "omission"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The source says metal or bronze where the Chinese motivates stone; retain the existing source-error note and the original English unchanged."
+      ]
+    },
+    {
+      "id": "291286b7bb6012e1",
+      "source_line": 105142,
+      "traditional": "跟腳",
+      "simplified": "跟脚",
+      "pinyin": "gen1 jiao3",
+      "outcome": "acceptable",
+      "reason": "The shoe-fit and following-close-behind meanings are accurate. The feet/fit typo is transparently documented; no substantive Ukrainian repair is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "d9926bc0b2597377",
+      "source_line": 122716,
+      "traditional": "鮨",
+      "simplified": "鮨",
+      "pinyin": "qi2",
+      "outcome": "deferred",
+      "reason": "Sushi, grouper, Portuguese garoupa, and the exact scientific name are retained. The Japanese-use versus Chinese-reading issue is correctly kept separate from translation.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the reading/sense association and the species nomenclature before standardizing this rare character entry."
+      ]
+    },
+    {
+      "id": "d180f2efa70002ad",
+      "source_line": 115173,
+      "traditional": "陰道炎",
+      "simplified": "阴道炎",
+      "pinyin": "yin1 dao4 yan2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian explicitly distinguishes vagina from the broader source’s vulva and correctly renders colpitis. The source mixes infection, inflammation, and anatomical scope, so medical equivalence remains unapproved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Validate the source’s vaginal infection and vulva wording against the intended 陰道炎 sense; do not treat the faithful translation as medical validation."
+      ]
+    },
+    {
+      "id": "cb519a1035b8ecbd",
+      "source_line": 54558,
+      "traditional": "曹白魚",
+      "simplified": "曹白鱼",
+      "pinyin": "cao2 bai2 yu2",
+      "outcome": "deferred",
+      "reason": "The scientific name and all three fish-name glosses are retained. The descriptive Ukrainian common names are not demonstrably standardized, as the existing note correctly states.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify Ukrainian common names for Ilisha elongata; do not replace them with guessed taxonomic conventions."
+      ]
+    },
+    {
+      "id": "6c7ace763f325799",
+      "source_line": 85843,
+      "traditional": "絨毛",
+      "simplified": "绒毛",
+      "pinyin": "rong2 mao2",
+      "outcome": "acceptable",
+      "reason": "Fur and soft underfur are conveyed correctly. The intestinal-villi rendering is supported by the stated context, and the malformed English villi capillary wording is explicitly documented rather than silently presented as a separate capillary sense.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "97c15c1c311c746f",
+      "source_line": 48581,
+      "traditional": "援藏",
+      "simplified": "援藏",
+      "pinyin": "yuan2 Zang4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian accurately distinguishes supporting Tibet from supporting independence. The latter is a substantive additional political meaning in the source and cannot be inferred merely from 援藏.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the independence sense and its context before approving it; retain the source distinction instead of generalizing from assistance to a political position."
+      ]
+    },
+    {
+      "id": "327bed0cb023f5f3",
+      "source_line": 122027,
+      "traditional": "高脂血症",
+      "simplified": "高脂血症",
+      "pinyin": "gao1 zhi1 xue4 zheng4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian medical terms correspond to all supplied glosses. The note correctly identifies that hypertriglyceridemia is a narrower condition rather than simply interchangeable with hyperlipidemia.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Clinical/taxonomic validation is still needed for treating hypertriglyceridemia as a standalone equivalent of 高脂血症."
+      ]
+    },
+    {
+      "id": "6ef3be27faa11ef9",
+      "source_line": 52307,
+      "traditional": "方陣",
+      "simplified": "方阵",
+      "pinyin": "fang1 zhen4",
+      "outcome": "correction_proposed",
+      "reason": "The military formation senses are good. The mathematical Ukrainian gloss omits the defining square-matrix restriction already identified by the Chinese word and existing note.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 2,
+          "before": "(мат.) матриця",
+          "after": "(мат.) квадратна матриця",
+          "reason": "Restores the square restriction of 方陣. The existing note explicitly records that the English source gives the broader matrix gloss, so the precision change is not silent.",
+          "confidence": "high",
+          "issue_type": "missing_semantic_restriction"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "b1cb8744e380dc2d",
+      "source_line": 90021,
+      "traditional": "肝火",
+      "simplified": "肝火",
+      "pinyin": "gan1 huo3",
+      "outcome": "acceptable",
+      "reason": "Irascibility and irritability are accurate. The TCM rendering carefully preserves the source’s inflammation wording while distinguishing it from the conceptual «вогонь печінки»; no misleading biomedical equivalence is newly introduced.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "07fc90cfbe236df5",
+      "source_line": 50214,
+      "traditional": "收羅",
+      "simplified": "收罗",
+      "pinyin": "shou1 luo2",
+      "outcome": "deferred",
+      "reason": "Gathering people and recruiting talent are correctly expressed. Come to an end is faithfully translated but remains an unsupported source sense.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify to come to an end for 收羅 before approval."
+      ]
+    },
+    {
+      "id": "cb95b42c3f5ccce5",
+      "source_line": 60827,
+      "traditional": "歪歪斜斜",
+      "simplified": "歪歪斜斜",
+      "pinyin": "wai1 wai1 xie2 xie2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian reflects shuddering/trembling, and the handwriting description is natural. The discrepancy lies in the source’s movement-based glosses versus the Chinese crooked/slanting form.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the first two source glosses for 歪歪斜斜; do not silently replace them with crookedness without a source decision."
+      ]
+    },
+    {
+      "id": "e65dee45188edf7b",
+      "source_line": 70853,
+      "traditional": "熱血",
+      "simplified": "热血",
+      "pinyin": "re4 xue4",
+      "outcome": "deferred",
+      "reason": "The literal hot-blood and physiological English meanings are recognizably translated. Their attribution to 熱血 and the precise Ukrainian physiology term require confirmation rather than an automatic swap.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify warm-blooded/endothermic as senses of 熱血 and the relevant Ukrainian technical convention."
+      ]
+    },
+    {
+      "id": "fff4e00f393bc040",
+      "source_line": 116502,
+      "traditional": "雞血石",
+      "simplified": "鸡血石",
+      "pinyin": "ji1 xue4 shi2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian mineral names accurately reproduce the English glosses. The supplied note identifies a potentially serious mineral-identity conflation, which cannot be solved by translating bloodstone literally.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify 雞血石 against bloodstone/heliotrope/red-fleck chalcedony with a mineralogical source; retain the original glosses for audit."
+      ]
+    },
+    {
+      "id": "7db2c063de559678",
+      "source_line": 91986,
+      "traditional": "自然銅",
+      "simplified": "自然铜",
+      "pinyin": "zi4 ran2 tong2",
+      "outcome": "deferred",
+      "reason": "The copper, chalcopyrite, and chemical-formula glosses are individually translated accurately, with CuFeS2 exact. The source conflates distinct materials, and the TCM alternative adds a further context that needs verification.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve the intended mineral and usage domain; do not collapse native copper, chalcopyrite, and the note’s pyrite possibility."
+      ]
+    },
+    {
+      "id": "10853236e08d69a8",
+      "source_line": 119531,
+      "traditional": "風月",
+      "simplified": "风月",
+      "pinyin": "feng1 yue4",
+      "outcome": "deferred",
+      "reason": "Romance, scenery, and petty talk are each rendered plausibly from their English glosses. The small/petty sense remains unverified for the Chinese headword.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify small or petty under 風月 and its exact context."
+      ]
+    },
+    {
+      "id": "fafad87581b4652f",
+      "source_line": 63266,
+      "traditional": "沒有事",
+      "simplified": "没有事",
+      "pinyin": "mei2 you3 shi4",
+      "outcome": "deferred",
+      "reason": "The nothing-happening and nothing-alarming segments are good. The isolated not a bit is ambiguous; «нічого подібного» is a contextual interpretation rather than an exact unqualified equivalent.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Resolve the first source gloss in context before choosing between a denial such as «зовсім ні» and a no-problem interpretation."
+      ]
+    },
+    {
+      "id": "980cb8cdf8d73f52",
+      "source_line": 46785,
+      "traditional": "拾芥",
+      "simplified": "拾芥",
+      "pinyin": "shi2 jie4",
+      "outcome": "acceptable",
+      "reason": "The literal pick-up image and both easy-task paraphrases are natural. The cress-to-small-grass adaptation is explicitly recorded as a source/Chinese distinction rather than hidden.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The precise historical plant/object denotation is not newly standardized; the existing note should remain."
+      ]
+    },
+    {
+      "id": "e7762cb91547a8ae",
+      "source_line": 63690,
+      "traditional": "油菜籽",
+      "simplified": "油菜籽",
+      "pinyin": "you2 cai4 zi3",
+      "outcome": "deferred",
+      "reason": "The seed glosses are conveyed clearly, and the botanical Latin is preserved. The first English gloss names a plant while the headword names its seeds; common-name/taxon conventions also need confirmation.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the source’s Brassica campestris and oilseed-rape/common-name alignment before a botanical correction."
+      ]
+    },
+    {
+      "id": "1991d10e6ce94028",
+      "source_line": 65706,
+      "traditional": "消炎",
+      "simplified": "消炎",
+      "pinyin": "xiao1 yan2",
+      "outcome": "deferred",
+      "reason": "The fever-reducing, antipyretic, and anti-inflammatory meanings are faithfully translated as separate source glosses. Their conflation in the English source is clinically material and remains unresolved.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Validate the first two source senses of 消炎 before publication; do not equate antipyresis and anti-inflammatory action merely because the source lists them together."
+      ]
+    },
+    {
+      "id": "4c89fed5984065c3",
+      "source_line": 122363,
+      "traditional": "鬵",
+      "simplified": "鬵",
+      "pinyin": "qian2",
+      "outcome": "acceptable",
+      "reason": "The large iron pot, cauldron, and variant-character reference are preserved. The exact 甑[zeng4] notation remains intact, and the note openly identifies the reading difference instead of normalizing it.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The historical variant relationship and qian2 reading have not been independently established; this is not a human-validated character identification."
+      ]
+    },
+    {
+      "id": "35ddafb5fc7256f9",
+      "source_line": 10001,
+      "traditional": "傿",
+      "simplified": "傿",
+      "pinyin": "Yan1",
+      "outcome": "acceptable",
+      "reason": "The immortal’s name, ancient place-name, and surname senses are faithfully rendered. Янь is consistent with the supplied Yan1 reading, with no unsupported identification of a particular person or place.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "985f1a051c1e5027",
+      "source_line": 52907,
+      "traditional": "昆",
+      "simplified": "昆",
+      "pinyin": "kun1",
+      "outcome": "acceptable",
+      "reason": "Descendant, elder brother, and the unspecified poetry style are all translated accurately. The possible 西崑體 connection is explicitly tentative and is not silently added as a definitive source gloss.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "The particular poetry style still needs identification if greater detail is required."
+      ]
+    },
+    {
+      "id": "2f710ed6058953fd",
+      "source_line": 55642,
+      "traditional": "未央",
+      "simplified": "未央",
+      "pinyin": "wei4 yang1",
+      "outcome": "deferred",
+      "reason": "The not-ended/not-yet-over senses are accurate. Close to the end is faithfully translated but is not entailed by the Chinese, so the source contradiction must remain flagged.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify or repair the final source sense without deleting it from the audit trail."
+      ]
+    },
+    {
+      "id": "fd594aa5d8579328",
+      "source_line": 58577,
+      "traditional": "楠",
+      "simplified": "楠",
+      "pinyin": "nan2",
+      "outcome": "deferred",
+      "reason": "The Latin name and both English common-name claims are faithfully retained. The note correctly signals that cedar/redwood labels may misidentify the Chinese timber/tree.",
+      "confidence": "medium",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Verify the botanical identity and English common-name claims for 楠 before any taxonomic replacement."
+      ]
+    },
+    {
+      "id": "92b953c247ece388",
+      "source_line": 935,
+      "traditional": "一路上",
+      "simplified": "一路上",
+      "pinyin": "yi1 lu4 shang4",
+      "outcome": "correction_proposed",
+      "reason": "Metadata-only contamination: all three spatial/temporal Ukrainian meanings are accurate. The Formula One note has no connection to 一路上 or any supplied gloss.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Formula One is the established Ukrainian name for the motor-racing series.",
+          "after": null,
+          "reason": "Quarantine this exact original note without deleting it from the audit trail or clearing the original uncertainty flags. It concerns the motor-racing series Formula One, which is absent from this entry. The intended other headword is not verified, so do not automatically reassign it.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    }
+  ]
+}

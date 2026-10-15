@@ -1,0 +1,651 @@
+{
+  "checkpoint": 4,
+  "application_review_completed": true,
+  "review_type": "model",
+  "human_validation": false,
+  "review_file_sha256": {
+    "review_001.json": "a01b91ab172bc9c502eda691b8a20ce9810e1139712e1106a9639e80e35d1943",
+    "review_002.json": "b88a09691661ffe763eea0c6cae2c9d142f1f4ca232a223a3e1c4cbf2d089476",
+    "review_003.json": "97fa3f8f2c5f986a6333ce58b59469affba2b144c79215c06747596ccc7539a8"
+  },
+  "decisions": [
+    {
+      "kind": "note",
+      "id": "f910cd25265a95e5",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "a0b6d49bfef89eaa",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "638cae42f4761963",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "c69da245e3b2ec10",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "c69da245e3b2ec10",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "c2c9f3a7152fe2ca",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "c2c9f3a7152fe2ca",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "2395ba0d5f640b77",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "2395ba0d5f640b77",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "c9e23f75186a3b82",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "c9e23f75186a3b82",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "2ea0f9732385fc53",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "dc37344fec43b0fb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "4beb65a659253143",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "b7441e43ef92ae69",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "b7441e43ef92ae69",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "1f4d0800cbadcf30",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "71781545e4c363e5",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "ce34497d3d557e19",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "ce34497d3d557e19",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "c0e96d1c790a0b5b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "c0e96d1c790a0b5b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "bbbdaf685cb71b61",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "7124b94e6611920f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "69a6ca092b2c9f9d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "5a60fc574bb55019",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "5a60fc574bb55019",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "2be2673d180aeab0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "58dc9a4b0dc5ddcd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "a731d39ef244251f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "cb999d2d501843e1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "409ec140b080bce6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "409ec140b080bce6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "ea740c52758196a2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "ea740c52758196a2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "note",
+      "id": "d98ced8c156356ac",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "dc1f3302d8ce38a8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "fbf271ad73545a28",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "01b5666c6ad049b8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "a39304e63409d8a9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "a3e5437035b9b0bf",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "344861eaae4798f2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "a886fb8b8fe1e7db",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "88abda63da4f87cc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "a56bfd4df5806e60",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "2f37edec96b77cba",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "155d402c8af378f6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "c2173382f48c6bed",
+      "index": 0,
+      "decision": "hold",
+      "reason": "The proposal is medium confidence. Preserve the gloss and uncertainty until stronger evidence resolves the descriptive wording."
+    },
+    {
+      "kind": "segment",
+      "id": "69cca5bdead82cf3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "da2a95acbf6fa70c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "265f7fd5e22bcbb9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "265f7fd5e22bcbb9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "2f2c0639bb89c699",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "603610b42be6d1a5",
+      "index": 0,
+      "decision": "hold",
+      "reason": "The proposal is medium confidence. Preserve the gloss and uncertainty until stronger evidence resolves the descriptive wording."
+    },
+    {
+      "kind": "segment",
+      "id": "4382da2406502f19",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "8c2e2aa588ac6980",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "121c50ecd8ddf68f",
+      "index": 0,
+      "decision": "hold",
+      "reason": "The historical-terminology revision and original assertion remain insufficiently verified; keep the note inactive in quarantine rather than restore it. ",
+      "original_attachment_approved": false
+    },
+    {
+      "kind": "segment",
+      "id": "a00ed7a0dd184717",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "a00ed7a0dd184717",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "f00a2229a87970cc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "d28dd2d9a3afc86a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "b303bdae871a555a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "b303bdae871a555a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "57c9dc511e01dc13",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "57c9dc511e01dc13",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "92ce1789bda1771f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "2126114bccb1278e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "8cac7f6612381a80",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "note",
+      "id": "98fb2708803b87bf",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "49d1a1d10d10eb22",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "b2b425240603ecff",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "25dd9bc6b829168e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "8c10d92606c1ddce",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "0a68926a1c564b7f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "48ba194cf48e7040",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "48ba194cf48e7040",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "f1c84b4a42d9fe35",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "f8ed9ec10db06ffc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "f8ed9ec10db06ffc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "42ab8c3dab5cbda8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "42ab8c3dab5cbda8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "note",
+      "id": "6c471a7119f5b4c0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "f951d758af352798",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "f951d758af352798",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "07f9e328e9fcd08f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "6402ff9b4ec33f40",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "021710d6fac2ca9c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "021710d6fac2ca9c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "segment",
+      "id": "a2bcfe49b118f8bb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after and cited evidence. High-confidence lexical correction or explicitly documented source correction; references and original flags are preserved."
+    },
+    {
+      "kind": "note",
+      "id": "a2bcfe49b118f8bb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    },
+    {
+      "kind": "note",
+      "id": "283b2a833c20764a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note assertion and evidence. Narrow high-confidence clarification retains source context and any unresolved issue."
+    }
+  ]
+}

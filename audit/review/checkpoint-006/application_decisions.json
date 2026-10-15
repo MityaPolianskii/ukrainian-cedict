@@ -1,0 +1,1119 @@
+{
+  "checkpoint": 6,
+  "application_review_completed": true,
+  "review_type": "model",
+  "human_validation": false,
+  "review_file_sha256": {
+    "review_001.json": "59f1bccfea68ce753a564676e066968f0bbf0ff8443ef99d192bb0678f97d627",
+    "review_002.json": "9a8727b6323837cbbf93c549c3bc3278919afb71c0f63506437b2081ec1ace40",
+    "review_003.json": "a2e2ad61787cb424809cbe8687197292f8145404f5f74166c100b87a2d989d20"
+  },
+  "decisions": [
+    {
+      "kind": "segment",
+      "id": "7596d236599f5816",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "7596d236599f5816",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "76bacd2469f75b47",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "76bacd2469f75b47",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "09f3a9b99fd345bb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "segment",
+      "id": "d597e965cdcffb49",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "d597e965cdcffb49",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "92cdf0f18009b38b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "92cdf0f18009b38b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "0c92ea23775869c9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "0c92ea23775869c9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "c9d93f29fee65407",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "c9d93f29fee65407",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "b6eca1ad7abc16ba",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "b6eca1ad7abc16ba",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "3b1113a2273b7d08",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "3b1113a2273b7d08",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "a413a9b9f938c049",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "a413a9b9f938c049",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "99d53f48bf201cb2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "segment",
+      "id": "02ad771e8677faa5",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "02ad771e8677faa5",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "5cd1c55b1b07920e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "5cd1c55b1b07920e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "920110838d1bf764",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "920110838d1bf764",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "5953bc54ec29c8cb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "5953bc54ec29c8cb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "b74198db8cf79522",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "segment",
+      "id": "19437ecfa3aaf3e2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "19437ecfa3aaf3e2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "5671ffe96416c07d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "1ed4922046b5dae3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "segment",
+      "id": "3194d6e642eda26b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "3194d6e642eda26b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "ad1548acc1f3c5fc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "ad1548acc1f3c5fc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "a9e7dd01e841ed5d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "a9e7dd01e841ed5d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "4b804d73c835e8ce",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "4b804d73c835e8ce",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "aba97fa666040b8a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "aba97fa666040b8a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "1b95b47a6c4c0add",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "1b95b47a6c4c0add",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "a9744fe143e30ff0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "segment",
+      "id": "6fc6afacf2a1149a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "6fc6afacf2a1149a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "d40d7ffc89095b34",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "d40d7ffc89095b34",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "c4367e6be95108b2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "c4367e6be95108b2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "b8b99be04937a03b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "5a8902a64293b9e4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "6e54ef78d8a09163",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "6e54ef78d8a09163",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "608a8deb2755396d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "segment",
+      "id": "2ce2d99cf1abf674",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "2ce2d99cf1abf674",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "f36b743c41f2dda3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "f36b743c41f2dda3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "ac1dd974cb6d1aaf",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "ac1dd974cb6d1aaf",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "e09a421ffd6255e3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "e09a421ffd6255e3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "54e179d7de062520",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "69d5f42dc1d09e0b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "69d5f42dc1d09e0b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "73b654a671759771",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "73b654a671759771",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "b307fd706b1b2a9d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "segment",
+      "id": "690d202f03eecefa",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "690d202f03eecefa",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "9b454bfca0f672b7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "9b454bfca0f672b7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "6ed6a0020cbfeb7a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "6ed6a0020cbfeb7a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "65cd2b738d04cbb6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "65cd2b738d04cbb6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "9a6be8cb23926eca",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "9a6be8cb23926eca",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "a46d56c195ac8f42",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "a46d56c195ac8f42",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "dc6a5c3a4e6087bd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "23487e63b5e7038b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "23487e63b5e7038b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "10ab8fb5a9196294",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "10ab8fb5a9196294",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "44605358b23e31a8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "44605358b23e31a8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "752c1a33a588a54c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "752c1a33a588a54c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "73bbecbd6abd547e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "73bbecbd6abd547e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "ff407f4561c09cac",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "ff407f4561c09cac",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "740ae6d41ec44efd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "740ae6d41ec44efd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "bd0f5e1e28cd7888",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "bd0f5e1e28cd7888",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "bf6bf94dc40cee49",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "bf6bf94dc40cee49",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "2bb802e82f9a0d8f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "2bb802e82f9a0d8f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "2df162d114d3e632",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "2df162d114d3e632",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "ee106b91a08316e7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "ee106b91a08316e7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "180ab2fa93616de2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "The original note alleges a discrepancy that is not present: a district can be in the referenced city. Remove this demonstrably false issue while preserving its original audit evidence and flag."
+    },
+    {
+      "kind": "segment",
+      "id": "9697129dbea6aafe",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "9697129dbea6aafe",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "a52a7433b1de5246",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "a52a7433b1de5246",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "3cc3a74b72ba1ddc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "3cc3a74b72ba1ddc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "b457eb4d35049d59",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "b457eb4d35049d59",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "975474eb516031d4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "975474eb516031d4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "1e79edf44bfb52ad",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "1e79edf44bfb52ad",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "607a6ec290b8dd3d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "607a6ec290b8dd3d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "bd95591a298a444a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "500515794f3fd3e7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "500515794f3fd3e7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "930827a437703f5f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "930827a437703f5f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "0823705598f194f6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "288f5a1490dc84a1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "288f5a1490dc84a1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "a7846750f3bc48fa",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "a7846750f3bc48fa",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "2304e67b394529ad",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "2304e67b394529ad",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "228233dd344654b7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "228233dd344654b7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "567f958b86775257",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "567f958b86775257",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "1a4a478b460df030",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "1a4a478b460df030",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "a57deef84fce8c70",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "a57deef84fce8c70",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "7f132588b5ba936c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "17fde5ecae31caf4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "7726ffa958be5ef5",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "a730b0c1612bf1fa",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "d72c78841bec67a3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "e928ef5736ed1330",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "e928ef5736ed1330",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "a885e1de5cb48921",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "a885e1de5cb48921",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "note",
+      "id": "52d0fd0e80899cc6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "ebb33c8a998eb32f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "segment",
+      "id": "b38473879365c4fc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "b38473879365c4fc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    },
+    {
+      "kind": "segment",
+      "id": "2a79d1e4a22db8da",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry, exact before/after, protected references and primary-source evidence. High-confidence lexical correction or documented source-fact repair; original Chinese/pinyin/English and flags remain unchanged."
+    },
+    {
+      "kind": "note",
+      "id": "2a79d1e4a22db8da",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the note against the precise entry and evidence. The revision narrows overstatement or records a supported source correction while retaining genuine unresolved issues."
+    }
+  ]
+}

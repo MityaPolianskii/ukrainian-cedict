@@ -1,0 +1,930 @@
+1. ID ee65bc48a9b55eeb | source line 11294 | 全勝 / 全胜 [quan2 sheng4]
+  0: EN total victory
+     UK повна перемога
+  1: EN to excel by far
+     UK набагато перевершувати
+  2: EN name of a tank
+     UK назва танка
+  3: EN slam
+     UK перемога в усіх розіграшах
+  NOTES ["Джерело не уточнює, який саме танк має цю назву; значення slam передано як повну перемогу в розіграшах без додавання непідтвердженого виду гри."]
+
+2. ID 72e6fe640783945b | source line 118150 | 面膜 / 面膜 [mian4 mo2]
+  0: EN facial mask
+     UK маска для обличчя
+  1: EN cleanser
+     UK очищувальна маска для обличчя
+  2: EN face pack
+     UK косметична маска
+  3: EN facial (treatment)
+     UK косметична процедура з нанесенням маски на обличчя
+  NOTES ["Англійські cleanser і facial ширші за китайське «маска для обличчя»; їх збережено в косметичному контексті."]
+
+3. ID 9f58adc2191b75d5 | source line 78767 | 督察 / 督察 [du1 cha2]
+  0: EN to supervise
+     UK наглядати
+  1: EN to superintend
+     UK здійснювати нагляд
+  2: EN inspector
+     UK інспектор
+  3: EN censorship
+     UK цензурний нагляд
+  NOTES ["Останній сегмент джерела подає «censorship»; звичайне значення китайського слова — інспектування й нагляд, тому цензурний контекст потребує перевірки."]
+
+4. ID acfb0c5ab280935b | source line 62481 | 水箱 / 水箱 [shui3 xiang1]
+  0: EN water tank
+     UK водяний бак
+  1: EN radiator (automobile)
+     UK автомобільний радіатор
+  2: EN cistern
+     UK бачок; цистерна
+  3: EN lavabo
+     UK умивальник
+  NOTES ["Значення «умивальник» у джерелі нетипове для 水箱, що означає водяний бак."]
+
+5. ID ccc8bff9f128a50a | source line 111986 | 銷路 / 销路 [xiao1 lu4]
+  0: EN sale
+     UK збут
+  1: EN market
+     UK ринок збуту
+  2: EN state of the market
+     UK стан збуту
+  3: EN sales event
+     UK продаж; збутова подія
+  NOTES ["Значення «sales event» у джерелі потребує перевірки: 銷路 зазвичай означає збут, ринок або можливості збуту; значення окремого торговельного заходу неочевидне. Буквальне «збутова подія» також не є усталеним українським відповідником."]
+
+6. ID 37350977f7f32d93 | source line 119494 | 風向標 / 风向标 [feng1 xiang4 biao1]
+  0: EN vane
+     UK флюгер
+  1: EN propellor blade
+     UK лопать пропелера
+  2: EN weather vane
+     UK вказівник напряму вітру
+  3: EN windsock
+     UK вітровказівний конус
+  NOTES ["Сегмент propellor blade нетиповий для назви вітровказівника; збережено за джерелом."]
+
+7. ID fe348ba4ce31d406 | source line 56674 | 枉顧 / 枉顾 [wang3 gu4]
+  0: EN to neglect
+     UK нехтувати
+  1: EN to misuse
+     UK неправильно використовувати
+  2: EN to mistreat
+     UK погано поводитися
+  3: EN to abuse
+     UK зловживати
+  NOTES ["Значення джерела відповідають радше 罔顧; 枉顧 може також бути ввічливим висловом про відвідини. Потрібна перевірка."]
+
+8. ID 4e11baa2206404ac | source line 119127 | 頭路 / 头路 [tou2 lu4]
+  0: EN clue
+     UK зачіпка
+  1: EN thread (of a story)
+     UK нитка оповіді
+  2: EN mate
+     UK товариш
+  3: EN first class
+     UK першокласний
+  NOTES ["Значення mate для цього китайського слова неясне; передано як «товариш», потребує перевірки."]
+
+9. ID 95041035876df18e | source line 25438 | 坦承 / 坦承 [tan3 cheng2]
+  0: EN to confess
+     UK зізнаватися
+  1: EN to admit
+     UK визнавати
+  2: EN to come clean
+     UK щиросердо зізнаватися
+  3: EN calmly
+     UK спокійно
+  NOTES ["Окреме «спокійно» відтворює джерело, але 坦承 загалом є дієсловом «відверто визнавати»."]
+
+10. ID baaf1838aa09fea8 | source line 7878 | 依稀 / 依稀 [yi1 xi1]
+  0: EN vaguely
+     UK невиразно; туманно
+  1: EN dimly
+     UK ледь помітно
+  2: EN probably
+     UK можливо; імовірно
+  3: EN very likely
+     UK дуже ймовірно
+  NOTES ["Два останні англійські значення неочевидні для звичного значення слова 依稀; збережені як наведені у джерелі."]
+
+11. ID ee57ca92cdd7f7eb | source line 125098 | 龍捲風 / 龙卷风 [long2 juan3 feng1]
+  0: EN tornado
+     UK торнадо
+  1: EN hurricane
+     UK ураган
+  2: EN twister
+     UK смерч
+  3: EN cyclone
+     UK циклон
+  NOTES ["Джерело змішує торнадо, ураган і циклон; китайська лексема насамперед означає смерч, ширші відповідники потребують перевірки."]
+
+12. ID f9641b4fea239906 | source line 43346 | 憭 / 憭 [liao3]
+  0: EN clear
+     UK ясний
+  1: EN intelligible
+     UK зрозумілий
+  2: EN severe
+     UK суворий
+  3: EN cold
+     UK холодний
+  NOTES ["Джерело поєднує значення ясності та суворого холоду для рідкісного 憭[liao3]; останні два значення потребують лексикографічної перевірки."]
+
+13. ID 714f171e5c1a38ad | source line 115698 | 隮 / 𬯀 [ji1]
+  0: EN to go up
+     UK підійматися
+  1: EN to fall
+     UK падати
+  2: EN rainbow
+     UK веселка
+  3: EN mist
+     UK туман
+  NOTES ["Рідкісний ієрогліф із різнорідними історичними значеннями; відтворено всі значення джерела."]
+
+14. ID 82b67809beba042e | source line 112172 | 錄 / 录 [lu4]
+  0: EN diary
+     UK щоденник
+  1: EN record
+     UK запис
+  2: EN to hit
+     UK бити (сумнівне значення джерела)
+  3: EN to copy
+     UK переписувати
+  NOTES ["Значення to hit не підтверджується звичайними значеннями 錄; потрібна лексикографічна перевірка."]
+
+15. ID c46ade526ae07f25 | source line 85549 | 組圖 / 组图 [zu3 tu2]
+  0: EN picture
+     UK зображення (у серії)
+  1: EN image
+     UK образ (у серії)
+  2: EN diagram
+     UK схема (у наборі)
+  3: EN map
+     UK карта (у наборі)
+  NOTES ["組圖 зазвичай означає добірку зображень; джерело перелічує окремі типи зображень без указівки на сукупність."]
+
+16. ID 61951c2549d38f77 | source line 1230 | 三個和尚沒水喝 / 三个和尚没水喝 [san1 ge4 he2 shang5 mei2 shui3 he1]
+  0: EN lit. three monks have no water to drink (idiom)
+     UK букв. трьом ченцям нема чого пити (ідіома)
+  1: EN fig. everybody's business is nobody's business
+     UK перен. спільна справа — нічия справа
+  2: EN (If there is one monk, he will fetch water for himself. If there are two, they will fetch water together. But if there are three or more, none will take it upon himself to fetch water.)
+     UK (якщо один монах, він принесе собі воду; якщо двоє — принесуть удвох; але якщо їх троє чи більше, ніхто не візьметься по воду)
+  NOTES ["The proverb’s explanatory parenthetical is lengthy; all parts are preserved in one segment."]
+
+17. ID 55d3957ac3ba50fb | source line 52053 | 新羅王朝 / 新罗王朝 [Xin1 luo2 Wang2 chao2]
+  0: EN Silla, Korean kingdom 57 BC-935 AD
+     UK Сілла, корейське королівство 57 до н. е. — 935 н. е.
+  1: EN one of the Korean Three Kingdoms from 1st century AD, defeating its rivals Paikche 百濟|百济[Bai3 ji4] and Koguryo 高句麗|高句丽[Gao1 gou1 li2] around 660 in alliance with Tang China
+     UK одне з Трьох королівств Кореї від I ст. н. е.; близько 660 року в союзі з Тан перемогло Пекче 百濟|百济[Bai3 ji4] й Когурьо 高句麗|高句丽[Gao1 gou1 li2]
+  2: EN unified Silla 658-935
+     UK Об'єднана Сілла, 658–935
+  NOTES ["Дату 658 для початку Об’єднаної Сілли збережено за джерелом; вона потребує перевірки."]
+
+18. ID f0d980df3eda024a | source line 1128 | 七情 / 七情 [qi1 qing2]
+  0: EN seven emotional states
+     UK сім емоційних станів
+  1: EN seven affects of traditional Chinese medical theory and therapy, namely: joy 喜[xi3], anger 怒[nu4], anxiety 憂|忧[you1], thought 思[si1], grief 悲[bei1], fear 恐[kong3], fright 驚|惊[jing1]
+     UK сім почуттів традиційної китайської медицини: радість 喜[xi3], гнів 怒[nu4], тривога 憂|忧[you1], задум 思[si1], скорбота 悲[bei1], страх 恐[kong3], переляк 驚|惊[jing1]
+  2: EN seven relations
+     UK сім типів стосунків
+  NOTES ["The Chinese medical framework’s terms and pinyin are preserved from source."]
+
+19. ID 62b42dbbaf37110e | source line 25728 | 城門失火，殃及池魚 / 城门失火，殃及池鱼 [cheng2 men2 shi1 huo3 , yang1 ji2 chi2 yu2]
+  0: EN a fire in the city gates is also a calamity for the fish in the moat (idiom); the bystander will also suffer
+     UK пожежа біля міської брами шкодить і рибі в рові (ідіома); страждають також непричетні
+  1: EN fig. you can't escape responsibility for your actions
+     UK перен. відповідальності за свої дії не уникнути (за джерелом)
+  2: EN ask not for whom the bell tolls - it tolls for thee
+     UK не питай, по кому подзвін: він і по тобі (відповідник у джерелі)
+  NOTES ["Другий і третій джерельні відповідники лише приблизні: основний сенс ідіоми — стороння біда завдає шкоди невинним."]
+
+20. ID 2964c629b80ef235 | source line 1116 | 七夕節 / 七夕节 [Qi1 xi1 jie2]
+  0: EN Qixi Festival or Double Seven Festival on the 7th day of the 7th lunar month
+     UK Свято Цісі, або Свято подвійної сімки, сьомого дня сьомого місяця за місячним календарем
+  1: EN girls' festival
+     UK свято дівчат
+  2: EN Chinese Valentine's day, when Cowherd and Weaving maid 牛郎織女|牛郎织女[niu2 lang3 zhi1 nu:3] are allowed their annual meeting
+     UK китайський День закоханих, коли Пастух і Ткаля 牛郎織女|牛郎织女[niu2 lang3 zhi1 nu:3] щороку зустрічаються
+  NOTES ["The mythological figures and exact bracketed pinyin are preserved."]
+
+21. ID 6965c4c12ad85f69 | source line 37117 | 布托 / 布托 [Bu4 tuo1]
+  0: EN Bhutto (name)
+     UK Бхутто (прізвище)
+  1: EN Zulfikar Ali Bhutto (1928-1979), president of Pakistan 1971-1979 executed by General Muhammad Zia-ul-Haq
+     UK Зульфікар Алі Бхутто (1928–1979), президент Пакистану, страчений за правління генерала Мухаммада Зія-уль-Хака
+  2: EN Benazzir Bhutto (1953-2007), twice president of Pakistan 1988-1990 and 1993-1996
+     UK Беназір Бхутто (1953–2007), двічі прем'єр-міністерка Пакистану: у 1988–1990 та 1993–1996 роках
+  NOTES ["У джерелі помилково подано президентство Зульфікара Бхутто як 1971–1979; він був президентом у 1971–1973, прем'єр-міністром у 1973–1977. Беназір Бхутто помилково названа президенткою."]
+
+22. ID a715cfc758574054 | source line 70822 | 熱河 / 热河 [Re4 he2]
+  0: EN Rehe, Qing dynasty province abolished in 1955 and divided among Hebei, Liaoning and Inner Mongolia
+     UK Жехе, провінція, що походить із доби Цін, ліквідована 1955 року й поділена між Хебеєм, Ляоніном і Внутрішньою Монголією
+  1: EN refers to the Qing imperial resort at Chengde
+     UK стосується літньої імператорської резиденції Цін у Ченде
+  2: EN see also 避暑山莊|避暑山庄[bi4 shu3 shan1 zhuang1] (history)
+     UK див. також 避暑山莊|避暑山庄[bi4 shu3 shan1 zhuang1] (іст.)
+  NOTES ["Джерело називає Жехе провінцією доби Цін, хоча статус провінції був оформлений пізніше; історичне формулювання потребує звірки."]
+
+23. ID efe1bb09df74d341 | source line 125216 | 龐德 / 庞德 [Pang2 De2]
+  0: EN Pang De (-219), general of Cao Wei at the start of the Three Kingdoms period, victor over Guan Yu 關羽|关羽
+     UK Пан Де (помер 219), полководець Цао Вей на початку доби Трицарства, переможець Гуань Юя 關羽|关羽
+  1: EN Pound (name)
+     UK Паунд (прізвище)
+  2: EN Ezra Pound (1885-1972), American poet and translator
+     UK Езра Паунд (1885–1972), американський поет і перекладач
+  NOTES ["Джерельне твердження про перемогу Пан Де над Гуань Юєм і віднесення до Цао Вей потребують історичної перевірки."]
+
+24. ID e9915aa352a31786 | source line 74384 | 生命在於運動 / 生命在于运动 [sheng1 ming4 zai4 yu2 yun4 dong4]
+  0: EN life is motion (popular saying with many possible interpretations)
+     UK життя — це рух (поширений вислів із різними тлумаченнями)
+  1: EN Physical effort is vital for our bodies to function (Aristotle).
+     UK фізичні зусилля життєво необхідні для роботи нашого організму (Арістотель)
+  2: EN Life derives from physical exercise.
+     UK джерело життя — фізичні вправи
+  NOTES ["Приписування другого вислову Арістотелю відтворено за джерелом і не перевірене."]
+
+25. ID 808d1285a80253d8 | source line 78668 | 眾星捧月 / 众星捧月 [zhong4 xing1 peng3 yue4]
+  0: EN lit. all the stars cup themselves around the moon (idiom, from Analects); fig. to view sb as core figure
+     UK букв. усі зорі обступають місяць (ідіома, за джерелом із «Бесід і суджень»); перен. вважати когось центральною постаттю
+  1: EN to group around a revered leader
+     UK гуртуватися навколо шанованого лідера
+  2: EN to revolve around sb
+     UK обертатися навколо когось
+  NOTES ["Посилання на «Бесіди і судження» для цього варіанта вислову потребує перевірки."]
+
+26. ID a1e14601cda43eba | source line 106349 | 輕重主次 / 轻重主次 [qing1 zhong4 zhu3 ci4]
+  0: EN to invert the importance of things (i.e. stress the incidental and neglect the main point)
+     UK важливість і другорядність справ (у джерелі: плутати їх, наголошуючи на побічному)
+  1: EN lacking a sense of perspective
+     UK співвідношення важливого й другорядного (у джерелі: нездатність його оцінити)
+  2: EN to put the cart before the horse
+     UK черговість пріоритетів (у джерелі: ставити віз поперед коня)
+  NOTES ["Усі англійські сегменти помилково приписують нейтральному 輕重主次 значення «перевернути пріоритети», властиве 輕重倒置; у перекладі розбіжність явно позначено."]
+
+27. ID a521102008728f5a | source line 14344 | 刻鵠類鶩 / 刻鹄类鹜 [ke4 hu2 lei4 wu4]
+  0: EN to aim to carve a swan and get a semblance of a duck (idiom)
+     UK вирізати лебедя, а одержати подобу качки (ідіома)
+  1: EN to fail utterly in trying to copy something
+     UK цілком невдало намагатися щось скопіювати
+  2: EN to get a reasonably good, if not perfect, result
+     UK отримувати досить добрий, хоч і не досконалий результат
+  NOTES ["Джерело подає протилежні оцінки результату наслідування: повна невдача та досить добрий результат; обидва сегменти збережено."]
+
+28. ID d48a467fb89b4524 | source line 23489 | 噶 / 噶 [ga2]
+  0: EN phonetic ga (used in rendering Tibetan and Mongolian sounds)
+     UK фонетичне «ґа» для передачі тибетських і монгольських звуків
+  1: EN Tibetan Ge: language of Buddha
+     UK тибетське Ge: мова Будди
+  2: EN (dialect) final particle similar to 了[le5] (esp. in Yunnan)
+     UK (діал., особливо Юньнань) кінцева частка, подібна до 了[le5]
+  NOTES ["Англійське «Tibetan Ge: language of Buddha» нечітке; точне тибетське джерело й значення потребують перевірки."]
+
+29. ID 79f80e1c6351383d | source line 52604 | 日化 / 日化 [ri4 hua4]
+  0: EN household chemicals (cleaning products etc) and toiletries (abbr. for 日用化學製品|日用化学制品[ri4 yong4 hua4 xue2 zhi4 pin3])
+     UK побутова хімія (мийні засоби тощо) й туалетні засоби (скорочення від 日用化學製品|日用化学制品[ri4 yong4 hua4 xue2 zhi4 pin3])
+  1: EN (linguistics) to rhotacize
+     UK (мовозн.) ротизувати
+  2: EN rhotic
+     UK ротичний
+  NOTES ["Мовознавче значення ротизації для 日化 потребує перевірки; збережено окремо від побутової хімії."]
+
+30. ID 143a393dcc6df31b | source line 87788 | 羅生門 / 罗生门 [Luo2 sheng1 men2]
+  0: EN Rashomon, Japanese novel and movie
+     UK «Расьомон», японський літературний твір і фільм
+  1: EN (fig.) situation where conflicting interpretations of the same event obscure the truth
+     UK (перен.) ситуація, коли суперечливі тлумачення однієї події приховують істину
+  2: EN unsolvable case
+     UK нерозв'язна справа
+  NOTES ["Джерело називає «Расьомон» романом, але літературна першооснова є оповіданням."]
+
+31. ID 43b28dae4179b88c | source line 24913 | 土鱉 / 土鳖 [tu3 bie1]
+  0: EN ground beetle
+     UK земляний тарган
+  1: EN (coll.) professional or entrepreneur who, unlike a 海歸|海归[hai3 gui1], has never studied overseas
+     UK (розм.) фахівець або підприємець, який, на відміну від 海歸|海归[hai3 gui1], ніколи не навчався за кордоном
+  2: EN (dialect) country bumpkin
+     UK (діал.) селюк
+  NOTES ["Англійське ground beetle у джерелі неточне: 土鱉 зазвичай позначає земляних тарганів, а не жуків-турунів."]
+
+32. ID bf8e1d48485ffce0 | source line 71072 | 燕雀處堂 / 燕雀处堂 [yan4 que4 chu4 tang2]
+  0: EN lit. a caged bird in a pavilion (idiom); fig. to lose vigilance by comfortable living
+     UK букв. птах у клітці в павільйоні (ідіома); перен. втрачати пильність через безтурботне життя
+  1: EN unaware of the disasters ahead
+     UK не усвідомлювати прийдешньої біди
+  2: EN a fool's paradise
+     UK оманливе благополуччя
+  NOTES ["Буквальне пояснення джерела згадує клітку, хоча сам китайський вислів її прямо не називає."]
+
+33. ID 685bf8a9eae7063e | source line 96858 | 處堂燕雀 / 处堂燕雀 [chu4 tang2 yan4 que4]
+  0: EN lit. a caged bird in a pavilion (idiom); fig. to lose vigilance by comfortable living
+     UK букв. птах у клітці в павільйоні (ідіома); перен. втратити пильність через комфортне життя
+  1: EN unaware of the disasters ahead
+     UK не підозрювати про прийдешнє лихо
+  2: EN a fool's paradise
+     UK оманливе благополуччя
+  NOTES ["Китайський образ стосується ластівок і горобців у будинку; клітка та павільйон в англійському буквальному поясненні можуть бути неточними."]
+
+34. ID f916b05453aff4ce | source line 57796 | 桑帕約 / 桑帕约 [Sang1 pa4 yue1]
+  0: EN Sampaio (name)
+     UK Сампайо (прізвище)
+  1: EN Jorge Sampaio (1939-), Portuguese lawyer and politician, president of Portugal 1996-2006
+     UK Жорже Сампайо (нар. 1939), португальський юрист і політик, президент Португалії у 1996–2006 роках
+  2: EN Sampaio, town in Brazil
+     UK Сампайо, місто в Бразилії
+  NOTES ["Джерело залишає дату смерті Жорже Сампайо відкритою; біографічні дані потребують актуалізації."]
+
+35. ID 60179d1c4d1feeb0 | source line 89279 | 聖奧古斯丁 / 圣奥古斯丁 [Sheng4 ao4 gu3 si1 ding1]
+  0: EN St Augustine
+     UK святий Августин
+  1: EN Aurelius Augustinus (354-430), theologian and Christian philosopher
+     UK Аврелій Августин (354–430), богослов і християнський філософ
+  2: EN Sankt Augustin, suburb of Beuel, Bonn, Germany
+     UK Санкт-Августин, передмістя Бойеля в Бонні, Німеччина
+  NOTES ["Географічний опис Санкт-Августина в джерелі неточний: це окреме місто поблизу Бонна."]
+
+36. ID f2fb88b8a7b22d49 | source line 115528 | 隒 / 隒 [yan3]
+  0: EN the appearance of a mountain, as if two pots were standing one upon the other
+     UK вигляд гори, схожої на два горщики, поставлені один на один
+  1: EN the steep bank of a stream
+     UK стрімкий берег струмка
+  2: EN a rough mountain path
+     UK нерівна гірська стежка
+  NOTES ["Рідкісний ієрогліф: усі три пояснення відтворено за джерелом; історичну семантику не перевірено."]
+
+37. ID 8593e4c64d2fdc10 | source line 75072 | 甸 / 甸 [dian4]
+  0: EN suburbs or outskirts
+     UK передмістя; околиці
+  1: EN one of the five degrees of official mourning attire in dynastic China
+     UK один із п'яти ступенів офіційного жалобного вбрання в династичному Китаї
+  2: EN official in charge of fields (old)
+     UK чиновник, відповідальний за поля (заст.)
+  NOTES ["Значення про ступінь жалобного вбрання відтворено за джерелом; воно потребує перевірки."]
+
+38. ID 0cd881d81c2d3889 | source line 76603 | 白托 / 白托 [bai2 tuo1]
+  0: EN day care for the elderly (abbr. of 白天托管[bai2 tian1 tuo1 guan3])
+     UK денний догляд за літніми людьми (скор. від 白天托管[bai2 tian1 tuo1 guan3])
+  1: EN to be blinded by greed
+     UK бути засліпленим жадібністю
+  2: EN swindler (homonym of 拜託|拜托[bai4 tuo1])
+     UK шахрай (омофон 拜託|拜托[bai4 tuo1])
+  NOTES ["Зв'язок двох останніх значень із цим написанням у джерелі не пояснений; позначення «омофон» ігнорує різницю тонів."]
+
+39. ID c308e28bdac39051 | source line 51128 | 整風運動 / 整风运动 [zheng3 feng1 yun4 dong4]
+  0: EN Rectification campaign
+     UK кампанія виправлення стилю роботи
+  1: EN political purge
+     UK політична чистка
+  2: EN cf Mao's 1942-44 campaign at Yanan, and his 1950 and 1957 anti-rightist purges
+     UK пор. кампанію Мао в Яньані 1942–1944 років і його антиправі чистки 1950 та 1957 років
+  NOTES ["Згадка про «антиправі чистки 1950 року» нетипова; збережено за джерелом."]
+
+40. ID cec15c8d172af36a | source line 89922 | 肉豆蔻 / 肉豆蔻 [rou4 dou4 kou4]
+  0: EN nutmeg (Myristica fragrans Houtt)
+     UK мускатний горіх (Myristica fragrans Houtt)
+  1: EN mace
+     UK мацис; мускатний цвіт
+  2: EN Myristicaceae (family of plants producing aromatic or hallucinogenic oils)
+     UK мускатникові (Myristicaceae), родина рослин з ароматичними або галюциногенними оліями
+  NOTES ["Назва всієї родини Myristicaceae у джерелі ширша за звичайне значення цього заголовного слова."]
+
+41. ID e820149c56e11456 | source line 19714 | 合 / 合 [ge3]
+  0: EN 100 ml
+     UK 100 мл
+  1: EN one-tenth of a peck
+     UK одна десята пека
+  2: EN measure for dry grain equal to one-tenth of sheng 升 or liter, or one-hundredth dou 斗
+     UK міра сипкого зерна, що дорівнює одній десятій шена 升 або літра, чи одній сотій доу 斗
+  NOTES ["Англійське peck у джерелі є приблизним перекладом китайської міри; не тотожне сучасному британському або американському пеку."]
+
+42. ID c5d8d0f0e6db9c52 | source line 37078 | 布什 / 布什 [Bu4 shi2]
+  0: EN Bush (name)
+     UK Буш (прізвище)
+  1: EN George H.W. Bush (1924-2018), US president 1988-1992
+     UK Джордж Герберт Вокер Буш (1924–2018), президент США у 1989–1993 роках
+  2: EN George W. Bush (1946-), US President 2000-2008
+     UK Джордж Вокер Буш (нар. 1946), президент США у 2001–2009 роках
+  NOTES ["Роки президентства в англійському джерелі помилкові: наведено роки виборів замість фактичних строків; у перекладі виправлено."]
+
+43. ID f8a17bd21aa917b9 | source line 109186 | 遮天蔽日 / 遮天蔽日 [zhe1 tian1 bi4 ri4]
+  0: EN lit. hiding the sky and covering the earth (idiom); fig. earth-shattering
+     UK букв. затуляти небо й сонце (ідіома); перен. грандіозний
+  1: EN omnipresent
+     UK повсюдний
+  2: EN of universal importance
+     UK загального значення
+  NOTES ["У першому сегменті англійське «covering the earth» не відповідає 日 «сонце»; наведені переносні значення джерела ширші за звичайне «затуляти небо й сонце»."]
+
+44. ID e05be2da4d4c685c | source line 61284 | 殺人不過頭點地 / 杀人不过头点地 [sha1 ren2 bu4 guo4 tou2 dian3 di4]
+  0: EN It's all exaggeration, you don't need to take it seriously
+     UK усе перебільшено, не варто сприймати надто серйозно
+  1: EN a fuss about nothing
+     UK галас із нічого
+  2: EN nothing to write home about
+     UK нічого особливого
+  NOTES ["Подані англійські значення сумнівні: ідіома буквально каже, що навіть убивство завершується падінням голови, і зазвичай закликає не доводити переслідування чи приниження до крайнощів."]
+
+45. ID 44a0c96f94abf33a | source line 119728 | 飛刀 / 飞刀 [fei1 dao1]
+  0: EN a throwing knife
+     UK метальний ніж
+  1: EN fly cutter (machine tool)
+     UK однорізцевий летючий різець (верстатний інструмент)
+  2: EN (coll.) surgeons operating at other hospitals during off-hours
+     UK (розм.) хірурги, що оперують в інших лікарнях у неробочий час
+  NOTES ["Український спеціальний відповідник fly cutter потребує термінологічної перевірки."]
+
+46. ID 5e3051cb8e6d0e9a | source line 109048 | 遠志 / 远志 [yuan3 zhi4]
+  0: EN far-reaching ambition
+     UK далекосяжне прагнення
+  1: EN lofty ideal
+     UK високий ідеал
+  2: EN milkwort (Polygala myrtifolia), with roots used in Chinese medicine
+     UK китятки (Polygala myrtifolia), корені яких використовують у китайській медицині
+  NOTES ["Ботанічна назва Polygala myrtifolia наведена в джерелі; 遠志 у китайській лікарській традиції зазвичай пов’язують з іншими видами Polygala, тому видову відповідність слід перевірити."]
+
+47. ID 5209ec69b437c1f3 | source line 90058 | 股癬 / 股癣 [gu3 xuan3]
+  0: EN tinea cruris, fungal skin infection of the groin
+     UK пахова дерматофітія, грибкова інфекція шкіри паху
+  1: EN dermatomycosis, esp. sexually transmitted
+     UK дерматомікоз, особливо переданий статевим шляхом
+  2: EN jock itch
+     UK паховий грибок
+  NOTES ["Джерело особливо виділяє статеве передавання, хоча пахова дерматофітія не є винятково статевою інфекцією."]
+
+48. ID 5bdf6f459fdcaf8b | source line 124991 | 齒頰生香 / 齿颊生香 [chi3 jia2 sheng1 xiang1]
+  0: EN lit. to feel the taste in one's mouth (idiom)
+     UK букв. відчувати смак у роті (ідіома)
+  1: EN fig. to water at the mouth
+     UK перен. відчувати, як слинки течуть
+  2: EN to drool in anticipation
+     UK пускати слину в передчутті
+  NOTES ["Джерело тлумачить ідіому через слиновиділення, хоча буквальний образ пов’язаний із приємним ароматом у роті; межі переносного значення потребують перевірки."]
+
+49. ID c9e5098f8fd05dbd | source line 96028 | 薄面 / 薄面 [bo2 mian4]
+  0: EN my meager sensibilities
+     UK моя скромна гідність
+  1: EN blushing face
+     UK почервоніле обличчя
+  2: EN please do it for my sake (i.e. to save my face)(humble)
+     UK зробіть це заради мене, щоб не осоромити (скромно про себе)
+  NOTES ["Перший англійський сегмент meager sensibilities неясний; у контексті 薄面 передано скромне позначення власної гідності/авторитету."]
+
+50. ID 9350c21310dd3c1a | source line 89883 | 肉夾饃 / 肉夹馍 [rou4 jia1 mo2]
+  0: EN lit. meat wedged in steamed bun
+     UK букв. м’ясо, вкладене в парову булочку
+  1: EN "Chinese burger"
+     UK «китайський бургер»
+  2: EN sliced meat sandwich popular in north China
+     UK бутерброд із нарізаним м’ясом, популярний на півночі Китаю
+  NOTES ["Джерело називає булочку паровою; традиційний хлібець для цієї страви зазвичай печений."]
+
+51. ID d8be32130b17e8b2 | source line 90285 | 背氣 / 背气 [bei4 qi4]
+  0: EN to stop breathing (as a medical condition)
+     UK переставати дихати (патологічний стан)
+  1: EN (fig.) to pass out (in anger)
+     UK (перен.) знепритомніти від гніву
+  2: EN to have a stroke
+     UK зазнати інсульту
+  NOTES ["Сегмент «зазнати інсульту» відтворено за джерелом; це не звичайне точне медичне значення 背氣."]
+
+52. ID e8bfeb7813e710de | source line 55430 | 朝覲 / 朝觐 [chao2 jin4]
+  0: EN to give audience (of emperor)
+     UK давати аудієнцію (про імператора)
+  1: EN retainers' duty to pay respect to sovereign
+     UK обов'язок підданих віддавати шану правителю
+  2: EN hajj (Islam)
+     UK хадж (іслам)
+  NOTES ["Перший сегмент джерела описує дію імператора; 朝覲 зазвичай означає прибуття підданого на аудієнцію."]
+
+53. ID 709de7dab4bea91e | source line 116022 | 集部 / 集部 [ji2 bu4]
+  0: EN non-canonical text
+     UK неканонічні тексти
+  1: EN Chinese literary work not included in official classics
+     UK китайські літературні твори, не включені до офіційних класичних канонів
+  2: EN apocryphal
+     UK позаканонічний
+  NOTES ["集部 зазвичай означає розділ літературних збірок у традиційній класифікації; трактування джерела як «апокрифічний» неточне, тому передано «позаканонічний»."]
+
+54. ID 0b8066bc5e8ca7da | source line 10329 | 兀 / 兀 [wu4]
+  0: EN (literary) rising to a height; towering
+     UK (книжн.) височіти; здійматися
+  1: EN (literary) bald; bare
+     UK (книжн.) лисий; голий
+  2: EN (literary) still; yet
+     UK (книжн.) досі; ще
+  NOTES ["Багатозначний класичний знак 兀; відповідники прив’язані до кожної наданої глоси."]
+
+55. ID 27f094f4212a5b89 | source line 115839 | 雁過拔毛 / 雁过拔毛 [yan4 guo4 ba2 mao2]
+  0: EN lit. to grab feathers from a flying goose
+     UK букв. вискубувати пір'я з гуски на льоту
+  1: EN fig. to seize any opportunity
+     UK перен. використовувати будь-яку нагоду для власної вигоди
+  2: EN pragmatic
+     UK корисливий; практичний
+  NOTES ["Звичайне значення ідіоми має корисливе забарвлення; нейтральне «pragmatic» джерела передано з урахуванням цього."]
+
+56. ID bc33c206a993425f | source line 36723 | 差商 / 差商 [cha1 shang1]
+  0: EN (math.) difference quotient
+     UK (мат.) різницеве відношення
+  1: EN (math.) divided difference
+     UK (мат.) розділена різниця
+  2: EN (math.) finite difference
+     UK (мат.) скінченна різниця
+  NOTES ["Останнє значення джерела ширше від звичного значення 差商; термінологічну відповідність слід перевірити."]
+
+57. ID 6ec3cf102e3be79c | source line 26818 | 壓線 / 压线 [ya1 xian4]
+  0: EN pressure crease
+     UK запрасована складка
+  1: EN fig. to toil for sb else's benefit
+     UK перен. працювати на чужу користь
+  2: EN line ball (i.e. on the line)
+     UK м'яч на лінії
+  NOTES ["Значення «запрасована складка» і «працювати на чужу користь» наведено за джерелом; для 壓線 вони потребують уточнення контексту."]
+
+58. ID bf5f1a3d7eea6fbd | source line 41604 | 怦怦 / 怦怦 [peng1 peng1]
+  0: EN thumping sound (onom.)
+     UK гупання (звуконаслідування)
+  1: EN to be eager and anxious (to do sth)
+     UK нетерпляче й тривожно прагнути щось зробити
+  2: EN faithful and upright
+     UK вірний і праведний
+  NOTES ["Рідкісні додаткові значення 怦怦 («нетерпляче прагнути», «вірний і праведний») наведено за джерелом; вони потребують перевірки."]
+
+59. ID 4de5f2ba874ea756 | source line 42985 | 愷撒 / 恺撒 [Kai3 sa1]
+  0: EN Caesar (name)
+     UK Цезар (ім'я)
+  1: EN Gaius Julius Caesar 100-42 BC
+     UK Гай Юлій Цезар (100–42 до н. е., за джерелом)
+  2: EN by extension, emperor, Kaiser, Tsar
+     UK у ширшому значенні — імператор, кайзер, цар
+  NOTES ["Джерело вказує 42 рік до н. е. як рік смерті Цезаря; загальноприйнята дата — 44 рік до н. е."]
+
+60. ID 7962678ec528b2f0 | source line 71652 | 牛樟 / 牛樟 [niu2 zhang1]
+  0: EN Cinnamomum kanehirae
+     UK коричник Канехіри (Cinnamomum kanehirae)
+  1: EN small-leaf camphor
+     UK дрібнолистий камфорний коричник
+  2: EN stout camphor (indigenous to Taiwan)
+     UK товстостовбурний камфорний коричник (родом із Тайваню)
+  NOTES ["Українські описові назви другого й третього сегментів не підтверджено як усталені ботанічні назви."]
+
+61. ID 84348379c42a95fa | source line 103976 | 賧 / 赕 [dan3]
+  0: EN (old barbarian dialects) to pay a fine in atonement
+     UK (давні мови народів, яких називали варварськими) сплачувати штраф як спокуту
+  1: EN river
+     UK річка
+  2: EN Taiwan pr. [tan4]
+     UK тайванська вимова: [tan4]
+  NOTES ["Значення «річка» для 賧 передано за джерелом; потребує перевірки."]
+
+62. ID 54375bb8f425acf9 | source line 104168 | 贈 / 赠 [zeng4]
+  0: EN to give as a present
+     UK дарувати
+  1: EN to repel
+     UK відганяти
+  2: EN to bestow an honorary title after death (old)
+     UK посмертно надавати почесний титул (заст.)
+  NOTES ["Рідкісне значення «відганяти» відтворює англійське repel; потребує перевірки для 贈."]
+
+63. ID 87e972dbb1b47cc9 | source line 1250 | 三八 / 三八 [san1 ba1]
+  0: EN International Women's Day 婦女節|妇女节[Fu4 nu:3 jie2], 8th March
+     UK Міжнародний жіночий день 婦女節|妇女节[Fu4 nu:3 jie2], 8 березня
+  1: EN foolish
+     UK дурний
+  2: EN stupid
+     UK нетямущий
+  NOTES ["The DINK acronym and cited Chinese holiday name are preserved."]
+
+64. ID 3b219e87d89b633a | source line 114553 | 阿姆哈拉 / 阿姆哈拉 [A1 mu3 ha1 la1]
+  0: EN Amhara (province, language and ethnic group of Ethiopia)
+     UK Амхара (провінція, мова й етнічна група Ефіопії)
+  1: EN Amharic
+     UK амхарська мова
+  2: EN Ethiopian
+     UK ефіопський
+  NOTES ["Глоса «ефіопський» у джерелі ширша за значення назви Амхара."]
+
+65. ID 863e8ee7d25574ab | source line 26294 | 塑鋼 / 塑钢 [su4 gang1]
+  0: EN acetal resin
+     UK ацетальна смола
+  1: EN Delrin
+     UK делрін
+  2: EN unplasticized polyvinyl chloride (uPVC or rigid PVC)
+     UK непластифікований полівінілхлорид, жорсткий ПВХ (uPVC)
+  NOTES ["Назва 塑鋼 може стосуватися різних конструкційних пластиків; усі три матеріали відтворено за сегментами джерела."]
+
+66. ID 121478e440135ab6 | source line 68780 | 濾餅 / 滤饼 [lu:4 bing3]
+  0: EN filtrate
+     UK фільтрат
+  1: EN solid residue produced by a filter
+     UK твердий залишок на фільтрі
+  2: EN mud from filtering can sugar
+     UK осад від фільтрування тростинного цукру
+  NOTES ["Перший англійський сегмент filtrate суперечить значенню китайського слова: воно позначає фільтрувальний осад, а не рідину, що пройшла крізь фільтр; потрібна перевірка джерела."]
+
+67. ID 5ee45ad7784dc003 | source line 57661 | 桁楊 / 桁杨 [hang2 yang2]
+  0: EN lit. stocks and knives
+     UK букв. колодки й ножі
+  1: EN fig. any punishment equipment
+     UK перен. будь-яке знаряддя покарання
+  2: EN torture instrument
+     UK знаряддя тортур
+  NOTES ["У 桁楊 немає компонента «ножі»; буквальний переклад джерела потребує перевірки."]
+
+68. ID 84514498b0749ccb | source line 54585 | 曼珠沙華 / 曼珠沙华 [man4 zhu1 sha1 hua1]
+  0: EN red spider lily (Lycoris radiata)
+     UK лікоріс променистий, червона павуча лілія (Lycoris radiata)
+  1: EN Sanskrit mañjusaka
+     UK санскритське mañjusaka
+  2: EN cluster amaryllis
+     UK пучковий амариліс
+  NOTES ["Останній сегмент — побутова англійська назва того самого виду; усталений український відповідник не підтверджено."]
+
+69. ID 4b7b705d1b8f66c8 | source line 57064 | 柚木 / 柚木 [you4 mu4]
+  0: EN pomelo tree (Citrus maxima or C. grandis)
+     UK дерево помело (Citrus maxima або C. grandis)
+  1: EN shaddock
+     UK шеддок
+  2: EN oriental grapefruit
+     UK східний грейпфрут
+  NOTES ["Джерело, ймовірно, помилкове: 柚木 зазвичай означає тик (Tectona grandis), а не помело."]
+
+70. ID 9fbba5b7b6f48896 | source line 31703 | 孳乳 / 孳乳 [zi1 ru3]
+  0: EN to multiply (kinds, difficulties)
+     UK множитися (про види, труднощі)
+  1: EN to reproduce
+     UK розмножуватися
+  2: EN to derive (compounds)
+     UK утворювати похідні (складні слова)
+  NOTES ["Глос «compounds» неоднозначний; значення 孳乳 найімовірніше стосується утворення похідних слів або знаків."]
+
+71. ID b52659bf5e2f921f | source line 107306 | 迷惑龍 / 迷惑龙 [mi2 huo5 long2]
+  0: EN apatosaurus
+     UK апатозавр
+  1: EN former name: brontosaurus
+     UK колишня назва: бронтозавр
+  2: EN also called 雷龍|雷龙[lei2 long2]
+     UK також 雷龍|雷龙[lei2 long2]
+  NOTES ["Палеонтологічне співвідношення апатозавра й бронтозавра наведено за джерелом; сучасна систематика може розрізняти ці роди."]
+
+72. ID 21f5ee544d438189 | source line 114655 | 阿普吐龍 / 阿普吐龙 [a1 pu3 tu3 long2]
+  0: EN apatosaurus
+     UK апатозавр
+  1: EN former name: brontosaurus
+     UK колишня назва: бронтозавр
+  2: EN also called 雷龍|雷龙[lei2 long2]
+     UK також зветься 雷龍|雷龙[lei2 long2]
+  NOTES ["Таксономічний зв’язок апатозавра й бронтозавра в джерелі подано історично; сучасна класифікація може розрізняти ці роди."]
+
+73. ID 320c04b3d74996db | source line 35332 | 居心 / 居心 [ju1 xin1]
+  0: EN to harbor (evil) intentions
+     UK плекати лихі наміри
+  1: EN to be bent on
+     UK мати твердий намір
+  2: EN a tranquil heart or mind
+     UK спокійна душа; спокійний розум
+  NOTES ["Останнє значення в джерелі нетипове для 居心 і потребує перевірки."]
+
+74. ID a07681ce1dbc7a58 | source line 26879 | 壞鳥 / 坏鸟 [huai4 niao3]
+  0: EN sinister person
+     UK зловісна людина
+  1: EN unsavory character
+     UK неприємний тип
+  2: EN broken (not in working order)
+     UK зламаний; несправний
+  NOTES ["Розмовне написання 壞鳥 може передавати 壞了; третє значення залежить від такого вживання."]
+
+75. ID f9b3c4b1a9a5fb4c | source line 111350 | 金石 / 金石 [jin1 shi2]
+  0: EN metal and stone
+     UK метал і камінь
+  1: EN fig. hard objects
+     UK перен. тверді предмети
+  2: EN inscription on metal or bronze
+     UK напис на металі або камені
+  NOTES ["Сегмент «inscription on metal or bronze» у джерелі, імовірно, містить помилку: 金石 стосується написів на металі (зокрема бронзі) та камені."]
+
+76. ID 291286b7bb6012e1 | source line 105142 | 跟腳 / 跟脚 [gen1 jiao3]
+  0: EN to feet the feet perfectly
+     UK ідеально прилягати до стопи (про взуття)
+  1: EN to follow closely
+     UK невідступно йти слідом
+  2: EN hard on sb's heels
+     UK наступати комусь на пʼяти
+  NOTES ["У першому англійському сегменті ймовірна друкарська помилка: feet замість fit; перекладено за китайським значенням."]
+
+77. ID d9926bc0b2597377 | source line 122716 | 鮨 / 鮨 [qi2]
+  0: EN sushi
+     UK суші
+  1: EN grouper (Portuguese: garoupa)
+     UK групер (португальською garoupa)
+  2: EN Epinephelus septemfasciatus
+     UK Epinephelus septemfasciatus
+  NOTES ["Значення «суші» належить японському вживанню знака; його зв’язок із китайським читанням qi2 потребує перевірки."]
+
+78. ID d180f2efa70002ad | source line 115173 | 陰道炎 / 阴道炎 [yin1 dao4 yan2]
+  0: EN vaginal infection
+     UK вагінальна інфекція
+  1: EN inflammation of the vulva or vagina
+     UK запалення піхви або, за ширшою глосою джерела, вульви
+  2: EN colpitis
+     UK кольпіт
+  NOTES ["陰道炎 означає вагініт; згадка вульви в джерелі виходить за його точний анатомічний зміст."]
+
+79. ID cb519a1035b8ecbd | source line 54558 | 曹白魚 / 曹白鱼 [cao2 bai2 yu2]
+  0: EN Chinese herring (Ilisha elongata)
+     UK китайський оселедець (Ilisha elongata)
+  1: EN white herring
+     UK білий оселедець
+  2: EN slender shad
+     UK струнка іліша
+  NOTES ["Українські побутові назви виду Ilisha elongata не підтверджено; сегменти передають наведені англійські назви."]
+
+80. ID 6c7ace763f325799 | source line 85843 | 絨毛 / 绒毛 [rong2 mao2]
+  0: EN fur
+     UK хутро
+  1: EN down (soft fur)
+     UK пух (м'яке підшерстя)
+  2: EN villi capillary (in the small intestine)
+     UK ворсинки тонкої кишки
+  NOTES ["Англійське «villi capillary» сформульовано некоректно; за китайським терміном і контекстом ідеться про кишкові ворсинки."]
+
+81. ID 97c15c1c311c746f | source line 48581 | 援藏 / 援藏 [yuan2 Zang4]
+  0: EN pro-Tibet
+     UK прихильний до Тибету
+  1: EN to support Tibet
+     UK підтримувати Тибет
+  2: EN to support Tibetan independence
+     UK підтримувати незалежність Тибету
+  NOTES ["Сегмент про незалежність є контекстно залежним: 援藏 часто означає допомогу Тибету без підтримки незалежності."]
+
+82. ID 327bed0cb023f5f3 | source line 122027 | 高脂血症 / 高脂血症 [gao1 zhi1 xue4 zheng4]
+  0: EN high blood fat disease
+     UK захворювання з підвищеним умістом жирів у крові
+  1: EN hyperlipidemia
+     UK гіперліпідемія
+  2: EN hypertriglyceridemia
+     UK гіпертригліцеридемія
+  NOTES ["Джерело подає гіпертригліцеридемію поряд із гіперліпідемією; перший термін означає підвищення саме тригліцеридів і є вужчим за другий. Обидва сегменти збережено за джерелом."]
+
+83. ID 6ef3be27faa11ef9 | source line 52307 | 方陣 / 方阵 [fang1 zhen4]
+  0: EN square-shaped formation (military)
+     UK каре (військовий стрій)
+  1: EN phalanx
+     UK фаланга
+  2: EN (math.) matrix
+     UK (мат.) матриця
+  NOTES ["Математичне 方陣 зазвичай означає квадратну матрицю; джерело подає ширше «matrix»."]
+
+84. ID b1cb8744e380dc2d | source line 90021 | 肝火 / 肝火 [gan1 huo3]
+  0: EN irascibility
+     UK запальність
+  1: EN irritability
+     UK дратівливість
+  2: EN (TCM) inflammation of the liver
+     UK (традиційна китайська медицина) «вогонь печінки», стан, описаний у джерелі як запалення печінки
+  NOTES ["У традиційній китайській медицині йдеться про поняття «вогонь печінки», яке не тотожне біомедичному запаленню."]
+
+85. ID 07fc90cfbe236df5 | source line 50214 | 收羅 / 收罗 [shou1 luo2]
+  0: EN to gather (people)
+     UK збирати (людей)
+  1: EN to collect (talent)
+     UK залучати (таланти)
+  2: EN to come to an end
+     UK добігати кінця
+  NOTES ["Значення «добігати кінця» для 收羅 нетипове; збережено за джерелом, потребує перевірки."]
+
+86. ID cb95b42c3f5ccce5 | source line 60827 | 歪歪斜斜 / 歪歪斜斜 [wai1 wai1 xie2 xie2]
+  0: EN shuddering
+     UK тремтливий
+  1: EN trembling
+     UK тремтячий
+  2: EN a trembling scrawl (of handwriting)
+     UK нерівні каракулі (про почерк)
+  NOTES ["Англійські «shuddering» і «trembling» нетипові: 歪歪斜斜 передусім означає «кривий, перекошений, нерівний»."]
+
+87. ID e65dee45188edf7b | source line 70853 | 熱血 / 热血 [re4 xue4]
+  0: EN hot blood
+     UK гаряча кров
+  1: EN warm-blooded (animal)
+     UK теплокровний (про тварину)
+  2: EN endothermic (physiology)
+     UK ендотермний (фізіологія)
+  NOTES ["Фізіологічні значення теплокровності наведено за джерелом; звичайне китайське вживання частіше означає гарячу кров або запал."]
+
+88. ID fff4e00f393bc040 | source line 116502 | 雞血石 / 鸡血石 [ji1 xue4 shi2]
+  0: EN bloodstone
+     UK кривавик
+  1: EN red-fleck chalcedony
+     UK халцедон із червоними вкрапленнями
+  2: EN heliotrope (mineralogy)
+     UK геліотроп (мінерал.)
+  NOTES ["Джерело, ймовірно, помилково ототожнює китайський «камінь курячої крові» з геліотропом; потрібна мінералогічна перевірка."]
+
+89. ID 7db2c063de559678 | source line 91986 | 自然銅 / 自然铜 [zi4 ran2 tong2]
+  0: EN natural copper
+     UK самородна мідь
+  1: EN chalcopyrite
+     UK халькопірит
+  2: EN copper iron sulfide CuFeS2
+     UK сульфід міді й заліза CuFeS2
+  NOTES ["Джерело поєднує самородну мідь і халькопірит; у традиційній китайській медицині 自然銅 також позначає пірит, тому мінерал потребує уточнення."]
+
+90. ID 10853236e08d69a8 | source line 119531 | 風月 / 风月 [feng1 yue4]
+  0: EN romance
+     UK романтика
+  1: EN beautiful scenery
+     UK гарний краєвид
+  2: EN small or petty (of talk etc)
+     UK дріб’язковий (про розмову тощо)
+  NOTES ["Значення small or petty для цього слова потребує перевірки."]
+
+91. ID fafad87581b4652f | source line 63266 | 沒有事 / 没有事 [mei2 you3 shi4]
+  0: EN not a bit
+     UK нічого подібного
+  1: EN nothing is up
+     UK нічого не сталося
+  2: EN nothing alarming is happening
+     UK нічого тривожного не відбувається
+  NOTES ["Перший англійський сегмент «not a bit» без контексту неоднозначний; передано як заперечення наявності проблеми."]
+
+92. ID 980cb8cdf8d73f52 | source line 46785 | 拾芥 / 拾芥 [shi2 jie4]
+  0: EN to pick up cress
+     UK підбирати дрібну траву
+  1: EN fig. sth easy to do
+     UK перен. легка справа
+  2: EN a piece of cake
+     UK простіше простого
+  NOTES ["Англійське «cress» надто конкретне; 芥 у цьому вислові позначає дрібну траву чи соломинку, яку легко підняти."]
+
+93. ID e7762cb91547a8ae | source line 63690 | 油菜籽 / 油菜籽 [you2 cai4 zi3]
+  0: EN oilseed rape (Brassica campestris)
+     UK олійна свиріпа (Brassica campestris)
+  1: EN rapeseed
+     UK насіння ріпаку
+  2: EN coleseed
+     UK насіння свиріпи
+  NOTES ["Заголовок позначає насіння; перший англійський сегмент називає саму рослину."]
+
+94. ID 1991d10e6ce94028 | source line 65706 | 消炎 / 消炎 [xiao1 yan2]
+  0: EN to reduce fever
+     UK знижувати жар
+  1: EN antipyretic
+     UK жарознижувальний засіб
+  2: EN to decrease inflammation
+     UK зменшувати запалення
+  NOTES ["Перші два значення джерела стосуються жару; основне значення китайського слова — усунення запалення, тому ці глоси потребують медичної перевірки."]
+
+95. ID 4c89fed5984065c3 | source line 122363 | 鬵 / 鬵 [qian2]
+  0: EN big iron pot
+     UK великий залізний горщик
+  1: EN cauldron
+     UK казан
+  2: EN variant of 甑[zeng4], rice pot
+     UK варіант 甑[zeng4], посудини для рису
+  NOTES ["Джерело задає qian2, але посилається на 甑 із читанням zeng4; різницю збережено."]
+
+96. ID 35ddafb5fc7256f9 | source line 10001 | 傿 / 傿 [Yan1]
+  0: EN name of an immortal
+     UK ім’я безсмертного
+  1: EN ancient place name
+     UK давня назва місцевості
+  2: EN surname Yan
+     UK прізвище Янь
+  NOTES ["Передавання давнього топоніма й прізвища орієнтоване на читання Yan1; точна ідентифікація залежить від контексту."]
+
+97. ID 985f1a051c1e5027 | source line 52907 | 昆 / 昆 [kun1]
+  0: EN descendant
+     UK нащадок
+  1: EN elder brother
+     UK старший брат
+  2: EN a style of Chinese poetry
+     UK стиль китайської поезії
+  NOTES ["Поетичний стиль у джерелі не конкретизовано; можливий зв'язок із 西崑體."]
+
+98. ID 2f710ed6058953fd | source line 55642 | 未央 / 未央 [wei4 yang1]
+  0: EN (literary) not ended
+     UK (літ.) незавершений
+  1: EN not yet over
+     UK ще не закінчений
+  2: EN close to the end
+     UK близький до завершення
+  NOTES ["Останній сегмент джерела сумнівний: 未央 звичайно означає «ще не завершений», а не «близький до завершення»."]
+
+99. ID fd594aa5d8579328 | source line 58577 | 楠 / 楠 [nan2]
+  0: EN Machilus nanmu
+     UK наньму (Machilus nanmu)
+  1: EN Chinese cedar
+     UK китайський кедр
+  2: EN Chinese giant redwood
+     UK китайська гігантська секвоя
+  NOTES ["«Кедр» і «секвоя» — неточні англійські відповідники джерела; наньму належить до лаврових."]
+
+100. ID 92b953c247ece388 | source line 935 | 一路上 / 一路上 [yi1 lu4 shang4]
+  0: EN along the way
+     UK дорогою
+  1: EN the whole way
+     UK усю дорогу
+  2: EN (fig.) the whole time
+     UK (перен.) увесь час
+  NOTES ["Formula One is the established Ukrainian name for the motor-racing series."]
+

@@ -1,0 +1,61 @@
+{
+  "updated_at_utc": "2026-10-15T01:09:39.632781+00:00",
+  "counts": {
+    "records": 125264,
+    "aligned_segments": 199737,
+    "model_reviewed_records": 3211,
+    "corrected_segments": 965,
+    "records_with_corrections": 879,
+    "known_flagged_records": 2534,
+    "human_validated_records": 0
+  },
+  "translation_status": "machine_draft",
+  "publication_status": "private_reviewed_candidate_pending_parent_release",
+  "human_validation": false,
+  "runtime_approved": false,
+  "complete_for_full_source": true,
+  "full_source_translation_coverage_percent": 100.0,
+  "flagged_review_scope": {
+    "reviewed_flagged_entries": 2534,
+    "reviewed_source_segments": 3677,
+    "unreviewed_original_flagged_entries": 0,
+    "unflagged_entries_outside_this_pass": 122730,
+    "unflagged_or_hsk_expansion_started": false,
+    "human_validated_entries": 0
+  },
+  "new_review": {
+    "segment_proposals": 470,
+    "high_confidence_segment_corrections_applied": 459,
+    "entries_with_new_segment_corrections": 456,
+    "held_segment_proposals": 11,
+    "held_note_proposals": 7,
+    "held_proposal_entry_ids": 15,
+    "reviewer_outcomes": {
+      "acceptable": 1109,
+      "deferred": 873,
+      "correction_proposed": 552
+    },
+    "compiled_unresolved_ratings": 880,
+    "editorial_priority_entries": 882,
+    "reviewer_uncertainty_inventory_entries": 1978
+  },
+  "notes": {
+    "retained_reviewed": 2127,
+    "replaced_reviewed": 385,
+    "rejected_inactive": 18,
+    "reviewed_attachment_withheld_inactive": 4,
+    "unreviewed_entry_notes": 0,
+    "active_notes": 2512,
+    "quarantined_originals": 407,
+    "original_flags_preserved": 2534,
+    "known_contaminated_originals_inactive": 15,
+    "flagged_entries_without_active_note": 22
+  },
+  "active_annotation_source": "dictionary.json only; NOTE_REVIEW_LEDGER is disposition/provenance evidence and contains inactive originals",
+  "data_sha256": {
+    "dictionary.json": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+    "dictionary.csv": "6aed4feda697997536733b40d39bc591433b3960c063a92daefd599462093939",
+    "source.json": "6a2099fa9eb9a5ced59ee3d3c09a9a1fb7f1fa87efd2acbd9aa3f8c9f334cc41",
+    "translation_prompt.txt": "c7c59adec59bbd7f841f3b19f40b7604c5afa0adbfaa8ed1de88ecbf65a63926"
+  }
+}

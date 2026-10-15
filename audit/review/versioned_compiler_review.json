@@ -1,0 +1,1107 @@
+{
+  "scope": "Versioned checkpoints 002–009, immutable baseline and prior candidates, exact-ID note/segment provenance, explicit application decisions. This does not certify linguistic accuracy.",
+  "compiler_sha256": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e",
+  "compiler_findings": [
+    {
+      "issue": "Held note proposals formerly restored unapproved original attachment",
+      "severity": "high",
+      "status": "fixed_by_explicit_original_attachment_approved_or_default_quarantine",
+      "source_check_passed": true
+    },
+    {
+      "issue": "Duplicate held segment proposals could reuse a decision",
+      "severity": "medium",
+      "status": "fixed_by_rejecting_reused_proposal_keys",
+      "source_check_passed": true
+    },
+    {
+      "issue": "Malformed boolean/noninteger application decision indices can alias integer segment keys",
+      "severity": "low",
+      "status": "fixed_by_exact_index_and_id_validation",
+      "source_check_passed": true
+    }
+  ],
+  "verifier": "verify_versioned_checkpoint.py",
+  "verifier_imports_compiler_or_gate": false,
+  "checkpoint_verifications": {
+    "002": {
+      "checkpoint": 2,
+      "verified_at_utc": "2026-10-15T00:15:32.053428+00:00",
+      "status": "pass",
+      "scope": "Structural provenance and exact reconstruction; no corpus-wide linguistic accuracy or human-validation claim.",
+      "writes": "No baseline, review, compiler, or candidate writes. Only versioned_compiler_review.json was updated.",
+      "candidate_dictionary_sha256": "12b2741d453c3bdebc55d7b29a7eba5a56296697fc9d55443cafe16b47385c47",
+      "counts": {
+        "records": 125264,
+        "aligned_segments": 199737,
+        "model_reviewed_records": 1279,
+        "corrected_segments": 571,
+        "records_with_corrections": 492,
+        "known_flagged_records": 2534,
+        "human_validated_records": 0
+      },
+      "stats": {
+        "baseline_records": 125264,
+        "source_segments": 199737,
+        "notes_total": 2534,
+        "notes_by_disposition": {
+          "quarantine_rejected": 15,
+          "quarantine_unreviewed": 1937,
+          "replace_reviewed": 17,
+          "retain_reviewed": 565
+        },
+        "active_notes": 582,
+        "quarantined_original_notes": 1969,
+        "preserved_flagged_records": 2534,
+        "checkpoint_reviewed_records": 600,
+        "applied_segment_corrections": 65,
+        "human_validated_records": 0
+      },
+      "checkpoint_counters": {
+        "current_checkpoint_reviewed_records": 300,
+        "current_checkpoint_reviewed_segments": 651,
+        "current_checkpoint_applied_segment_corrections": 23,
+        "current_checkpoint_review_outcomes": {
+          "deferred": 239,
+          "acceptable": 48,
+          "correction_proposed": 13
+        },
+        "cumulative_reviewed_records": 600,
+        "cumulative_reviewed_segments": 1571,
+        "remaining_flagged_entries_unreviewed": 1934
+      },
+      "outside_checkpoint_changes": 0,
+      "checks_run": 11638,
+      "checks_passed": 11638,
+      "failed_checks": [],
+      "aggregate_checks": [
+        {
+          "check": "previous_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "current_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "previous_candidate_unchanged_outside_checkpoint",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "every_original_note_exact_evidence",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "summary_counts_exact",
+          "passed": true,
+          "detail": {
+            "records": 125264,
+            "aligned_segments": 199737,
+            "model_reviewed_records": 1279,
+            "corrected_segments": 571,
+            "records_with_corrections": 492,
+            "known_flagged_records": 2534,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_stats_exact",
+          "passed": true,
+          "detail": {
+            "baseline_records": 125264,
+            "source_segments": 199737,
+            "notes_total": 2534,
+            "notes_by_disposition": {
+              "quarantine_rejected": 15,
+              "quarantine_unreviewed": 1937,
+              "replace_reviewed": 17,
+              "retain_reviewed": 565
+            },
+            "active_notes": 582,
+            "quarantined_original_notes": 1969,
+            "preserved_flagged_records": 2534,
+            "checkpoint_reviewed_records": 600,
+            "applied_segment_corrections": 65,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_checkpoint_counters_exact",
+          "passed": true,
+          "detail": {
+            "current_checkpoint_reviewed_records": 300,
+            "current_checkpoint_reviewed_segments": 651,
+            "current_checkpoint_applied_segment_corrections": 23,
+            "current_checkpoint_review_outcomes": {
+              "deferred": 239,
+              "acceptable": 48,
+              "correction_proposed": 13
+            },
+            "cumulative_reviewed_records": 600,
+            "cumulative_reviewed_segments": 1571,
+            "remaining_flagged_entries_unreviewed": 1934
+          }
+        }
+      ],
+      "verifier_sha256": "85933652719de8f3ea1387e8a0a070687692331b81bccc8d573b4226c2e1d542",
+      "compiler_sha256": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e",
+      "verifier_note": "A subsequent wording-only clarification to the writes description did not change verification logic; stored verifier_sha256 identifies the exact executed version."
+    },
+    "003": {
+      "checkpoint": 3,
+      "verified_at_utc": "2026-10-15T00:26:05.907435+00:00",
+      "status": "pass",
+      "scope": "Structural provenance and exact reconstruction; no corpus-wide linguistic accuracy or human-validation claim.",
+      "writes": "No baseline, review, compiler, or candidate writes. --record may update only versioned_compiler_review.json.",
+      "candidate_dictionary_sha256": "735b8c5ecdb0ebb2afb23fd1f2d3be1d0fdafaad31e47ce61abe0cc1b391393d",
+      "counts": {
+        "records": 125264,
+        "aligned_segments": 199737,
+        "model_reviewed_records": 1577,
+        "corrected_segments": 600,
+        "records_with_corrections": 518,
+        "known_flagged_records": 2534,
+        "human_validated_records": 0
+      },
+      "stats": {
+        "baseline_records": 125264,
+        "source_segments": 199737,
+        "notes_total": 2534,
+        "notes_by_disposition": {
+          "quarantine_rejected": 15,
+          "quarantine_unreviewed": 1637,
+          "replace_reviewed": 45,
+          "retain_reviewed": 837
+        },
+        "active_notes": 882,
+        "quarantined_original_notes": 1697,
+        "preserved_flagged_records": 2534,
+        "checkpoint_reviewed_records": 900,
+        "applied_segment_corrections": 94,
+        "human_validated_records": 0
+      },
+      "checkpoint_counters": {
+        "current_checkpoint_reviewed_records": 300,
+        "current_checkpoint_reviewed_segments": 472,
+        "current_checkpoint_applied_segment_corrections": 29,
+        "current_checkpoint_review_outcomes": {
+          "deferred": 235,
+          "acceptable": 41,
+          "correction_proposed": 24
+        },
+        "cumulative_reviewed_records": 900,
+        "cumulative_reviewed_segments": 2043,
+        "remaining_flagged_entries_unreviewed": 1634
+      },
+      "outside_checkpoint_changes": 0,
+      "checks_run": 18585,
+      "checks_passed": 18585,
+      "failed_checks": [],
+      "aggregate_checks": [
+        {
+          "check": "previous_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "current_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "previous_candidate_unchanged_outside_checkpoint",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "every_original_note_exact_evidence",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "summary_counts_exact",
+          "passed": true,
+          "detail": {
+            "records": 125264,
+            "aligned_segments": 199737,
+            "model_reviewed_records": 1577,
+            "corrected_segments": 600,
+            "records_with_corrections": 518,
+            "known_flagged_records": 2534,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_stats_exact",
+          "passed": true,
+          "detail": {
+            "baseline_records": 125264,
+            "source_segments": 199737,
+            "notes_total": 2534,
+            "notes_by_disposition": {
+              "quarantine_rejected": 15,
+              "quarantine_unreviewed": 1637,
+              "replace_reviewed": 45,
+              "retain_reviewed": 837
+            },
+            "active_notes": 882,
+            "quarantined_original_notes": 1697,
+            "preserved_flagged_records": 2534,
+            "checkpoint_reviewed_records": 900,
+            "applied_segment_corrections": 94,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_checkpoint_counters_exact",
+          "passed": true,
+          "detail": {
+            "current_checkpoint_reviewed_records": 300,
+            "current_checkpoint_reviewed_segments": 472,
+            "current_checkpoint_applied_segment_corrections": 29,
+            "current_checkpoint_review_outcomes": {
+              "deferred": 235,
+              "acceptable": 41,
+              "correction_proposed": 24
+            },
+            "cumulative_reviewed_records": 900,
+            "cumulative_reviewed_segments": 2043,
+            "remaining_flagged_entries_unreviewed": 1634
+          }
+        }
+      ],
+      "verifier_sha256": "294ffed64d55fddea73dab727b54f5d4ad7e3156e5a5922e12b6297c69d36b02",
+      "compiler_sha256": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e"
+    },
+    "004": {
+      "checkpoint": 4,
+      "verified_at_utc": "2026-10-15T00:30:44.750758+00:00",
+      "status": "pass",
+      "scope": "Structural provenance and exact reconstruction; no corpus-wide linguistic accuracy or human-validation claim.",
+      "writes": "No baseline, review, compiler, or candidate writes. --record may update only versioned_compiler_review.json.",
+      "candidate_dictionary_sha256": "43205b5b66eb43d254a9341affbb02ec0354dd6df4ac1a8ec564d922eedb37bd",
+      "counts": {
+        "records": 125264,
+        "aligned_segments": 199737,
+        "model_reviewed_records": 1877,
+        "corrected_segments": 657,
+        "records_with_corrections": 574,
+        "known_flagged_records": 2534,
+        "human_validated_records": 0
+      },
+      "stats": {
+        "baseline_records": 125264,
+        "source_segments": 199737,
+        "notes_total": 2534,
+        "notes_by_disposition": {
+          "quarantine_rejected": 15,
+          "quarantine_unreviewed": 1338,
+          "replace_reviewed": 76,
+          "retain_reviewed": 1105
+        },
+        "active_notes": 1181,
+        "quarantined_original_notes": 1429,
+        "preserved_flagged_records": 2534,
+        "checkpoint_reviewed_records": 1200,
+        "applied_segment_corrections": 151,
+        "human_validated_records": 0
+      },
+      "checkpoint_counters": {
+        "current_checkpoint_reviewed_records": 300,
+        "current_checkpoint_reviewed_segments": 300,
+        "current_checkpoint_applied_segment_corrections": 57,
+        "current_checkpoint_review_outcomes": {
+          "acceptable": 181,
+          "correction_proposed": 59,
+          "deferred": 60
+        },
+        "cumulative_reviewed_records": 1200,
+        "cumulative_reviewed_segments": 2343,
+        "remaining_flagged_entries_unreviewed": 1334
+      },
+      "outside_checkpoint_changes": 0,
+      "checks_run": 25816,
+      "checks_passed": 25816,
+      "failed_checks": [],
+      "aggregate_checks": [
+        {
+          "check": "previous_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "current_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "previous_candidate_unchanged_outside_checkpoint",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "every_original_note_exact_evidence",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "summary_counts_exact",
+          "passed": true,
+          "detail": {
+            "records": 125264,
+            "aligned_segments": 199737,
+            "model_reviewed_records": 1877,
+            "corrected_segments": 657,
+            "records_with_corrections": 574,
+            "known_flagged_records": 2534,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_stats_exact",
+          "passed": true,
+          "detail": {
+            "baseline_records": 125264,
+            "source_segments": 199737,
+            "notes_total": 2534,
+            "notes_by_disposition": {
+              "quarantine_rejected": 15,
+              "quarantine_unreviewed": 1338,
+              "replace_reviewed": 76,
+              "retain_reviewed": 1105
+            },
+            "active_notes": 1181,
+            "quarantined_original_notes": 1429,
+            "preserved_flagged_records": 2534,
+            "checkpoint_reviewed_records": 1200,
+            "applied_segment_corrections": 151,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_checkpoint_counters_exact",
+          "passed": true,
+          "detail": {
+            "current_checkpoint_reviewed_records": 300,
+            "current_checkpoint_reviewed_segments": 300,
+            "current_checkpoint_applied_segment_corrections": 57,
+            "current_checkpoint_review_outcomes": {
+              "acceptable": 181,
+              "correction_proposed": 59,
+              "deferred": 60
+            },
+            "cumulative_reviewed_records": 1200,
+            "cumulative_reviewed_segments": 2343,
+            "remaining_flagged_entries_unreviewed": 1334
+          }
+        }
+      ],
+      "verifier_sha256": "294ffed64d55fddea73dab727b54f5d4ad7e3156e5a5922e12b6297c69d36b02",
+      "compiler_sha256": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e"
+    },
+    "005": {
+      "checkpoint": 5,
+      "verified_at_utc": "2026-10-15T00:37:54.639483+00:00",
+      "status": "pass",
+      "scope": "Structural provenance and exact reconstruction; no corpus-wide linguistic accuracy or human-validation claim.",
+      "writes": "No baseline, review, compiler, or candidate writes. --record may update only versioned_compiler_review.json.",
+      "candidate_dictionary_sha256": "65736ffaa41f56bdb9a70f3fd2ed085aa639cbf705e15a4cf597d159a021cd5c",
+      "counts": {
+        "records": 125264,
+        "aligned_segments": 199737,
+        "model_reviewed_records": 2177,
+        "corrected_segments": 692,
+        "records_with_corrections": 609,
+        "known_flagged_records": 2534,
+        "human_validated_records": 0
+      },
+      "stats": {
+        "baseline_records": 125264,
+        "source_segments": 199737,
+        "notes_total": 2534,
+        "notes_by_disposition": {
+          "quarantine_rejected": 15,
+          "quarantine_unreviewed": 1038,
+          "replace_reviewed": 104,
+          "retain_reviewed": 1377
+        },
+        "active_notes": 1481,
+        "quarantined_original_notes": 1157,
+        "preserved_flagged_records": 2534,
+        "checkpoint_reviewed_records": 1500,
+        "applied_segment_corrections": 186,
+        "human_validated_records": 0
+      },
+      "checkpoint_counters": {
+        "current_checkpoint_reviewed_records": 300,
+        "current_checkpoint_reviewed_segments": 300,
+        "current_checkpoint_applied_segment_corrections": 35,
+        "current_checkpoint_review_outcomes": {
+          "acceptable": 228,
+          "correction_proposed": 45,
+          "deferred": 27
+        },
+        "cumulative_reviewed_records": 1500,
+        "cumulative_reviewed_segments": 2643,
+        "remaining_flagged_entries_unreviewed": 1034
+      },
+      "outside_checkpoint_changes": 0,
+      "checks_run": 32727,
+      "checks_passed": 32727,
+      "failed_checks": [],
+      "aggregate_checks": [
+        {
+          "check": "previous_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "current_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "previous_candidate_unchanged_outside_checkpoint",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "every_original_note_exact_evidence",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "summary_counts_exact",
+          "passed": true,
+          "detail": {
+            "records": 125264,
+            "aligned_segments": 199737,
+            "model_reviewed_records": 2177,
+            "corrected_segments": 692,
+            "records_with_corrections": 609,
+            "known_flagged_records": 2534,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_stats_exact",
+          "passed": true,
+          "detail": {
+            "baseline_records": 125264,
+            "source_segments": 199737,
+            "notes_total": 2534,
+            "notes_by_disposition": {
+              "quarantine_rejected": 15,
+              "quarantine_unreviewed": 1038,
+              "replace_reviewed": 104,
+              "retain_reviewed": 1377
+            },
+            "active_notes": 1481,
+            "quarantined_original_notes": 1157,
+            "preserved_flagged_records": 2534,
+            "checkpoint_reviewed_records": 1500,
+            "applied_segment_corrections": 186,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_checkpoint_counters_exact",
+          "passed": true,
+          "detail": {
+            "current_checkpoint_reviewed_records": 300,
+            "current_checkpoint_reviewed_segments": 300,
+            "current_checkpoint_applied_segment_corrections": 35,
+            "current_checkpoint_review_outcomes": {
+              "acceptable": 228,
+              "correction_proposed": 45,
+              "deferred": 27
+            },
+            "cumulative_reviewed_records": 1500,
+            "cumulative_reviewed_segments": 2643,
+            "remaining_flagged_entries_unreviewed": 1034
+          }
+        }
+      ],
+      "verifier_sha256": "294ffed64d55fddea73dab727b54f5d4ad7e3156e5a5922e12b6297c69d36b02",
+      "compiler_sha256": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e"
+    },
+    "006": {
+      "checkpoint": 6,
+      "verified_at_utc": "2026-10-15T00:42:33.236133+00:00",
+      "status": "pass",
+      "scope": "Structural provenance and exact reconstruction; no corpus-wide linguistic accuracy or human-validation claim.",
+      "writes": "No baseline, review, compiler, or candidate writes. --record may update only versioned_compiler_review.json.",
+      "candidate_dictionary_sha256": "698c3da4c7e54182f34c45852dbdd71dc78726c75fc9ddb894848e1a18c314a4",
+      "counts": {
+        "records": 125264,
+        "aligned_segments": 199737,
+        "model_reviewed_records": 2477,
+        "corrected_segments": 769,
+        "records_with_corrections": 685,
+        "known_flagged_records": 2534,
+        "human_validated_records": 0
+      },
+      "stats": {
+        "baseline_records": 125264,
+        "source_segments": 199737,
+        "notes_total": 2534,
+        "notes_by_disposition": {
+          "quarantine_rejected": 16,
+          "quarantine_unreviewed": 738,
+          "replace_reviewed": 184,
+          "retain_reviewed": 1596
+        },
+        "active_notes": 1780,
+        "quarantined_original_notes": 938,
+        "preserved_flagged_records": 2534,
+        "checkpoint_reviewed_records": 1800,
+        "applied_segment_corrections": 263,
+        "human_validated_records": 0
+      },
+      "checkpoint_counters": {
+        "current_checkpoint_reviewed_records": 300,
+        "current_checkpoint_reviewed_segments": 300,
+        "current_checkpoint_applied_segment_corrections": 77,
+        "current_checkpoint_review_outcomes": {
+          "correction_proposed": 90,
+          "deferred": 19,
+          "acceptable": 191
+        },
+        "cumulative_reviewed_records": 1800,
+        "cumulative_reviewed_segments": 2943,
+        "remaining_flagged_entries_unreviewed": 734
+      },
+      "outside_checkpoint_changes": 0,
+      "checks_run": 40357,
+      "checks_passed": 40357,
+      "failed_checks": [],
+      "aggregate_checks": [
+        {
+          "check": "previous_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "current_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "previous_candidate_unchanged_outside_checkpoint",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "every_original_note_exact_evidence",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "summary_counts_exact",
+          "passed": true,
+          "detail": {
+            "records": 125264,
+            "aligned_segments": 199737,
+            "model_reviewed_records": 2477,
+            "corrected_segments": 769,
+            "records_with_corrections": 685,
+            "known_flagged_records": 2534,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_stats_exact",
+          "passed": true,
+          "detail": {
+            "baseline_records": 125264,
+            "source_segments": 199737,
+            "notes_total": 2534,
+            "notes_by_disposition": {
+              "quarantine_rejected": 16,
+              "quarantine_unreviewed": 738,
+              "replace_reviewed": 184,
+              "retain_reviewed": 1596
+            },
+            "active_notes": 1780,
+            "quarantined_original_notes": 938,
+            "preserved_flagged_records": 2534,
+            "checkpoint_reviewed_records": 1800,
+            "applied_segment_corrections": 263,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_checkpoint_counters_exact",
+          "passed": true,
+          "detail": {
+            "current_checkpoint_reviewed_records": 300,
+            "current_checkpoint_reviewed_segments": 300,
+            "current_checkpoint_applied_segment_corrections": 77,
+            "current_checkpoint_review_outcomes": {
+              "correction_proposed": 90,
+              "deferred": 19,
+              "acceptable": 191
+            },
+            "cumulative_reviewed_records": 1800,
+            "cumulative_reviewed_segments": 2943,
+            "remaining_flagged_entries_unreviewed": 734
+          }
+        }
+      ],
+      "verifier_sha256": "294ffed64d55fddea73dab727b54f5d4ad7e3156e5a5922e12b6297c69d36b02",
+      "compiler_sha256": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e"
+    },
+    "007": {
+      "checkpoint": 7,
+      "verified_at_utc": "2026-10-15T00:52:08.379781+00:00",
+      "status": "pass",
+      "scope": "Structural provenance and exact reconstruction; no corpus-wide linguistic accuracy or human-validation claim.",
+      "writes": "No baseline, review, compiler, or candidate writes. --record may update only versioned_compiler_review.json.",
+      "candidate_dictionary_sha256": "b3efe3745c1804f643c687fa14e9e5f2f0724ff5013b530e2fc8420aa9b80646",
+      "counts": {
+        "records": 125264,
+        "aligned_segments": 199737,
+        "model_reviewed_records": 2777,
+        "corrected_segments": 869,
+        "records_with_corrections": 783,
+        "known_flagged_records": 2534,
+        "human_validated_records": 0
+      },
+      "stats": {
+        "baseline_records": 125264,
+        "source_segments": 199737,
+        "notes_total": 2534,
+        "notes_by_disposition": {
+          "quarantine_rejected": 17,
+          "quarantine_unreviewed": 438,
+          "replace_reviewed": 276,
+          "retain_reviewed": 1803
+        },
+        "active_notes": 2079,
+        "quarantined_original_notes": 731,
+        "preserved_flagged_records": 2534,
+        "checkpoint_reviewed_records": 2100,
+        "applied_segment_corrections": 363,
+        "human_validated_records": 0
+      },
+      "checkpoint_counters": {
+        "current_checkpoint_reviewed_records": 300,
+        "current_checkpoint_reviewed_segments": 300,
+        "current_checkpoint_applied_segment_corrections": 100,
+        "current_checkpoint_review_outcomes": {
+          "correction_proposed": 124,
+          "acceptable": 116,
+          "deferred": 60
+        },
+        "cumulative_reviewed_records": 2100,
+        "cumulative_reviewed_segments": 3243,
+        "remaining_flagged_entries_unreviewed": 434
+      },
+      "outside_checkpoint_changes": 0,
+      "checks_run": 48040,
+      "checks_passed": 48040,
+      "failed_checks": [],
+      "aggregate_checks": [
+        {
+          "check": "previous_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "current_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "previous_candidate_unchanged_outside_checkpoint",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "every_original_note_exact_evidence",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "summary_counts_exact",
+          "passed": true,
+          "detail": {
+            "records": 125264,
+            "aligned_segments": 199737,
+            "model_reviewed_records": 2777,
+            "corrected_segments": 869,
+            "records_with_corrections": 783,
+            "known_flagged_records": 2534,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_stats_exact",
+          "passed": true,
+          "detail": {
+            "baseline_records": 125264,
+            "source_segments": 199737,
+            "notes_total": 2534,
+            "notes_by_disposition": {
+              "quarantine_rejected": 17,
+              "quarantine_unreviewed": 438,
+              "replace_reviewed": 276,
+              "retain_reviewed": 1803
+            },
+            "active_notes": 2079,
+            "quarantined_original_notes": 731,
+            "preserved_flagged_records": 2534,
+            "checkpoint_reviewed_records": 2100,
+            "applied_segment_corrections": 363,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_checkpoint_counters_exact",
+          "passed": true,
+          "detail": {
+            "current_checkpoint_reviewed_records": 300,
+            "current_checkpoint_reviewed_segments": 300,
+            "current_checkpoint_applied_segment_corrections": 100,
+            "current_checkpoint_review_outcomes": {
+              "correction_proposed": 124,
+              "acceptable": 116,
+              "deferred": 60
+            },
+            "cumulative_reviewed_records": 2100,
+            "cumulative_reviewed_segments": 3243,
+            "remaining_flagged_entries_unreviewed": 434
+          }
+        }
+      ],
+      "verifier_sha256": "294ffed64d55fddea73dab727b54f5d4ad7e3156e5a5922e12b6297c69d36b02",
+      "compiler_sha256": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e"
+    },
+    "008": {
+      "checkpoint": 8,
+      "verified_at_utc": "2026-10-15T00:54:56.246905+00:00",
+      "status": "pass",
+      "scope": "Structural provenance and exact reconstruction; no corpus-wide linguistic accuracy or human-validation claim.",
+      "writes": "No baseline, review, compiler, or candidate writes. --record may update only versioned_compiler_review.json.",
+      "candidate_dictionary_sha256": "dbc056595ec728a4868ffe4f3a3c6c59fdc7ba1ce2d6f0c7840159a342b33873",
+      "counts": {
+        "records": 125264,
+        "aligned_segments": 199737,
+        "model_reviewed_records": 3077,
+        "corrected_segments": 932,
+        "records_with_corrections": 846,
+        "known_flagged_records": 2534,
+        "human_validated_records": 0
+      },
+      "stats": {
+        "baseline_records": 125264,
+        "source_segments": 199737,
+        "notes_total": 2534,
+        "notes_by_disposition": {
+          "quarantine_rejected": 18,
+          "quarantine_unreviewed": 138,
+          "replace_reviewed": 338,
+          "retain_reviewed": 2040
+        },
+        "active_notes": 2378,
+        "quarantined_original_notes": 494,
+        "preserved_flagged_records": 2534,
+        "checkpoint_reviewed_records": 2400,
+        "applied_segment_corrections": 426,
+        "human_validated_records": 0
+      },
+      "checkpoint_counters": {
+        "current_checkpoint_reviewed_records": 300,
+        "current_checkpoint_reviewed_segments": 300,
+        "current_checkpoint_applied_segment_corrections": 63,
+        "current_checkpoint_review_outcomes": {
+          "correction_proposed": 84,
+          "acceptable": 147,
+          "deferred": 69
+        },
+        "cumulative_reviewed_records": 2400,
+        "cumulative_reviewed_segments": 3543,
+        "remaining_flagged_entries_unreviewed": 134
+      },
+      "outside_checkpoint_changes": 0,
+      "checks_run": 55125,
+      "checks_passed": 55125,
+      "failed_checks": [],
+      "aggregate_checks": [
+        {
+          "check": "previous_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "current_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "previous_candidate_unchanged_outside_checkpoint",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "every_original_note_exact_evidence",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "summary_counts_exact",
+          "passed": true,
+          "detail": {
+            "records": 125264,
+            "aligned_segments": 199737,
+            "model_reviewed_records": 3077,
+            "corrected_segments": 932,
+            "records_with_corrections": 846,
+            "known_flagged_records": 2534,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_stats_exact",
+          "passed": true,
+          "detail": {
+            "baseline_records": 125264,
+            "source_segments": 199737,
+            "notes_total": 2534,
+            "notes_by_disposition": {
+              "quarantine_rejected": 18,
+              "quarantine_unreviewed": 138,
+              "replace_reviewed": 338,
+              "retain_reviewed": 2040
+            },
+            "active_notes": 2378,
+            "quarantined_original_notes": 494,
+            "preserved_flagged_records": 2534,
+            "checkpoint_reviewed_records": 2400,
+            "applied_segment_corrections": 426,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_checkpoint_counters_exact",
+          "passed": true,
+          "detail": {
+            "current_checkpoint_reviewed_records": 300,
+            "current_checkpoint_reviewed_segments": 300,
+            "current_checkpoint_applied_segment_corrections": 63,
+            "current_checkpoint_review_outcomes": {
+              "correction_proposed": 84,
+              "acceptable": 147,
+              "deferred": 69
+            },
+            "cumulative_reviewed_records": 2400,
+            "cumulative_reviewed_segments": 3543,
+            "remaining_flagged_entries_unreviewed": 134
+          }
+        }
+      ],
+      "verifier_sha256": "294ffed64d55fddea73dab727b54f5d4ad7e3156e5a5922e12b6297c69d36b02",
+      "compiler_sha256": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e"
+    },
+    "009": {
+      "checkpoint": 9,
+      "verified_at_utc": "2026-10-15T01:02:13.997808+00:00",
+      "status": "pass",
+      "scope": "Structural provenance and exact reconstruction; no corpus-wide linguistic accuracy or human-validation claim.",
+      "writes": "No baseline, review, compiler, or candidate writes. --record may update only versioned_compiler_review.json.",
+      "candidate_dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+      "counts": {
+        "records": 125264,
+        "aligned_segments": 199737,
+        "model_reviewed_records": 3211,
+        "corrected_segments": 965,
+        "records_with_corrections": 879,
+        "known_flagged_records": 2534,
+        "human_validated_records": 0
+      },
+      "stats": {
+        "baseline_records": 125264,
+        "source_segments": 199737,
+        "notes_total": 2534,
+        "notes_by_disposition": {
+          "quarantine_rejected": 18,
+          "quarantine_unreviewed": 4,
+          "replace_reviewed": 385,
+          "retain_reviewed": 2127
+        },
+        "active_notes": 2512,
+        "quarantined_original_notes": 407,
+        "preserved_flagged_records": 2534,
+        "checkpoint_reviewed_records": 2534,
+        "applied_segment_corrections": 459,
+        "human_validated_records": 0
+      },
+      "checkpoint_counters": {
+        "current_checkpoint_reviewed_records": 134,
+        "current_checkpoint_reviewed_segments": 134,
+        "current_checkpoint_applied_segment_corrections": 33,
+        "current_checkpoint_review_outcomes": {
+          "correction_proposed": 51,
+          "deferred": 26,
+          "acceptable": 57
+        },
+        "cumulative_reviewed_records": 2534,
+        "cumulative_reviewed_segments": 3677,
+        "remaining_flagged_entries_unreviewed": 0
+      },
+      "outside_checkpoint_changes": 0,
+      "checks_run": 59649,
+      "checks_passed": 59649,
+      "failed_checks": [],
+      "aggregate_checks": [
+        {
+          "check": "previous_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "current_dictionary_independent_reconstruction",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "previous_candidate_unchanged_outside_checkpoint",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "every_original_note_exact_evidence",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "check": "summary_counts_exact",
+          "passed": true,
+          "detail": {
+            "records": 125264,
+            "aligned_segments": 199737,
+            "model_reviewed_records": 3211,
+            "corrected_segments": 965,
+            "records_with_corrections": 879,
+            "known_flagged_records": 2534,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_stats_exact",
+          "passed": true,
+          "detail": {
+            "baseline_records": 125264,
+            "source_segments": 199737,
+            "notes_total": 2534,
+            "notes_by_disposition": {
+              "quarantine_rejected": 18,
+              "quarantine_unreviewed": 4,
+              "replace_reviewed": 385,
+              "retain_reviewed": 2127
+            },
+            "active_notes": 2512,
+            "quarantined_original_notes": 407,
+            "preserved_flagged_records": 2534,
+            "checkpoint_reviewed_records": 2534,
+            "applied_segment_corrections": 459,
+            "human_validated_records": 0
+          }
+        },
+        {
+          "check": "summary_checkpoint_counters_exact",
+          "passed": true,
+          "detail": {
+            "current_checkpoint_reviewed_records": 134,
+            "current_checkpoint_reviewed_segments": 134,
+            "current_checkpoint_applied_segment_corrections": 33,
+            "current_checkpoint_review_outcomes": {
+              "correction_proposed": 51,
+              "deferred": 26,
+              "acceptable": 57
+            },
+            "cumulative_reviewed_records": 2534,
+            "cumulative_reviewed_segments": 3677,
+            "remaining_flagged_entries_unreviewed": 0
+          }
+        }
+      ],
+      "verifier_sha256": "294ffed64d55fddea73dab727b54f5d4ad7e3156e5a5922e12b6297c69d36b02",
+      "compiler_sha256": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e"
+    }
+  },
+  "verifier_unit_tests": {
+    "passed": 16,
+    "tests": [
+      {
+        "name": "default_note_quarantine",
+        "passed": true
+      },
+      {
+        "name": "exact_review_and_patch_reconstruction",
+        "passed": true
+      },
+      {
+        "name": "reconstruction_does_not_alias_original",
+        "passed": true
+      },
+      {
+        "name": "stale_source",
+        "passed": true
+      },
+      {
+        "name": "stale_baseline",
+        "passed": true
+      },
+      {
+        "name": "wrong_note_hash",
+        "passed": true
+      },
+      {
+        "name": "bool_note_index",
+        "passed": true
+      },
+      {
+        "name": "blank_note_evidence",
+        "passed": true
+      },
+      {
+        "name": "bad_disposition",
+        "passed": true
+      },
+      {
+        "name": "duplicate_event",
+        "passed": true
+      },
+      {
+        "name": "medium_patch",
+        "passed": true
+      },
+      {
+        "name": "wrong_before",
+        "passed": true
+      },
+      {
+        "name": "reference_deletion",
+        "passed": true
+      },
+      {
+        "name": "no_op_patch",
+        "passed": true
+      },
+      {
+        "name": "bool_patch_index",
+        "passed": true
+      },
+      {
+        "name": "duplicate_patch",
+        "passed": true
+      }
+    ]
+  },
+  "verifier_sha256": "294ffed64d55fddea73dab727b54f5d4ad7e3156e5a5922e12b6297c69d36b02"
+}

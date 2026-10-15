@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "cadf14b4bdb281c1",
+    "traditional": "炸薯球",
+    "simplified": "炸薯球",
+    "pinyin": "zha4 shu3 qiu2",
+    "english_segments": [
+      "tater tot"
+    ],
+    "raw_source": "炸薯球 炸薯球 [zha4 shu3 qiu2] /tater tot/",
+    "source_line": 69433,
+    "ukrainian_segments": [
+      "смажена картопляна кулька або циліндрик із тертої картоплі"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Наведена вимова zha4 суперечить звичайному читанню zha2 для смаження; написання й піньїнь джерела потребують перевірки."
+    ]
+  },
+  {
+    "id": "379127c6a6247f96",
+    "traditional": "狆",
+    "simplified": "狆",
+    "pinyin": "zhong4",
+    "english_segments": [
+      "Pekingese"
+    ],
+    "raw_source": "狆 狆 [zhong4] /Pekingese/",
+    "source_line": 72252,
+    "ukrainian_segments": [
+      "пекінес"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Породний відповідник у джерелі потребує перевірки: ієрогліф також пов'язаний із японським хіном."
+    ]
+  },
+  {
+    "id": "fe78b1c94875d267",
+    "traditional": "猗",
+    "simplified": "猗",
+    "pinyin": "yi1",
+    "english_segments": [
+      "(interj.)"
+    ],
+    "raw_source": "猗 猗 [yi1] /(interj.)/",
+    "source_line": 72440,
+    "ukrainian_segments": [
+      "(вигук)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює значення вигуку; конкретний український вигук неможливо надійно вибрати."
+    ]
+  },
+  {
+    "id": "c9ce7dc41fad1dbd",
+    "traditional": "癉",
+    "simplified": "瘅",
+    "pinyin": "dan1",
+    "english_segments": [
+      "(disease)"
+    ],
+    "raw_source": "癉 瘅 [dan1] /(disease)/",
+    "source_line": 76128,
+    "ukrainian_segments": [
+      "(хвороба)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює, яку саме хворобу позначає читання dan1."
+    ]
+  },
+  {
+    "id": "0306130333c6b725",
+    "traditional": "白魚",
+    "simplified": "白鱼",
+    "pinyin": "bai2 yu2",
+    "english_segments": [
+      "whitefish"
+    ],
+    "raw_source": "白魚 白鱼 [bai2 yu2] /whitefish/",
+    "source_line": 76944,
+    "ukrainian_segments": [
+      "біла риба"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Без латинської назви незрозуміло, який саме вид риби мається на увазі; англійське whitefish багатозначне."
+    ]
+  },
+  {
+    "id": "43d4df9513bfc026",
+    "traditional": "礞",
+    "simplified": "礞",
+    "pinyin": "meng2",
+    "english_segments": [
+      "(mineral)"
+    ],
+    "raw_source": "礞 礞 [meng2] /(mineral)/",
+    "source_line": 80287,
+    "ukrainian_segments": [
+      "мінерал"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює мінерал і конкретне значення знака."
+    ]
+  },
+  {
+    "id": "5c60fb2a32dacd8f",
+    "traditional": "絲囊",
+    "simplified": "丝囊",
+    "pinyin": "si1 nang2",
+    "english_segments": [
+      "spinneret"
+    ],
+    "raw_source": "絲囊 丝囊 [si1 nang2] /spinneret/",
+    "source_line": 85931,
+    "ukrainian_segments": [
+      "павутинна бородавка; прядильний орган"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайське 絲囊 буквально позначає шовковий мішечок; відповідність англійському «spinneret» потребує зоологічної перевірки."
+    ]
+  },
+  {
+    "id": "d8cf54cd2e653356",
+    "traditional": "膽石症",
+    "simplified": "胆石症",
+    "pinyin": "dan3 shi2 zheng4",
+    "english_segments": [
+      "gallstone"
+    ],
+    "raw_source": "膽石症 胆石症 [dan3 shi2 zheng4] /gallstone/",
+    "source_line": 91394,
+    "ukrainian_segments": [
+      "жовчнокам’яна хвороба"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело подає «жовчний камінь», але китайський суфікс 症 означає захворювання; перекладено як жовчнокам’яну хворобу."
+    ]
+  },
+  {
+    "id": "87c3adaf032bff9a",
+    "traditional": "膽色素",
+    "simplified": "胆色素",
+    "pinyin": "dan3 se4 su4",
+    "english_segments": [
+      "bilirubin"
+    ],
+    "raw_source": "膽色素 胆色素 [dan3 se4 su4] /bilirubin/",
+    "source_line": 91402,
+    "ukrainian_segments": [
+      "жовчний пігмент; білірубін"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайський термін охоплює жовчні пігменти загалом; білірубін є одним із них."
+    ]
+  },
+  {
+    "id": "2f5977d9d2392920",
+    "traditional": "臀瓣",
+    "simplified": "臀瓣",
+    "pinyin": "tun2 ban4",
+    "english_segments": [
+      "anal lobe"
+    ],
+    "raw_source": "臀瓣 臀瓣 [tun2 ban4] /anal lobe/",
+    "source_line": 91431,
+    "ukrainian_segments": [
+      "анальна лопать"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Без зоологічного контексту точний орган, позначений «анальна лопать», неясний."
+    ]
+  },
+  {
+    "id": "7a172af6d60eb586",
+    "traditional": "蕗",
+    "simplified": "蕗",
+    "pinyin": "lu4",
+    "english_segments": [
+      "leucacene"
+    ],
+    "raw_source": "蕗 蕗 [lu4] /leucacene/",
+    "source_line": 95898,
+    "ukrainian_segments": [
+      "лейкацен"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійський термін leucacene неясний; попередня транслітерація потребує перевірки."
+    ]
+  },
+  {
+    "id": "87b80937e3ff00b3",
+    "traditional": "說七說八",
+    "simplified": "说七说八",
+    "pinyin": "shuo1 qi1 shuo1 ba1",
+    "english_segments": [
+      "after all"
+    ],
+    "raw_source": "說七說八 说七说八 [shuo1 qi1 shuo1 ba1] /after all/",
+    "source_line": 101452,
+    "ukrainian_segments": [
+      "зрештою"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «after all» неочевидно відповідає 說七說八; звичайне значення вислову — говорити про різне або багато говорити."
+    ]
+  },
+  {
+    "id": "3de65ae2de98d5a7",
+    "traditional": "遇難船",
+    "simplified": "遇难船",
+    "pinyin": "yu4 nan2 chuan2",
+    "english_segments": [
+      "shipwreck"
+    ],
+    "raw_source": "遇難船 遇难船 [yu4 nan2 chuan2] /shipwreck/",
+    "source_line": 108448,
+    "ukrainian_segments": [
+      "корабель, що зазнав аварії"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "У джерелі подано читання nan2, хоча в слові зі значенням аварії або лиха очікується nan4."
+    ]
+  },
+  {
+    "id": "28aa6de2fa3d860e",
+    "traditional": "野鼬瓣花",
+    "simplified": "野鼬瓣花",
+    "pinyin": "ye3 you4 ban4 hua1",
+    "english_segments": [
+      "wild hemp"
+    ],
+    "raw_source": "野鼬瓣花 野鼬瓣花 [ye3 you4 ban4 hua1] /wild hemp/",
+    "source_line": 111113,
+    "ukrainian_segments": [
+      "дикі коноплі (непевний ботанічний відповідник)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайська ботанічна назва 野鼬瓣花 неочевидно відповідає англійському wild hemp; потрібна перевірка виду."
+    ]
+  },
+  {
+    "id": "c7f41ffb723b2246",
+    "traditional": "雨蛙",
+    "simplified": "雨蛙",
+    "pinyin": "yu3 wa1",
+    "english_segments": [
+      "rain frog"
+    ],
+    "raw_source": "雨蛙 雨蛙 [yu3 wa1] /rain frog/",
+    "source_line": 116693,
+    "ukrainian_segments": [
+      "деревна жаба; райка"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайське 雨蛙 зазвичай позначає райку; буквальне англійське «rain frog» може помилково натякати на іншу групу жаб."
+    ]
+  },
+  {
+    "id": "f19176f3ab49da78",
+    "traditional": "非動物性",
+    "simplified": "非动物性",
+    "pinyin": "fei1 dong4 wu4 xing4",
+    "english_segments": [
+      "inanimacy"
+    ],
+    "raw_source": "非動物性 非动物性 [fei1 dong4 wu4 xing4] /inanimacy/",
+    "source_line": 117942,
+    "ukrainian_segments": [
+      "неістотність (граматична категорія)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Контекст не зазначено; inanimacy витлумачено як граматичну неістотність."
+    ]
+  },
+  {
+    "id": "9d8eca2b2ecce3cb",
+    "traditional": "鞭節",
+    "simplified": "鞭节",
+    "pinyin": "bian1 jie2",
+    "english_segments": [
+      "flagellum"
+    ],
+    "raw_source": "鞭節 鞭节 [bian1 jie2] /flagellum/",
+    "source_line": 118335,
+    "ukrainian_segments": [
+      "джгутик"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Контекст не уточнено; може йтися про джгутик як частину вусика комахи."
+    ]
+  },
+  {
+    "id": "c6ba16da9b453f22",
+    "traditional": "颮",
+    "simplified": "飑",
+    "pinyin": "biao1",
+    "english_segments": [
+      "whirlwind"
+    ],
+    "raw_source": "颮 飑 [biao1] /whirlwind/",
+    "source_line": 119653,
+    "ukrainian_segments": [
+      "вихор"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайський метеорологічний термін зазвичай означає шквал; джерело дає whirlwind «вихор»."
+    ]
+  },
+  {
+    "id": "673c05c57ba271c2",
+    "traditional": "體團",
+    "simplified": "体团",
+    "pinyin": "ti3 tuan2",
+    "english_segments": [
+      "community"
+    ],
+    "raw_source": "體團 体团 [ti3 tuan2] /community/",
+    "source_line": 121632,
+    "ukrainian_segments": [
+      "спільнота"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Для 體團 джерело дає лише «community»; рідкісне слово потребує лексикографічної перевірки."
+    ]
+  },
+  {
+    "id": "21bc081f20d2f402",
+    "traditional": "鮦",
+    "simplified": "鲖",
+    "pinyin": "tong2",
+    "english_segments": [
+      "snakefish"
+    ],
+    "raw_source": "鮦 鲖 [tong2] /snakefish/",
+    "source_line": 122715,
+    "ukrainian_segments": [
+      "змієголов (риба)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійська назва snakefish неоднозначна; відповідність змієголову потребує перевірки."
+    ]
+  },
+  {
+    "id": "974c45903c7476eb",
+    "traditional": "鷏",
+    "simplified": "鷏",
+    "pinyin": "zhen1",
+    "english_segments": [
+      "bird name"
+    ],
+    "raw_source": "鷏 鷏 [zhen1] /bird name/",
+    "source_line": 123330,
+    "ukrainian_segments": [
+      "назва птаха"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не наводить ідентифікації птаха."
+    ]
+  },
+  {
+    "id": "6880aa40987387c4",
+    "traditional": "麗實",
+    "simplified": "丽实",
+    "pinyin": "li4 shi2",
+    "english_segments": [
+      "practical"
+    ],
+    "raw_source": "麗實 丽实 [li4 shi2] /practical/",
+    "source_line": 123573,
+    "ukrainian_segments": [
+      "практичний"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісне слово з лаконічним джерельним тлумаченням practical; значення потребує перевірки."
+    ]
+  },
+  {
+    "id": "291739af33e992a4",
+    "traditional": "伻",
+    "simplified": "伻",
+    "pinyin": "beng1",
+    "english_segments": [
+      "to cause"
+    ],
+    "raw_source": "伻 伻 [beng1] /to cause/",
+    "source_line": 7052,
+    "ukrainian_segments": [
+      "спричиняти; примушувати"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Це рідкісне книжне значення ієрогліфа; точне вживання без контексту невизначене."
+    ]
+  },
+  {
+    "id": "5cf7575992109848",
+    "traditional": "匪徒集團",
+    "simplified": "匪徒集团",
+    "pinyin": "fei3 tu2 ji2 tuan2",
+    "english_segments": [
+      "gangster"
+    ],
+    "raw_source": "匪徒集團 匪徒集团 [fei3 tu2 ji2 tuan2] /gangster/",
+    "source_line": 16442,
+    "ukrainian_segments": [
+      "гангстерське угруповання"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «gangster» позначає особу, але китайське 集團 вказує на угруповання."
+    ]
+  },
+  {
+    "id": "b0382474cfe866a3",
+    "traditional": "受難紀念",
+    "simplified": "受难纪念",
+    "pinyin": "shou4 nan2 ji4 nian4",
+    "english_segments": [
+      "memorial"
+    ],
+    "raw_source": "受難紀念 受难纪念 [shou4 nan2 ji4 nian4] /memorial/",
+    "source_line": 18703,
+    "ukrainian_segments": [
+      "вшанування пам'яті страждань або жертв"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Короткий англійський сегмент не уточнює, чи йдеться про християнське вшанування Страстей; вимова nan2 у джерелі також потребує перевірки."
+    ]
+  },
+  {
+    "id": "76265ac2324bd2f1",
+    "traditional": "喌",
+    "simplified": "喌",
+    "pinyin": "zhou1",
+    "english_segments": [
+      "syllable"
+    ],
+    "raw_source": "喌 喌 [zhou1] /syllable/",
+    "source_line": 22548,
+    "ukrainian_segments": [
+      "склад"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело подає лише «syllable»; 喌 зазвичай звуконаслідувальний вигук для підкликання курей."
+    ]
+  },
+  {
+    "id": "3ef106aec69da3d8",
+    "traditional": "套褲",
+    "simplified": "套裤",
+    "pinyin": "tao4 ku4",
+    "english_segments": [
+      "leggings"
+    ],
+    "raw_source": "套褲 套裤 [tao4 ku4] /leggings/",
+    "source_line": 29680,
+    "ukrainian_segments": [
+      "гамаші; накладні штанини"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «leggings» багатозначне; для 套褲 обрано накладний захисний одяг для ніг."
+    ]
+  },
+  {
+    "id": "4b48c92cf41150c0",
+    "traditional": "庈",
+    "simplified": "庈",
+    "pinyin": "qin2",
+    "english_segments": [
+      "(person)"
+    ],
+    "raw_source": "庈 庈 [qin2] /(person)/",
+    "source_line": 38259,
+    "ukrainian_segments": [
+      "(вживається в особових іменах)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело містить лише «(person)», без імені чи точнішого значення."
+    ]
+  },
+  {
+    "id": "a0a2c155f7d89c3a",
+    "traditional": "掩樣法",
+    "simplified": "掩样法",
+    "pinyin": "yan3 yang4 fa3",
+    "english_segments": [
+      "illusion"
+    ],
+    "raw_source": "掩樣法 掩样法 [yan3 yang4 fa3] /illusion/",
+    "source_line": 48132,
+    "ukrainian_segments": [
+      "ілюзія"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісне слово 掩樣法; без контексту неясно, чи йдеться про оптичну ілюзію, чи прийом приховування."
+    ]
+  },
+  {
+    "id": "700603e4db51cfbd",
+    "traditional": "月缺",
+    "simplified": "月缺",
+    "pinyin": "yue4 que1",
+    "english_segments": [
+      "new moon"
+    ],
+    "raw_source": "月缺 月缺 [yue4 que1] /new moon/",
+    "source_line": 54872,
+    "ukrainian_segments": [
+      "молодик"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає «new moon», але 月缺 також описує неповний місячний диск; фазове значення потребує уточнення."
+    ]
+  },
+  {
+    "id": "dc872a61252b0e10",
+    "traditional": "流變能力",
+    "simplified": "流变能力",
+    "pinyin": "liu2 bian4 neng2 li4",
+    "english_segments": [
+      "rheology"
+    ],
+    "raw_source": "流變能力 流变能力 [liu2 bian4 neng2 li4] /rheology/",
+    "source_line": 65073,
+    "ukrainian_segments": [
+      "реологічні властивості; здатність текти й деформуватися"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає «rheology», але 能力 в заголовку позначає здатність, а не назву науки."
+    ]
+  },
+  {
+    "id": "4b32447debc56727",
+    "traditional": "火牆",
+    "simplified": "火墙",
+    "pinyin": "huo3 qiang2",
+    "english_segments": [
+      "firewall"
+    ],
+    "raw_source": "火牆 火墙 [huo3 qiang2] /firewall/",
+    "source_line": 69069,
+    "ukrainian_segments": [
+      "брандмауер; протипожежна стіна"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Без контексту firewall може означати будівельну протипожежну стіну або мережевий екран; китайське слово насамперед позначає стіну."
+    ]
+  },
+  {
+    "id": "c19effb199309c63",
+    "traditional": "熤",
+    "simplified": "熤",
+    "pinyin": "yi4",
+    "english_segments": [
+      "(person)"
+    ],
+    "raw_source": "熤 熤 [yi4] /(person)/",
+    "source_line": 70722,
+    "ukrainian_segments": [
+      "(позначення особи)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело містить лише неясну позначку person; конкретне значення або особове ім'я не встановлено."
+    ]
+  },
+  {
+    "id": "fc50bbb93beff1b4",
+    "traditional": "牳",
+    "simplified": "牳",
+    "pinyin": "mu3",
+    "english_segments": [
+      "(bovine)"
+    ],
+    "raw_source": "牳 牳 [mu3] /(bovine)/",
+    "source_line": 71878,
+    "ukrainian_segments": [
+      "(вид великої рогатої худоби)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело містить лише нечітке пояснення «bovine»; точне значення рідкісного ієрогліфа потребує перевірки."
+    ]
+  },
+  {
+    "id": "7f01c114ced1a5f0",
+    "traditional": "秠",
+    "simplified": "秠",
+    "pinyin": "pi1",
+    "english_segments": [
+      "(millet)"
+    ],
+    "raw_source": "秠 秠 [pi1] /(millet)/",
+    "source_line": 81488,
+    "ukrainian_segments": [
+      "різновид проса"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Точний ботанічний різновид у джерелі не визначено."
+    ]
+  },
+  {
+    "id": "45790c6dfa1c54d6",
+    "traditional": "穄",
+    "simplified": "穄",
+    "pinyin": "ji4",
+    "english_segments": [
+      "(millet)"
+    ],
+    "raw_source": "穄 穄 [ji4] /(millet)/",
+    "source_line": 81897,
+    "ukrainian_segments": [
+      "різновид проса"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Точний різновид у джерелі не визначено."
+    ]
+  },
+  {
+    "id": "778bc98ae44ec9f1",
+    "traditional": "純品",
+    "simplified": "纯品",
+    "pinyin": "chun2 pin3",
+    "english_segments": [
+      "sterling"
+    ],
+    "raw_source": "純品 纯品 [chun2 pin3] /sterling/",
+    "source_line": 85031,
+    "ukrainian_segments": [
+      "високопробний виріб"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «sterling» неоднозначне; для 純品 обрано значення високопробного, чистого виробу, без прив'язки до валюти."
+    ]
+  },
+  {
+    "id": "7bb6b5c42711c743",
+    "traditional": "臟躁",
+    "simplified": "脏躁",
+    "pinyin": "zang4 zao4",
+    "english_segments": [
+      "hysteria"
+    ],
+    "raw_source": "臟躁 脏躁 [zang4 zao4] /hysteria/",
+    "source_line": 91541,
+    "ukrainian_segments": [
+      "істерія"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Термін традиційної китайської медицини лише приблизно зіставляють з історичним поняттям істерії."
+    ]
+  },
+  {
+    "id": "d3e6e64109ca4070",
+    "traditional": "菌陳蒿",
+    "simplified": "菌陈蒿",
+    "pinyin": "jun1 chen2 hao1",
+    "english_segments": [
+      "tarragon"
+    ],
+    "raw_source": "菌陳蒿 菌陈蒿 [jun1 chen2 hao1] /tarragon/",
+    "source_line": 94497,
+    "ukrainian_segments": [
+      "естрагон"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Відповідність 菌陳蒿 естрагону сумнівна; можлива помилка написання або ботанічного визначення у джерелі."
+    ]
+  },
+  {
+    "id": "8fe7ecea819bcf89",
+    "traditional": "蛋卷",
+    "simplified": "蛋卷",
+    "pinyin": "dan4 juan3",
+    "english_segments": [
+      "egg roll"
+    ],
+    "raw_source": "蛋卷 蛋卷 [dan4 juan3] /egg roll/",
+    "source_line": 97178,
+    "ukrainian_segments": [
+      "яєчний рулет"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Без контексту назва може означати яєчний рулет або хрустку яєчну трубочку; англійський сегмент не уточнює."
+    ]
+  },
+  {
+    "id": "9d8ad1076f427a71",
+    "traditional": "豻",
+    "simplified": "豻",
+    "pinyin": "han4",
+    "english_segments": [
+      "(canine)"
+    ],
+    "raw_source": "豻 豻 [han4] /(canine)/",
+    "source_line": 102984,
+    "ukrainian_segments": [
+      "собакоподібна тварина"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає лише загальне «canine»; точну назву тварини не встановлено."
+    ]
+  },
+  {
+    "id": "447cdaa3a4eddc39",
+    "traditional": "輪機手",
+    "simplified": "轮机手",
+    "pinyin": "lun2 ji1 shou3",
+    "english_segments": [
+      "helmsman"
+    ],
+    "raw_source": "輪機手 轮机手 [lun2 ji1 shou3] /helmsman/",
+    "source_line": 106429,
+    "ukrainian_segments": [
+      "судновий моторист (у джерелі: стерновий)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське helmsman суперечить китайському 輪機手, яке стосується обслуговування суднових двигунів; розбіжність позначено."
+    ]
+  },
+  {
+    "id": "8fc2143b3f98dad9",
+    "traditional": "鰈鮫",
+    "simplified": "鲽鲛",
+    "pinyin": "die2 jiao1",
+    "english_segments": [
+      "sturgeon"
+    ],
+    "raw_source": "鰈鮫 鲽鲛 [die2 jiao1] /sturgeon/",
+    "source_line": 122837,
+    "ukrainian_segments": [
+      "осетер"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Незвичну назву осетра відтворено за джерелом; відповідність потребує перевірки."
+    ]
+  },
+  {
+    "id": "494f4ff5ef1f1f6e",
+    "traditional": "僎",
+    "simplified": "僎",
+    "pinyin": "zhuan4",
+    "english_segments": [
+      "collect"
+    ],
+    "raw_source": "僎 僎 [zhuan4] /collect/",
+    "source_line": 10020,
+    "ukrainian_segments": [
+      "збирати"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний знак 僎; значення подано за єдиною наданою глосою."
+    ]
+  },
+  {
+    "id": "969e72f65c58567a",
+    "traditional": "吜",
+    "simplified": "吜",
+    "pinyin": "chou3",
+    "english_segments": [
+      "(onom.)"
+    ],
+    "raw_source": "吜 吜 [chou3] /(onom.)/",
+    "source_line": 20465,
+    "ukrainian_segments": [
+      "звуконаслідування"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює, який саме звук позначено."
+    ]
+  }
+]

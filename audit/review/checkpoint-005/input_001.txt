@@ -1,0 +1,500 @@
+1. ID 8fefa083dadf54af | line 124006 | 黃臀鵯 / 黄臀鹎 [huang2 tun2 bei1]
+  0: EN (bird species of China) brown-breasted bulbul (Pycnonotus xanthorrhous)
+     UK (вид птахів Китаю) бурогрудий бюльбюль (Pycnonotus xanthorrhous)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+2. ID 09625bb3682cc5b8 | line 124019 | 黃花崗七十二烈士 / 黄花岗七十二烈士 [Huang2 hua1 gang1 qi1 shi2 er4 lie4 shi4]
+  0: EN the seventy two martyrs of the Huanghuagang uprising of 23rd April 1911
+     UK сімдесят два мученики Хуанхуаганського повстання 23 квітня 1911 року
+  NOTES ["Дата повстання 23 квітня відтворена за джерелом; поширене датування 27 квітня потребує звірки."]
+
+3. ID 5b1f0e0f10ecb9b4 | line 124222 | 黑喉縫葉鶯 / 黑喉缝叶莺 [hei1 hou2 feng2 ye4 ying1]
+  0: EN (bird species of China) dark-necked tailorbird (Orthotomus atrogularis)
+     UK (вид птахів Китаю) темношиїй кравчик (Orthotomus atrogularis)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+4. ID 7908bc1f4af6029f | line 124421 | 黑領椋鳥 / 黑领椋鸟 [hei1 ling3 liang2 niao3]
+  0: EN (bird species of China) black-collared starling (Gracupica nigricollis)
+     UK (вид птахів Китаю) чорнокомірцевий шпак (Gracupica nigricollis)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+5. ID b2144da1d51d2c86 | line 124427 | 黑頭白䴉 / 黑头白鹮 [hei1 tou2 bai2 huan2]
+  0: EN (bird species of China) black-headed ibis (Threskiornis melanocephalus)
+     UK (вид птахів Китаю) чорноголовий ібіс (Threskiornis melanocephalus)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+6. ID 192f897ed8daef95 | line 12504 | 冠紋柳鶯 / 冠纹柳莺 [guan1 wen2 liu3 ying1]
+  0: EN (bird species of China) Claudia's leaf warbler (Phylloscopus claudiae)
+     UK (вид птахів Китаю) вівчарик Клавдії (Phylloscopus claudiae)
+  NOTES ["Українська назва виду є описовим перекладом; її усталеність не перевірено. Точний вид визначає збережена латинська назва."]
+
+7. ID daefa5e7d535b3f7 | line 21281 | 和田市 / 和田市 [He2 tian2 Shi4]
+  0: EN Hotan, a county-level city in Hotan City 和田市[He2 tian2 Shi4], Xinjiang
+     UK Хотан, місто повітового рівня в Хотані 和田市[He2 tian2 Shi4], Сіньцзян
+  NOTES ["Джерело помилково подає місто як підпорядковане самому собі; адміністративний опис потребує перевірки."]
+
+8. ID 6e403fe6111d863a | line 34691 | 小盤尾 / 小盘尾 [xiao3 pan2 wei3]
+  0: EN (bird species of China) lesser racket-tailed drongo (Dicrurus remifer)
+     UK (вид птахів Китаю) малий ракетохвостий дронго (Dicrurus remifer)
+  NOTES ["Усталена українська видова назва потребує перевірки; подано описовий відповідник."]
+
+9. ID 4b923cbb4fa806b2 | line 39473 | 強腳樹鶯 / 强脚树莺 [qiang2 jiao3 shu4 ying1]
+  0: EN (bird species of China) brown-flanked bush warbler (Horornis fortipes)
+     UK (вид птахів Китаю) очеретянка з бурими боками (Horornis fortipes)
+  NOTES ["Українська усталена видова назва Horornis fortipes не встановлена; подано описовий відповідник."]
+
+10. ID 2a34a23e8a6a5963 | line 41235 | 忠清南道 / 忠清南道 [Zhong1 qing1 nan2 dao4]
+  0: EN South Chungcheong Province, South Korea, capital Daejeon 大田[Da4 tian2]
+     UK Південна Чхунчхон, провінція Південної Кореї, адміністративний центр Теджон 大田[Da4 tian2]
+  NOTES ["Назву адміністративного центру Теджон наведено за джерелом; це історичні, потенційно застарілі дані."]
+
+11. ID b55577d90fd8461c | line 51559 | 斑翅擬蠟嘴雀 / 斑翅拟蜡嘴雀 [ban1 chi4 ni3 la4 zui3 que4]
+  0: EN (bird species of China) spot-winged grosbeak (Mycerobas melanozanthos)
+     UK (вид птахів Китаю) плямистокрилий товстодзьоб (Mycerobas melanozanthos)
+  NOTES ["Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."]
+
+12. ID f657788fa5842377 | line 75433 | 異色樹鶯 / 异色树莺 [yi4 se4 shu4 ying1]
+  0: EN (bird species of China) aberrant bush warbler (Horornis flavolivaceus)
+     UK (вид птахів Китаю) очеретянка чагарникова (Horornis flavolivaceus)
+  NOTES ["Українська видова назва потребує орнітологічної звірки."]
+
+13. ID dddc09ff42476c20 | line 76520 | 白冠燕尾 / 白冠燕尾 [bai2 guan1 yan4 wei3]
+  0: EN (bird species of China) white-crowned forktail (Enicurus leschenaulti)
+     UK (вид птахів Китаю) білотім'яний вилохвіст (Enicurus leschenaulti)
+  NOTES ["Українську назву подано описово; усталена видова форма потребує перевірки."]
+
+14. ID 2a1759d03f58c219 | line 76539 | 白喉姬鶲 / 白喉姬鹟 [bai2 hou2 ji1 weng1]
+  0: EN (bird species of China) white-gorgeted flycatcher (Anthipes monileger)
+     UK (вид птахів Китаю) білогорла мухоловка (Anthipes monileger)
+  NOTES ["Українську назву подано описово; родове найменування потребує перевірки."]
+
+15. ID 1ae6dd34140ed638 | line 78601 | 眼紋噪鶥 / 眼纹噪鹛 [yan3 wen2 zao4 mei2]
+  0: EN (bird species of China) spotted laughingthrush (Ianthocincla ocellata)
+     UK (вид птахів Китаю) плямиста чагарниця (Ianthocincla ocellata)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+16. ID 68f9a0536bb08503 | line 84863 | 紅頭鴉雀 / 红头鸦雀 [hong2 tou2 ya1 que4]
+  0: EN (bird species of China) rufous-headed parrotbill (Paradoxornis bakeri)
+     UK (вид птахів Китаю) сутора рудоголова (Paradoxornis bakeri)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+17. ID 70f28750371569a8 | line 84916 | 紋胸鷦鶥 / 纹胸鹪鹛 [wen2 xiong1 jiao1 mei2]
+  0: EN (bird species of China) eyebrowed wren-babbler (Napothera epilepidota)
+     UK (вид птахів Китаю) кропив'янкова тимелія з виразними бровами (Napothera epilepidota)
+  NOTES ["Назву подано описово; усталений український видовий відповідник не встановлено."]
+
+18. ID 5bf6b2ef347e16ce | line 84921 | 紋頭斑翅鶥 / 纹头斑翅鹛 [wen2 tou2 ban1 chi4 mei2]
+  0: EN (bird species of China) hoary-throated barwing (Actinodura nipalensis)
+     UK (вид птахів Китаю) сивогорла актинодура (Actinodura nipalensis)
+  NOTES ["Назву подано описово; усталений український відповідник потребує перевірки."]
+
+19. ID ad087f855c5ed00b | line 86226 | 綠腳山鷓鴣 / 绿脚山鹧鸪 [lu:4 jiao3 shan1 zhe4 gu1]
+  0: EN (bird species of China) green-legged partridge (Arborophila chloropus)
+     UK (вид птахів Китаю) куріпка зеленонога (Arborophila chloropus)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+20. ID 787e64efc1360744 | line 89173 | 耶戶 / 耶户 [Ye1 hu4]
+  0: EN Jehu (842-815 BC), Israelite king, prominent character in 2 Kings 9:10
+     UK Єгу (842–815 до н. е.), ізраїльський цар, визначна постать Другої книги царів 9:10
+  NOTES ["Дати наведено за джерелом без уточнення, чи це роки правління; біблійне посилання також може мати на увазі розділи 9–10."]
+
+21. ID 7f906f833dd68dd2 | line 92303 | 臺灣棕頸鉤嘴鶥 / 台湾棕颈钩嘴鹛 [Tai2 wan1 zong1 jing3 gou1 zui3 mei2]
+  0: EN (bird species of China) Taiwan scimitar babbler (Pomatorhinus musicus)
+     UK (вид птахів Китаю) тайванська тимелія-криводзьоб (Pomatorhinus musicus)
+  NOTES ["Усталений український видовий відповідник потребує перевірки; наукову назву збережено."]
+
+22. ID 5e73ae511daefc22 | line 94601 | 華南冠紋柳鶯 / 华南冠纹柳莺 [Hua2 nan2 guan1 wen2 liu3 ying1]
+  0: EN (bird species of China) Hartert's leaf warbler (Phylloscopus goodsoni)
+     UK (вид птахів Китаю) вівчарик Гартерта (Phylloscopus goodsoni)
+  NOTES ["Українську видову назву птаха подано описово; усталений орнітологічний відповідник потребує перевірки."]
+
+23. ID 05c6c3b3c46cc0b4 | line 95156 | 葉禮庭 / 叶礼庭 [ye4 li3 ting2]
+  0: EN Michael Grant Ignatieff (1947-), leader of the Liberal Party of Canada
+     UK Майкл Грант Ігнатьєв (1947 р. н.), лідер Ліберальної партії Канади
+  NOTES ["Посада подана як у джерелі; актуальність біографічної характеристики не перевірялася."]
+
+24. ID cfa40680d66af8c1 | line 99208 | 褐喉食蜜鳥 / 褐喉食蜜鸟 [he4 hou2 shi2 mi4 niao3]
+  0: EN (bird species of China) brown-throated sunbird (Anthreptes malacensis)
+     UK (вид птахів Китаю) бурогорла нектарниця (Anthreptes malacensis)
+  NOTES ["Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."]
+
+25. ID dbfa61087ee6ef30 | line 99217 | 褐翅叉尾海燕 / 褐翅叉尾海燕 [he4 chi4 cha1 wei3 hai3 yan4]
+  0: EN (bird species of China) Tristram's storm petrel (Hydrobates tristrami)
+     UK (вид птахів Китаю) качурка Трістрама (Hydrobates tristrami)
+  NOTES ["Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."]
+
+26. ID 21e2294d5122a093 | line 99219 | 褐翅雪雀 / 褐翅雪雀 [he4 chi4 xue3 que4]
+  0: EN (bird species of China) black-winged snowfinch (Montifringilla adamsi)
+     UK (вид птахів Китаю) чорнокрилий сніговий в'юрок (Montifringilla adamsi)
+  NOTES ["Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."]
+
+27. ID 19d34c75422f8c5a | line 99224 | 褐背鶲鵙 / 褐背鹟鵙 [he4 bei4 weng1 ju2]
+  0: EN (bird species of China) bar-winged flycatcher-shrike (Hemipus picatus)
+     UK (вид птахів Китаю) смугастокрилий мухоловковий сорокопуд (Hemipus picatus)
+  NOTES ["Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."]
+
+28. ID 513c993268c4df54 | line 110093 | 鄧亮洪 / 邓亮洪 [deng4 liang4 hong2]
+  0: EN Tang Liang Hong (opposition candidate in Jan 1996 Singapore elections)
+     UK Тан Лян Хонг, опозиційний кандидат на виборах у Сінгапурі в січні 1996 року
+  NOTES ["Рік виборів у джерелі потребує перевірки: участь Тан Лян Хонга зазвичай пов’язують із виборами січня 1997 року."]
+
+29. ID 40d41729bc4f9614 | line 111208 | 金喉擬啄木鳥 / 金喉拟啄木鸟 [jin1 hou2 ni3 zhuo2 mu4 niao3]
+  0: EN (bird species of China) golden-throated barbet (Psilopogon franklinii)
+     UK (вид птахів Китаю) бородастик золотогорлий (Psilopogon franklinii)
+  NOTES ["Українська видова назва потребує перевірки за орнітологічною номенклатурою."]
+
+30. ID eff9bab1839c82e4 | line 111472 | 金額葉鵯 / 金额叶鹎 [jin1 e2 ye4 bei1]
+  0: EN (bird species of China) golden-fronted leafbird (Chloropsis aurifrons)
+     UK (вид птахів Китаю) листовик золотолобий (Chloropsis aurifrons)
+  NOTES ["Українська видова назва потребує номенклатурної перевірки."]
+
+31. ID cf0d5eff13f7db37 | line 111835 | 銀胸闊嘴鳥 / 银胸阔嘴鸟 [yin2 xiong1 kuo4 zui3 niao3]
+  0: EN (bird species of China) silver-breasted broadbill (Serilophus lunatus)
+     UK (вид птахів Китаю) рогодзьоб срібногрудий (Serilophus lunatus)
+  NOTES ["Українська видова назва потребує орнітологічної перевірки."]
+
+32. ID 41212c5fb73e20b9 | line 112700 | 鏽紅腹旋木雀 / 锈红腹旋木雀 [xiu4 hong2 fu4 xuan2 mu4 que4]
+  0: EN (bird species of China) rusty-flanked treecreeper (Certhia nipalensis)
+     UK (вид птахів Китаю) підкоришник рудобокий (Certhia nipalensis)
+  NOTES ["Українську видову назву передано описово; усталений відповідник потребує перевірки."]
+
+33. ID 19b3fb8416805f27 | line 113070 | 長嘴捕蛛鳥 / 长嘴捕蛛鸟 [chang2 zui3 bu3 zhu1 niao3]
+  0: EN (bird species of China) little spiderhunter (Arachnothera longirostra)
+     UK (вид птахів Китаю) павуколов малий (Arachnothera longirostra)
+  NOTES ["Українську видову назву передано описово; усталений відповідник потребує перевірки."]
+
+34. ID 0dbf01dd184a2990 | line 118194 | 革吉縣 / 革吉县 [Ge2 ji2 Xian4]
+  0: EN Gê'gyai, a county in Ngari Prefecture 阿里地區|阿里地区[A1 li3 Di4 qu1], Tibet
+     UK Гег’є, повіт округу Нгарі 阿里地區|阿里地区[A1 li3 Di4 qu1], Тибет
+  NOTES ["Українське передавання тибетської назви Gê’gyai потребує перевірки."]
+
+35. ID a05c301dce2117d6 | line 123412 | 鸛嘴翡翠 / 鹳嘴翡翠 [guan4 zui3 fei3 cui4]
+  0: EN (bird species of China) stork-billed kingfisher (Pelargopsis capensis)
+     UK (вид птахів Китаю) лелекодзьобий рибалочка (Pelargopsis capensis)
+  NOTES ["Описова українська назва птаха; усталений відповідник не перевірено."]
+
+36. ID 2d2f575be4a3e184 | line 124224 | 黑喉鴉雀 / 黑喉鸦雀 [hei1 hou2 ya1 que4]
+  0: EN (bird species of China) black-throated parrotbill (Suthora nipalensis)
+     UK (вид птахів Китаю) чорногорла сутора (Suthora nipalensis)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+37. ID 859d4652b3799ccb | line 22599 | 喜山點翅朱雀 / 喜山点翅朱雀 [xi3 shan1 dian3 chi4 zhu1 que4]
+  0: EN (bird species of China) spot-winged rosefinch (Carpodacus rodopeplus)
+     UK (вид птахів Китаю) плямистокрила чечевиця (Carpodacus rodopeplus)
+  NOTES ["Українську видову назву передано описово."]
+
+38. ID 2a98d76f2b0bf40e | line 25158 | 地瓜鳥 / 地瓜鸟 [di4 gua1 niao3]
+  0: EN (bird species of China) Malayan night heron (Gorsachius melanolophus)
+     UK (вид птахів Китаю) малайська нічна чапля (Gorsachius melanolophus)
+  NOTES ["Українську видову назву не перевірено; подано описовий відповідник і латинську назву."]
+
+39. ID a0017e7ab6e73efd | line 28660 | 大黃冠啄木鳥 / 大黄冠啄木鸟 [da4 huang2 guan1 zhuo2 mu4 niao3]
+  0: EN (bird species of China) greater yellownape (Chrysophlegma flavinucha)
+     UK (вид птаха Китаю) дятел великий жовточубий (Chrysophlegma flavinucha)
+  NOTES ["Українську видову назву передано описово; усталену форму не встановлено."]
+
+40. ID 8cf4e3433873fa1f | line 34593 | 小斑姬鶲 / 小斑姬鹟 [xiao3 ban1 ji1 weng1]
+  0: EN (bird species of China) little pied flycatcher (Ficedula westermanni)
+     UK (вид птахів Китаю) мала строката мухоловка (Ficedula westermanni)
+  NOTES ["Усталена українська видова назва потребує перевірки; подано описовий відповідник."]
+
+41. ID bfee55e75c79d708 | line 34600 | 小星頭啄木鳥 / 小星头啄木鸟 [xiao3 xing1 tou2 zhuo2 mu4 niao3]
+  0: EN (bird species of China) Japanese pygmy woodpecker (Yungipicus kizuki)
+     UK (вид птахів Китаю) японський карликовий дятел (Yungipicus kizuki)
+  NOTES ["Усталена українська видова назва потребує перевірки; подано описовий відповідник."]
+
+42. ID 4c1f677b45bb1336 | line 49732 | 擬大朱雀 / 拟大朱雀 [ni3 da4 zhu1 que4]
+  0: EN (bird species of China) streaked rosefinch (Carpodacus rubicilloides)
+     UK (вид птахів Китаю) смугаста чечевиця (Carpodacus rubicilloides)
+  NOTES ["Українська видова назва наведена описово; усталений відповідник потребує перевірки."]
+
+43. ID 3673668f405ba522 | line 51561 | 斑翅椋鳥 / 斑翅椋鸟 [ban1 chi4 liang2 niao3]
+  0: EN (bird species of China) spot-winged starling (Saroglossa spilopterus)
+     UK (вид птахів Китаю) плямистокрилий шпак (Saroglossa spilopterus)
+  NOTES ["Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."]
+
+44. ID 6350216253543c52 | line 51564 | 斑背噪鶥 / 斑背噪鹛 [ban1 bei4 zao4 mei2]
+  0: EN (bird species of China) barred laughingthrush (Ianthocincla lunulata)
+     UK (вид птахів Китаю) смугаста чагарниця (Ianthocincla lunulata)
+  NOTES ["Назву птаха подано описово; усталений український видовий відповідник слід звірити за наведеним латинським таксоном."]
+
+45. ID 40645ef13f60f74a | line 58252 | 棕臉鶲鶯 / 棕脸鹟莺 [zong1 lian3 weng1 ying1]
+  0: EN (bird species of China) rufous-faced warbler (Abroscopus albogularis)
+     UK (вид птахів Китаю) вівчарик рудолиций (Abroscopus albogularis)
+  NOTES ["Українська родова й видова назва потребує перевірки."]
+
+46. ID 17268ae606ca9b14 | line 76714 | 白眶鴉雀 / 白眶鸦雀 [bai2 kuang4 ya1 que4]
+  0: EN (bird species of China) spectacled parrotbill (Suthora conspicillata)
+     UK (вид птахів Китаю) окулярна сутора (Suthora conspicillata)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+47. ID 2ad2e61af9d6f371 | line 76781 | 白腹幽鶥 / 白腹幽鹛 [bai2 fu4 you1 mei2]
+  0: EN (bird species of China) spot-throated babbler (Pellorneum albiventre)
+     UK (вид птахів Китаю) плямистогорла тимелія (Pellorneum albiventre)
+  NOTES ["Назву подано описово; усталена українська форма потребує перевірки."]
+
+48. ID adc70b729bd40481 | line 76792 | 白腹黑啄木鳥 / 白腹黑啄木鸟 [bai2 fu4 hei1 zhuo2 mu4 niao3]
+  0: EN (bird species of China) white-bellied woodpecker (Dryocopus javensis)
+     UK (вид птахів Китаю) білочерева жовна (Dryocopus javensis)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+49. ID 699fdb5c2c21a4d7 | line 76907 | 白頭鵙鶥 / 白头鵙鹛 [bai2 tou2 ju2 mei2]
+  0: EN (bird species of China) white-hooded babbler (Gampsorhynchus rufulus)
+     UK (вид птахів Китаю) білоголова тимелія (Gampsorhynchus rufulus)
+  NOTES ["Усталена українська родова назва потребує перевірки."]
+
+50. ID 0e7d205894a27192 | line 76919 | 白頸鶇 / 白颈鸫 [bai2 jing3 dong1]
+  0: EN (bird species of China) white-collared blackbird (Turdus albocinctus)
+     UK (вид птахів Китаю) білокомірцевий дрізд (Turdus albocinctus)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+51. ID cbf057baaa087e0b | line 84868 | 紅額穗鶥 / 红额穗鹛 [hong2 e2 sui4 mei2]
+  0: EN (bird species of China) rufous-fronted babbler (Cyanoderma rufifrons)
+     UK (вид птахів Китаю) тимелія рудолоба (Cyanoderma rufifrons)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+52. ID 4a68d3367a9d1dd9 | line 87999 | 美團點評 / 美团点评 [Mei3 tuan2 Dian3 ping2]
+  0: EN Meituan-Dianping, China's largest service-focused e-commerce platform
+     UK Meituan-Dianping, найбільша в Китаї платформа електронної торгівлі послугами
+  NOTES ["Назву й характеристику масштабу подано за джерелом; вони можуть бути історичними."]
+
+53. ID f24a0ed69dd74336 | line 88415 | 翠金鵑 / 翠金鹃 [cui4 jin1 juan1]
+  0: EN (bird species of China) Asian emerald cuckoo (Chrysococcyx maculatus)
+     UK (вид птахів Китаю) зозуля смарагдова (Chrysococcyx maculatus)
+  NOTES ["Українська видова назва потребує звіряння; точну ідентифікацію подано латинською."]
+
+54. ID b4028d80a411264c | line 96277 | 藍短翅鶇 / 蓝短翅鸫 [lan2 duan3 chi4 dong1]
+  0: EN (bird species of China) white-browed shortwing (Brachypteryx montana)
+     UK (вид птахів Китаю) білобровий короткокрил (Brachypteryx montana)
+  NOTES ["Українську видову назву птаха подано описово за китайською й англійською назвами; усталений орнітологічний відповідник потребує перевірки."]
+
+55. ID a9a1c960b1d182f6 | line 96318 | 藍額紅尾鴝 / 蓝额红尾鸲 [lan2 e2 hong2 wei3 qu2]
+  0: EN (bird species of China) blue-fronted redstart (Phoenicurus frontalis)
+     UK (вид птахів Китаю) синьолоба горихвістка (Phoenicurus frontalis)
+  NOTES ["Українську видову назву птаха подано описово за китайською й англійською назвами; усталений орнітологічний відповідник потребує перевірки."]
+
+56. ID 89062944ea88213e | line 96323 | 藍鬚夜蜂虎 / 蓝须夜蜂虎 [lan2 xu1 ye4 feng1 hu3]
+  0: EN (bird species of China) blue-bearded bee-eater (Nyctyornis athertoni)
+     UK (вид птахів Китаю) синьобородий бджолоїд (Nyctyornis athertoni)
+  NOTES ["Українську видову назву птаха подано описово за китайською й англійською назвами; усталений орнітологічний відповідник потребує перевірки."]
+
+57. ID f1113b12982e15fe | line 96377 | 藏馬雞 / 藏马鸡 [zang4 ma3 ji1]
+  0: EN (bird species of China) Tibetan eared pheasant (Crossoptilon harmani)
+     UK (вид птахів Китаю) тибетський вухатий фазан (Crossoptilon harmani)
+  NOTES ["Українську видову назву подано описово; усталений відповідник потребує перевірки."]
+
+58. ID 2a4f73e888c6b3a0 | line 99229 | 褐臉雀鶥 / 褐脸雀鹛 [he4 lian3 que4 mei2]
+  0: EN (bird species of China) brown-cheeked fulvetta (Alcippe poioicephala)
+     UK (вид птахів Китаю) бурощока альципа (Alcippe poioicephala)
+  NOTES ["Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."]
+
+59. ID b77aa0a43f99330b | line 99233 | 褐頭嶺雀 / 褐头岭雀 [he4 tou2 ling3 que4]
+  0: EN (bird species of China) Sillem's mountain finch (Leucosticte sillemi)
+     UK (вид птахів Китаю) гірський в'юрок Сіллема (Leucosticte sillemi)
+  NOTES ["Назву виду подано описово; усталений український орнітологічний відповідник не перевірено."]
+
+60. ID 4e011b79df6b7f64 | line 104258 | 赤朱雀 / 赤朱雀 [chi4 zhu1 que4]
+  0: EN (bird species of China) Blanford's rosefinch (Agraphospiza rubescens)
+     UK (вид птахів Китаю) чечевиця Бланфорда (Agraphospiza rubescens)
+  NOTES ["Українська назва виду передана описово за англійською; точний таксон задано латинською назвою."]
+
+61. ID a0803791cc004436 | line 104273 | 赤胸擬啄木鳥 / 赤胸拟啄木鸟 [chi4 xiong1 ni3 zhuo2 mu4 niao3]
+  0: EN (bird species of China) coppersmith barbet (Psilopogon haemacephalus)
+     UK (вид птахів Китаю) бородатка червоногруда (Psilopogon haemacephalus)
+  NOTES ["Українська видова назва передана описово; точний таксон — Psilopogon haemacephalus."]
+
+62. ID 84f6ddfb1d272c1a | line 109063 | 遠東樹鶯 / 远东树莺 [Yuan3 dong1 shu4 ying1]
+  0: EN (bird species of China) Manchurian bush warbler (Horornis canturians)
+     UK (вид птахів Китаю) очеретянка маньчжурська кущова (Horornis canturians)
+  NOTES ["Українську видову назву Horornis canturians подано описово; усталений номенклатурний відповідник потребує перевірки."]
+
+63. ID 4537d504a0a2cefd | line 111383 | 金胸雀鶥 / 金胸雀鹛 [jin1 xiong1 que4 mei2]
+  0: EN (bird species of China) golden-breasted fulvetta (Lioparus chrysotis)
+     UK (вид птахів Китаю) фульвета золотогруда (Lioparus chrysotis)
+  NOTES ["Українська видова назва потребує номенклатурної перевірки."]
+
+64. ID e68bf438e7cb6de4 | line 111625 | 鈍翅葦鶯 / 钝翅苇莺 [dun4 chi4 wei3 ying1]
+  0: EN (bird species of China) blunt-winged warbler (Acrocephalus concinens)
+     UK (вид птахів Китаю) очеретянка тупокрила (Acrocephalus concinens)
+  NOTES ["Українська видова назва потребує перевірки за орнітологічною номенклатурою."]
+
+65. ID e07db5cfc501a875 | line 113115 | 長尾闊嘴鳥 / 长尾阔嘴鸟 [chang2 wei3 kuo4 zui3 niao3]
+  0: EN (bird species of China) long-tailed broadbill (Psarisomus dalhousiae)
+     UK (вид птахів Китаю) рогодзьоб довгохвостий (Psarisomus dalhousiae)
+  NOTES ["Українську видову назву передано описово; усталений відповідник потребує перевірки."]
+
+66. ID 556725c5dc886d39 | line 117408 | 霍氏鷹鵑 / 霍氏鹰鹃 [Huo4 shi4 ying1 juan1]
+  0: EN (bird species of China) Hodgson's hawk-cuckoo (Hierococcyx nisicolor)
+     UK яструбова зозуля Годжсона (Hierococcyx nisicolor), вид птахів Китаю
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+67. ID bf17837dcdb86c50 | line 117827 | 青頭鸚鵡 / 青头鹦鹉 [qing1 tou2 ying1 wu3]
+  0: EN (bird species of China) slaty-headed parakeet (Psittacula himalayana)
+     UK папуга гімалайський (Psittacula himalayana), вид птахів Китаю
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+68. ID 1567823109fd6a5a | line 121838 | 高山嶺雀 / 高山岭雀 [gao1 shan1 ling3 que4]
+  0: EN (bird species of China) Brandt's mountain finch (Leucosticte brandti)
+     UK (вид птахів Китаю) гірський в'юрок Брандта (Leucosticte brandti)
+  NOTES ["Українську назву виду передано описово; нормативність потребує перевірки."]
+
+69. ID 0e52cce90fe73dfb | line 123258 | 鵾弦 / 鹍弦 [kun1 xian2]
+  0: EN pipa strings, made from sinews of large crane or swan 鵾雞|鹍鸡[kun1 ji1]
+     UK струни піпи, зроблені із сухожиль великого журавля або лебедя 鵾雞|鹍鸡[kun1 ji1]
+  NOTES ["Матеріал струн і визначення давнього птаха подано за джерелом; історична достовірність потребує перевірки."]
+
+70. ID eb07b72e0b387141 | line 123983 | 黃胸柳鶯 / 黄胸柳莺 [huang2 xiong1 liu3 ying1]
+  0: EN (bird species of China) yellow-vented warbler (Phylloscopus cantator)
+     UK (вид птахів Китаю) жовтопідхвостий вівчарик (Phylloscopus cantator)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+71. ID 463b4f22fba24589 | line 123997 | 黃腹柳鶯 / 黄腹柳莺 [huang2 fu4 liu3 ying1]
+  0: EN (bird species of China) Tickell's leaf warbler (Phylloscopus affinis)
+     UK (вид птахів Китаю) вівчарик Тікелла (Phylloscopus affinis)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+72. ID 2128dc9887790062 | line 124193 | 黑冠鳽 / 黑冠鳽 [hei1 guan1 yan2]
+  0: EN (bird species of China) Malayan night heron (Gorsachius melanolophus)
+     UK (вид птахів Китаю) малайська кваква (Gorsachius melanolophus)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+73. ID 12421941a14d94c9 | line 124195 | 黑冠麻鷺 / 黑冠麻鹭 [hei1 guan1 ma2 lu4]
+  0: EN (bird species of China) Malayan night heron (Gorsachius melanolophus)
+     UK (вид птахів Китаю) малайська кваква (Gorsachius melanolophus)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+74. ID 539ef0d83782394d | line 124223 | 黑喉雪雀 / 黑喉雪雀 [hei1 hou2 xue3 que4]
+  0: EN (bird species of China) Père David's snowfinch (Pyrgilauda davidiana)
+     UK (вид птахів Китаю) сніговий в'юрок Давида (Pyrgilauda davidiana)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+75. ID 98c0bc52e51c2b84 | line 124381 | 黑腳信天翁 / 黑脚信天翁 [hei1 jiao3 xin4 tian1 weng1]
+  0: EN (bird species of China) black-footed albatross (Phoebastria nigripes)
+     UK (вид птахів Китаю) чорноногий альбатрос (Phoebastria nigripes)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+76. ID ab12719cab700963 | line 124418 | 黑頂蛙口鴟 / 黑顶蛙口鸱 [hei1 ding3 wa1 kou3 chi1]
+  0: EN (bird species of China) Hodgson's frogmouth (Batrachostomus hodgsoni)
+     UK (вид птахів Китаю) жаборот Годжсона (Batrachostomus hodgsoni)
+  NOTES ["Описова українська назва птаха; усталений орнітологічний відповідник не перевірено."]
+
+77. ID 471006405cf22d52 | line 16410 | 北鷹鵑 / 北鹰鹃 [bei3 ying1 juan1]
+  0: EN (bird species of China) rufous hawk-cuckoo (Hierococcyx hyperythrus)
+     UK (вид птахів Китаю) зозуля яструбина рудовола (Hierococcyx hyperythrus)
+  NOTES ["Українська видова назва потребує термінологічної перевірки; наукова назва однозначна."]
+
+78. ID 4602c8e0e397cb79 | line 23778 | 四川柳鶯 / 四川柳莺 [Si4 chuan1 liu3 ying1]
+  0: EN (bird species of China) Sichuan leaf warbler (Phylloscopus forresti)
+     UK (вид птахів Китаю) сичуанський вівчарик (Phylloscopus forresti)
+  NOTES ["Українську видову назву не перевірено; наведено описовий відповідник."]
+
+79. ID 0192f33f484f6142 | line 28121 | 大樹鶯 / 大树莺 [da4 shu4 ying1]
+  0: EN (bird species of China) chestnut-crowned bush warbler (Cettia major)
+     UK (вид птаха Китаю) каштановоголова очеретянка (Cettia major)
+  NOTES ["Українську усталену видову назву Cettia major не встановлено; передано описово за англійським означенням."]
+
+80. ID 011d45b0322c7f3a | line 34657 | 小灰山椒鳥 / 小灰山椒鸟 [xiao3 hui1 shan1 jiao1 niao3]
+  0: EN (bird species of China) Swinhoe's minivet (Pericrocotus cantonensis)
+     UK (вид птахів Китаю) личинкоїд Свайно (Pericrocotus cantonensis)
+  NOTES ["Усталена українська видова назва потребує перевірки; подано описовий відповідник."]
+
+81. ID f3d53c0f10b34f8d | line 44325 | 扁嘴海雀 / 扁嘴海雀 [bian3 zui3 hai3 que4]
+  0: EN (bird species of China) ancient murrelet (Synthliboramphus antiquus)
+     UK моржик старий (Synthliboramphus antiquus; вид птахів Китаю)
+  NOTES ["Усталений український видовий відповідник потребує перевірки; латинську назву збережено."]
+
+82. ID 69d73b8ac16aa262 | line 58199 | 棕噪鶥 / 棕噪鹛 [zong1 zao4 mei2]
+  0: EN (bird species of China) buffy laughingthrush (Pterorhinus berthemyi)
+     UK (вид птахів Китаю) вохриста чагарниця (Pterorhinus berthemyi)
+  NOTES ["Українська видова назва описова; усталений відповідник не підтверджено."]
+
+83. ID b91121ba61bc93b3 | line 58260 | 棕頂樹鶯 / 棕顶树莺 [zong1 ding3 shu4 ying1]
+  0: EN (bird species of China) grey-sided bush warbler (Cettia brunnifrons)
+     UK (вид птахів Китаю) очеретянка сірощока (Cettia brunnifrons)
+  NOTES ["Українська видова назва описова; усталений відповідник не підтверджено."]
+
+84. ID 77dec455d860c15a | line 60295 | 歐洲共同體 / 欧洲共同体 [Ou1 zhou1 Gong4 tong2 ti3]
+  0: EN European Community, old term for EU, European Union 歐盟|欧盟[Ou1 meng2]
+     UK Європейське співтовариство, попередня назва Європейського Союзу 歐盟|欧盟[Ou1 meng2] за джерелом
+  NOTES ["Європейське співтовариство та ЄС не цілком тотожні інституційно; пояснення джерела спрощене."]
+
+85. ID b1f23dcedaf5ca6e | line 62603 | 永和市 / 永和市 [Yong3 he2 shi4]
+  0: EN Yonghe or Yungho city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan
+     UK Юнхе, місто в Новому Тайбеї 新北市[Xin1 bei3 shi4], Тайвань
+  NOTES ["Назва з 市 історична: у складі Нового Тайбея Юнхе має статус району; джерело змішує статуси."]
+
+86. ID 6a045c0e607c5559 | line 62767 | 汐止 / 汐止 [Xi1 zhi3]
+  0: EN Xizhi or Hsichih city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan
+     UK Січжи, місто в Новому Тайбеї 新北市[Xin1 bei3 shi4], Тайвань
+  NOTES ["Джерело зберігає історичний статус міста; у складі Нового Тайбея це район."]
+
+87. ID 2a1438bba7d47988 | line 62768 | 汐止市 / 汐止市 [Xi1 zhi3 shi4]
+  0: EN Xizhi or Hsichih city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan
+     UK місто Січжи в Новому Тайбеї 新北市[Xin1 bei3 shi4], Тайвань
+  NOTES ["Заголовок із 市 історичний; у складі Нового Тайбея Січжи має статус району."]
+
+88. ID c62f0792fb1da229 | line 65569 | 海部俊樹 / 海部俊树 [Hai3 bu4 Jun4 shu4]
+  0: EN KAIFU Toshiki (1931-), Japanese politician, prime minister 1989-1991
+     UK Кайфу Тосікі (нар. 1931), японський політик, прем’єр-міністр у 1989–1991 роках
+  NOTES ["У джерелі наведено лише рік народження; дату смерті не уточнено."]
+
+89. ID ef4efbb1a8a69e22 | line 66070 | 淡頦仙鶲 / 淡颏仙鹟 [dan4 ke1 xian1 weng1]
+  0: EN (bird species of China) pale-chinned flycatcher (Cyornis poliogenys)
+     UK (вид птахів Китаю) блідопідборідна мухоловка (Cyornis poliogenys)
+  NOTES ["Описова назва; усталений український видовий відповідник потребує перевірки."]
+
+90. ID f28ed1c15bbadcbd | line 66848 | 港英政府 / 港英政府 [Gang3 Ying1 zheng4 fu3]
+  0: EN British colonial administration of Hong Kong 1837-1941 and 1945-1997
+     UK британська колоніальна адміністрація Гонконгу в 1837–1941 і 1945–1997 роках
+  NOTES ["Початкова дата 1837 у джерелі потребує історичної перевірки."]
+
+91. ID 216cf0ed72766d88 | line 67709 | 滿城盡帶黃金甲 / 满城尽带黄金甲 [Man3 cheng2 jin4 dai4 huang2 jin1 jia3]
+  0: EN Curse of the Golden Flower (2007), period drama movie by Zhang Yimou
+     UK «Прокляття золотої квітки» (2007), історична кінодрама Чжана Їмоу
+  NOTES ["Рік 2007 наведено за джерелом; дату первісного виходу фільму слід уточнити."]
+
+92. ID b2bbfd53b1acf5f6 | line 69196 | 灰背燕尾 / 灰背燕尾 [hui1 bei4 yan4 wei3]
+  0: EN (bird species of China) slaty-backed forktail (Enicurus schistaceus)
+     UK (вид птахів Китаю) вилохвіст сланцевоспинний (Enicurus schistaceus)
+  NOTES ["Видовий епітет Enicurus schistaceus передано описово за англійською назвою."]
+
+93. ID abf9d035f1722994 | line 74271 | 甘肅柳鶯 / 甘肃柳莺 [Gan1 su4 liu3 ying1]
+  0: EN (bird species of China) Gansu leaf warbler (Phylloscopus kansuensis)
+     UK (вид птахів Китаю) вівчарик ганьсуський (Phylloscopus kansuensis)
+  NOTES ["Українська видова назва потребує орнітологічної звірки."]
+
+94. ID 8312be393de4c4e2 | line 76546 | 白喉犀鳥 / 白喉犀鸟 [bai2 hou2 xi1 niao3]
+  0: EN (bird species of China) Austen's brown hornbill (Anorrhinus austeni)
+     UK (вид птахів Китаю) бурий птах-носоріг Остіна (Anorrhinus austeni)
+  NOTES ["Українську назву подано описово; усталена видова форма потребує перевірки."]
+
+95. ID 9294d69c7b6310ed | line 76548 | 白喉石䳭 / 白喉石䳭 [bai2 hou2 shi2 ji2]
+  0: EN (bird species of China) white-throated bush chat (Saxicola insignis)
+     UK (вид птахів Китаю) білогорла трав'янка (Saxicola insignis)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+96. ID 67abc9ce1e50e7f1 | line 76758 | 白耳奇鶥 / 白耳奇鹛 [bai2 er3 qi2 mei2]
+  0: EN (bird species of China) white-eared sibia (Heterophasia auricularis)
+     UK (вид птахів Китаю) біловуха сибія (Heterophasia auricularis)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+97. ID 427db6cb1c5ef4c6 | line 76898 | 白領鳳鶥 / 白领凤鹛 [bai2 ling3 feng4 mei2]
+  0: EN (bird species of China) white-collared yuhina (Parayuhina diademata)
+     UK (вид птахів Китаю) білокомірцева югина (Parayuhina diademata)
+  NOTES ["Усталена українська видова назва потребує перевірки."]
+
+98. ID 9d59b354b320fc7d | line 79089 | 短嘴金絲燕 / 短嘴金丝燕 [duan3 zui3 jin1 si1 yan4]
+  0: EN (bird species of China) Himalayan swiftlet (Aerodramus brevirostris)
+     UK (вид птахів Китаю) салангана гімалайська (Aerodramus brevirostris)
+  NOTES ["Українська видова назва потребує орнітологічної звірки."]
+
+99. ID b692aaa05a7af3e0 | line 80718 | 神農架 / 神农架 [Shen2 nong2 jia4]
+  0: EN Shennongjialin, directly administered forestry reserve in east Hubei
+     UK Шеньнунцзялінь, лісовий заповідний район прямого підпорядкування на сході Хубею
+  NOTES ["Джерело вказує схід Хубею, але географічне розташування Шеньнунцзя потребує перевірки; імовірна помилка сторони світу."]
+
+100. ID 8decde09c65b7974 | line 80719 | 神農架地區 / 神农架地区 [Shen2 nong2 jia4 di4 qu1]
+  0: EN Shennongjialin, directly administered forestry reserve in east Hubei
+     UK Шеньнунцзялінь, лісовий заповідний район прямого підпорядкування на сході Хубею
+  NOTES ["Джерело вказує схід Хубею; імовірна помилка сторони світу потребує перевірки."]
+

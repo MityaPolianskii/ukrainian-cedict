@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "completed_at_utc": "2026-10-15T01:07:16.608406+00:00",
+  "status": "all_2534_original_flagged_entries_model_reviewed_final_candidate_independently_verified_private",
+  "candidate_directory": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009",
+  "dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+  "original_dictionary": {
+    "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-expansion12-9668/publish-public/dictionary.json",
+    "sha256": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+    "bytes": 98853036
+  },
+  "original_unchanged": true,
+  "previous_verified_candidates_preserved": true,
+  "scope": {
+    "reviewed_flagged_entries": 2534,
+    "reviewed_source_segments": 3677,
+    "unreviewed_original_flagged_entries": 0,
+    "unflagged_entries_outside_this_pass": 122730,
+    "unflagged_or_hsk_expansion_started": false,
+    "human_validated_entries": 0
+  },
+  "new_review": {
+    "segment_proposals": 470,
+    "high_confidence_segment_corrections_applied": 459,
+    "entries_with_new_segment_corrections": 456,
+    "held_segment_proposals": 11,
+    "held_note_proposals": 7,
+    "held_proposal_entry_ids": 15,
+    "reviewer_outcomes": {
+      "acceptable": 1109,
+      "deferred": 873,
+      "correction_proposed": 552
+    },
+    "compiled_unresolved_ratings": 880,
+    "editorial_priority_entries": 882,
+    "reviewer_uncertainty_inventory_entries": 1978
+  },
+  "dictionary_cumulative_counts": {
+    "records": 125264,
+    "aligned_segments": 199737,
+    "model_reviewed_records": 3211,
+    "corrected_segments": 965,
+    "records_with_corrections": 879,
+    "known_flagged_records": 2534,
+    "human_validated_records": 0
+  },
+  "notes": {
+    "retained_reviewed": 2127,
+    "replaced_reviewed": 385,
+    "rejected_inactive": 18,
+    "reviewed_attachment_withheld_inactive": 4,
+    "unreviewed_entry_notes": 0,
+    "active_notes": 2512,
+    "quarantined_originals": 407,
+    "original_flags_preserved": 2534,
+    "known_contaminated_originals_inactive": 15,
+    "flagged_entries_without_active_note": 22
+  },
+  "authoritative_current_data": {
+    "dictionary": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/dictionary.json",
+      "sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+      "bytes": 98905992,
+      "contains": "Current Ukrainian glosses, unchanged Chinese/pinyin/English/source fields, original uncertainty flags, active notes and per-entry review metadata. Sole source for derived CSV, progress and runtime-facing annotations."
+    },
+    "note_disposition_ledger": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/NOTE_REVIEW_LEDGER.json",
+      "sha256": "8a3a39a101ab69175b1c7167204a7fcc64678819d4b05a24a82af3e7415670b7",
+      "bytes": 2682423,
+      "contains": "Exact original-note/source bindings and dispositions. Not every original note here is active."
+    },
+    "build_summary": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/REPAIR_SUMMARY.json",
+      "sha256": "6c38fea0128fe20c0557527c37502c9ac94c841ab1c8d3410d1339f643016b18",
+      "bytes": 13609
+    },
+    "verified_checkpoint": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/checkpoint-009/VERIFIED_CHECKPOINT.json",
+      "sha256": "eb213837a15749ce9a0b553011b8ba4b410f1906abd14009a9f34db56ed8a13c",
+      "bytes": 1108
+    }
+  },
+  "quarantined_history": {
+    "original_notes": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/NOTE_QUARANTINE.json",
+      "sha256": "7c8cf56fb4e51229a985a743bac3d28ba2f87b2bddacf0ac1b0b666527fe1c88",
+      "bytes": 609666
+    },
+    "prior_raw_audits": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-corrected-package-2026-10-15/ukrainian-cedict-corrected-checkpoint001-audit-2026-10-15.zip",
+      "sha256": "33daeac2a3601c279c5909f9b9370851d3ad6e0580eb997a89ff059e753b74a8",
+      "bytes": 31863613,
+      "members": 71,
+      "role": "Frozen prior raw/historical audit archive; preserve separately and never use for current annotations"
+    },
+    "rule": "Never merge quarantined originals, historical dictionaries or old queues into active notes. Preserve original flags even when active notes are empty."
+  },
+  "reproducibility": {
+    "cumulative_overlay": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/REPAIR_OVERLAY.json",
+      "sha256": "8423f35a7b4338f50697fad68d24510940124b9cf538a8bdd46e9e695dd645a6",
+      "bytes": 4178723
+    },
+    "all_proposals_including_holds": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/candidate-checkpoint-009/ALL_CORRECTION_PROPOSALS.json",
+      "sha256": "d5dcc730e8df44397268475af850509dcaf207ded8f993675efae43b27f03b4e",
+      "bytes": 556115
+    },
+    "note_gate": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/note_gate.py",
+      "sha256": "282378c0ee3b6fb6119f46196fd9087f916ef376e6fbc0cb4bd666e6ad5205a8",
+      "bytes": 10358
+    },
+    "portable_replay": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/replay_cumulative_overlay.py",
+      "sha256": "28b324d03aa82b0a50a5a05a724df7532bf4a99c73072f3691d840d2563fc79a",
+      "bytes": 5294
+    },
+    "command_template": "python -B replay_cumulative_overlay.py --baseline FROZEN_ORIGINAL_DICTIONARY.json --candidate-dir FINAL_CANDIDATE_DIR",
+    "optimized_python_supported": true,
+    "intermediate_dictionaries_required_for_portable_replay": false,
+    "final_candidate_directory_must_contain": [
+      "dictionary.json",
+      "NOTE_QUARANTINE.json",
+      "NOTE_REVIEW_LEDGER.json",
+      "REPAIR_OVERLAY.json",
+      "REPAIR_SUMMARY.json",
+      "ALL_CORRECTION_PROPOSALS.json"
+    ]
+  },
+  "verification": {
+    "versioned_checkpoint_checks_passed": 59649,
+    "independent_cumulative_checks_passed": 23215,
+    "held_decision_checks_passed": 6213,
+    "editorial_queue_checks_passed": 8428,
+    "portable_mechanics_tests_passed": 46,
+    "combined_independent_checks_passed": 37902,
+    "gate_tests_normal": 20,
+    "gate_tests_optimized": 20,
+    "reports": {
+      "cumulative_handoff_audit.FINAL.json": {
+        "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.FINAL.json",
+        "sha256": "a0a2e4643b174c6990ef4d02c705040da307965784fb4c2213625ef79877c62b",
+        "bytes": 32839
+      },
+      "cumulative_handoff_audit.009.coverage.json": {
+        "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.009.coverage.json",
+        "sha256": "294a3d1d40b0a2b3ad1654d6db3a1db5c44397ac63a660cd0004bb40971ba7b9",
+        "bytes": 2055562
+      },
+      "cumulative_handoff_audit.009.replay.json": {
+        "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.009.replay.json",
+        "sha256": "843d95f68e068e3911d4f9af71ee1ead0b24a5834a78b4ce7b4c173cd6660542",
+        "bytes": 58208
+      },
+      "cumulative_handoff_audit.009.held.json": {
+        "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.009.held.json",
+        "sha256": "f9aebcfbe6d330cb893ac9800879fc94c660842965cfccec4f78037ad0a65b2c",
+        "bytes": 614496
+      },
+      "cumulative_handoff_audit.009.editorial.json": {
+        "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/cumulative_handoff_audit.009.editorial.json",
+        "sha256": "2d1c2db057767cfc41cca9ffc1b88b13535eae736fd783748a3073eec0fbbc0b",
+        "bytes": 761877
+      },
+      "FINAL_GATE_REGRESSION.json": {
+        "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/FINAL_GATE_REGRESSION.json",
+        "sha256": "07f5a758663de04416a2ec4c3cc9ec95d8ab2e155a35d0c265891a93d78bb966",
+        "bytes": 692
+      }
+    }
+  },
+  "deliverables": {
+    "FINAL_FLAGGED_REVIEW_REPORT.md": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/FINAL_FLAGGED_REVIEW_REPORT.md",
+      "sha256": "f6110ecaf1eeff73ae38c259ba40e876d627a60a700e7614f4800135a9d2438e",
+      "bytes": 7550
+    },
+    "EDITORIAL_FOLLOWUP_QUEUE.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/EDITORIAL_FOLLOWUP_QUEUE.json",
+      "sha256": "8fc0160763536a7e0c4ca9513267e8a2aa3edc328546425e97a11acf3358b189",
+      "bytes": 3422106
+    },
+    "FINAL_ARTIFACT_INVENTORY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/FINAL_ARTIFACT_INVENTORY.json",
+      "sha256": "9acd614cdb06fb28a05006e78a8bd352e777e0ebb88fc15f6b2a760294463739",
+      "bytes": 52792
+    }
+  },
+  "packaging_instructions": [
+    "Create a new package from final candidate 009 only; do not reuse the checkpoint001 dictionary, current CSV, progress totals or current review queue.",
+    "Derive current CSV/progress/current flags and notes exclusively from the final dictionary. Keep exact note dispositions and unresolved status visible.",
+    "Include the full hashed review evidence inventory plus the frozen original for reproducible replay; historical raw evidence remains a separate clearly labeled archive or section.",
+    "Preserve LICENSE and source.json from the immutable original package. Earlier candidate archives and raw audits are evidence, not active data.",
+    "The candidate build summary was frozen before external verification and retains pending text. The verified checkpoint and final independent reports establish final verification without mutating it.",
+    "No public write or runtime promotion is authorized by this handoff; parent owns any release decision. Stop review at this bounded flagged pass."
+  ],
+  "limitations": [
+    "Model review only; zero human validation. Review-model selection metadata records requested models, not independent backend attestation.",
+    "All originally flagged entries were reviewed, but unresolved specialist nomenclature and source contradictions remain flagged.",
+    "The 873 deferred reviewer outcomes, 880 unresolved compiled ratings and 882 editorial-priority entries measure different documented concepts, not a corpus-wide mistranslation count.",
+    "No broad unflagged/HSK review or corpus-wide accuracy certification was performed."
+  ],
+  "public_writes": false,
+  "runtime_approved": false,
+  "handoff_to": "/root and sole packaging owner /root/finish_ukrainian_dictionary_batches"
+}

@@ -1,0 +1,1086 @@
+[
+  {
+    "path": "ukrainian-cedict-expansion10-10000/assemble_package.py",
+    "sha256": "b732c6868384f8516bdf948d8a210a996c1b437cad254b5c1ea78155474f5934",
+    "relevant_lines": [
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion10-10000/check_progress.py",
+    "sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion10-10000/record_sample.py",
+    "sha256": "39b0fda3c30f7e0d1ed2f6cffe87d29e859b71ba3436b073272f578821f04e54",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion10-10000/sample_new.py",
+    "sha256": "d217d3a6177b580988a4d8b5f4245aa0d480c74b9bdd515dfb023f4d5fc787ca",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion10-10000/scan_language.py",
+    "sha256": "0feb36cfb59a4fdb9c17cafc3f224148fe331a3652a5ebd03f5921d0b25e375f",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion10-10000/writer_000_024.py",
+    "sha256": "c676661b9057027dd3ac6f5ef63d184fa6621d6285233265d43193948344401e",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion10-10000/writer_025_049.py",
+    "sha256": "5096097f78b717e9c6b6d2b65e10425ed54278fc38cf28508ff9cb0daeae85ca",
+    "relevant_lines": [
+      {
+        "line": 13,
+        "code": "out.append(dict(id=s['id'],ukrainian_segments=u,uncertainty_notes=notes.get(i,[])))"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion10-10000/writer_050_074.py",
+    "sha256": "3ecf0d474851eb3353457791bf6d8eb7988f322881f4726d9dcbbcff1c35f1fb",
+    "relevant_lines": [
+      {
+        "line": 13,
+        "code": "out.append(dict(id=s['id'],ukrainian_segments=u,uncertainty_notes=notes.get(i,[])))"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion11-10000/apply_review.py",
+    "sha256": "be7b666ea7b31880bb264d9c6b6b0414f05edf0abadc954945bee1da7552f386",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion11-10000/assemble_package.py",
+    "sha256": "c4925597a33460ca4019d92f6887763487248ac9c89688eaa783f3e28cfcd5d1",
+    "relevant_lines": [
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion11-10000/check_progress.py",
+    "sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion11-10000/finalize_semantic_review.py",
+    "sha256": "ed375e3ca8e1bb1441afac44400e2ad41b1712ca24ed0ed2aea65a06a0857de2",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion11-10000/record_sample.py",
+    "sha256": "39b0fda3c30f7e0d1ed2f6cffe87d29e859b71ba3436b073272f578821f04e54",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion11-10000/sample_new.py",
+    "sha256": "d217d3a6177b580988a4d8b5f4245aa0d480c74b9bdd515dfb023f4d5fc787ca",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion11-10000/scan_language.py",
+    "sha256": "0feb36cfb59a4fdb9c17cafc3f224148fe331a3652a5ebd03f5921d0b25e375f",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion11-10000/writer_050_074.py",
+    "sha256": "3ecf0d474851eb3353457791bf6d8eb7988f322881f4726d9dcbbcff1c35f1fb",
+    "relevant_lines": [
+      {
+        "line": 13,
+        "code": "out.append(dict(id=s['id'],ukrainian_segments=u,uncertainty_notes=notes.get(i,[])))"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/apply_review.py",
+    "sha256": "be7b666ea7b31880bb264d9c6b6b0414f05edf0abadc954945bee1da7552f386",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/assemble_package.py",
+    "sha256": "48b3a8fe0cbd232b41e139b7e9b971a2df67775b226e9576510ed10fe24802c3",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/check_progress.py",
+    "sha256": "e4f9efd71a6c0c93aac0c2d9af0ad61f4ff95dd3a57bb4f3101a27c6ae40a49b",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_003.py",
+    "sha256": "9a930a2f2943b4bbf2cb7da529d3c6731357a7a40544c971ff639770f275f737",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_004.py",
+    "sha256": "9f5edae0dc55f49770a6d0b0b912b224e0fd7e1df4007329a4251135fa4a6d45",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_005.py",
+    "sha256": "1f71e2de9a1d4443a5342a7354b163424ed7f7c1337b6ff174e7aa3f3704af5e",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_006.py",
+    "sha256": "a1d168f627673a021fa7990d3d2dabcb11909d65ef1cb524f8445ba926e4da9f",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_007.py",
+    "sha256": "9772a92c0d531b352836348c8c7566757fd57b1f0e94ff7c15d65a308f8c5fcb",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_008.py",
+    "sha256": "e1d88c29fa3527446d1b82f69d808f03ba744656a5dee6ce1dc229961f452a5e",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_009.py",
+    "sha256": "1db539bdbf16645e2d24434945333bf6c9a871a7dfc10450b4fd0dd3cdb16f20",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_010.py",
+    "sha256": "0a21139095b364adff4b534457ebe67b5cdcb87af05eb8035b89412bd00e4fe3",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_011.py",
+    "sha256": "8e0c11590826d45b013e860c96899fa22cdda3e3ad05cdd553e9e55aff24529f",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_012.py",
+    "sha256": "e3f1d479a039263c1d1d8b595639acf683531115c95c0a2e3caff40eb8a312cb",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_013.py",
+    "sha256": "e7bfb8733a9db7ae5ad4fe65b506a1b206c8acd2646736da5055c438f9c5da4f",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_014.py",
+    "sha256": "5b2fa2b7f8101c896c8619652026d03bb2d29b3264370301deb8489f424ba079",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_015.py",
+    "sha256": "a9cf6bb8331d373728c38e94029f363430b6b0b4fe78cdf20f9981cf882b84b5",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_016.py",
+    "sha256": "6e0289520d51bbc4d4a7ee024a5637c1b629825a3815eec79999873b56e70ac7",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_049.py",
+    "sha256": "0b7e9284c364e8ba4e005a420ecd1e5b384355459547777be5de321e78aaf26c",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_050.py",
+    "sha256": "42b6ded98fc76268731a7fcf6c32aaeb3516063b6dc498fbadcff43fd66ef2bf",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_051.py",
+    "sha256": "75ccda7a350bcfdab5cf660831d68aff9802145e4a1dcb1f6982e3432c0446ec",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_052.py",
+    "sha256": "0c6b7f698a233914d1a0a15bfe743737d667ca17440f1e85a3f9c97ec64711fe",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_053.py",
+    "sha256": "269b1f5d126cff4abb24ec8eb7f5e8b9a01935f8b6c443e7fdfe9463131d1b99",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_054.py",
+    "sha256": "6c3233b29c88ebe439f9530bba30c158c3d759a2fc3638fcd770c9e1d52d05b5",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_055.py",
+    "sha256": "bdbcf196cee8974fb3a81f90dba55a7c4dbba3fa8ad7e71d86ae360157c0913a",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_056.py",
+    "sha256": "7f4c9a3e82db44b8b114833c3b6c308631d4c405afed72adbff9ec9eaf2cdcb5",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_057.py",
+    "sha256": "a0d43334bc571118f515574a49b666f6c12fbfdc380af677eb748cb892821e60",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_058.py",
+    "sha256": "74ca2fc9287fc67ad88ddda0c7211215fb259b5cad551b5133ed5e7e0b720ed4",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_059.py",
+    "sha256": "d5c9d26513d04bffb395aa165baa1dbd5c798347ae9d9d71b8bd15ec7a74d792",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_060.py",
+    "sha256": "bd66811fa95a604e5f3b07f07fa8acd01273793d9f1908d3083275568a8009ce",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_061.py",
+    "sha256": "68b8e57118f877c126e22b322dbc9cbf8167c68f2d9bc7e4a80be8213e02d109",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_062.py",
+    "sha256": "d7efce3f14ac7195a61f59098b89c6688c1131d548c5ac450212923dffcc4af0",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_063.py",
+    "sha256": "69d6c8c0e356d73328bf0cb703c706778d4b186f8220d392e20ee9a16b9c9736",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_064.py",
+    "sha256": "a6f82500d0e2f8082782b65c9fcefd34c1e192b5d3a5a2f33ef14f3e24d28355",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_065.py",
+    "sha256": "579ae3de2c8e7691ece2ced7093483db4b166524052f9b08c6ac400837269860",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_066.py",
+    "sha256": "beacbd070e3c0418c8172bd6c0198df7a04c9f92dec50c27df52e2a447b8c1bc",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_067.py",
+    "sha256": "5a838d17304f79e2ebfec7de33317d106f661b0fe8c20aba65e227f5295508d1",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_068.py",
+    "sha256": "3094aa48091a7f9384154004e1d72e8cecd8d7952cf9e23418a46d02f77bdef3",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/draft_second_069.py",
+    "sha256": "545b4f0bee7afcc9c4dacb5306b356155060a0456f0f31e6b583dc95a694c832",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/finalize_semantic_review.py",
+    "sha256": "a766b12030af56736af4cf771b93fe6ac4fd5b6ba8f69e87a4a701574f6eabdf",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh017.py",
+    "sha256": "9cdf6a9d3790049f0c566a4aa541abd6cf87448ef05014f416f3bd8796c6de32",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh018.py",
+    "sha256": "53efdec569d6fb92d9ff3f35ef8864d95424887670be65fd178a8531ccea4660",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh019.py",
+    "sha256": "756b6afd7f766c126759faa3344d4fc49623f9db86c0a65f4a1196a9bec540f9",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh020.py",
+    "sha256": "c3b3194c4235c243612c4fbec430d7ef77228fef2ae4db2724b6a570127b17f6",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh021.py",
+    "sha256": "7406bb10b76866ede27e26e055edc3c2d9598335a69aaea69aa14cab3d12844a",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh022.py",
+    "sha256": "4f9cf76474eb53d09ec29dc29242b475f1612405a690972387df44e52564de29",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh023.py",
+    "sha256": "b1cfdf8cd06bf6c7eeeeb9593e1a7767e7e572dd0eed91b51f743a025de056d3",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh024.py",
+    "sha256": "f65a661597afff65a3a18cc3bc5d84fe3506b3a2df99a713d63e26473c8ed332",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh025.py",
+    "sha256": "09a1a8d1aa241f631e7f52b9c0c472a957e693421ddc27d3feefcdd0c2b72a84",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh026.py",
+    "sha256": "56df37eec71231fadd40167d40f99089e23775b1879904167c50b2d7a61d9b93",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh027.py",
+    "sha256": "e2960d9f008d195997ab3ecc1d7cf7b0365d9291a09468eec763ce7a7fc739a7",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh028.py",
+    "sha256": "0847a354cdad94481cad7afd2db2928b0ad03a152bc25b8657db199a5ddd8f52",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh029.py",
+    "sha256": "a3dbcb693d1bf75a608c6c6c8fc1e092f4ebbc91807145c3f6473b6273b392a4",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh030.py",
+    "sha256": "9b651696ee7b63c5b4cb149682b5c576aece4b5ee7da1b70e027f1c4e7870d3f",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh031.py",
+    "sha256": "951aea309909812b8be8fba65ce705d7c297a2a39c593bea7f9e7e971d4119a9",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh032.py",
+    "sha256": "4ce733dd4ea9463149ca638a48fdf6014ba009dca2043d8533ba27579e8ed02a",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh033.py",
+    "sha256": "9faec1450a5912f7b0cf5e753bb5ef6bc1b84d90a9aa81ac7ae5ae6342b5646e",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh034.py",
+    "sha256": "0ff7dd84d2a0ca574a463522e5f6d7a89e62394882cc0dbdb030ef1a94e70be3",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh035.py",
+    "sha256": "0e3a847766ef520ebffade0575254e80b5dbbe14ddaec8c26e0f6ba3d4cf79be",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh036.py",
+    "sha256": "ce42b56c6c36aca145302f31910327b796c8ff64fbed4867ef603b758321cf0e",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh037.py",
+    "sha256": "fc8cc9e6ae6addd9c9bb8f2c79001b06c81f899b09f17b811c0fe7fc290b6b83",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh038.py",
+    "sha256": "a2d5a337fd7a22bcfc446884f6f7f71843fd1534cc02e66ee61ac61bd976b21e",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh039.py",
+    "sha256": "7e632a0759cb23381c41eac452eda286d1546fc92ba76199ca47b8081e13c12f",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh040.py",
+    "sha256": "c68f3fb4593626f868dde7ad0ec0a4a671b6b21d3d738f842ada9f725eed63b6",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh041.py",
+    "sha256": "5d77fe5faeb4a82088a2e1f44ca79c25de2b5a7a4f5de9875b2c5f13c16e28c2",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh042.py",
+    "sha256": "d1d6e6b9d7e5f1507c42290d63c0140475227972730e67df8be0faf1e7178e41",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh043.py",
+    "sha256": "7a9028886b3b6a28ba2ca383ec0dd0034b6de41e28216fe1a7d214801c56cd1f",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh044.py",
+    "sha256": "66edb4e3404a5ac67835017e1b307206e439ac68f6e20350dbe1994b07ad00f8",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh045.py",
+    "sha256": "5b2419535f91af201cfadf4f18d1817f466582d9aa2e9f5a3b099381e70b0274",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh046.py",
+    "sha256": "00a67d74de9252ad7b2c3604c0874e12b5f691cd0eb575b03d9a14164ec0bcdb",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh047.py",
+    "sha256": "cf700f058705d3a07f6b71797cd06e7fb7554fa2f650599f7b294833ba5ea66a",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/fresh048.py",
+    "sha256": "b8dbbff52fed639c8f39db6ae71999a63a30d028fa0e331c2ae75e48a2060927",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_070.py",
+    "sha256": "6422f9e690ea73382c95f8762ac33c2114f64f7974cbec2d7fab287901faea8b",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_071.py",
+    "sha256": "b2856703e5fdc9ef2079c4a20127e643181d4ffe8fa677fc85e0fd501c44d6a3",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_072.py",
+    "sha256": "6dd10920337411dcb4440377ca328830e3e7c9d8f6aee21c786db8ece84e844f",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_073.py",
+    "sha256": "9b7c392f995a78421740a005abd0fe08abc366eb36416218ab83727a256ff83a",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_074.py",
+    "sha256": "4ee4be3c686bfe8f5b8e6fa31eac1b7bf380cde96a6ed7f9328ca2a60ce239da",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_075.py",
+    "sha256": "ae3935dfb9bc605e8ed105adbe830ba2478dcb7ec6095d80e73a7c41321e5b1a",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_076.py",
+    "sha256": "086798c4f83e7515d3b52f9081f2ef64d51de7ce3413b4bc69f94a2e9bf10f41",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_077.py",
+    "sha256": "b19a2223729f48b6f983d1d5e458e55d2935b93426da1c11a64607e0181b3ace",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_078.py",
+    "sha256": "46a22fde13271586220defa287fa85666a934308d33857decf7a848f17148e09",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_079.py",
+    "sha256": "4e05848f840c3cac655ad2503d5f5ecaea9848aabf9e5d9618d4f7573542d363",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_080.py",
+    "sha256": "d98ac73bc85d96edacbbcf2705aa3436b15dfb0a5384087ba22d71683ce1f041",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_081.py",
+    "sha256": "f0f0c93d630cabf5117647cf2c47faf6f9131b66e0cd129495e9d4413d778f4d",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_082.py",
+    "sha256": "0b3b6c6781b57d80ecd953932f252a00e81d3b481301c576051c0a0e109e0dfa",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_083.py",
+    "sha256": "dc62163bc22b6e22d22067dbee79d654f08ce8cc05dd0b9e6985845b476bdfbe",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_084.py",
+    "sha256": "79fd058b421875f4d28b2c4cd10524d5f5d53fb335fe89c3fecbad24b4cfaff9",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_085.py",
+    "sha256": "6cc882025d6e11258b705c5ff108417403766d4ae45b33ad0ef64d968c017a8e",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_086.py",
+    "sha256": "2169038f0c1f30b113fba35b26c81ea393926c52b143e0004a31f8a97f24b674",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_087.py",
+    "sha256": "ec991bb376b54b79040b4b45b15b9570e62bc53ef4d70c3e7b8d404052e42ddb",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_088.py",
+    "sha256": "42d91372b236c3366c2e69f449374dd0cf97a6a2c77db389ee163c50eae5d345",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_089.py",
+    "sha256": "aded52bebebeedb742e2705e42542f125eccb4a5e859583349b23e399e7c88ac",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_090.py",
+    "sha256": "4984b33b5b4bf7a072674129ef665346df88921d698c7ebaf0ff9bd42ce215d6",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_091.py",
+    "sha256": "a1a467020d0e0f492fbcd333b32186c3d9f7009d9a08fdefb96cdaeeb2fe69a2",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_092.py",
+    "sha256": "437ff86179a1c5e8d98988e2b064900b385ef634c761a86e7cb87166ffb8ef72",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_093.py",
+    "sha256": "1f5301dc4e26418ccb9f8e5e94a9db62d43e8b009639d042b55c0ded85a4bca0",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_094.py",
+    "sha256": "7dc2c6d991d35481152538a7ea19d73ea0e31b855ecdf22925583e95c18b5c81",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_095.py",
+    "sha256": "e6a695620dbb799f2f32d483bd009e69d848d4c7343709b52027af92398334ff",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_096.py",
+    "sha256": "6bf74a79b9b6894bcd8804e61551dfeb7d8562bbfdd53807e54ebc9193d275ad",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/new_second_writer.py",
+    "sha256": "aafdc9cf595a81d8b92e1f1599203d83eb316ce5988380eddbcc55fef7946802",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/scan_language.py",
+    "sha256": "0feb36cfb59a4fdb9c17cafc3f224148fe331a3652a5ebd03f5921d0b25e375f",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/test_preparation.py",
+    "sha256": "b0b657b1a85c884efe835c3612b8a9e0ccc66db90a6f04c752c1e94d544d7072",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/uk_second.py",
+    "sha256": "bf674049f802f1f7928a9df656c771cca827a07bd5f7327c55d2cbd2c0eb735a",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/verify_package.py",
+    "sha256": "ff4e233753ef181c267f949d0b2c4052b319691268c380fc61c81b574715dbe9",
+    "relevant_lines": [
+      {
+        "line": 183,
+        "code": "'Raw/effective IDs or order differ: ' + name)"
+      },
+      {
+        "line": 196,
+        "code": "require(type(value['uncertainty_notes']) is list and all(type(v) is str and v.strip() for v in value['uncertainty_notes']), 'Invalid notes: ' + s['id'])"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion12-9668/write_batch.py",
+    "sha256": "3ecf0d474851eb3353457791bf6d8eb7988f322881f4726d9dcbbcff1c35f1fb",
+    "relevant_lines": [
+      {
+        "line": 13,
+        "code": "out.append(dict(id=s['id'],ukrainian_segments=u,uncertainty_notes=notes.get(i,[])))"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion2-10000/assemble_package.py",
+    "sha256": "446d60777ac2b08fdf90fd02543506499f9d861c8acde1c62652b00a77e94a02",
+    "relevant_lines": [
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion2-10000/check_progress.py",
+    "sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion3-10000/assemble_package.py",
+    "sha256": "fcc8425fbe9f9b4c78bb4e00299eedc1b1d5a2f346859da73881e2465ad38c8c",
+    "relevant_lines": [
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion3-10000/check_progress.py",
+    "sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion3-10000/prepare_publication.py",
+    "sha256": "3410754ce93aaad49aa4c34accc3b55830a8746269f8b03f73b2387b847850cc",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion3-10000/sample_new.py",
+    "sha256": "d217d3a6177b580988a4d8b5f4245aa0d480c74b9bdd515dfb023f4d5fc787ca",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion4-10000/assemble_package.py",
+    "sha256": "ae0b12066cc2e72d92f452e3878dfa0f13f643db3a11103cda2190a67a399b05",
+    "relevant_lines": [
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion4-10000/check_progress.py",
+    "sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion4-10000/prepare_publication.py",
+    "sha256": "256b9fc974071f311981f7d45171e4ffadf07ff762c11cfda5427cc67b98c6c2",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion4-10000/record_sample.py",
+    "sha256": "39b0fda3c30f7e0d1ed2f6cffe87d29e859b71ba3436b073272f578821f04e54",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion4-10000/sample_new.py",
+    "sha256": "d217d3a6177b580988a4d8b5f4245aa0d480c74b9bdd515dfb023f4d5fc787ca",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion5-10000/assemble_package.py",
+    "sha256": "1ddf07a26a2493ea3cb5b764bcd855263c5717276d542dc9d8cd56e5584672a5",
+    "relevant_lines": [
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion5-10000/check_progress.py",
+    "sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion5-10000/prepare_publication.py",
+    "sha256": "862ae23ac55dc8379ebabbefb495a22e5991829acd933e7a9fdd0e9711064481",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion5-10000/record_sample.py",
+    "sha256": "39b0fda3c30f7e0d1ed2f6cffe87d29e859b71ba3436b073272f578821f04e54",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion5-10000/sample_new.py",
+    "sha256": "d217d3a6177b580988a4d8b5f4245aa0d480c74b9bdd515dfb023f4d5fc787ca",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion6-10000/assemble_package.py",
+    "sha256": "2eb1a566e37085e835f4b31c373a82bf6d710e609f968f848bbe4b754757d81e",
+    "relevant_lines": [
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion6-10000/check_progress.py",
+    "sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion6-10000/prepare_publication.py",
+    "sha256": "750bc26fb69f3c8f23f9a43436f4043ca3168fd11b9a7c79028fadae29643a64",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion6-10000/record_sample.py",
+    "sha256": "39b0fda3c30f7e0d1ed2f6cffe87d29e859b71ba3436b073272f578821f04e54",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion6-10000/sample_new.py",
+    "sha256": "d217d3a6177b580988a4d8b5f4245aa0d480c74b9bdd515dfb023f4d5fc787ca",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion7-10000/assemble_package.py",
+    "sha256": "eda37c80b7d28220d1db18ed4cab48d5a2f52d23d69ad4901d66728b66a0bd00",
+    "relevant_lines": [
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion7-10000/check_progress.py",
+    "sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion7-10000/prepare_publication.py",
+    "sha256": "3317455d860054aad71a7dcbbb9eb17dec9c54291abd210c10a55edfb9e315ee",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion7-10000/record_sample.py",
+    "sha256": "39b0fda3c30f7e0d1ed2f6cffe87d29e859b71ba3436b073272f578821f04e54",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion7-10000/sample_new.py",
+    "sha256": "d217d3a6177b580988a4d8b5f4245aa0d480c74b9bdd515dfb023f4d5fc787ca",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion8-10000/assemble_package.py",
+    "sha256": "0e170136815880aea0847ebf86f2de4483494fa4d9008882c8ce874fc694c211",
+    "relevant_lines": [
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion8-10000/check_progress.py",
+    "sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion8-10000/prepare_publication.py",
+    "sha256": "6dbfbbf8a9fb079474b10e089e6e344c9abaa302fef904c38ffd46ff68469ff5",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion8-10000/record_sample.py",
+    "sha256": "39b0fda3c30f7e0d1ed2f6cffe87d29e859b71ba3436b073272f578821f04e54",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion8-10000/sample_new.py",
+    "sha256": "d217d3a6177b580988a4d8b5f4245aa0d480c74b9bdd515dfb023f4d5fc787ca",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion9-10000/assemble_package.py",
+    "sha256": "b8e29e55b7a9157b876be61231bdfb9c0fe40882917b29d0b3a67a4e67cd8473",
+    "relevant_lines": [
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion9-10000/check_progress.py",
+    "sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-expansion9-10000/prepare_publication.py",
+    "sha256": "4de4b8bb3ac6bafe2642b1fff71a61f3734416eb858fb593306c81df095a6f2f",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion9-10000/record_sample.py",
+    "sha256": "39b0fda3c30f7e0d1ed2f6cffe87d29e859b71ba3436b073272f578821f04e54",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion9-10000/sample_new.py",
+    "sha256": "d217d3a6177b580988a4d8b5f4245aa0d480c74b9bdd515dfb023f4d5fc787ca",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-expansion9-10000/writer_050_074.py",
+    "sha256": "3ecf0d474851eb3353457791bf6d8eb7988f322881f4726d9dcbbcff1c35f1fb",
+    "relevant_lines": [
+      {
+        "line": 13,
+        "code": "out.append(dict(id=s['id'],ukrainian_segments=u,uncertainty_notes=notes.get(i,[])))"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-next10000/assemble_candidate.py",
+    "sha256": "02ff79be667af9b6a5c8344bfdb438b1e8cb43cc8db0a1d68c18a4cfc77bd38e",
+    "relevant_lines": [
+      {
+        "line": 16,
+        "code": "assert [r['id'] for r in out]==[r['id'] for r in src],f'{sp.name}: corrected IDs/order mismatch'"
+      },
+      {
+        "line": 17,
+        "code": "for s,o in zip(src,out):"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-next10000/check_progress.py",
+    "sha256": "5b5cda25e88db5207df7e840b0e4961ec23d269f538c253586d6b48c6969b838",
+    "relevant_lines": [
+      {
+        "line": 26,
+        "code": "assert [r.get('id') for r in out]==[r['id'] for r in src],'IDs/order differ'"
+      },
+      {
+        "line": 27,
+        "code": "for s,o in zip(src,out):"
+      },
+      {
+        "line": 32,
+        "code": "assert type(notes)==list and all(type(v)==str and v.strip() for v in notes),f'{ident}: invalid notes'"
+      }
+    ]
+  },
+  {
+    "path": "ukrainian-cedict-next10000/finalize_package.py",
+    "sha256": "1ea02c3ae983f51ca6b0125364d8f5453a84888cfff0e835b506329f004fc1ed",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-paired-rerun/build_comparison.py",
+    "sha256": "c72d3943ab875a532dddd6f690646fa68e75c0aae732c16959fd01c898e152ea",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-paired-rerun/prepare_review.py",
+    "sha256": "92894ec6ca80f11747efa58cadd8a3252524cced6595361ad64f0035a93ed661",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-pilot/build_corrected.py",
+    "sha256": "cf4690c5ff71b1654aa0da5c84ce80504c821b9d9c925e9e56752bfc43f59937",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-pilot/build_sample.py",
+    "sha256": "08ef4eb08d6086142140359b01353d1007d99e4a8c176d75b92a30821034a1c2",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-pilot/validate.py",
+    "sha256": "70746f1c36c7777be24c8782735b12e04a15c47058c91a9f6523abdb37ea2c38",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-pilot/write_first_review.py",
+    "sha256": "ecb3af1f2277df6e6763ab8461f20bbd3beb23f73e91e77417e1776bc5f320dc",
+    "relevant_lines": []
+  },
+  {
+    "path": "ukrainian-cedict-pilot/write_remaining_review.py",
+    "sha256": "018b21241807422dcab9bafc59ae123337976d01f69fb485df2bf4d9c8b3fd57",
+    "relevant_lines": []
+  }
+]

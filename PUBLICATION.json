@@ -1,0 +1,242 @@
+{
+  "publication_status": "published_machine_draft_model_reviewed_flagged_pass",
+  "accepted_package_sha256": "6f213c621c2200b42a3a67dacf1a9d2cd4a67ea76aa7282abb79f3f354c3224a",
+  "dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+  "previous_public_commit": "590c6870fb648a8867cd0e69d4f801c91bf980ae",
+  "previous_dictionary_sha256": "66abcef1c4603e47180ae7f12066e8a3c25d3a738c118e95473c1aee0efc8717",
+  "previous_csv_sha256": "27880ebc7bd3f54420bf766b0c0d13e48d1613d0ed3574bb0819f1495ead5a2a",
+  "counts": {
+    "records": 125264,
+    "aligned_segments": 199737,
+    "model_reviewed_records": 3211,
+    "corrected_segments": 965,
+    "records_with_corrections": 879,
+    "known_flagged_records": 2534,
+    "human_validated_records": 0
+  },
+  "new_review": {
+    "segment_proposals": 470,
+    "high_confidence_segment_corrections_applied": 459,
+    "entries_with_new_segment_corrections": 456,
+    "held_segment_proposals": 11,
+    "held_note_proposals": 7,
+    "held_proposal_entry_ids": 15,
+    "reviewer_outcomes": {
+      "acceptable": 1109,
+      "deferred": 873,
+      "correction_proposed": 552
+    },
+    "compiled_unresolved_ratings": 880,
+    "editorial_priority_entries": 882,
+    "reviewer_uncertainty_inventory_entries": 1978
+  },
+  "notes": {
+    "retained_reviewed": 2127,
+    "replaced_reviewed": 385,
+    "rejected_inactive": 18,
+    "reviewed_attachment_withheld_inactive": 4,
+    "unreviewed_entry_notes": 0,
+    "active_notes": 2512,
+    "quarantined_originals": 407,
+    "original_flags_preserved": 2534,
+    "known_contaminated_originals_inactive": 15,
+    "flagged_entries_without_active_note": 22
+  },
+  "active_annotation_source": "dictionary.json only",
+  "historical_evidence_is_not_active": true,
+  "frozen_reports_preserved": true,
+  "human_validation": false,
+  "runtime_approved": false,
+  "preserved_prior_files": [
+    {
+      "path": "EXPANSION4_REVIEW_QUEUE.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION4_REVIEW_QUEUE.json",
+      "sha256": "4e80f6b285944f48e5b80e46f436726fa9b71e7a51b63496c2a7903ae8ec6d7f"
+    },
+    {
+      "path": "CORRECTIONS.md",
+      "archivePath": "history/published-baseline-85596/CORRECTIONS.md",
+      "sha256": "250c2e2ec21e169118324ab0542b6954a6ab18feab51071ab7125b56294f8c0c"
+    },
+    {
+      "path": "EXPANSION5_VALIDATION.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION5_VALIDATION.json",
+      "sha256": "98c057af2cb3eaa3adc0fe7351ce672d6c89537f9c4479fe20ca746b123da287"
+    },
+    {
+      "path": "EXPANSION2_CORRECTIONS.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION2_CORRECTIONS.json",
+      "sha256": "9bb289bdab2f627f979e53da789118a1880146e880c4127d35715ba44be43899"
+    },
+    {
+      "path": "EXPANSION6_CORRECTIONS.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION6_CORRECTIONS.json",
+      "sha256": "9979f62353c51e3ff487da173883ea443ab0355eba8103008d4292ef349b8d8c"
+    },
+    {
+      "path": "EXPANSION5_REVIEW_QUEUE.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION5_REVIEW_QUEUE.json",
+      "sha256": "eb5125853b1dd77922cabc45a622a315548dd9de39802d1f344a4a1301a1766c"
+    },
+    {
+      "path": "EXPANSION2_VALIDATION.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION2_VALIDATION.json",
+      "sha256": "da2dbdb13df87940ccfabf286c4f52e832b541c28dd4eb08758817d83a5a4aec"
+    },
+    {
+      "path": "EXPANSION_REVIEW_QUEUE.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION_REVIEW_QUEUE.json",
+      "sha256": "d1173bdbf6a45a6a24eac07fcc236910256771d347f88ef9b0d99d35bc9c0e7b"
+    },
+    {
+      "path": "EXPANSION_CORRECTIONS.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION_CORRECTIONS.json",
+      "sha256": "7e215d01d2153bb94a63f65147d96f5daae9b5be8b17dd2550b9ed10688d5f7f"
+    },
+    {
+      "path": "EXPANSION8_CORRECTIONS.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION8_CORRECTIONS.json",
+      "sha256": "49c9b25c65d0628028bac28a4c5f16251940fdee6bdddd1daad38c863423a826"
+    },
+    {
+      "path": "EXPANSION6_REVIEW_QUEUE.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION6_REVIEW_QUEUE.json",
+      "sha256": "fa657a6a08740999846b571297efaaf3cd9840709f4ff4dfdf126b95b5b82163"
+    },
+    {
+      "path": "EXPANSION3_VALIDATION.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION3_VALIDATION.json",
+      "sha256": "547e7ed0e8ffc7413028dcfd0238c32f13e92324602f6ece6543dbe1026cbd66"
+    },
+    {
+      "path": "EXPANSION3_REVIEW_QUEUE.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION3_REVIEW_QUEUE.json",
+      "sha256": "efb6b1e7777df5e9306f06eaabd98d6c07d37442028addaf03d3b29e40aebea6"
+    },
+    {
+      "path": "EXPANSION3_CORRECTIONS.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION3_CORRECTIONS.json",
+      "sha256": "7f6c7e3e2a483871515d4c76316f0f0ef7989cf7b518f8933608e8ff874b0488"
+    },
+    {
+      "path": "EXPANSION_SEMANTIC_CHECK.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION_SEMANTIC_CHECK.json",
+      "sha256": "eb64a1a92a5d27f83f8bbfbb90af18904a8ad9abd4829d9a506394af31ba0c80"
+    },
+    {
+      "path": "EXPANSION7_REVIEW_QUEUE.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION7_REVIEW_QUEUE.json",
+      "sha256": "99ca0f9a6e0ed4f791e627496c27f724a0d5c79dce93a452bdb9d408c4624e33"
+    },
+    {
+      "path": "EXPANSION7_CORRECTIONS.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION7_CORRECTIONS.json",
+      "sha256": "d6ef6a4ae60456034e243f9e891cf865fd1dee1504032f32558f0070f61495af"
+    },
+    {
+      "path": "EXPANSION4_VALIDATION.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION4_VALIDATION.json",
+      "sha256": "b2503e06434f7b3aa31dda8966b8222ef47badecd33a68c55613c41437207df2"
+    },
+    {
+      "path": "EXPANSION2_REVIEW_QUEUE.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION2_REVIEW_QUEUE.json",
+      "sha256": "d43050dd1a473ae935b9ff58535afcb25a5c893a24bd6a8475c4fa191875887a"
+    },
+    {
+      "path": "README.md",
+      "archivePath": "history/published-baseline-85596/README.md",
+      "sha256": "bad9b526d19dade1f5861ab6100b7cac4e64c9a5b4a22365b2abbb9a3be83103"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "archivePath": "history/published-baseline-85596/CONTRIBUTING.md",
+      "sha256": "294bd9ad38d69cae836d5158f953aea4ac4ce4a5b42ee38688b2e79da8656159"
+    },
+    {
+      "path": "EXPANSION8_SEMANTIC_CHECK.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION8_SEMANTIC_CHECK.json",
+      "sha256": "5fcd8927a6f2596e6e73cc25cce259298ff8de761f92fc46ef3cc8c09f1aefae"
+    },
+    {
+      "path": "EXPANSION_VALIDATION.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION_VALIDATION.json",
+      "sha256": "e45eb39baf50a91fae31f5414b6eb7a1ae8a33b3fd1fd682006656806c4b6c18"
+    },
+    {
+      "path": "EXPANSION6_VALIDATION.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION6_VALIDATION.json",
+      "sha256": "4f03a0a5ef12c589408064b7cc470d3234f8d8a2cb8a659aea3a89e94f0b7f8d"
+    },
+    {
+      "path": "progress.json",
+      "archivePath": "history/published-baseline-85596/progress.json",
+      "sha256": "15b2319a327c489f6734fa8a8be50321f9e4eae69e59780cea4eafca8f4479f8"
+    },
+    {
+      "path": "EXPANSION4_CORRECTIONS.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION4_CORRECTIONS.json",
+      "sha256": "8f63f1e7f84f62062b2f56b08880d4500fe8c1660c72b4c4c449f7d40f7614ce"
+    },
+    {
+      "path": "EXPANSION8_VALIDATION.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION8_VALIDATION.json",
+      "sha256": "f2763ea9a09711a91d40176eb7b1605409dfe5fff5049691cdc8fae1d9538d1e"
+    },
+    {
+      "path": "EXPANSION4_SEMANTIC_CHECK.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION4_SEMANTIC_CHECK.json",
+      "sha256": "8abbeac7d859413645f36cae9600cae81e057dc14623667a64dcab82b5439294"
+    },
+    {
+      "path": "EXPANSION5_SEMANTIC_CHECK.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION5_SEMANTIC_CHECK.json",
+      "sha256": "01f50e231f5558c55f0fc6f2768e6493a875ffd2c11dc84f2b0b415f7f9f6351"
+    },
+    {
+      "path": "EXPANSION6_SEMANTIC_CHECK.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION6_SEMANTIC_CHECK.json",
+      "sha256": "5917026425de46646cf45bf161d76f7d64ca8be3c4ffe64836c3a86929b4a7c6"
+    },
+    {
+      "path": "EXPANSION7_SEMANTIC_CHECK.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION7_SEMANTIC_CHECK.json",
+      "sha256": "3d76245ac0c6990766aab4ab77847a590f0c8645b3f0a177d27b4783e91924d4"
+    },
+    {
+      "path": "EXPANSION7_VALIDATION.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION7_VALIDATION.json",
+      "sha256": "261ba6aeadfc5ea27f6de68d264fede011f2845c234927c1cede95f11951d1dc"
+    },
+    {
+      "path": "EXPANSION8_REVIEW_QUEUE.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION8_REVIEW_QUEUE.json",
+      "sha256": "92f6cdecfdb875147c2b11d34f0c794a11c54d743ed9f182e845612a1d509ef6"
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "archivePath": "history/published-baseline-85596/SHA256SUMS.txt",
+      "sha256": "cd1fc0804d4c420761c2590b9cb1c4e596e5ae53ebe2901ed59dffe5f93c765a"
+    },
+    {
+      "path": "EXPANSION5_CORRECTIONS.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION5_CORRECTIONS.json",
+      "sha256": "5383c4e0c6c38d3c4b1cf6bfcc72ac20cc32342fe0231881448e16f3efa1ebb7"
+    },
+    {
+      "path": "EXPANSION3_SEMANTIC_CHECK.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION3_SEMANTIC_CHECK.json",
+      "sha256": "e54a888f41b5c9dda0c6f94eafb9c0dc727bf6bf2b055806f67f819c1795bd86"
+    },
+    {
+      "path": "EXPANSION2_SEMANTIC_CHECK.json",
+      "archivePath": "history/published-baseline-85596/EXPANSION2_SEMANTIC_CHECK.json",
+      "sha256": "64560c171e471c3f0475f9708b4eac01169f8c68758c866681f20d99c0589da2"
+    },
+    {
+      "path": "scripts/validate.py",
+      "archivePath": "history/published-baseline-85596/scripts/validate.py",
+      "sha256": "78ea06bbe968f2b67c32d71033c41150b5101c778a0eca1efbddc53654bb6489"
+    }
+  ]
+}

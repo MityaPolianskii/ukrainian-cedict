@@ -1,0 +1,461 @@
+{
+  "checkpoint": 5,
+  "application_review_completed": true,
+  "review_type": "model",
+  "human_validation": false,
+  "review_file_sha256": {
+    "review_001.json": "aedd5eafb97772cdc1f35c705704c09cff046e56c2f7aaf44b12bf37f7954f70",
+    "review_002.json": "4ed5080c2f2c92c74eee8698031e8a7194ceac85125b9ab536506e0f4a13f858",
+    "review_003.json": "2d4814f23f690b1cbbac529a742162c907b40f811a1816417c60e334f2d03e08"
+  },
+  "decisions": [
+    {
+      "kind": "segment",
+      "id": "09625bb3682cc5b8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "09625bb3682cc5b8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "6e403fe6111d863a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "f657788fa5842377",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "70f28750371569a8",
+      "index": 0,
+      "decision": "hold",
+      "reason": "The reviewer rates this proposal medium confidence. Preserve the original with its uncertainty flag pending stronger evidence."
+    },
+    {
+      "kind": "segment",
+      "id": "513c993268c4df54",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "513c993268c4df54",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "a0017e7ab6e73efd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "f24a0ed69dd74336",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "b4028d80a411264c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "0192f33f484f6142",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "b91121ba61bc93b3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "77dec455d860c15a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "f28ed1c15bbadcbd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "f28ed1c15bbadcbd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "216cf0ed72766d88",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "216cf0ed72766d88",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "b2bbfd53b1acf5f6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "b692aaa05a7af3e0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "b692aaa05a7af3e0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "8decde09c65b7974",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "8decde09c65b7974",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "197b8a0342955e4f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "197b8a0342955e4f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "62cb5539a9eb66a2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "62cb5539a9eb66a2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "1d91e2cdf46cdd79",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "1d91e2cdf46cdd79",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "aae5cb4126fea8aa",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "7af5255762962809",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "7af5255762962809",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "fb534954ce8eff7d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "fb534954ce8eff7d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "aae0121856e7a130",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "1269cccf33e479e9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "93d023ce003c9e6c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "307029083d120aa4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "6e331d099729ceb9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "f28e40749c717cf2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "6e32ae2d2c4ed8e8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "6e32ae2d2c4ed8e8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "5409859da346812b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "5409859da346812b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "421a41514f8b821f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "421a41514f8b821f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "f1b8849821bb133e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "6070eabc6f214c64",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "ad2fd1d1a74d7928",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "f6f7054795c64ce3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "e1ab61f1e0414ef8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "084bb101ab5a6131",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "084bb101ab5a6131",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "be4196fc6563dd92",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "520e1211978abaf3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "520e1211978abaf3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "d884fd5f9a27f220",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "d884fd5f9a27f220",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "089380ffec95c892",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "089380ffec95c892",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "0e8087a4a1c04b65",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "segment",
+      "id": "936157a221088350",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    },
+    {
+      "kind": "note",
+      "id": "936157a221088350",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "note",
+      "id": "6c46af04e8f80c4f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise entry-bound note claim and evidence. High-confidence clarification preserves source context and unresolved uncertainty."
+    },
+    {
+      "kind": "segment",
+      "id": "3526642d8775540e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete Chinese/pinyin/English/Ukrainian entry, exact before/after and cited evidence. High-confidence lexical correction or documented source correction; protected references, taxa and original flags remain intact."
+    }
+  ]
+}

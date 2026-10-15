@@ -1,0 +1,1834 @@
+{
+  "reviewer_model_requested": "gpt-6-astra",
+  "human_validation": false,
+  "reviewed_ids": [
+    "9da914a9d7ec1537",
+    "fdd10e4f13bd982d",
+    "4c87c940895c44ae",
+    "17657c39c1e951b7",
+    "2f75c59e173f2cc8",
+    "b04afd2c5b9141cf",
+    "7bfdfcc2fd87762c",
+    "342a8dffce17cd62",
+    "710d67012bb5ddbe",
+    "8262b28d7c5a26c8",
+    "7e8f97694c6958e2",
+    "5e1868226e36943a",
+    "94b7cd448fcd432c",
+    "c093cb511bc0a25d",
+    "9cf497017bf64bc6",
+    "060f752ce3885127",
+    "981919cef25eb052",
+    "6a345d34409c5aa2",
+    "9350153f3da653f2",
+    "04bd17d639c99ad8",
+    "901da8d3cc6df7e1",
+    "09d4a488e11bb5af",
+    "d4105f7647123aa6",
+    "9b0b7df675d262c5",
+    "67d70082ae1e8943",
+    "b8b344d8d235220a",
+    "02e52cf10beef5e8",
+    "456aa3634852557f",
+    "a9f1bd61f4e39628",
+    "92db3d7bb19142b6",
+    "c6c8b79ee8943d20",
+    "651b459740646b17",
+    "4d9f202242de1900",
+    "8988c880b642f0e2",
+    "ecfd538dd36410ac",
+    "b6f63a09198eb4f0",
+    "61dd4390f16adcc0",
+    "927b87c3fbc26ca8",
+    "286f7bd0649af76e",
+    "cb0f93a1d853433d",
+    "39808c3ad15a13db",
+    "8e5422d5e12a94aa",
+    "ad6b51e61a1c4481",
+    "6a25c68f3157ba2e",
+    "3fcc255833e5cc7b",
+    "d885f7223e9d3039",
+    "978ce39469429bc6",
+    "21c606f6d30918b4",
+    "7954c129820a4420",
+    "bf36e1cc3b75f3cb",
+    "033cde59100dca57",
+    "b53a8ce9ad01285f",
+    "476e33ecaf46cc55",
+    "38a059a80aa3e455",
+    "0b812b1b11976d20",
+    "e001537c5239ce2f",
+    "7c3d218b629af654",
+    "c241fdc58653f01a",
+    "9b42bd0728071b1f",
+    "dfe659980697ce26",
+    "10bd41d3af434a2a",
+    "70af198ad1cfacfa",
+    "853ff1748d4846b2",
+    "00b07fbd8636dc19",
+    "bc60efc747a923f0",
+    "0736e3d6d6592fd6",
+    "76edf9329bae572e",
+    "2262d15b4a075a9d",
+    "2aecf092ae31f375",
+    "75623d1944e5cc36",
+    "88ba63a818b8dcd1",
+    "ffb0cd7f948c49a0",
+    "bfba6bf5720ce653",
+    "fc7a035b45812b92",
+    "dc1f9725b255c48a",
+    "bb818c91dc86809f",
+    "a578f3d9d5aa7484",
+    "48972cfa4f691e4f",
+    "86306630422d9634",
+    "1309cdcfc7ef66d8",
+    "83396952655245c3",
+    "7a48e88794e95967",
+    "a676900aa9b618b4",
+    "ca0354d8f1d7950e",
+    "85a8ee0255f89b77",
+    "a0dd974fdec1c4ed",
+    "e46c3a2a7a42d731",
+    "276d2961afbb785f",
+    "10185f9c43e5837a",
+    "8d6e62ea6943a0a8",
+    "df387d7d5f521cc2",
+    "5709cdf7758a06f2",
+    "4123d30ca6354500",
+    "8ca6eee5e1ee0a65",
+    "2ef2814a5ea61571",
+    "3bb02c2a0cea5662",
+    "9f5e38d80a956a32",
+    "02ac6eeeed4b78eb",
+    "303d87e0df428005",
+    "893bf5d2f3dfd28c"
+  ],
+  "entries": [
+    {
+      "id": "9da914a9d7ec1537",
+      "source_line": 24656,
+      "traditional": "圓腹鯡",
+      "simplified": "圆腹鲱",
+      "pinyin": "yuan2 fu4 fei1",
+      "outcome": "acceptable",
+      "reason": "Описова назва «круглочеревий оселедець» відповідає round herring і 圓腹鯡/圆腹鲱; примітка правильно не встановлює вид без достатніх даних.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Усталена українська видова назва та точний таксон у цьому короткому глосі не визначені."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "fdd10e4f13bd982d",
+      "source_line": 30032,
+      "traditional": "奶農",
+      "simplified": "奶农",
+      "pinyin": "nai3 nong2",
+      "outcome": "correction_proposed",
+      "reason": "奶農/奶农 називає виробника молока, а не галузь господарства; наявна примітка правильно виявила помилку англійського глоса, але український сегмент її повторює. Вживання щодо господарів і кооперативів: https://jcs.moa.gov.cn/trzgl/202207/t20220714_6404782.htm",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "молочне фермерство",
+          "after": "фермер-молочник",
+          "reason": "農 у 奶農/奶农 називає людину-виробника; діяльність «молочне фермерство» помилково успадкована з dairy farming.",
+          "confidence": "high",
+          "issue_type": "source_error_propagation"
+        }
+      ],
+      "note_corrections": []
+    },
+    {
+      "id": "4c87c940895c44ae",
+      "source_line": 58928,
+      "traditional": "槍術",
+      "simplified": "枪术",
+      "pinyin": "qiang1 shu4",
+      "outcome": "acceptable",
+      "reason": "Переклад правильно враховує 術: це мистецтво або техніка володіння списом, а не лише сам спис. Примітка прикріплена правильно й точно пояснює неповноту англійського глоса.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "17657c39c1e951b7",
+      "source_line": 59150,
+      "traditional": "樗",
+      "simplified": "樗",
+      "pinyin": "chu1",
+      "outcome": "correction_proposed",
+      "reason": "樗 є назвою дерева, а не всієї родини Simaroubaceae. Китайська флора прямо наводить 樗 як давню назву Ailanthus altissima: https://www.iplant.cn/z/frps/2101. Потрібно виправити таксономічний рівень українського сегмента.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "симарубові (родина рослин)",
+          "after": "айлант найвищий (Ailanthus altissima; рослина родини симарубових)",
+          "reason": "Первинна китайська флора ідентифікує 樗 як Ailanthus altissima; назва всієї родини не є еквівалентом назви дерева. https://www.iplant.cn/z/frps/2101",
+          "confidence": "high",
+          "issue_type": "taxonomic_level_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело подає назву родини; 樗 зазвичай позначає айлант найвищий, представника цієї родини.",
+          "after": "Джерельне simaroubaceae позначає родину симарубових, тоді як 樗 є давньою назвою айланта найвищого (Ailanthus altissima). Відповідність підтверджено китайською флорою; англійський глос має помилковий таксономічний рівень.",
+          "reason": "Уточнено підтверджене зіставлення дерева та родини; точне латинське simaroubaceae з вихідного глоса збережено й позначено як джерельне.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "2f75c59e173f2cc8",
+      "source_line": 62907,
+      "traditional": "江豚",
+      "simplified": "江豚",
+      "pinyin": "jiang1 tun2",
+      "outcome": "correction_proposed",
+      "reason": "江豚 належить до безперих морських свиней Neophocaena, а не до річкових дельфінів; це підтверджує офіційний перелік, який розрізняє кілька видів: https://lhsr.sh.gov.cn/gjzdbhysdwml/. Примітка правильна, але сегмент залишає хибний синонім.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Саме 江豚 без уточнення не дозволяє обрати один сучасний вид Neophocaena."
+      ],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "річкова морська свиня; річковий дельфін",
+          "after": "безпера морська свиня (рід Neophocaena)",
+          "reason": "Виправлено підміну морської свині дельфіном і не нав’язано суто річковий ареал усім 江豚; сучасний офіційний перелік розрізняє кілька видів Neophocaena. https://lhsr.sh.gov.cn/gjzdbhysdwml/",
+          "confidence": "high",
+          "issue_type": "taxonomic_mistranslation"
+        }
+      ],
+      "note_corrections": []
+    },
+    {
+      "id": "b04afd2c5b9141cf",
+      "source_line": 70610,
+      "traditional": "熊膽草",
+      "simplified": "熊胆草",
+      "pinyin": "xiong2 dan3 cao3",
+      "outcome": "acceptable",
+      "reason": "Conyza blinii збережено дослівно; українська описова назва не суперечить наданій латинській. Примітка коректно обмежує її номенклатурний статус.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Усталеність українського епонімного написання «Блена» не підтверджена; саму описову назву через це не вилучено."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "7bfdfcc2fd87762c",
+      "source_line": 74492,
+      "traditional": "生活館",
+      "simplified": "生活馆",
+      "pinyin": "sheng1 huo2 guan3",
+      "outcome": "deferred",
+      "reason": "«Музей живого побуту» є можливим перекладом living museum, але не встановлено, що саме таке значення має 生活館/生活馆 у джерелі. Примітка по суті й не дає достатньої підстави для однозначної заміни.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Потрібен контекст конкретного закладу або незалежне словникове підтвердження музейного значення."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "342a8dffce17cd62",
+      "source_line": 76870,
+      "traditional": "白附",
+      "simplified": "白附",
+      "pinyin": "bai2 fu4",
+      "outcome": "deferred",
+      "reason": "«Білий аконіт» точно передає white aconite, проте примітка обґрунтовано залишає відкритою ідентифікацію 白附. Без перевірки конкретної лікарської назви підміняти її одним таксоном не можна.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Треба розрізнити рослину, лікарську сировину й регіональні назви; рід у цьому записі не встановлено."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "710d67012bb5ddbe",
+      "source_line": 84167,
+      "traditional": "精囊",
+      "simplified": "精囊",
+      "pinyin": "jing1 nang2",
+      "outcome": "acceptable",
+      "reason": "精囊 як seminal vesicle/sperm sac відрізняється від spermatophore; академічний словник прямо розводить ці назви: https://fishdb.sinica.edu.tw/chi/glossary.php?R1=chinese&dere=&key=&page=38&pz=100. Український сегмент і пояснення джерельної розбіжності прийнятні.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Незалежний спеціальний контекст для джерельного spermatophore не наданий; це не підстава повертати його як непозначений синонім."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "8262b28d7c5a26c8",
+      "source_line": 93964,
+      "traditional": "茥",
+      "simplified": "茥",
+      "pinyin": "gui1",
+      "outcome": "deferred",
+      "reason": "Rubus tokkura збережено без виправлень, але його таксономічний статус не встановлено. Примітка належить саме цьому запису; «малина» може бути вужчим визначенням, ніж рід Rubus.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Потрібні первинна ботанічна ідентифікація Rubus tokkura та перевірка, чи це малина, ожина або інша рослина роду; латинську назву не нормалізовано навмання."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "7e8f97694c6958e2",
+      "source_line": 99076,
+      "traditional": "裸露狂",
+      "simplified": "裸露狂",
+      "pinyin": "luo3 lu4 kuang2",
+      "outcome": "acceptable",
+      "reason": "裸露狂 називає людину; «ексгібіціоніст» правильно відтворює категорію особи. Примітка точно відрізняє її від англійської назви явища exhibitionism.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "5e1868226e36943a",
+      "source_line": 108279,
+      "traditional": "進價",
+      "simplified": "进价",
+      "pinyin": "jin4 jia4",
+      "outcome": "acceptable",
+      "reason": "«Закупівельна ціна» відповідає 進價/进价. Примітка правильно відмічає невідповідність opening price; повертати «ціну відкриття» не слід.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "94b7cd448fcd432c",
+      "source_line": 108484,
+      "traditional": "遊標卡尺",
+      "simplified": "游标卡尺",
+      "pinyin": "you2 biao1 ka3 chi3",
+      "outcome": "acceptable",
+      "reason": "«Ноніусний штангенциркуль» правильно відтворює 遊標卡尺/游标卡尺; vernier caliper підтверджено навчальним технічним словником: https://www.ssivs.chc.edu.tw/resources/WID_0_1_3c58649dcb0de4024ba889fdd1407b0c7865e65c/CLS_0_1_7ad4c7e3705c7dd6a3624700661721e466d419ec/183fe0e60e846b5d8e189648daad2d15.pdf. Примітка про відмінність від циферблатного різновиду правильна.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "c093cb511bc0a25d",
+      "source_line": 112914,
+      "traditional": "鐻",
+      "simplified": "鐻",
+      "pinyin": "ju4",
+      "outcome": "acceptable",
+      "reason": "Сегмент точно передає лише надану позначку mus. instr.; примітка не вигадує назви чи будови давнього предмета 鐻.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Точний інструмент або пов’язана з ним деталь не ідентифіковані."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "9cf497017bf64bc6",
+      "source_line": 124760,
+      "traditional": "鼓板",
+      "simplified": "鼓板",
+      "pinyin": "gu3 ban3",
+      "outcome": "deferred",
+      "reason": "Переклад clapper-board як музичного предмета можливий, але 鼓板 може позначати поєднання барабана й ударних дощечок; «ударна дошка; тріскачка» не гарантує повноти. Примітка слушно залишає склад відкритим.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Контекст конкретної музичної традиції не встановлено; не замінено здогадом про один інструмент. Вживання для барабана й дощечок: https://www.nopss.gov.cn/BIG5/n1/2019/0227/c373410-30905467.html."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "060f752ce3885127",
+      "source_line": 124827,
+      "traditional": "鼭",
+      "simplified": "鼭",
+      "pinyin": "shi2",
+      "outcome": "acceptable",
+      "reason": "«Різновид щура» точно відтворює рівень узагальнення a kind of rat; примітка правильно фіксує відсутність видової ідентифікації 鼭.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Сучасний біологічний вид не встановлено, і переклад його не вигадує."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "981919cef25eb052",
+      "source_line": 7868,
+      "traditional": "依撒格",
+      "simplified": "依撒格",
+      "pinyin": "Yi1 sa1 ge2",
+      "outcome": "correction_proposed",
+      "reason": "Ім’я «Ісаак» прийнятне, але примітка категорично називає Issac помилкою й ототожнює носія з біблійною особою, хоча джерело каже лише name. Потрібно звузити твердження, не міняючи сегмента.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Конкретний носій імені й статус написання Issac у першоджерелі не встановлені."
+      ],
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "У джерелі ім'я Isaac помилково написано Issac; китайський заголовок відповідає імені біблійного Ісаака.",
+          "after": "Ім’я передано як Ісаак. Джерельне Issac, імовірно, є варіантом або опискою замість Isaac; конкретний носій імені та біблійне ототожнення в короткому глосі не визначені.",
+          "reason": "Глос (name) не ідентифікує біблійну особу й не дозволяє категорично виключити альтернативне написання імені.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "6a345d34409c5aa2",
+      "source_line": 7910,
+      "traditional": "侴",
+      "simplified": "侴",
+      "pinyin": "Chou3",
+      "outcome": "acceptable",
+      "reason": "«Прізвище Чоу» передає surname Chou та задане Chou3; примітка правильно пояснює обраний принцип передачі рідкісного прізвища 侴.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Незалежна українська традиція написання цього рідкісного прізвища не встановлена."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "9350153f3da653f2",
+      "source_line": 10196,
+      "traditional": "儒學",
+      "simplified": "儒学",
+      "pinyin": "Ru2 xue2",
+      "outcome": "correction_proposed",
+      "reason": "儒學/儒学 [Ru2 xue2] і Confucianism однозначно узгоджуються з «конфуціанство». Примітка про сучасну групу й читання Bo2 не стосується жодної частини цього запису; її слід деактивувати без перенесення на вгаданий запис.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Джерело не ідентифікує сучасну групу; назву передано за читанням Bo2.",
+          "after": null,
+          "reason": "Примітка про невстановлену сучасну групу та Bo2 не стосується 儒學/儒学 [Ru2 xue2] «конфуціанство». Деактивувати лише тут; не переносити на здогадно обраний запис.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "04bd17d639c99ad8",
+      "source_line": 21571,
+      "traditional": "品藍",
+      "simplified": "品蓝",
+      "pinyin": "pin3 lan2",
+      "outcome": "deferred",
+      "reason": "«Синій із рожевим відтінком» точно відтворює pinkish blue; примітка правильно зберігає проблему конкретного відтінку 品藍/品蓝. Немає достатньої підстави підставити один інший колір.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Потрібне незалежне лексикографічне уточнення історичного або сучасного значення кольору."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "901da8d3cc6df7e1",
+      "source_line": 29006,
+      "traditional": "天青石",
+      "simplified": "天青石",
+      "pinyin": "tian1 qing1 shi2",
+      "outcome": "acceptable",
+      "reason": "天青石 є целестином; офіційний музейний матеріал прямо наводить Celestite для цього мінералу: https://pedia.cloud.edu.tw/Entry/Detail/?search=%E9%87%8D%E6%99%B6%E7%9F%B3&title=%E9%87%8D%E6%99%B6%E7%9F%B3. Сегмент правильний, примітка доречно фіксує невідповідність lapis lazuli.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "09d4a488e11bb5af",
+      "source_line": 30012,
+      "traditional": "奶油雞蛋",
+      "simplified": "奶油鸡蛋",
+      "pinyin": "nai3 you2 ji1 dan4",
+      "outcome": "deferred",
+      "reason": "«Бісквіт із вершковим кремом» можливий для cream sponge, але 奶油雞蛋/奶油鸡蛋 не містить назви бісквіта чи торта. Примітка належна; реконструювати назву страви без джерела не можна.",
+      "confidence": "low",
+      "remaining_uncertainty": [
+        "Невідомо, чи помилковий китайський заголовок, англійський глос або їх поєднання."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "d4105f7647123aa6",
+      "source_line": 31374,
+      "traditional": "孕激素",
+      "simplified": "孕激素",
+      "pinyin": "yun4 ji1 su4",
+      "outcome": "correction_proposed",
+      "reason": "«Прогестерон» не слід автоматично відхиляти: офіційний фізіологічний документ прямо подає 孕激素 = progesterone: https://www.nhc.gov.cn/wjw/pcrb/201212/34627/files/1739780924024_71788.pdf. Примітку треба звузити до контекстуального розрізнення класу й конкретного гормону.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "У ширшій гормональній/фармакологічній класифікації 孕激素 може означати прогестогени; контекст джерела мінімальний."
+      ],
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "孕激素 точніше позначає прогестогени як клас гормонів; джерело звужує до прогестерону.",
+          "after": "孕激素 може позначати прогестогени як клас, а у фізіологічному контексті також прогестерон. Наданий переклад «прогестерон» є засвідченим значенням; ширший обсяг терміна залежить від контексту.",
+          "reason": "Первинний офіційний фізіологічний документ прямо дає 孕激素 = progesterone; твердження про звуження не повинно подаватися як автоматична помилка джерела. https://www.nhc.gov.cn/wjw/pcrb/201212/34627/files/1739780924024_71788.pdf",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "9b0b7df675d262c5",
+      "source_line": 33590,
+      "traditional": "審判欄",
+      "simplified": "审判栏",
+      "pinyin": "shen3 pan4 lan2",
+      "outcome": "deferred",
+      "reason": "Огорожа або бар’єр відповідають буквальному bar/欄, але значення рідкісного 審判欄/审判栏 незалежно не встановлене. Примітка коректно не обіцяє точного юридичного відповідника.",
+      "confidence": "low",
+      "remaining_uncertainty": [
+        "Не підтверджено, чи це фізична огорожа, місце перед судом або переносний вислів."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "67d70082ae1e8943",
+      "source_line": 36359,
+      "traditional": "巡測儀",
+      "simplified": "巡测仪",
+      "pinyin": "xun2 ce4 yi2",
+      "outcome": "acceptable",
+      "reason": "«Переносний вимірювач радіації» є прийнятним спеціальним значенням survey meter; примітка правильно попереджає, що 巡測儀/巡测仪 без галузевого контексту може бути ширшим.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Загальногалузевий обсяг китайського терміна не встановлено; радіаційне прочитання не проголошено єдиним."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "b8b344d8d235220a",
+      "source_line": 48348,
+      "traditional": "插入語",
+      "simplified": "插入语",
+      "pinyin": "cha1 ru4 yu3",
+      "outcome": "acceptable",
+      "reason": "Вставне слово або вислів відповідає 插入語/插入语. Примітка правильно відрізняє вставне висловлювання від вигуку як частини мови та не заперечує ширші значення англійського interjection.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "02e52cf10beef5e8",
+      "source_line": 57504,
+      "traditional": "核轟炸",
+      "simplified": "核轰炸",
+      "pinyin": "he2 hong1 zha4",
+      "outcome": "acceptable",
+      "reason": "轟炸 означає бомбардування; «ядерне бомбардування» правильно відтворює 核轟炸/核轰炸. Примітка точно пояснює помилкове nuclear bomb.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "456aa3634852557f",
+      "source_line": 58303,
+      "traditional": "棠",
+      "simplified": "棠",
+      "pinyin": "tang2",
+      "outcome": "deferred",
+      "reason": "Опис дрібноплідної яблуні зрозумілий як переклад cherry-apple, але сам 棠 має історичні ботанічні значення, зокрема пов’язані з 棠梨. Словник MOE не дає підстав звести їх до однієї яблуні: https://dict.revised.moe.edu.tw/dictView.jsp?ID=2592&ver=4.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Примітка про невказаний вид правильна, але невизначеним залишається також зіставлення яблуні та історичних назв груш; вид не вгадано."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "a9f1bd61f4e39628",
+      "source_line": 58468,
+      "traditional": "椵",
+      "simplified": "椵",
+      "pinyin": "jia3",
+      "outcome": "correction_proposed",
+      "reason": "Для 椵 [jia3] словник MOE дає дерево з групи 柚, а не надійне ототожнення із сучасним грейпфрутом: https://dict.variants.moe.edu.tw/dictView.jsp?ID=60536. Потрібен обережніший родовий опис.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Точний сучасний вид історично описаної рослини не встановлено."
+      ],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "(грейпфрут)",
+          "after": "(цитрусове дерево з групи помело)",
+          "reason": "Для 椵 [jia3] MOE наводить 柚類, тому точне сучасне ототожнення з грейпфрутом надмірне; обережний опис не вгадує виду. https://dict.variants.moe.edu.tw/dictView.jsp?ID=60536",
+          "confidence": "high",
+          "issue_type": "unsupported_specificity"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Ботанічний відповідник рідкісного 椵 у джерелі потребує перевірки.",
+          "after": "椵 [jia3] у старій лексикографії описано як дерево з групи 柚, тобто помело-подібних цитрусів. Точне сучасне видове ототожнення з джерельним grapefruit не підтверджено.",
+          "reason": "Збережено ботанічну невизначеність, але уточнено підтверджений рівень групи; задане читання jia3 не змінено.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "92db3d7bb19142b6",
+      "source_line": 60113,
+      "traditional": "欹",
+      "simplified": "欹",
+      "pinyin": "yi1",
+      "outcome": "acceptable",
+      "reason": "«Вигук» точно передає надану граматичну категорію. Значення захоплення для 欹 [yi1] засвідчене MOE: https://dict.variants.moe.edu.tw/dictView.jsp?ID=61101&la=0; примітка правдиво говорить лише про брак уточнення в англійському джерелі.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "c6c8b79ee8943d20",
+      "source_line": 67135,
+      "traditional": "源器官",
+      "simplified": "源器官",
+      "pinyin": "yuan2 qi4 guan1",
+      "outcome": "acceptable",
+      "reason": "«Орган-джерело» є прозорим українським відповідником source organ і 源器官; примітка доречно зберігає потребу в біологічному контексті.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Без контексту не додано пояснення про конкретний транспорт речовин або функцію органа."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "651b459740646b17",
+      "source_line": 70881,
+      "traditional": "熱電",
+      "simplified": "热电",
+      "pinyin": "re4 dian4",
+      "outcome": "acceptable",
+      "reason": "«Піроелектричний» точно перекладає pyroelectric; примітка коректно розрізняє його з частим thermoelectric, не оголошуючи перше неможливим. Первинна навчальна програма справді зіставляє 熱電式 з pyroelectric: https://aps.ntut.edu.tw/course/tw/Curr.jsp?code=4006009&format=-2.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Для 熱電/热电 потрібен галузевий контекст; примусова заміна на «термоелектричний» не обґрунтована."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "4d9f202242de1900",
+      "source_line": 72456,
+      "traditional": "猛幹",
+      "simplified": "猛干",
+      "pinyin": "meng3 gan4",
+      "outcome": "correction_proposed",
+      "reason": "Українське «завзято братися до роботи» відповідає 猛幹/猛干. Англійський ідіоматичний tie into має значення енергійно братися за щось; примітка повинна відділяти незвичне роздільне написання від безпідставного сумніву в самому значенні. Лексикографічне підтвердження: https://www.collinsdictionary.com/dictionary/english/tie-into.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Джерельне написання to tie in to збережене як вихідне; його редакторське виправлення не пропонується."
+      ],
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Англійське «to tie in to» незвичне й може бути помилкою; переклад спирається на значення китайського дієслова.",
+          "after": "Переклад спирається на 猛幹 «завзято працювати». Джерельне to tie in to, ймовірно, відповідає розмовному tie into у значенні енергійно братися за щось; незвичне роздільне написання саме по собі не доводить семантичної помилки.",
+          "reason": "Лексикографічно засвідчений ідіоматичний tie into не слід відкидати як беззмістовний глос; невизначеність написання in to збережено. https://www.collinsdictionary.com/dictionary/english/tie-into",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "8988c880b642f0e2",
+      "source_line": 80348,
+      "traditional": "示性",
+      "simplified": "示性",
+      "pinyin": "shi4 xing4",
+      "outcome": "deferred",
+      "reason": "«Виразність» передає загальне expressivity, але для 示性 без галузі неможливо вибрати між загальномовним та спеціальним терміном. Примітка правильно прикріплена.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Потрібне контекстуальне підтвердження, зокрема для можливого терміна «експресивність»; значення не звужено навмання."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "ecfd538dd36410ac",
+      "source_line": 86548,
+      "traditional": "綿白糖",
+      "simplified": "绵白糖",
+      "pinyin": "mian2 bai2 tang2",
+      "outcome": "acceptable",
+      "reason": "«Дрібний білий цукор» правильно передає продукт 綿白糖/绵白糖 без необґрунтованої заміни на пудру. Примітка доречно уточнює дрібнокристалічність і можливу неточність sugar powder.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "b6f63a09198eb4f0",
+      "source_line": 104609,
+      "traditional": "起重葫蘆",
+      "simplified": "起重葫芦",
+      "pinyin": "qi3 chong2 hu2 lu5",
+      "outcome": "acceptable",
+      "reason": "«Вантажопідіймальна таль» відповідає 起重葫蘆/起重葫芦. Примітка правильно відмічає проблемне chong2 для 重 у цьому слові, але не змінює заданого qi3 chong2 hu2 lu5.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Джерельне читання лишається редакторською проблемою; всі піньїнь-поля збережено дослівно."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "61dd4390f16adcc0",
+      "source_line": 110500,
+      "traditional": "酸橙",
+      "simplified": "酸橙",
+      "pinyin": "suan1 cheng2",
+      "outcome": "acceptable",
+      "reason": "«Лайм (плід)» точно передає конкретний англійський глос; примітка належно зберігає інше вживання 酸橙 для гіркого апельсина.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Зіставлення назви з одним латинським таксоном без контексту не встановлено."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "927b87c3fbc26ca8",
+      "source_line": 114051,
+      "traditional": "閱讀廣度",
+      "simplified": "阅读广度",
+      "pinyin": "yue4 du2 guang3 du4",
+      "outcome": "acceptable",
+      "reason": "Переклад передає місткість пам’яті в завданні читання; примітка правильно уточнює робочу пам’ять. Первинна психологічна стаття прямо вживає 阅读广度范式 = reading span paradigm: https://psybeh.tjnu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1445.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "286f7bd0649af76e",
+      "source_line": 121087,
+      "traditional": "駗",
+      "simplified": "駗",
+      "pinyin": "zhen1",
+      "outcome": "deferred",
+      "reason": "Український сегмент зрозуміло перекладає machining-сенс chatter mark, але його відповідність 駗 не підтверджена. MOE наводить забарвлення коня й утруднену ходу під вантажем, причому читання zhěn: https://dict.variants.moe.edu.tw/dictView.jsp?ID=110291.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Наявна примітка правильно сигналізує розбіжність; потрібна перевірка саме джерельного 駗 [zhen1], без підміни заголовка, тону або значення."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "cb0f93a1d853433d",
+      "source_line": 123342,
+      "traditional": "鷦",
+      "simplified": "鹪",
+      "pinyin": "jiao1",
+      "outcome": "acceptable",
+      "reason": "«Східне волове очко» є точним описовим перекладом eastern wren; примітка правильно не видає його за встановлену видову назву 鷦/鹪.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Точний таксон і статус однознакової назви потребують окремого підтвердження."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "39808c3ad15a13db",
+      "source_line": 123349,
+      "traditional": "鷯",
+      "simplified": "鹩",
+      "pinyin": "liao2",
+      "outcome": "acceptable",
+      "reason": "Для 鷯/鹩 з тим самим англійським глосом описове «східне волове очко» прийнятне. Примітка доречно залишає вид невизначеним; немає підстав видаляти описову альтернативу.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Усталений український видовий відповідник і самостійний обсяг цього ієрогліфа не встановлені."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "8e5422d5e12a94aa",
+      "source_line": 123473,
+      "traditional": "鹼腺",
+      "simplified": "碱腺",
+      "pinyin": "jian3 xian4",
+      "outcome": "deferred",
+      "reason": "«Лужна залоза» точно калькує alkali gland, але конкретний анатомічний об’єкт 鹼腺/碱腺 не встановлено. Примітка належна й не містить вгаданої ідентифікації.",
+      "confidence": "low",
+      "remaining_uncertainty": [
+        "Потрібний спеціальний анатомічний або зоологічний контекст."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "ad6b51e61a1c4481",
+      "source_line": 7657,
+      "traditional": "侁",
+      "simplified": "侁",
+      "pinyin": "shen1",
+      "outcome": "acceptable",
+      "reason": "Сенс множинності для 侁 [shen1] засвідчений MOE: https://dict.variants.moe.edu.tw/dictView.jsp?ID=54165. «Великий натовп» прийнятно відтворює наданий large crowd, а примітка про рідкість не заперечує цього значення.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "У класичному контексті може знадобитися прикметникове, а не іменникове оформлення."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "6a25c68f3157ba2e",
+      "source_line": 47368,
+      "traditional": "捲揚",
+      "simplified": "卷扬",
+      "pinyin": "juan3 yang2",
+      "outcome": "deferred",
+      "reason": "«Вихор» точно передає англійський глос, але для 捲揚/卷扬 можливі піднімання й закручування; незалежного підтвердження саме іменника немає. Примітка слушно залишає цю розбіжність відкритою.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Не встановлено, чи джерело має на увазі вихор, вихрове піднімання чи технічне намотування."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "3fcc255833e5cc7b",
+      "source_line": 52068,
+      "traditional": "新聞網",
+      "simplified": "新闻网",
+      "pinyin": "xin1 wen2 wang3",
+      "outcome": "correction_proposed",
+      "reason": "新聞網/新闻网 означає новинну мережу або сайт; «інформаційна агенція» невиправдано підміняє тип організації. Офіційне вживання для обох мережевого та вебзначення: https://www.mofa.gov.tw/News_Content.aspx?n=95&s=99211. Примітка правильна.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "інформаційна агенція",
+          "after": "новинна мережа; новинний сайт",
+          "reason": "網/网 у 新聞網/新闻网 позначає мережу або вебсайт; наявний переклад підміняє їх агентством. https://www.mofa.gov.tw/News_Content.aspx?n=95&s=99211",
+          "confidence": "high",
+          "issue_type": "source_error_propagation"
+        }
+      ],
+      "note_corrections": []
+    },
+    {
+      "id": "d885f7223e9d3039",
+      "source_line": 54404,
+      "traditional": "曲霉毒素",
+      "simplified": "曲霉毒素",
+      "pinyin": "qu3 mei2 du2 su4",
+      "outcome": "acceptable",
+      "reason": "毒素 однозначно вказує на токсин, тому «токсин аспергіла» виправдано орієнтується на 曲霉毒素. Примітка правильно відрізняє його від назви гриба aspergillus.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Конкретний токсин не визначений; не додано назви афлатоксину або іншої сполуки."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "978ce39469429bc6",
+      "source_line": 57970,
+      "traditional": "條件式",
+      "simplified": "条件式",
+      "pinyin": "tiao2 jian4 shi4",
+      "outcome": "acceptable",
+      "reason": "«Умовна форма» є обережним відповідником короткого conditional/條件式; примітка правильно зберігає граматичний, логічний або програмний контекст відкритим.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "У конкретній галузі може знадобитися «умовний вираз» або назва способу."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "21c606f6d30918b4",
+      "source_line": 61332,
+      "traditional": "殺蟲",
+      "simplified": "杀虫",
+      "pinyin": "sha1 chong2",
+      "outcome": "correction_proposed",
+      "reason": "殺蟲/杀虫 є дієслівною сполукою «знищувати комах»; теперішній сегмент змішує дію з назвою засобу. Примітка правильна, але помилковий інсектицидний засіб не слід залишати непозначеним синонімом.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "знищення комах; інсектицидний засіб",
+          "after": "знищувати комах; знищення комах",
+          "reason": "Китайська дієслівна сполука не містить назви засобу; український сегмент має передавати дію, а не успадковане з insecticide припущення про речовину.",
+          "confidence": "high",
+          "issue_type": "part_of_speech_and_sense"
+        }
+      ],
+      "note_corrections": []
+    },
+    {
+      "id": "7954c129820a4420",
+      "source_line": 63041,
+      "traditional": "汽暖",
+      "simplified": "汽暖",
+      "pinyin": "qi4 nuan3",
+      "outcome": "acceptable",
+      "reason": "汽暖 означає парове опалення; «парове опалення» правильно передає китайський термін. Примітка точно локалізує розбіжність з gas heating.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "bf36e1cc3b75f3cb",
+      "source_line": 63532,
+      "traditional": "河叉",
+      "simplified": "河叉",
+      "pinyin": "he2 cha4",
+      "outcome": "acceptable",
+      "reason": "«Річковий рукав» передає відгалуження річки, закладене у 河叉; примітка правильно відрізняє його від гирла, river mouth.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Конкретна форма розгалуження без географічного контексту не уточнюється."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "033cde59100dca57",
+      "source_line": 69684,
+      "traditional": "烘豆",
+      "simplified": "烘豆",
+      "pinyin": "hong1 dou4",
+      "outcome": "deferred",
+      "reason": "«Печена квасоля» точно відтворює baked beans, але 烘豆 може позначати обсмажування зерен. Примітка належно попереджає про залежність від контексту.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Потрібне незалежне підтвердження назви готової страви, виду бобів або процесу обсмажування."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "b53a8ce9ad01285f",
+      "source_line": 79063,
+      "traditional": "矧",
+      "simplified": "矧",
+      "pinyin": "shen3",
+      "outcome": "acceptable",
+      "reason": "«Питальна частка» точно відтворює неповну позначку interrog.; примітка правильно не вигадує конкретного класичного еквівалента 矧.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Для перекладу в реченні потрібен класичний контекст і функція риторичного питання."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "476e33ecaf46cc55",
+      "source_line": 79434,
+      "traditional": "砌磚工",
+      "simplified": "砌砖工",
+      "pinyin": "qi4 zhuan1 gong1",
+      "outcome": "correction_proposed",
+      "reason": "砌磚工/砌砖工 за звичайним професійним значенням є муляром; цегляне мурування називає діяльність. Офіційні матеріали про кваліфікацію робітників підтверджують професію: https://www.sac.gov.cn/xw/bzhyw/art/2025/art_d1aa140445a74682b4b1d4b01ab3e3a8.html. Примітка правильно вказує напрям виправлення.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "цегляне мурування",
+          "after": "муляр, що виконує цегляне мурування",
+          "reason": "Замінено назву процесу на професійну назву 砌磚工/砌砖工; офіційний матеріал підтверджує, що це робітнича спеціальність. https://www.sac.gov.cn/xw/bzhyw/art/2025/art_d1aa140445a74682b4b1d4b01ab3e3a8.html",
+          "confidence": "high",
+          "issue_type": "source_error_propagation"
+        }
+      ],
+      "note_corrections": []
+    },
+    {
+      "id": "38a059a80aa3e455",
+      "source_line": 90253,
+      "traditional": "背包遊",
+      "simplified": "背包游",
+      "pinyin": "bei4 bao1 you2",
+      "outcome": "acceptable",
+      "reason": "«Подорожування з рюкзаком» точно відповідає backpacking і 背包遊/背包游. Примітка правильно локалізує окрему фонетичну проблему, не змінюючи семантику.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Читання bei4 у заданому піньїні залишене без змін; потребує окремої редакторської перевірки."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "0b812b1b11976d20",
+      "source_line": 91452,
+      "traditional": "臆想狂",
+      "simplified": "臆想狂",
+      "pinyin": "yi4 xiang3 kuang2",
+      "outcome": "deferred",
+      "reason": "«Міфоман» передає mythomaniac, але точний обсяг неформального 臆想狂 не доведено. Примітка слушно застерігає від ототожнення з точним клінічним діагнозом.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Не слід домислювати інший психіатричний діагноз або автоматично звужувати до патологічного обману."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "e001537c5239ce2f",
+      "source_line": 92859,
+      "traditional": "船篷",
+      "simplified": "船篷",
+      "pinyin": "chuan2 peng2",
+      "outcome": "acceptable",
+      "reason": "«Суднове вітрило» є справжнім значенням 船篷: MOE окремо подає і навіс, і вітрило: https://dict.revised.moe.edu.tw/dictView.jsp?ID=125866&la=1&powerMode=0. Примітка з «також» правильно зберігає обидві можливості; заміна лише на навіс була б хибним звуженням.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "7c3d218b629af654",
+      "source_line": 101792,
+      "traditional": "諑",
+      "simplified": "诼",
+      "pinyin": "zhuo2",
+      "outcome": "correction_proposed",
+      "reason": "諑/诼 має значення наклепу, а не нейтральної скарги; MOE наводить 讒言、謠言 та ототожнення з 譖: https://dict.variants.moe.edu.tw/dictView.jsp?ID=71306. Українське «скаржитися» повторює проблемний англійський глос.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "скаржитися",
+          "after": "обмовляти; зводити наклеп",
+          "reason": "諑/诼 пов’язане з 讒言 і 譖, тобто наклепом; нейтральне «скаржитися» втрачає цю визначальну семантику. https://dict.variants.moe.edu.tw/dictView.jsp?ID=71306",
+          "confidence": "high",
+          "issue_type": "source_error_propagation"
+        }
+      ],
+      "note_corrections": []
+    },
+    {
+      "id": "c241fdc58653f01a",
+      "source_line": 104800,
+      "traditional": "越瓜",
+      "simplified": "越瓜",
+      "pinyin": "yue4 gua1",
+      "outcome": "acceptable",
+      "reason": "«Овочева диня» обережно передає китайську назву, а змієподібний варіант явно позначено як джерельний. Примітка правильно залишає ботанічне зіставлення відкритим.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Точний культивар або ботанічний різновид 越瓜 і відповідність snake melon ще не встановлені."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "9b42bd0728071b1f",
+      "source_line": 106172,
+      "traditional": "軸承銷",
+      "simplified": "轴承销",
+      "pinyin": "zhou2 cheng2 xiao1",
+      "outcome": "acceptable",
+      "reason": "«Підшипниковий палець» відповідає структурі 軸承銷/轴承销. Примітка правильно попереджає про неоднозначність англійського порядку слів pin bearing.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Без креслення або галузевого контексту не розрізняються палець і штифт."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "dfe659980697ce26",
+      "source_line": 112214,
+      "traditional": "錐齒輪",
+      "simplified": "锥齿轮",
+      "pinyin": "zhui1 chi3 lun2",
+      "outcome": "acceptable",
+      "reason": "錐齒輪/锥齿轮 є конічною шестернею; український переклад зберігає ознаку конічності, яку не передає pinion gear. Примітка прикріплена правильно.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "10bd41d3af434a2a",
+      "source_line": 113292,
+      "traditional": "長贅疣",
+      "simplified": "长赘疣",
+      "pinyin": "zhang3 zhui4 you2",
+      "outcome": "acceptable",
+      "reason": "«Обростати бородавчастими розростаннями» відтворює спеціальний сенс 長贅疣 і англійського vegetate; примітка правильно відділяє його від загальномовного «животіти».",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "70af198ad1cfacfa",
+      "source_line": 115141,
+      "traditional": "陰桫",
+      "simplified": "阴桫",
+      "pinyin": "yin1 suo1",
+      "outcome": "acceptable",
+      "reason": "«Тверда деревина» точно передає a hard wood без вигадування породи 陰桫/阴桫. Примітка правильно відмічає відсутність видової ідентифікації.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Рослина або порода деревини незалежно не визначена."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "853ff1748d4846b2",
+      "source_line": 117212,
+      "traditional": "電纜接頭",
+      "simplified": "电缆接头",
+      "pinyin": "dian4 lan3 jie1 tou2",
+      "outcome": "acceptable",
+      "reason": "«Кабельний гермоввід» є коректним відповідником cable gland. Примітка правильно пояснює, що 電纜接頭/电缆接头 може позначати й ширший клас кабельних з’єднань.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Вузьке значення збережено як дане англійським джерелом, а не як виключне значення китайського терміна."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "00b07fbd8636dc19",
+      "source_line": 117401,
+      "traditional": "霍德",
+      "simplified": "霍德",
+      "pinyin": "Huo4 de2",
+      "outcome": "deferred",
+      "reason": "«Форд» відтворює надане Ford, але відповідність 霍德 цьому імені не підтверджена. Крім того, англійське name не гарантує саме прізвища. Примітка правильно сигналізує проблему.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Потрібна ідентифікація носія; заміну на Hord, Hurd чи інше ім’я не вгадано."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "bc60efc747a923f0",
+      "source_line": 121387,
+      "traditional": "驚怖",
+      "simplified": "惊怖",
+      "pinyin": "jing1 bu4",
+      "outcome": "correction_proposed",
+      "reason": "驚怖/惊怖 означає стан переляку, а не тільки перелякування іншого несподіванкою; MOE визначає його як 驚慌害怕: https://dict.revised.moe.edu.tw/dictView.jsp?ID=95969&la=0&powerMode=0. Треба виправити дієслівну спрямованість і примітку.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "лякати несподіванкою",
+          "after": "лякатися; жахатися",
+          "reason": "Виправлено перехідне «лякати» на стан страху самого суб’єкта, засвідчений визначенням 驚慌害怕. https://dict.revised.moe.edu.tw/dictView.jsp?ID=95969&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "verb_valency"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Англійське «surprise» недостатньо відбиває страх у 驚怖; переклад обмежено несподіваним переляком.",
+          "after": "驚怖 означає «лякатися, жахатися; бути наляканим». Англійське to surprise не передає цього значення достатньо точно; переклад має позначати стан страху, а не лише спричинення несподіваного переляку іншому.",
+          "reason": "Попередня примітка пояснювала семантику страху, але не виправляла помилкової спрямованості дії; MOE підтверджує стан суб’єкта.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "0736e3d6d6592fd6",
+      "source_line": 122705,
+      "traditional": "鮒",
+      "simplified": "鲋",
+      "pinyin": "fu4",
+      "outcome": "correction_proposed",
+      "reason": "鮒/鲋 означає карася; MOE прямо ототожнює його з 鯽: https://dict.revised.moe.edu.tw/dictView.jsp?ID=1873&la=0&powerMode=0. Білий товстолобик є іншою рибою.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Без додаткових підстав не встановлено конкретний вид роду Carassius."
+      ],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "білий товстолобик",
+          "after": "карась",
+          "reason": "MOE ототожнює 鮒 з 鯽; це не білий товстолобик. Точний вид карася без додаткових підстав не додається. https://dict.revised.moe.edu.tw/dictView.jsp?ID=1873&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "taxonomic_mistranslation"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає silver carp; для 鮒 можливе значення «карась», тому вид потребує перевірки.",
+          "after": "鮒/鲋 означає карася (鯽). Джерельне silver carp у значенні білого товстолобика не відповідає китайській назві; конкретний вид карася тут не уточнено.",
+          "reason": "Зіставлення з карасем підтверджено словником MOE; збережено невизначеність лише на видовому рівні.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "76edf9329bae572e",
+      "source_line": 124247,
+      "traditional": "黑尿症",
+      "simplified": "黑尿症",
+      "pinyin": "hei1 niao4 zheng4",
+      "outcome": "acceptable",
+      "reason": "«Алкаптонурія» відповідає 黑尿症; офіційні переліки підтверджують Alkaptonuria: https://www.wanfang.gov.tw/departments/education/post/65449c2362bbcf1d. Примітка правильно розпізнає описку alkaponuria.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "2262d15b4a075a9d",
+      "source_line": 7854,
+      "traditional": "依地酸二鈷",
+      "simplified": "依地酸二钴",
+      "pinyin": "yi1 di4 suan1 er4 gu3",
+      "outcome": "correction_proposed",
+      "reason": "Kelocyanor містить едетат дикобальту, а не заявлену в перекладі динатрієву сіль. Це прямо підтверджує французький регулятор: https://archive.ansm.sante.fr/var/ansm_site/storage/original/application/7ab022f732f42859caeeea886bd5c3cf.pdf. Китайське 二鈷/二钴 також означає два атоми кобальту.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Офіційну українську транслітерацію торгової назви не підтверджено, тому в пропозиції залишено точне Kelocyanor."
+      ],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "келоксианор (препарат динатрієвої солі кобальту з едетатом)",
+          "after": "едетат дикобальту (Kelocyanor)",
+          "reason": "依地酸二鈷/依地酸二钴 та Kelocyanor відповідають dicobalt edetate; динатрієва сіль є іншою сполукою. Торгову назву залишено латиницею без непідтвердженої української локалізації. https://archive.ansm.sante.fr/var/ansm_site/storage/original/application/7ab022f732f42859caeeea886bd5c3cf.pdf",
+          "confidence": "high",
+          "issue_type": "chemical_identity_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Kelocyanor — рідкісна торгова назва; відповідність назви препарату потребує спеціалізованої перевірки.",
+          "after": "Kelocyanor — торгова назва препарату едетату дикобальту (dicobalt edetate), що відповідає 依地酸二鈷/依地酸二钴. Відповідність підтверджено документом французького регулятора; офіційне українське написання торгової назви не встановлено.",
+          "reason": "Основне хімічне ототожнення перевірено; невизначеність торгової локалізації збережено. Не додаються показання, дози або клінічні рекомендації.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "2aecf092ae31f375",
+      "source_line": 22928,
+      "traditional": "單鉻",
+      "simplified": "单铬",
+      "pinyin": "dan1 ge4",
+      "outcome": "deferred",
+      "reason": "«Монохромний» правильно передає monochrome, проте 單鉻/单铬 буквально містить хром, а не колір. Примітка слушно відмічає незвичність заголовка.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Не встановлено, чи це помилкове написання іншого слова, технічний термін або помилкова пара джерела; китайські форми не підмінено."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "75623d1944e5cc36",
+      "source_line": 35407,
+      "traditional": "屋面瓦",
+      "simplified": "屋面瓦",
+      "pinyin": "wu1 mian4 wa3",
+      "outcome": "acceptable",
+      "reason": "屋面瓦 означає покрівельну черепицю. Український сегмент правильний; примітка обережно й доречно пояснює ймовірну описку room замість roof.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "88ba63a818b8dcd1",
+      "source_line": 38479,
+      "traditional": "庴",
+      "simplified": "庴",
+      "pinyin": "ji2",
+      "outcome": "acceptable",
+      "reason": "«Географічна назва» відповідає загальному place name для 庴; примітка правильно не вигадує населений пункт.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Точний топонім та його історична локалізація не визначені."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "ffb0cd7f948c49a0",
+      "source_line": 56022,
+      "traditional": "李木",
+      "simplified": "李木",
+      "pinyin": "li3 mu4",
+      "outcome": "deferred",
+      "reason": "«Терен» правильно передає blackthorn, але ботанічна тотожність 李木 не доведена. Примітка правильно зберігає питання про рослину або деревину.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Потрібне незалежне ботанічне або історико-лексикографічне підтвердження; підміни на сливу не запропоновано."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "bfba6bf5720ce653",
+      "source_line": 73823,
+      "traditional": "瑪尼",
+      "simplified": "玛尼",
+      "pinyin": "Ma3 ni2",
+      "outcome": "acceptable",
+      "reason": "«Мані (божество)» зберігає всю інформацію короткого Mani (god); примітка правильно не прив’язує 瑪尼/玛尼 до вгаданої міфологічної традиції.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Конкретне божество та традиція лишаються невстановленими."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "fc7a035b45812b92",
+      "source_line": 76423,
+      "traditional": "發聲法",
+      "simplified": "发声法",
+      "pinyin": "fa1 sheng1 fa3",
+      "outcome": "deferred",
+      "reason": "Перша альтернатива правильно передає 發聲法/发声法, друга відтворює англійське intonation, але їхній точний спільний обсяг не встановлено. Примітка по суті.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Потрібен контекст вокальної техніки, мовлення або музичної інтонації; допустимість обох альтернатив як одного словникового значення ще не доведено."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "dc1f9725b255c48a",
+      "source_line": 77785,
+      "traditional": "目眦",
+      "simplified": "目眦",
+      "pinyin": "mu4 zi4",
+      "outcome": "acceptable",
+      "reason": "目眦 позначає кут ока, тому український сегмент правильний. Примітка належно відрізняє цей анатомічний об’єкт від очниці, eye socket.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "bb818c91dc86809f",
+      "source_line": 78626,
+      "traditional": "眼證",
+      "simplified": "眼证",
+      "pinyin": "yan3 zheng4",
+      "outcome": "deferred",
+      "reason": "«Свідчення очевидця» можливе для 眼證/眼证, але англійський eyewitness зазвичай називає особу; точний історичний або спеціальний обсяг китайського слова не підтверджено.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Примітка належна, однак написання 證 саме по собі не доводить, що джерело має на увазі лише свідчення, а не свідка."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "a578f3d9d5aa7484",
+      "source_line": 81163,
+      "traditional": "秀色孫鰈",
+      "simplified": "秀色孙鲽",
+      "pinyin": "xiu4 se4 sun1 die2",
+      "outcome": "acceptable",
+      "reason": "«Жовтохвоста камбала» є зрозумілим описовим відповідником, що враховує 鰈/鲽 і yellowtail. Примітка правильно не оголошує його офіційною видовою назвою.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Точний таксон 秀色孫鰈/秀色孙鲽 та усталений український видовий відповідник ще не підтверджені."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "48972cfa4f691e4f",
+      "source_line": 81776,
+      "traditional": "種植業",
+      "simplified": "种植业",
+      "pinyin": "zhong4 zhi2 ye4",
+      "outcome": "acceptable",
+      "reason": "«Рослинництво» правильно передає галузеве 種植業/种植业, а не плантацію як ділянку. Примітка точно пояснює категоріальну різницю з plantation.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "86306630422d9634",
+      "source_line": 84878,
+      "traditional": "紅鰹",
+      "simplified": "红鲣",
+      "pinyin": "hong2 jian1",
+      "outcome": "correction_proposed",
+      "reason": "«Барабуля» коректно передає red mullet. Cambridge прямо подає 紅鰹 як red mullet: https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94-%E8%8B%B1%E8%AA%9E/%E9%AF%94%E9%AD%9A. Сумнів, виведений лише з окремого 鰹, слід прибрати, зберігши видовий застережний зміст.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Конкретний вид барабулі без латинської назви не встановлено."
+      ],
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Відповідність китайського 紅鰹 англійському «red mullet» сумнівна: 鰹 зазвичай стосується тунцевих; потрібна перевірка виду.",
+          "after": "Відповідник 紅鰹 = red mullet засвідчений у словнику Cambridge. «Барабуля» прийнятно передає цей глос; конкретний вид без латинської назви не встановлено.",
+          "reason": "Сумнів лише через окремий компонент 鰹 помилково ставить під питання засвідчену складену назву. Залишено обґрунтоване видове застереження. https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94-%E8%8B%B1%E8%AA%9E/%E9%AF%94%E9%AD%9A",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "1309cdcfc7ef66d8",
+      "source_line": 91453,
+      "traditional": "臆想症",
+      "simplified": "臆想症",
+      "pinyin": "yi4 xiang3 zheng4",
+      "outcome": "deferred",
+      "reason": "«Міфоманія» точно перекладає mythomania, але для неформального 臆想症 точне клінічне зіставлення не доведено. Примітка обґрунтовано не видає це за однозначну діагностичну назву.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Немає підстав заміняти на інший психіатричний діагноз або стирати клінічне застереження."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "83396952655245c3",
+      "source_line": 93666,
+      "traditional": "苦因",
+      "simplified": "苦因",
+      "pinyin": "ku3 yin1",
+      "outcome": "correction_proposed",
+      "reason": "苦因 означає причину страждання; непозначене «страждання» в сегменті стирає значення 因. При цьому affliction може називати й джерело лиха, тому примітку слід зробити точнішою, а не оголошувати англійський глос безумовною помилкою. Класичне вживання: https://cbetaonline.dila.edu.tw/zh/X33n0625.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "страждання; джерело страждань",
+          "after": "причина страждань; джерело страждань",
+          "reason": "因 виражає причину; «страждання» без цього компонента є надто широким і змішує причину з її наслідком. Класичне вживання: https://cbetaonline.dila.edu.tw/zh/X33n0625.",
+          "confidence": "high",
+          "issue_type": "semantic_scope"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Слово буквально позначає причину страждання, тоді як джерело подає загальне «affliction».",
+          "after": "苦因 позначає причину або джерело страждань. Англійське affliction може називати як страждання, так і те, що його спричиняє; у цьому китайському слові потрібно зберегти причинний компонент 因.",
+          "reason": "Уточнено, що проблема полягає у виборі українського сенсу, а не в автоматичному відкиданні багатозначного англійського affliction.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "7a48e88794e95967",
+      "source_line": 96054,
+      "traditional": "薑汁",
+      "simplified": "姜汁",
+      "pinyin": "jiang1 zhi1",
+      "outcome": "correction_proposed",
+      "reason": "«Імбирний ель» точно перекладає ginger ale. Хоча звичайне 薑汁/姜汁 означає імбирний сік, Cambridge використовує скорочене 姜汁 саме для ginger ale в поясненні shandy: https://dictionary.cambridge.org/dictionary/english-chinese-simplified/shandy. Тому автоматично відкидати наданий сенс не слід; потрібне звуження примітки.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Не встановлено, чи джерело подає самостійне значення, контекстуальне скорочення назви напою або надто короткий глос; валідний англійський сенс не вилучено."
+      ],
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "薑汁 зазвичай означає імбирний сік, а не імбирний ель; джерельний відповідник потребує перевірки.",
+          "after": "Звичайне значення 薑汁/姜汁 — імбирний сік. У контексті назв напоїв 姜汁 також може бути скороченим позначенням імбирного елю; такий переклад засвідчений у словнику Cambridge. Для визначення обсягу цього короткого запису потрібен контекст.",
+          "reason": "Збережено звичайне значення соку та невизначеність контексту, але прибрано безумовне протиставлення джерельному ginger ale, для якого є незалежне лексикографічне свідчення. https://dictionary.cambridge.org/dictionary/english-chinese-simplified/shandy",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "a676900aa9b618b4",
+      "source_line": 104894,
+      "traditional": "趡",
+      "simplified": "趡",
+      "pinyin": "cui3",
+      "outcome": "acceptable",
+      "reason": "«Назва місцевості» точно відтворює place name для 趡 [cui3]. Примітка не додає невідомої географічної ідентифікації.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Конкретна історична місцевість не встановлена."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "ca0354d8f1d7950e",
+      "source_line": 112148,
+      "traditional": "鋼箭",
+      "simplified": "钢箭",
+      "pinyin": "gang1 jian4",
+      "outcome": "correction_proposed",
+      "reason": "Сталь у 鋼箭/钢箭 відтворено правильно, але «наконечник» є доданим обмеженням, якого не дають ні китайська форма, ні iron arrow. Потрібен нейтральний матеріальний прикметник. Примітка про steel/iron залишається доречною.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Заголовок сам не уточнює, яка частина стріли виготовлена зі сталі."
+      ],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "стріла зі сталевим наконечником",
+          "after": "сталева стріла",
+          "reason": "Прибрано непідтверджену конкретизацію «зі сталевим наконечником»; 鋼/钢 передає матеріал, а 箭 — стрілу, без указання окремої частини.",
+          "confidence": "high",
+          "issue_type": "unsupported_specificity"
+        }
+      ],
+      "note_corrections": []
+    },
+    {
+      "id": "85a8ee0255f89b77",
+      "source_line": 113996,
+      "traditional": "閥芯",
+      "simplified": "阀芯",
+      "pinyin": "fa2 xin1",
+      "outcome": "correction_proposed",
+      "reason": "閥芯/阀芯 означає внутрішній клапанний елемент, а не шток; первинна документація виробника зіставляє 阀芯 з valve core/cartridge: https://hent.com.cn/index.html. Примітка правильна, але сегмент повторює помилковий stem.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Конкретна конструкція може вимагати «осердя», «картридж» або «запірний елемент»; загальний опис не визначає модель клапана."
+      ],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "шток клапана",
+          "after": "осердя клапана; внутрішній запірний елемент клапана",
+          "reason": "閥芯/阀芯 відповідає valve core, а valve stem називає шток. Загальний опис зберігає можливі конструктивні варіанти. https://hent.com.cn/index.html",
+          "confidence": "high",
+          "issue_type": "technical_term_error"
+        }
+      ],
+      "note_corrections": []
+    },
+    {
+      "id": "a0dd974fdec1c4ed",
+      "source_line": 120267,
+      "traditional": "餤",
+      "simplified": "餤",
+      "pinyin": "tan2",
+      "outcome": "correction_proposed",
+      "reason": "MOE засвідчує для 餤 [tan2] 進、進入: https://dict.variants.moe.edu.tw/dictView.jsp?ID=75469&la=0. Джерельне advance має реальну основу; українське «просувати» помилково нав’язує перехідність, а примітку про неперевірене значення можна уточнити.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "просувати",
+          "after": "просуватися",
+          "reason": "Історичне 進、進入 для 餤 [tan2] передає рух або розвиток самого суб’єкта; форма «просувати» без об’єкта нав’язує іншу дієслівну валентність. https://dict.variants.moe.edu.tw/dictView.jsp?ID=75469&la=0",
+          "confidence": "high",
+          "issue_type": "verb_valency"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Рідкісний ієрогліф і значення «просувати» потребують перевірки.",
+          "after": "Історичне значення 餤 [tan2] «просуватися, входити» засвідчене у словнику MOE. Англійське advance має відповідну основу; для наданого глоса українське дієслово слід передати неперехідною формою.",
+          "reason": "Рідкість не є підставою залишати вже підтверджене значення під загальним сумнівом; збережено точний китайський знак і задане читання.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "e46c3a2a7a42d731",
+      "source_line": 124575,
+      "traditional": "點滴試驗",
+      "simplified": "点滴试验",
+      "pinyin": "dian3 di1 shi4 yan4",
+      "outcome": "correction_proposed",
+      "reason": "點滴試驗/点滴试验 є крапельною пробою (spot test), а не вибірковою перевіркою. Пряме підтвердження в матеріалі університетської хімічної лабораторії: https://gclab.thu.edu.tw/gen-chem/pdf-gc/Exp19.pdf. Потрібно виправити сегмент і розв’язати відповідну частину примітки.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Конкретний аналітичний або біологічний різновид крапельної проби залежить від контексту."
+      ],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "вибіркова перевірка",
+          "after": "крапельна проба",
+          "reason": "Університетська хімічна лабораторія прямо називає 點滴試驗 spot tests; «вибіркова перевірка» є іншим значенням слова spot. https://gclab.thu.edu.tw/gen-chem/pdf-gc/Exp19.pdf",
+          "confidence": "high",
+          "issue_type": "source_error_propagation"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерельне spot check перекладено як вибіркова перевірка; можливе спеціальне значення крапельної проби потребує перевірки.",
+          "after": "點滴試驗/点滴试验 означає крапельну пробу (spot test), зокрема в якісному аналізі. Джерельне spot check не передає це спеціальне значення; конкретний різновид проби залежить від контексту.",
+          "reason": "Можливість крапельної проби перевірено первинним лабораторним матеріалом; усунено лише розв’язану частину сумніву.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "276d2961afbb785f",
+      "source_line": 124709,
+      "traditional": "黿",
+      "simplified": "鼋",
+      "pinyin": "yuan2",
+      "outcome": "correction_proposed",
+      "reason": "黿/鼋 стосується великих м’якотілих черепах Pelochelys, а не морських черепах; офіційний перелік відносить 鼋 до Pelochelys cantorii у родині Trionychidae: https://lhsr.sh.gov.cn/gjzdbhysdwml/. Можна безпечно виправити рівень групи.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Через історичні відмінності видових назв у джерелах пропонується родовий опис Pelochelys, без вигадування офіційної української видової назви."
+      ],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "морська черепаха",
+          "after": "велика м’якотіла черепаха (рід Pelochelys)",
+          "reason": "Офіційне зіставлення 鼋 з Pelochelys підтверджує належність до м’якотілих, а не морських черепах; родовий рівень уникає непідтвердженої видової локалізації. https://lhsr.sh.gov.cn/gjzdbhysdwml/",
+          "confidence": "high",
+          "issue_type": "taxonomic_mistranslation"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело дає «морська черепаха», тоді як споріднене слово 黿魚 стосується м’якотілої черепахи; таксон потребує перевірки.",
+          "after": "黿/鼋 позначає велику м’якотілу черепаху роду Pelochelys; у сучасному китайському переліку 鼋 відповідає Pelochelys cantorii. Англійське sea turtle не відповідає цій групі. Історичне видове ототожнення та усталена українська видова назва потребують окремого уточнення.",
+          "reason": "Підтверджено помилку групи, але збережено видову й номенклатурну невизначеність; не спираємося лише на споріднене слово 黿魚.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "10185f9c43e5837a",
+      "source_line": 124712,
+      "traditional": "鼂",
+      "simplified": "鼂",
+      "pinyin": "chao2",
+      "outcome": "deferred",
+      "reason": "«Морська черепаха» точно передає sea turtle, але незалежно не підтверджено, що саме це значення й читання 鼂 [chao2] мав на увазі запис. Наявна примітка відкрито каже, що спирається на джерело.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Потрібна перевірка історичної зоологічної назви й читання; сучасний вид або інший ієрогліф не вгадано."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "8d6e62ea6943a0a8",
+      "source_line": 20165,
+      "traditional": "同素異形體",
+      "simplified": "同素异形体",
+      "pinyin": "tong2 su4 yi4 xing2 ti3",
+      "outcome": "acceptable",
+      "reason": "同素異形體/同素异形体 називає алотропну форму, тоді як allotropy є явищем. Український сегмент і належно прикріплена примітка правильно розмежовують ці поняття.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "df387d7d5f521cc2",
+      "source_line": 20741,
+      "traditional": "吸附劑",
+      "simplified": "吸附剂",
+      "pinyin": "xi1 fu4 ji4",
+      "outcome": "correction_proposed",
+      "reason": "«Адсорбент» правильний для 吸附劑/吸附剂; національний освітній термінологічний словник прямо дає Adsorbent: https://pedia.cloud.edu.tw/Entry/Detail/?search=%E5%90%B8%E9%99%84%E5%8A%91&title=%E5%90%B8%E9%99%84%E5%8A%91. Примітка має чіткіше відрізняти адсорбцію від абсорбції, а не представляти різницю лише як ступінь точності.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Китайське слово позначає адсорбент; англійське absorbent у джерелі менш точне.",
+          "after": "吸附劑/吸附剂 означає адсорбент, тобто речовину, на поверхні якої відбувається адсорбція. Англійське absorbent зазвичай передає абсорбент; це інший механізм поглинання, тому в цьому записі слід розрізняти терміни.",
+          "reason": "Усунено хибне враження, що адсорбент і абсорбент різняться лише ступенем точності; спеціальний відповідник Adsorbent підтверджено офіційним термінологічним словником.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "5709cdf7758a06f2",
+      "source_line": 21268,
+      "traditional": "和樂蟹",
+      "simplified": "和乐蟹",
+      "pinyin": "he2 le4 xie4",
+      "outcome": "acceptable",
+      "reason": "«Хелеський краб; краб із Хеле» передає топонімний Hele crab, не вигадуючи таксона. Примітка правильно залишає відкритим кулінарний або місцевий обсяг назви 和樂蟹/和乐蟹.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Усталений таксон, назва страви й офіційне українське прикметникове написання окремо не підтверджені."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "4123d30ca6354500",
+      "source_line": 37154,
+      "traditional": "布灑器",
+      "simplified": "布洒器",
+      "pinyin": "bu4 sa3 qi4",
+      "outcome": "acceptable",
+      "reason": "«Розпилювач; розсіювач» є допустимими відповідниками disperser і пристроєвого 布灑器/布洒器. Примітка правильно зберігає невизначеність конструкції.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Конкретний тип пристрою та матеріал, який він розподіляє, не визначені."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "8ca6eee5e1ee0a65",
+      "source_line": 40021,
+      "traditional": "後備軍",
+      "simplified": "后备军",
+      "pinyin": "hou4 bei4 jun1",
+      "outcome": "acceptable",
+      "reason": "«Резервне військо» правильно передає 後備軍/后备军. Примітка точно відрізняє резерв від ар’єргарду, rearguard.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "2ef2814a5ea61571",
+      "source_line": 42454,
+      "traditional": "惡唑啉",
+      "simplified": "恶唑啉",
+      "pinyin": "e4 zuo4 lin2",
+      "outcome": "acceptable",
+      "reason": "«Оксазолін» відповідає 惡唑啉/恶唑啉; первинна хімічна стаття прямо зіставляє 恶唑啉 з oxazoline: https://fhclxb.buaa.edu.cn/article/doi/10.13801/j.cnki.fhclxb.20190619.001. Примітка обґрунтовано відрізняє його від oxacillin.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Джерельне хімічне написання й заданий піньїнь залишено дослівно; конкретний ізомер не додано."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "3bb02c2a0cea5662",
+      "source_line": 42455,
+      "traditional": "惡唑啉酮",
+      "simplified": "恶唑啉酮",
+      "pinyin": "e4 zuo4 lin2 tong2",
+      "outcome": "deferred",
+      "reason": "«Оксазолінон» є морфологічно можливим прочитанням 惡唑啉酮/恶唑啉酮, але точну хімічну відповідність цього написання не підтверджено. Примітка правильно залишає перевірку відкритою.",
+      "confidence": "medium",
+      "remaining_uncertainty": [
+        "Потрібне первинне номенклатурне розрізнення oxazolinone, oxazolidinone та помилкового oxacillin; структуру або інший препарат не вгадано."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "9f5e38d80a956a32",
+      "source_line": 49891,
+      "traditional": "攃",
+      "simplified": "攃",
+      "pinyin": "sa4",
+      "outcome": "deferred",
+      "reason": "«Попередній» передає preceding, але для 攃 це значення не підтверджене. MOE подає тертя, звук і розсіювання та читання cà: https://dict.variants.moe.edu.tw/dictView.jsp?ID=86740. Наявна примітка обґрунтовано утримує сумнів.",
+      "confidence": "low",
+      "remaining_uncertainty": [
+        "Задане sa4 не замінено на інше читання; потрібна перевірка конкретної джерельної пари форми, тону й глоса."
+      ],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "02ac6eeeed4b78eb",
+      "source_line": 55583,
+      "traditional": "木蝨",
+      "simplified": "木虱",
+      "pinyin": "mu4 shi1",
+      "outcome": "correction_proposed",
+      "reason": "木蝨/木虱 у зоологічному значенні є листоблішкою, а не мокрицею; це безпосередньо підтверджує аграрний довідник: https://kmweb.moa.gov.tw/theme_data.php?id=125&theme=pest_map. Наявна примітка правильно також зберігає регіональне вживання щодо клопа. Регіональне значення «постільний клоп» також підтверджує уряд Гонконгу: https://www.chp.gov.hk/tc/healthtopics/content/460/107441.html.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Регіональне значення «клоп» лишається контекстуальним; не встановлено конкретний вид листоблішки."
+      ],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "мокриця",
+          "after": "листоблішка; (регіонально) постільний клоп",
+          "reason": "Мокриця є перекладом помилкового woodlouse; аграрний первинний довідник прямо дає 木蝨 = psyllid: https://kmweb.moa.gov.tw/theme_data.php?id=125&theme=pest_map. Регіональну альтернативу з примітки збережено й уточнено за первинним урядовим джерелом Гонконгу: https://www.chp.gov.hk/tc/healthtopics/content/460/107441.html.",
+          "confidence": "high",
+          "issue_type": "taxonomic_mistranslation"
+        }
+      ],
+      "note_corrections": []
+    },
+    {
+      "id": "303d87e0df428005",
+      "source_line": 57591,
+      "traditional": "格林威治村",
+      "simplified": "格林威治村",
+      "pinyin": "Ge2 lin2 wei1 zhi4 cun1",
+      "outcome": "acceptable",
+      "reason": "«Гринвіч-Вілледж» правильно враховує повний китайський топонім 格林威治村, включно з 村. Примітка коректно відмічає, що коротке Greenwich у джерелі втрачає частину назви.",
+      "confidence": "high",
+      "remaining_uncertainty": [],
+      "segment_corrections": [],
+      "note_corrections": []
+    },
+    {
+      "id": "893bf5d2f3dfd28c",
+      "source_line": 61372,
+      "traditional": "殿軍",
+      "simplified": "殿军",
+      "pinyin": "dian4 jun1",
+      "outcome": "correction_proposed",
+      "reason": "殿軍/殿军 у сучасних змаганнях означає четверте місце, а не невизначене призове місце після переможця. MOE прямо підтверджує четверте місце й історичний військовий ар’єргард: https://dict.revised.moe.edu.tw/dictView.jsp?ID=46770&q=1&word=41. Примітку слід зробити точнішою.",
+      "confidence": "high",
+      "remaining_uncertainty": [
+        "Ширше історичне вживання для останньої позиції залежить від контексту; воно не дає підстав перекладати словом «віцечемпіон»."
+      ],
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "учасник, що посів призове місце після переможця",
+          "after": "учасник, що посів четверте місце",
+          "reason": "Сучасний спортивний сенс 殿軍/殿军 — конкретно четверте місце; нечітке «призове місце після переможця» помилково дозволяє друге або третє. https://dict.concised.moe.edu.tw/dictView.jsp?ID=9042&la=0&powerMode=0",
+          "confidence": "high",
+          "issue_type": "ordinal_rank_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Англійське runner-up неточне: 殿軍 у сучасних змаганнях зазвичай означає четверте місце, а в давнішому вжитку — останнє.",
+          "after": "殿軍/殿军 у сучасних змаганнях зазвичай означає учасника на четвертому місці; історично також позначає військовий загін, що йде останнім, тобто ар’єргард. Джерельне runner-up не визначає належного порядкового місця.",
+          "reason": "Уточнено підтримане MOE історичне військове значення замість нечіткого «останнє»; сучасне четверте місце збережено як основа перекладу.",
+          "confidence": "high"
+        }
+      ]
+    }
+  ]
+}

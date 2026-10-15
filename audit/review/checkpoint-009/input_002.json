@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "01352763e1137c7c",
+    "traditional": "四輪馬車",
+    "simplified": "四轮马车",
+    "pinyin": "si4 lun2 ma3 che1",
+    "english_segments": [
+      "chariot"
+    ],
+    "raw_source": "四輪馬車 四轮马车 [si4 lun2 ma3 che1] /chariot/",
+    "source_line": 23862,
+    "ukrainian_segments": [
+      "чотириколісна кінна карета"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає chariot, але 四輪馬車 конкретно позначає чотириколісний кінний екіпаж."
+    ]
+  },
+  {
+    "id": "40c3190ecacf5564",
+    "traditional": "巖床",
+    "simplified": "岩床",
+    "pinyin": "yan2 chuang2",
+    "english_segments": [
+      "bedrock"
+    ],
+    "raw_source": "巖床 岩床 [yan2 chuang2] /bedrock/",
+    "source_line": 36309,
+    "ukrainian_segments": [
+      "корінна порода"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає «bedrock», тоді як 岩床 може означати сіл, пластову інтрузію; геологічне значення потребує перевірки."
+    ]
+  },
+  {
+    "id": "7a0fc6e51996838a",
+    "traditional": "悜",
+    "simplified": "悜",
+    "pinyin": "cheng3",
+    "english_segments": [
+      "obscure"
+    ],
+    "raw_source": "悜 悜 [cheng3] /obscure/",
+    "source_line": 42116,
+    "ukrainian_segments": [
+      "неясний"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісне 悜[cheng3]: джерельне «obscure» не уточнює, чи йдеться про неясність значення, чи про стан свідомості."
+    ]
+  },
+  {
+    "id": "4f0554d99b6cce48",
+    "traditional": "榛色",
+    "simplified": "榛色",
+    "pinyin": "zhen1 se4",
+    "english_segments": [
+      "filbert"
+    ],
+    "raw_source": "榛色 榛色 [zhen1 se4] /filbert/",
+    "source_line": 58764,
+    "ukrainian_segments": [
+      "горіховий колір"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське filbert у джерелі називає горіх; китайське 榛色 позначає його колір."
+    ]
+  },
+  {
+    "id": "32f59d6def6f9232",
+    "traditional": "牛魔王",
+    "simplified": "牛魔王",
+    "pinyin": "Niu2 mo2 wang2",
+    "english_segments": [
+      "Gyuumao"
+    ],
+    "raw_source": "牛魔王 牛魔王 [Niu2 mo2 wang2] /Gyuumao/",
+    "source_line": 71728,
+    "ukrainian_segments": [
+      "Ню Мован, Цар биків-демонів (японською Ґюмао)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Лише японська форма Gyuumao у джерелі не дає певності, чи йдеться про класичного міфологічного персонажа, чи конкретну японську адаптацію."
+    ]
+  },
+  {
+    "id": "bf3418bcfae96161",
+    "traditional": "生物質能",
+    "simplified": "生物质能",
+    "pinyin": "sheng1 wu4 zhi4 neng2",
+    "english_segments": [
+      "biomass"
+    ],
+    "raw_source": "生物質能 生物质能 [sheng1 wu4 zhi4 neng2] /biomass/",
+    "source_line": 74545,
+    "ukrainian_segments": [
+      "енергія біомаси"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «biomass» опускає компонент «енергія», наявний у китайському слові."
+    ]
+  },
+  {
+    "id": "5307542a424eb682",
+    "traditional": "盆浴",
+    "simplified": "盆浴",
+    "pinyin": "pen2 yu4",
+    "english_segments": [
+      "bathtub"
+    ],
+    "raw_source": "盆浴 盆浴 [pen2 yu4] /bathtub/",
+    "source_line": 77402,
+    "ukrainian_segments": [
+      "купання у ванні"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «bathtub» позначає посудину; китайський термін означає купання у ванні."
+    ]
+  },
+  {
+    "id": "5b8174aeff0db3a0",
+    "traditional": "石南屬",
+    "simplified": "石南属",
+    "pinyin": "shi2 nan2 shu3",
+    "english_segments": [
+      "heather"
+    ],
+    "raw_source": "石南屬 石南属 [shi2 nan2 shu3] /heather/",
+    "source_line": 79222,
+    "ukrainian_segments": [
+      "верес; рід вересових рослин"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайська назва роду й англійське загальне «heather» не дають однозначно визначити ботанічний таксон."
+    ]
+  },
+  {
+    "id": "be8906acb795f5fa",
+    "traditional": "碃",
+    "simplified": "碃",
+    "pinyin": "qing4",
+    "english_segments": [
+      "(stone)"
+    ],
+    "raw_source": "碃 碃 [qing4] /(stone)/",
+    "source_line": 79830,
+    "ukrainian_segments": [
+      "камінь"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює різновиду каменю."
+    ]
+  },
+  {
+    "id": "7e156b6d0ac551d2",
+    "traditional": "神祖",
+    "simplified": "神祖",
+    "pinyin": "shen2 zu3",
+    "english_segments": [
+      "Godhead"
+    ],
+    "raw_source": "神祖 神祖 [shen2 zu3] /Godhead/",
+    "source_line": 80653,
+    "ukrainian_segments": [
+      "божественна сутність"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайський термін може означати божественного предка; джерельне «Godhead» потребує контекстуальної звірки."
+    ]
+  },
+  {
+    "id": "74c0156cdc94e418",
+    "traditional": "秭",
+    "simplified": "秭",
+    "pinyin": "zi3",
+    "english_segments": [
+      "billion"
+    ],
+    "raw_source": "秭 秭 [zi3] /billion/",
+    "source_line": 81557,
+    "ukrainian_segments": [
+      "мільярд"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Значення цього старовинного числівника залежить від системи числення; тут передано значення джерела."
+    ]
+  },
+  {
+    "id": "faeab2d490006ebb",
+    "traditional": "程序性",
+    "simplified": "程序性",
+    "pinyin": "cheng2 xu4 xing4",
+    "english_segments": [
+      "program"
+    ],
+    "raw_source": "程序性 程序性 [cheng2 xu4 xing4] /program/",
+    "source_line": 81668,
+    "ukrainian_segments": [
+      "програмний; процедурний характер"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «program» неповне; китайське слово позначає процедурність або відповідну властивість."
+    ]
+  },
+  {
+    "id": "eb2d92e81d0d59a0",
+    "traditional": "稞",
+    "simplified": "稞",
+    "pinyin": "ke1",
+    "english_segments": [
+      "(wheat)"
+    ],
+    "raw_source": "稞 稞 [ke1] /(wheat)/",
+    "source_line": 81733,
+    "ukrainian_segments": [
+      "різновид пшениці"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає лише загальне «wheat»; точний різновид не встановлено."
+    ]
+  },
+  {
+    "id": "e7e4a4cc44be237c",
+    "traditional": "腈",
+    "simplified": "腈",
+    "pinyin": "jing1",
+    "english_segments": [
+      "acrylic"
+    ],
+    "raw_source": "腈 腈 [jing1] /acrylic/",
+    "source_line": 90851,
+    "ukrainian_segments": [
+      "нітрил; у назвах волокон — акрил"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 1,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Основне хімічне значення 腈 — «нітрил»; джерело подає acrylic, можливо як скорочення назви акрилового волокна."
+    ]
+  },
+  {
+    "id": "eac8c33d32948644",
+    "traditional": "荑",
+    "simplified": "荑",
+    "pinyin": "ti2",
+    "english_segments": [
+      "(grass)"
+    ],
+    "raw_source": "荑 荑 [ti2] /(grass)/",
+    "source_line": 94203,
+    "ukrainian_segments": [
+      "(трава)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Вид трави в джерелі не визначено."
+    ]
+  },
+  {
+    "id": "e5955e840e313a42",
+    "traditional": "菧",
+    "simplified": "菧",
+    "pinyin": "di3",
+    "english_segments": [
+      "stibene"
+    ],
+    "raw_source": "菧 菧 [di3] /stibene/",
+    "source_line": 94574,
+    "ukrainian_segments": [
+      "стибен"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське stibene неясне й може містити помилку; відповідник «стибен» попередній."
+    ]
+  },
+  {
+    "id": "7217cba1674847a4",
+    "traditional": "鐵人",
+    "simplified": "铁人",
+    "pinyin": "Tie3 ren2",
+    "english_segments": [
+      "Ironman"
+    ],
+    "raw_source": "鐵人 铁人 [Tie3 ren2] /Ironman/",
+    "source_line": 112781,
+    "ukrainian_segments": [
+      "Ironman (змагання з тріатлону)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Без контексту незрозуміло, чи йдеться про назву змагань Ironman, чи іншу власну назву «Залізна людина»."
+    ]
+  },
+  {
+    "id": "68a843e2faf2bd78",
+    "traditional": "限制級",
+    "simplified": "限制级",
+    "pinyin": "xian4 zhi4 ji2",
+    "english_segments": [
+      "R-rated"
+    ],
+    "raw_source": "限制級 限制级 [xian4 zhi4 ji2] /R-rated/",
+    "source_line": 114958,
+    "ukrainian_segments": [
+      "з віковим обмеженням R"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Позначення R залежить від системи вікової класифікації; китайський термін загальніше означає категорію з обмеженим доступом."
+    ]
+  },
+  {
+    "id": "7f93702fdc8445e2",
+    "traditional": "音素",
+    "simplified": "音素",
+    "pinyin": "yin1 su4",
+    "english_segments": [
+      "phoneme"
+    ],
+    "raw_source": "音素 音素 [yin1 su4] /phoneme/",
+    "source_line": 118498,
+    "ukrainian_segments": [
+      "звук мовлення"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське phoneme зазвичай відповідає 音位; 音素 точніше означає окремий звук мовлення."
+    ]
+  },
+  {
+    "id": "ed9b21aa873fdabc",
+    "traditional": "頁蒿",
+    "simplified": "页蒿",
+    "pinyin": "ye4 hao1",
+    "english_segments": [
+      "caraway"
+    ],
+    "raw_source": "頁蒿 页蒿 [ye4 hao1] /caraway/",
+    "source_line": 118589,
+    "ukrainian_segments": [
+      "кмин"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Ботанічну відповідність рідкісної назви caraway не перевірено."
+    ]
+  },
+  {
+    "id": "26fd4e5eba8574ca",
+    "traditional": "類人猿",
+    "simplified": "类人猿",
+    "pinyin": "lei4 ren2 yuan2",
+    "english_segments": [
+      "hominid"
+    ],
+    "raw_source": "類人猿 类人猿 [lei4 ren2 yuan2] /hominid/",
+    "source_line": 119332,
+    "ukrainian_segments": [
+      "людиноподібна мавпа"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Китайське слово зазвичай означає людиноподібну мавпу; англійське hominid має інший таксономічний обсяг."
+    ]
+  },
+  {
+    "id": "6bf03625023136a3",
+    "traditional": "馵",
+    "simplified": "馵",
+    "pinyin": "zhu4",
+    "english_segments": [
+      "(horse)"
+    ],
+    "raw_source": "馵 馵 [zhu4] /(horse)/",
+    "source_line": 121002,
+    "ukrainian_segments": [
+      "(про коня)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає лише загальну позначку «horse», без точного значення."
+    ]
+  },
+  {
+    "id": "4c0bd4866ebaf6db",
+    "traditional": "駋",
+    "simplified": "駋",
+    "pinyin": "zhao1",
+    "english_segments": [
+      "(horse)"
+    ],
+    "raw_source": "駋 駋 [zhao1] /(horse)/",
+    "source_line": 121028,
+    "ukrainian_segments": [
+      "(про коня)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає лише загальну позначку «horse», без точного значення."
+    ]
+  },
+  {
+    "id": "d8854ff87bffae4b",
+    "traditional": "駓",
+    "simplified": "𬳵",
+    "pinyin": "pi1",
+    "english_segments": [
+      "(horse)"
+    ],
+    "raw_source": "駓 𬳵 [pi1] /(horse)/",
+    "source_line": 121055,
+    "ukrainian_segments": [
+      "(про коня)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає лише загальну позначку «horse», без точного значення."
+    ]
+  },
+  {
+    "id": "0840bec60d142968",
+    "traditional": "駬",
+    "simplified": "駬",
+    "pinyin": "er3",
+    "english_segments": [
+      "(horse)"
+    ],
+    "raw_source": "駬 駬 [er3] /(horse)/",
+    "source_line": 121120,
+    "ukrainian_segments": [
+      "(про коня)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає лише загальну позначку «horse», без точного значення."
+    ]
+  },
+  {
+    "id": "0b9e046b62190f04",
+    "traditional": "騄",
+    "simplified": "𫘧",
+    "pinyin": "lu4",
+    "english_segments": [
+      "(horse)"
+    ],
+    "raw_source": "騄 𫘧 [lu4] /(horse)/",
+    "source_line": 121151,
+    "ukrainian_segments": [
+      "(про коня)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає лише загальну позначку «horse», без точного значення."
+    ]
+  },
+  {
+    "id": "d02b2100c0898a97",
+    "traditional": "騢",
+    "simplified": "騢",
+    "pinyin": "xia2",
+    "english_segments": [
+      "(horse)"
+    ],
+    "raw_source": "騢 騢 [xia2] /(horse)/",
+    "source_line": 121216,
+    "ukrainian_segments": [
+      "(про коня)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає лише загальну позначку «horse», без точного значення."
+    ]
+  },
+  {
+    "id": "759e6beace2ebd98",
+    "traditional": "驒",
+    "simplified": "驒",
+    "pinyin": "tuo2",
+    "english_segments": [
+      "(horse)"
+    ],
+    "raw_source": "驒 驒 [tuo2] /(horse)/",
+    "source_line": 121316,
+    "ukrainian_segments": [
+      "(про коня)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає лише загальну позначку «horse», без точного значення."
+    ]
+  },
+  {
+    "id": "409ef3e05f1d6a5e",
+    "traditional": "驙",
+    "simplified": "驙",
+    "pinyin": "zhan1",
+    "english_segments": [
+      "(horse)"
+    ],
+    "raw_source": "驙 驙 [zhan1] /(horse)/",
+    "source_line": 121362,
+    "ukrainian_segments": [
+      "(про коня)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело дає лише загальну позначку «horse», без точного значення."
+    ]
+  },
+  {
+    "id": "707bc11b10c00afd",
+    "traditional": "體勢",
+    "simplified": "体势",
+    "pinyin": "ti3 shi4",
+    "english_segments": [
+      "feature"
+    ],
+    "raw_source": "體勢 体势 [ti3 shi4] /feature/",
+    "source_line": 121629,
+    "ukrainian_segments": [
+      "особливість форми"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Однослівне англійське «feature» не уточнює значення рідкісного 體勢; переклад попередній."
+    ]
+  },
+  {
+    "id": "d8e51341954eb184",
+    "traditional": "鰋",
+    "simplified": "鰋",
+    "pinyin": "yan3",
+    "english_segments": [
+      "mudfish"
+    ],
+    "raw_source": "鰋 鰋 [yan3] /mudfish/",
+    "source_line": 122840,
+    "ukrainian_segments": [
+      "мулова риба"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Назва mudfish неоднозначна; точний вид не встановлено."
+    ]
+  },
+  {
+    "id": "1ff0e5bb622f725c",
+    "traditional": "凇",
+    "simplified": "凇",
+    "pinyin": "song1",
+    "english_segments": [
+      "icicle"
+    ],
+    "raw_source": "凇 凇 [song1] /icicle/",
+    "source_line": 12859,
+    "ukrainian_segments": [
+      "крижаний наріст; бурулька"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське icicle звужує китайське слово, яке звичайно позначає іній або паморозь; передано крижаний наріст із збереженням значення джерела."
+    ]
+  },
+  {
+    "id": "5498567eca3f1e5d",
+    "traditional": "定標器",
+    "simplified": "定标器",
+    "pinyin": "ding4 biao1 qi4",
+    "english_segments": [
+      "scaler"
+    ],
+    "raw_source": "定標器 定标器 [ding4 biao1 qi4] /scaler/",
+    "source_line": 32488,
+    "ukrainian_segments": [
+      "масштабувальний пристрій; лічильник із перерахунком"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Англійське «scaler» без галузевого контексту може означати різні прилади; точний технічний відповідник потребує уточнення."
+    ]
+  },
+  {
+    "id": "fa4ab3ad3508c0cc",
+    "traditional": "對工",
+    "simplified": "对工",
+    "pinyin": "dui4 gong1",
+    "english_segments": [
+      "proper"
+    ],
+    "raw_source": "對工 对工 [dui4 gong1] /proper/",
+    "source_line": 34206,
+    "ukrainian_segments": [
+      "належний; підхожий"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідковживане слово; джерело дає лише «proper», тому точний контекст значення неясний."
+    ]
+  },
+  {
+    "id": "aeff82782e948679",
+    "traditional": "對工兒",
+    "simplified": "对工儿",
+    "pinyin": "dui4 gong1 r5",
+    "english_segments": [
+      "proper"
+    ],
+    "raw_source": "對工兒 对工儿 [dui4 gong1 r5] /proper/",
+    "source_line": 34207,
+    "ukrainian_segments": [
+      "належний; підхожий"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідковживана форма з еризацією; джерело дає лише «proper», тому точний контекст значення неясний."
+    ]
+  },
+  {
+    "id": "f953d6e228baeb44",
+    "traditional": "岩土體",
+    "simplified": "岩土体",
+    "pinyin": "yan2 tu3 ti3",
+    "english_segments": [
+      "gneiss"
+    ],
+    "raw_source": "岩土體 岩土体 [yan2 tu3 ti3] /gneiss/",
+    "source_line": 35878,
+    "ukrainian_segments": [
+      "скельно-ґрунтовий масив"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело подає «gneiss» (гнейс), що не відповідає 岩土體; перекладено китайський термін, розбіжність потребує перевірки."
+    ]
+  },
+  {
+    "id": "1c8da628888bf824",
+    "traditional": "恬噪",
+    "simplified": "恬噪",
+    "pinyin": "tian2 zao4",
+    "english_segments": [
+      "to caw"
+    ],
+    "raw_source": "恬噪 恬噪 [tian2 zao4] /to caw/",
+    "source_line": 41984,
+    "ukrainian_segments": [
+      "каркати"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Рідкісний запис 恬噪 із значенням «каркати» потребує перевірки; можливе змішання з 聒噪."
+    ]
+  },
+  {
+    "id": "10edfff5fd61722d",
+    "traditional": "杝",
+    "simplified": "杝",
+    "pinyin": "yi2",
+    "english_segments": [
+      "(tree)"
+    ],
+    "raw_source": "杝 杝 [yi2] /(tree)/",
+    "source_line": 56201,
+    "ukrainian_segments": [
+      "(назва дерева)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює вид дерева."
+    ]
+  },
+  {
+    "id": "676b2b94e1e706c6",
+    "traditional": "杶",
+    "simplified": "杶",
+    "pinyin": "chun1",
+    "english_segments": [
+      "(tree)"
+    ],
+    "raw_source": "杶 杶 [chun1] /(tree)/",
+    "source_line": 56526,
+    "ukrainian_segments": [
+      "(назва дерева)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює вид; 杶 зазвичай пов'язане з китайською тоною."
+    ]
+  },
+  {
+    "id": "ccd8820ca6ba93a6",
+    "traditional": "枌",
+    "simplified": "枌",
+    "pinyin": "fen2",
+    "english_segments": [
+      "(tree)"
+    ],
+    "raw_source": "枌 枌 [fen2] /(tree)/",
+    "source_line": 56677,
+    "ukrainian_segments": [
+      "(назва дерева)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює вид; 枌 зазвичай позначає різновид в'яза."
+    ]
+  },
+  {
+    "id": "7fe0549baf7a1df8",
+    "traditional": "栻",
+    "simplified": "栻",
+    "pinyin": "shi4",
+    "english_segments": [
+      "(tree)"
+    ],
+    "raw_source": "栻 栻 [shi4] /(tree)/",
+    "source_line": 57559,
+    "ukrainian_segments": [
+      "(назва дерева)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює вид дерева."
+    ]
+  },
+  {
+    "id": "4880fe9c85bcf208",
+    "traditional": "桋",
+    "simplified": "桋",
+    "pinyin": "yi2",
+    "english_segments": [
+      "(tree)"
+    ],
+    "raw_source": "桋 桋 [yi2] /(tree)/",
+    "source_line": 57755,
+    "ukrainian_segments": [
+      "(назва дерева)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює вид дерева."
+    ]
+  },
+  {
+    "id": "011a67883bf46939",
+    "traditional": "桹",
+    "simplified": "桹",
+    "pinyin": "lang2",
+    "english_segments": [
+      "(palm)"
+    ],
+    "raw_source": "桹 桹 [lang2] /(palm)/",
+    "source_line": 57854,
+    "ukrainian_segments": [
+      "(різновид пальми)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює вид пальми."
+    ]
+  },
+  {
+    "id": "715468ec866a77d2",
+    "traditional": "棪",
+    "simplified": "棪",
+    "pinyin": "yan3",
+    "english_segments": [
+      "(tree)"
+    ],
+    "raw_source": "棪 棪 [yan3] /(tree)/",
+    "source_line": 58328,
+    "ukrainian_segments": [
+      "(вид дерева)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Джерело не уточнює виду дерева."
+    ]
+  },
+  {
+    "id": "0160694835518560",
+    "traditional": "楛",
+    "simplified": "楛",
+    "pinyin": "hu4",
+    "english_segments": [
+      "(tree)"
+    ],
+    "raw_source": "楛 楛 [hu4] /(tree)/",
+    "source_line": 58567,
+    "ukrainian_segments": [
+      "(вид дерева)"
+    ],
+    "translation_status": "model_generated",
+    "model_reviewed": false,
+    "review_status": "not_model_reviewed",
+    "review_rating_before_corrections": null,
+    "correction_count": 0,
+    "human_validation": false,
+    "has_known_uncertainty": true,
+    "uncertainty_flags": [
+      "translator_uncertainty"
+    ],
+    "uncertainty_notes": [
+      "Конкретний вид дерева у джерелі не названо."
+    ]
+  }
+]

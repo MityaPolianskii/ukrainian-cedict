@@ -1,0 +1,524 @@
+{
+  "status": "pass",
+  "started_at_utc": "2026-10-15T01:12:49.166804+00:00",
+  "finished_at_utc": "2026-10-15T01:13:43.934900+00:00",
+  "candidate_directory": "/workspace/scratch/d049744f7576/ukrainian-cedict-final-reviewed-package-2026-10-15/candidate",
+  "authoritative_dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+  "checks_passed": 83,
+  "checks_total": 83,
+  "errors": [],
+  "checks": [
+    {
+      "check": "authoritative_handoff_hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all_154_source_files_match_authoritative_inventory",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "root_dictionary_exact_final009",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "packaged_final009_dictionary_exact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "packaged_frozen_baseline_exact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "LICENSE_unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "source.json_unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "FINAL_VERIFIED_HANDOFF.json_exact_packaged_copy",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "FINAL_ARTIFACT_INVENTORY.json_exact_packaged_copy",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "packaged_source_inventory_hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "complete_unique_154_file_mapping",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all_packaged_evidence_exact_and_safely_scoped",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "record_count_and_unique_ids",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "source_fields_record_order_unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "flags_unchanged_for_every_record",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all_segments_nonempty_and_aligned",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all_corpus_counts",
+      "pass": true,
+      "detail": {
+        "records": 125264,
+        "aligned_segments": 199737,
+        "model_reviewed_records": 3211,
+        "corrected_segments": 965,
+        "records_with_corrections": 879,
+        "known_flagged_records": 2534,
+        "human_validated_records": 0
+      }
+    },
+    {
+      "check": "all_original_flags_reviewed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unflagged_records_unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "active_note_and_empty_flag_counts",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "current_review_queue_exact_final009_flagged_rows",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "current_editorial_followup_exact_current_rows",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-001/review_001.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-001/review_002.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-001/review_003.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-002/review_001.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-002/review_002.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-002/review_003.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-003/review_001.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-003/review_002.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-003/review_003.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-004/review_001.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-004/review_002.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-004/review_003.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-005/review_001.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-005/review_002.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-005/review_003.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-006/review_001.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-006/review_002.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-006/review_003.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-007/review_001.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-007/review_002.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-007/review_003.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-008/review_001.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-008/review_002.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-008/review_003.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-009/review_001.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-009/review_002.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "audit/review/checkpoint-009/review_003.json_no_human_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "review_evidence_complete_unique_flag_coverage",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "review_outcome_totals",
+      "pass": true,
+      "detail": {
+        "acceptable": 1109,
+        "deferred": 873,
+        "correction_proposed": 552
+      }
+    },
+    {
+      "check": "unresolved_compiled_ratings_distinct_count",
+      "pass": true,
+      "detail": 880
+    },
+    {
+      "check": "progress_counts_derive_exact_dictionary",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "progress_scope_final009",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "progress_outcomes_final009",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "progress_notes_final009",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "progress_all_content_hashes_match",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "progress_private_model_only",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "only_dictionary_is_active_annotation_source",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "csv_exact_dictionary_field_order",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "csv_all_125264_records_all_fields_match_final009",
+      "pass": true,
+      "detail": {
+        "rows": 125264,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "root_ledger_exact_final009_evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "root_summary_exact_frozen_final009",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no_root_quarantine_or_legacy_overlay",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "note_disposition_counts",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "note_ledger_and_quarantine_counts",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all_2534_note_bindings_and_inactive_originals",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "all_407_quarantined_originals_inactive_at_bound_id",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all_15_known_contaminated_originals_inactive",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "exactly_459_new_corrections_across_456_entries",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "overlay_correction_locations_exact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "overlay_high_confidence_only",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "packaged_replay_source_exact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "portable_replay_normal_exit_success",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "portable_replay_normal_exact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "gate_tests_normal_exit_success",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "gate_tests_normal_20_tests_pass",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "portable_replay_optimized_exit_success",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "portable_replay_optimized_exact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "gate_tests_optimized_exit_success",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "gate_tests_optimized_20_tests_pass",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all_154_source_files_unchanged_during_validation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "candidate_existing_files_unchanged_during_validation",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "details": {
+    "portable_replay_normal": {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-B",
+        "audit/review/replay_cumulative_overlay.py",
+        "--baseline",
+        "history/frozen-original/dictionary.json",
+        "--candidate-dir",
+        "audit/review/candidate-checkpoint-009"
+      ],
+      "cwd": "/workspace/scratch/d049744f7576/ukrainian-cedict-final-reviewed-package-2026-10-15/candidate",
+      "returncode": 0,
+      "stdout": "{\n  \"status\": \"pass\",\n  \"checkpoint\": 9,\n  \"baseline_sha256\": \"cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465\",\n  \"reconstructed_dictionary_sha256\": \"166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b\",\n  \"exact_dictionary_quarantine_ledger_stats_reconstruction\": true,\n  \"model_reviewed_in_this_pass\": 2534,\n  \"applied_segment_corrections\": 459,\n  \"human_validation\": false,\n  \"linguistic_accuracy_certified\": false,\n  \"output_file_created\": null\n}\n",
+      "stderr": ""
+    },
+    "gate_tests_normal": {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-B",
+        "-m",
+        "unittest",
+        "-v",
+        "test_note_gate"
+      ],
+      "cwd": "/workspace/scratch/d049744f7576/ukrainian-cedict-final-reviewed-package-2026-10-15/candidate/audit/review",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "test_changed_note_rejected (test_note_gate.GateTests.test_changed_note_rejected) ... ok\ntest_cross_entry_id_substitution_rejected (test_note_gate.GateTests.test_cross_entry_id_substitution_rejected) ... ok\ntest_defaults_fail_closed (test_note_gate.GateTests.test_defaults_fail_closed) ... ok\ntest_duplicate_approval_rejected (test_note_gate.GateTests.test_duplicate_approval_rejected) ... ok\ntest_immutable_input (test_note_gate.GateTests.test_immutable_input) ... ok\ntest_medium_patch_not_autoapplied (test_note_gate.GateTests.test_medium_patch_not_autoapplied) ... ok\ntest_note_hash_tampering_rejected (test_note_gate.GateTests.test_note_hash_tampering_rejected) ... ok\ntest_reference_deletion_rejected (test_note_gate.GateTests.test_reference_deletion_rejected) ... ok\ntest_rejection_preserves_original_flag (test_note_gate.GateTests.test_rejection_preserves_original_flag) ... ok\ntest_replacement_preserves_original_evidence (test_note_gate.GateTests.test_replacement_preserves_original_evidence) ... ok\ntest_reviewed_note_retained (test_note_gate.GateTests.test_reviewed_note_retained) ... ok\ntest_row_reordering_does_not_reassign_notes (test_note_gate.GateTests.test_row_reordering_does_not_reassign_notes) ... ok\ntest_stale_patch_rejected (test_note_gate.GateTests.test_stale_patch_rejected) ... ok\ntest_stale_source_rejected (test_note_gate.GateTests.test_stale_source_rejected) ... ok\ntest_malformed_notes_rejected (test_note_gate.HardeningTests.test_malformed_notes_rejected) ... ok\ntest_misaligned_baseline_rejected (test_note_gate.HardeningTests.test_misaligned_baseline_rejected) ... ok\ntest_nonstring_evidence_rejected (test_note_gate.HardeningTests.test_nonstring_evidence_rejected) ... ok\ntest_noop_patch_rejected (test_note_gate.HardeningTests.test_noop_patch_rejected) ... ok\ntest_quarantine_flags_do_not_alias_baseline (test_note_gate.HardeningTests.test_quarantine_flags_do_not_alias_baseline) ... ok\ntest_whitespace_evidence_rejected (test_note_gate.HardeningTests.test_whitespace_evidence_rejected) ... ok\n\n----------------------------------------------------------------------\nRan 20 tests in 0.003s\n\nOK\n"
+    },
+    "portable_replay_optimized": {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-B",
+        "-O",
+        "audit/review/replay_cumulative_overlay.py",
+        "--baseline",
+        "history/frozen-original/dictionary.json",
+        "--candidate-dir",
+        "audit/review/candidate-checkpoint-009"
+      ],
+      "cwd": "/workspace/scratch/d049744f7576/ukrainian-cedict-final-reviewed-package-2026-10-15/candidate",
+      "returncode": 0,
+      "stdout": "{\n  \"status\": \"pass\",\n  \"checkpoint\": 9,\n  \"baseline_sha256\": \"cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465\",\n  \"reconstructed_dictionary_sha256\": \"166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b\",\n  \"exact_dictionary_quarantine_ledger_stats_reconstruction\": true,\n  \"model_reviewed_in_this_pass\": 2534,\n  \"applied_segment_corrections\": 459,\n  \"human_validation\": false,\n  \"linguistic_accuracy_certified\": false,\n  \"output_file_created\": null\n}\n",
+      "stderr": ""
+    },
+    "gate_tests_optimized": {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-B",
+        "-O",
+        "-m",
+        "unittest",
+        "-v",
+        "test_note_gate"
+      ],
+      "cwd": "/workspace/scratch/d049744f7576/ukrainian-cedict-final-reviewed-package-2026-10-15/candidate/audit/review",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "test_changed_note_rejected (test_note_gate.GateTests.test_changed_note_rejected) ... ok\ntest_cross_entry_id_substitution_rejected (test_note_gate.GateTests.test_cross_entry_id_substitution_rejected) ... ok\ntest_defaults_fail_closed (test_note_gate.GateTests.test_defaults_fail_closed) ... ok\ntest_duplicate_approval_rejected (test_note_gate.GateTests.test_duplicate_approval_rejected) ... ok\ntest_immutable_input (test_note_gate.GateTests.test_immutable_input) ... ok\ntest_medium_patch_not_autoapplied (test_note_gate.GateTests.test_medium_patch_not_autoapplied) ... ok\ntest_note_hash_tampering_rejected (test_note_gate.GateTests.test_note_hash_tampering_rejected) ... ok\ntest_reference_deletion_rejected (test_note_gate.GateTests.test_reference_deletion_rejected) ... ok\ntest_rejection_preserves_original_flag (test_note_gate.GateTests.test_rejection_preserves_original_flag) ... ok\ntest_replacement_preserves_original_evidence (test_note_gate.GateTests.test_replacement_preserves_original_evidence) ... ok\ntest_reviewed_note_retained (test_note_gate.GateTests.test_reviewed_note_retained) ... ok\ntest_row_reordering_does_not_reassign_notes (test_note_gate.GateTests.test_row_reordering_does_not_reassign_notes) ... ok\ntest_stale_patch_rejected (test_note_gate.GateTests.test_stale_patch_rejected) ... ok\ntest_stale_source_rejected (test_note_gate.GateTests.test_stale_source_rejected) ... ok\ntest_malformed_notes_rejected (test_note_gate.HardeningTests.test_malformed_notes_rejected) ... ok\ntest_misaligned_baseline_rejected (test_note_gate.HardeningTests.test_misaligned_baseline_rejected) ... ok\ntest_nonstring_evidence_rejected (test_note_gate.HardeningTests.test_nonstring_evidence_rejected) ... ok\ntest_noop_patch_rejected (test_note_gate.HardeningTests.test_noop_patch_rejected) ... ok\ntest_quarantine_flags_do_not_alias_baseline (test_note_gate.HardeningTests.test_quarantine_flags_do_not_alias_baseline) ... ok\ntest_whitespace_evidence_rejected (test_note_gate.HardeningTests.test_whitespace_evidence_rejected) ... ok\n\n----------------------------------------------------------------------\nRan 20 tests in 0.003s\n\nOK\n"
+    },
+    "counts": {
+      "records": 125264,
+      "aligned_segments": 199737,
+      "model_reviewed_records": 3211,
+      "corrected_segments": 965,
+      "records_with_corrections": 879,
+      "known_flagged_records": 2534,
+      "human_validated_records": 0
+    },
+    "review_outcomes": {
+      "acceptable": 1109,
+      "deferred": 873,
+      "correction_proposed": 552
+    },
+    "compiled_unresolved_ratings": 880,
+    "editorial_priority_entries": 882,
+    "csv_rows": 125264,
+    "candidate_snapshot_before_files": 172,
+    "new_candidate_files_during_validation": []
+  },
+  "scope": "Independent packaging/data/provenance validation only; no linguistic accuracy certification, public upload, publication, runtime promotion or source/candidate writes."
+}

@@ -1,0 +1,68 @@
+{
+  "completed_at_utc": "2026-10-15T00:03:49.946958+00:00",
+  "status": "initial_300_review_and_private_repair_verified",
+  "candidate_directory": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/corrected-candidate",
+  "dictionary_sha256": "1654a30902d133ad120128d43a8e44a4275bae440de8dc5ec7fe60a9d65c2781",
+  "original_dictionary_sha256": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+  "original_unchanged": true,
+  "reviewed_records": 300,
+  "reviewed_segments": 920,
+  "high_confidence_segment_corrections_applied": 42,
+  "segment_proposals_held": 4,
+  "notes": {
+    "quarantine_rejected": 13,
+    "quarantine_unreviewed": 2234,
+    "replace_reviewed": 15,
+    "retain_reviewed": 272
+  },
+  "active_notes": 287,
+  "original_flags_preserved": 2534,
+  "human_validation": false,
+  "runtime_approved": false,
+  "public_writes_performed": false,
+  "verification": {
+    "gate_regression_tests": 20,
+    "normal_python_pass": true,
+    "optimized_python_pass": true,
+    "independent_artifact_checks": 23,
+    "independent_report_path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/gate_independent_review.json"
+  },
+  "handoff_to": "/root/finish_ukrainian_dictionary_batches for new-directory package/CSV/progress/audit verification; parent owns publication decision",
+  "next_review": {
+    "remaining_flagged_entries": 2234,
+    "remaining_flagged_segments": 2757,
+    "queue_path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/remaining_flagged_review_queue.json",
+    "recommended_checkpoints": 8,
+    "then": "Versioned common-learner/HSK vocabulary, including currently unflagged entries."
+  },
+  "artifacts": {
+    "CHECKPOINT_REPORT.md": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/CHECKPOINT_REPORT.md",
+      "sha256": "37a5dfd3870d9fc3c3f797b03b019e63a825599c8c89b81b9686f2cbea4cfe1a"
+    },
+    "note-provenance-diagnosis.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/note-provenance-diagnosis.json",
+      "sha256": "74358d30fb0e3490bb009432349a4936b2c3ade2e72ccd200b3beacafb397b22"
+    },
+    "gate_independent_review.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/gate_independent_review.json",
+      "sha256": "6fee9d9be87b16ebb715bce8ffa8bbce05074763881d3bf56ed152c15abd9ab0"
+    },
+    "note_gate.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/note_gate.py",
+      "sha256": "282378c0ee3b6fb6119f46196fd9087f916ef376e6fbc0cb4bd666e6ad5205a8"
+    },
+    "test_note_gate.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/test_note_gate.py",
+      "sha256": "f3e667071d3a554a39c3706df0943bcae314e096c5c526fe9d6897f8db5e618e"
+    },
+    "compile_repair_candidate.py": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/compile_repair_candidate.py",
+      "sha256": "fedb9fcddb31158e162e3af51a477a208aafae8eaf208b71beb5a28ecb8d5463"
+    },
+    "REPAIR_SUMMARY.json": {
+      "path": "/workspace/scratch/d049744f7576/ukrainian-cedict-strong-review-2026-10-14/corrected-candidate/REPAIR_SUMMARY.json",
+      "sha256": "f804b0217c13a197be20447a0b472b921d6b8c8b240c798a2f8acdb98012835c"
+    }
+  }
+}

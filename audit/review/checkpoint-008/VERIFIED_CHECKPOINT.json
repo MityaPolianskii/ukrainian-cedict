@@ -1,0 +1,22 @@
+{
+  "checkpoint": 8,
+  "status": "independently_verified_private",
+  "dictionary_sha256": "dbc056595ec728a4868ffe4f3a3c6c59fdc7ba1ce2d6f0c7840159a342b33873",
+  "previous_dictionary_sha256": "b3efe3745c1804f643c687fa14e9e5f2f0724ff5013b530e2fc8420aa9b80646",
+  "baseline_dictionary_sha256": "cdf73918ba4417090f8cdcc8d284ff3d47d65416e58de0efe7dcb610675fb465",
+  "cumulative_reviewed_records": 2400,
+  "cumulative_reviewed_segments": 3543,
+  "new_segment_corrections": 63,
+  "cumulative_segment_corrections": 426,
+  "remaining_flagged_entries_unreviewed": 134,
+  "human_validation": false,
+  "public_writes": false,
+  "runtime_approved": false,
+  "independent_checks_passed": 55125,
+  "reproducibility_files": {
+    "compile_review_checkpoint.py": "5925ddd0eb6a94dd489d896103bb52f4bab134890569952545379614cd2a088e",
+    "note_gate.py": "282378c0ee3b6fb6119f46196fd9087f916ef376e6fbc0cb4bd666e6ad5205a8",
+    "verify_versioned_checkpoint.py": "294ffed64d55fddea73dab727b54f5d4ad7e3156e5a5922e12b6297c69d36b02"
+  },
+  "candidate_summary_sha256": "6492651b1898c98ccaed837f90b285c56addacd9b2b34f682106f7ebba1a60d0"
+}

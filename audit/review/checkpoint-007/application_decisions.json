@@ -1,0 +1,1364 @@
+{
+  "checkpoint": 7,
+  "application_review_completed": true,
+  "review_type": "model",
+  "human_validation": false,
+  "review_file_sha256": {
+    "review_001.json": "1c669c35cd78caf3630b914d008125b97f0d78ada849e4730c4ad814131150dd",
+    "review_002.json": "7a41a05437ed0faa6a17f34142fbbb17df3bfd814e8ff64290c2db66e7b339ab",
+    "review_003.json": "95cec7d40d0b6d0fc6845b624a095f185c6b7ee4e6e9f7385a98c269878cfb09"
+  },
+  "decisions": [
+    {
+      "kind": "segment",
+      "id": "a99e66b4dd1d9f4a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "519b63ebf25e5c47",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "4a4e4b0484024384",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "4a4e4b0484024384",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "bc226738189d2c75",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "bc226738189d2c75",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "481fc3262941f16a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "481fc3262941f16a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "0af41cc4d0921c19",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "5fad91cbad8061e1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "5fad91cbad8061e1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "cf30e3ddaedd4e16",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "cf30e3ddaedd4e16",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "369bac708069adbd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "d85b07ab3584f569",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "d85b07ab3584f569",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "274e844648102130",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "274e844648102130",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "9adafe20ebacfe1d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "9adafe20ebacfe1d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "5b6f819def2163f5",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "5b6f819def2163f5",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "38485041709df72e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "9f4360b2a152b0f8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "9f4360b2a152b0f8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "f8e1ad0ae9c3c661",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "f8e1ad0ae9c3c661",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "e69918bf40dfddb1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "8574d941cbdbf347",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "aff0a2afda7bb894",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "aff0a2afda7bb894",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "267d75e44ff46973",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "d2d7adabf5a093ec",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "87d92d85f9b9096f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "369a9a8e5be92197",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "369a9a8e5be92197",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "1bb47c4addf07226",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "1bb47c4addf07226",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "ab8813780de3ab4a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "947ed2a7a785a609",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "947ed2a7a785a609",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "0027d0224914df28",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "0027d0224914df28",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "d4bfa38bf1ff0e55",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "d4bfa38bf1ff0e55",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "ce430a17c54d7963",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "ce430a17c54d7963",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "6de6bf9e64e6cdc0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "9a7de43b47ba7a37",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "9a7de43b47ba7a37",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "123c891f494c7fb8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "123c891f494c7fb8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "4a4e28342c5aa544",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "4a4e28342c5aa544",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "decc780e56551075",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "e912513b1013daaf",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "849e4c6e3ba77a86",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "849e4c6e3ba77a86",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "384aa44b7bb66126",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "384aa44b7bb66126",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "e930b3ae4f47ce14",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "143c5fb0a621518e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "0fc7df3e3260080e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "6cdfa0204297d4f6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "6cdfa0204297d4f6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "9474181901707b09",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "9474181901707b09",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "3b8c300120d9d378",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "3b8c300120d9d378",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "226d4e8844a8f21d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "226d4e8844a8f21d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "fcf093c0a46790f0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "fcf093c0a46790f0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "2f19a470f4e2f2b1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "2f19a470f4e2f2b1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "b18432fb4e703a5b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "b18432fb4e703a5b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "d929322b83e1eab3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "d929322b83e1eab3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "25e4bed0c1927fd1",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "cfb6bf20fe9597fd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "cfb6bf20fe9597fd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "16c425c210ccc919",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "ad2288cdc7cf9745",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "ad2288cdc7cf9745",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "162ebcc7e33f546c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "31fef0b79e2d136d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "31fef0b79e2d136d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "5fa04a82f45f78d9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "5fa04a82f45f78d9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "a74d0d87c543a396",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "a74d0d87c543a396",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "be67779a5d088047",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "54aa03cc95260a0d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "54aa03cc95260a0d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "aaec96571c53028a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "a7d25872169c776c",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "c9020a20cc7a173b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "c9020a20cc7a173b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "72971871cc5b3b41",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "72971871cc5b3b41",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "c58fffe2260fcfb2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "a02a2215c6ca5e9b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "a02a2215c6ca5e9b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "a458976cb0a75d40",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "a458976cb0a75d40",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "c4835dece297e894",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "e4281f02b0bb50ea",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "d0ab6a9ac4d4833b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "d0ab6a9ac4d4833b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "3dc684dc9803e9e7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "3dc684dc9803e9e7",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "c0d502d4e05b4926",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "c0d502d4e05b4926",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "d2638df51a433749",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "f2500f07a4a22558",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "b5eeafab590a0307",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "b5eeafab590a0307",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "a37db88ace13d1fc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "ead948702bc35bb4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "ead948702bc35bb4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "50d8bd83c2420dfb",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "29c0f65357214ca2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "29c0f65357214ca2",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "2f7b21461978c3b6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "2f7b21461978c3b6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "a10147d034e93f1b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "a10147d034e93f1b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "61bd3fbb2180eaf6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "4355846ebc6874c8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "The Buddhist note is unrelated to the county cross-reference 三原. Deactivate the original note while preserving its evidence and flag; do not reassign it to a guessed entry."
+    },
+    {
+      "kind": "segment",
+      "id": "d4241f0447b38e45",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "d4241f0447b38e45",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "f2b292e5fc5bd09a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "f2b292e5fc5bd09a",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "fb1578b485e228f9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "ff4c6bbbd82ee251",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "4ed7e232a11d40b3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "4ed7e232a11d40b3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "1f226558c1404b8f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "979271a309bc487d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "6e08e2f787b10ac0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "6e08e2f787b10ac0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "06e4e941f3e4ec10",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "06e4e941f3e4ec10",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "e98a81440818cf61",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "e98a81440818cf61",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "c51afacfa550e424",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "75237b2b173ec02d",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "d2e5f1a3190d3b44",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "6f9b3fa25efc55d4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "6f9b3fa25efc55d4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "3aae5ef905c6feb3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "b0a75d8105568faa",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "2eaa08eba83bca4e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "2eaa08eba83bca4e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "061d724998529677",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "369bf8a06008d672",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "e14218406b825bc5",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "33c383dbb7ee383f",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "74eb62a05cc8cedc",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "eafcf462baefa63b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "eafcf462baefa63b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "5a50c0fd527606d4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "5a50c0fd527606d4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "f51eeba0256faca4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "ca9739c8a79830a0",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "06bb5e572506176b",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "8a45594fbf97d3c8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "8a45594fbf97d3c8",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "3880e83fd35b0de9",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "59de843169a49bd3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "59de843169a49bd3",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "1e8f71911efe94ce",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "edb7cf06daa95b43",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "edb7cf06daa95b43",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "8bd30970bb0b80bd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "8bd30970bb0b80bd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "232fc7c97124d2e4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "232fc7c97124d2e4",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "ce8fc647b5f96220",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "ce8fc647b5f96220",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "0d4c24b13fd8e258",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "0d4c24b13fd8e258",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "1f4b2bd5656d75d5",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "e628f63f4b233edd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "e628f63f4b233edd",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "1b83bbd09363259e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "1b83bbd09363259e",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "fcf2b228b8ce0d34",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "segment",
+      "id": "51131768480b6b10",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    },
+    {
+      "kind": "note",
+      "id": "51131768480b6b10",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "note",
+      "id": "f87b2d021d9b47b6",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the precise note claim and entry-bound evidence. This high-confidence revision resolves or narrows a supported issue while retaining genuine unresolved source ambiguity."
+    },
+    {
+      "kind": "segment",
+      "id": "0bbde55c8585ec50",
+      "index": 0,
+      "decision": "apply",
+      "reason": "Inspected the complete entry and exact before/after with cited evidence. This is a high-confidence lexical correction or explicitly documented source-fact repair. Original source fields, references, existing Latin taxa/formulas and flags stay preserved."
+    }
+  ]
+}

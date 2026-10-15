@@ -1,0 +1,1788 @@
+{
+  "reviewer_model_requested": "gpt-6-astra",
+  "human_validation": false,
+  "reviewed_ids": [
+    "958c120540ff7674",
+    "2408b2ba68ac8ded",
+    "0faf1367ae5f8d1b",
+    "1bd3c516026037bb",
+    "afbe47d72e43f922",
+    "a4ab60c3dd2b680d",
+    "db55bcd53a929121",
+    "f11cf1fd8dc52ccd",
+    "7f7188d35fb4a880",
+    "23047351f5bd9433",
+    "12679c79c15e787a",
+    "b4f3b266ccede18b",
+    "7956dde230505782",
+    "7e0963aed1d10934",
+    "b61c317288d9c8a1",
+    "7d2e273fb3643d73",
+    "60b34e47ae9c354d",
+    "414ec61d1bc05ce9",
+    "7fe63bec370a7cf8",
+    "2b39dabf1804d96e",
+    "9f1c36b9d0ca09b8",
+    "4b37ab6b764d2141",
+    "da9c6d8e376425a5",
+    "293e88b41c713eb6",
+    "6ef5b1e4d319ba13",
+    "284b461f3c2c597c",
+    "9fa67b3f6a776314",
+    "f7f8ffe18e3edd45",
+    "230236f8293302fd",
+    "ea76f73fa5249aca",
+    "d69058f89910256a",
+    "a356fadc61851c2d",
+    "07e47530fa231f96",
+    "a95a8142be6a1832",
+    "991bb954e1cf6ee2",
+    "c688d0aa648f204c",
+    "32e76ceaa598aca1",
+    "c26d2a5ca44e5688",
+    "a8f07e4a419ec460",
+    "7b0ff5c7da084c9b",
+    "e57010965f7f2604",
+    "b23c65d6d62a4cca",
+    "17d7e36c7636b046",
+    "ef65b39c45001500",
+    "77333ea700155e1e",
+    "dbd6e492f64e2f7b",
+    "2bb9e8bb14882329",
+    "b597e0e1ded4f831",
+    "3b6e9c3aa9856ec5",
+    "7e4f126d145d73d3",
+    "a88d930a7b7a6220",
+    "8f51f032ef28dcd0",
+    "c364b9365dbb21ca",
+    "247259e82617b816",
+    "504a72d4000f0902",
+    "cde5179231fe3c83",
+    "56e444534985c892",
+    "155d0306c831c49e",
+    "a38e92fb7c0caeb3",
+    "5f8f49f69da7df9a",
+    "6544ded0c7fb20a6",
+    "ce6744040e14edbc",
+    "9cc10b3f92ab4620",
+    "59f806308d178616",
+    "50bacc90cd510c29",
+    "0290f7d4274cef4a",
+    "8acb82af68e9bb3f",
+    "9ba5dc1b5db1e0ca",
+    "4f21fdd6b86eb1d8",
+    "c6c3e35f65b22c0d",
+    "b348f5d845411061",
+    "17081228136e5c5a",
+    "bf927267cc514eb3",
+    "b725a7b32bbe77fa",
+    "8aaf54f5cca0b670",
+    "a97cb82543add823",
+    "f39407a50619b779",
+    "6fc7594f88ecf0ce",
+    "64bfb66a9b9dca78",
+    "c9ce0001910af548",
+    "8fbe471072716a56",
+    "f4db7aaa279adf6f",
+    "66dae2a786979778",
+    "906f641de3a035fb",
+    "db67ff922b448b2b",
+    "dd350fa4da30f7d3",
+    "e9a4c99b3ee14250",
+    "8668ca853ae515bc",
+    "044cb95f3ac10119",
+    "cce0f11c8d2d7d91",
+    "47be282a06165ced",
+    "6bfdadd375022935",
+    "ee0b65fa7ad38d2d",
+    "7b0a8369b46311cc",
+    "827b793e63a9dcee",
+    "8d13ede28d850820",
+    "a8bd8ed7352ef2f9",
+    "ff6b4cbbd95b69ea",
+    "74de180a40a857a9",
+    "de74bc6e9305ff16"
+  ],
+  "entries": [
+    {
+      "id": "958c120540ff7674",
+      "source_line": 23757,
+      "traditional": "四大盆地",
+      "simplified": "四大盆地",
+      "pinyin": "si4 da4 pen2 di4",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian correctly names all four basins and preserves each Chinese reference without attaching the garbled north-Xinjiang phrase to Qaidam. The note is on-topic and its Qinghai correction is supported by the Chinese Academy of Sciences: https://english.cas.cn/newsroom/cas_media/202106/t20210618_272246.shtml . No further Ukrainian change is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "2408b2ba68ac8ded",
+      "source_line": 24008,
+      "traditional": "回良玉",
+      "simplified": "回良玉",
+      "pinyin": "Hui2 Liang2 yu4",
+      "outcome": "correction_proposed",
+      "reason": "The official biography identifies Hui Liangyu as a native of Yushu, Jilin, and an economist; Guilin and the more specific claim of an economics education should not be perpetuated. The original note is relevant and can now be resolved. Source: https://www.cppcc.gov.cn/olddata/zxb/20030320/101zt/hyyw/hyyw53003.htm .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Хуей Лян'юй (1944–), китайський політик національності хуей, за джерелом із Ґуйліна, з економічною освітою; член Політбюро у 2002–2012 роках, заступник голови Державної ради у 2003–2013 роках",
+          "after": "Хуей Лян'юй (нар. 1944), китайський політик національності хуей, уродженець Юйшу в провінції Цзілінь, економіст; член Політбюро у 2002–2012 роках, заступник голови Державної ради у 2003–2013 роках",
+          "reason": "The official biography identifies Hui Liangyu as a native of Yushu, Jilin, and an economist; Guilin and the more specific claim of an economics education should not be perpetuated. The original note is relevant and can now be resolved. Source: https://www.cppcc.gov.cn/olddata/zxb/20030320/101zt/hyyw/hyyw53003.htm .",
+          "confidence": "high",
+          "issue_type": "source_factual_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Місце походження Guilin у джерелі сумнівне; потребує фактографічної перевірки.",
+          "after": "Місце походження Guilin у джерелі помилкове: офіційна біографія вказує Юйшу, провінція Цзілінь; кваліфікацію подано як «економіст».",
+          "reason": "The official biography identifies Hui Liangyu as a native of Yushu, Jilin, and an economist; Guilin and the more specific claim of an economics education should not be perpetuated. The original note is relevant and can now be resolved. Source: https://www.cppcc.gov.cn/olddata/zxb/20030320/101zt/hyyw/hyyw53003.htm .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "0faf1367ae5f8d1b",
+      "source_line": 15015,
+      "traditional": "劉淵",
+      "simplified": "刘渊",
+      "pinyin": "Liu2 Yuan1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian honestly labels the Cheng-Han attribution as a source claim, but that does not resolve the mismatch between Liu Yuan and 成漢. The note concerns this exact person and dynasty and is not cross-entry contamination. Defer the historical attribution and incompatible Chinese cross-reference rather than silently replacing it.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело помилково пов’язує Лю Юаня з Чен-Хань; він заснував Хань-Чжао. Китайське посилання й джерельне твердження збережено з застереженням.",
+        "Потрібне джерелознавче рішення щодо хибного посилання 成漢|成汉[Cheng2 Han4]; його не можна непомітно замінити назвою іншої держави."
+      ]
+    },
+    {
+      "id": "1bd3c516026037bb",
+      "source_line": 56592,
+      "traditional": "松遼平原",
+      "simplified": "松辽平原",
+      "pinyin": "Song1 liao2 Ping2 yuan2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian reproduces the problematic Liaoning Peninsula endpoint and adds a from-the-basin construction not clearly licensed by the garbled English. The Songhua and Northeast Plain references are intact. The existing geography warning is topical; the plain’s extent and the peninsula designation remain unverified.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Географічний опис і назва півострова в джерелі потребують перевірки."
+      ]
+    },
+    {
+      "id": "afbe47d72e43f922",
+      "source_line": 55921,
+      "traditional": "朴正熙",
+      "simplified": "朴正熙",
+      "pinyin": "Piao2 Zheng4 xi1",
+      "outcome": "deferred",
+      "reason": "The personal name, dates, office and industrial-development sense are translated clearly, but the bodyguard claim remains asserted despite the contradictory note about an intelligence chief. The note is relevant; defer the assassination detail pending an authoritative historical source.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело називає вбивцю охоронцем; історично це був керівник розвідки."
+      ]
+    },
+    {
+      "id": "a4ab60c3dd2b680d",
+      "source_line": 53604,
+      "traditional": "晏子",
+      "simplified": "晏子",
+      "pinyin": "Yan4 zi3",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian preserves Yanzi, the Yan Ying alias, Qi and the book reference while avoiding the source’s incompatible Warring States label for a statesman who died around 500 BCE. The note accurately identifies that chronological issue and does not belong to another entry. No replacement is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "db55bcd53a929121",
+      "source_line": 27831,
+      "traditional": "大唐狄公案",
+      "simplified": "大唐狄公案",
+      "pinyin": "Da4 Tang2 Di2 Gong1 an4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian asserts authorship by van Gulik although the note rightly raises a translation-versus-original-novel problem. Publisher-supplied bibliographic information identifies Celebrated Cases of Judge Dee as an eighteenth-century Chinese work translated by van Gulik (https://books.google.com/books/about/Celebrated_Cases_of_Judge_Dee.html?id=rny7IN4fubIC). The precise relationship of 大唐狄公案 to that edition or the later series, and the Ukrainian title, still need resolution; retain the note rather than deleting its justified hypothesis.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело називає видання 1949 року романом ван Гюліка; воно може стосуватися його перекладу давнішого китайського твору. Назву передано описово.",
+        "Потрібно розрізнити переклад давнього «Ді ґун ань» і пізнішу серію ван Гюліка, яку також називають 大唐狄公案."
+      ]
+    },
+    {
+      "id": "f11cf1fd8dc52ccd",
+      "source_line": 16346,
+      "traditional": "北洋軍",
+      "simplified": "北洋军",
+      "pinyin": "Bei3 yang2 jun1",
+      "outcome": "acceptable",
+      "reason": "Beiyang Army and its late-Qing, Western-style modernization and later warlord association are conveyed accurately. The Ukrainian sensibly leaves the revolution unnamed instead of inventing a Qinghai Revolution. The hedged Xinhai hypothesis in the note is relevant and should be retained.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Точне виправлення джерельного Qinghai revolution лишається редакторським питанням; переклад не подає цієї назви як факт."
+      ]
+    },
+    {
+      "id": "7f7188d35fb4a880",
+      "source_line": 65292,
+      "traditional": "海上花列傳",
+      "simplified": "海上花列传",
+      "pinyin": "Hai3 shang4 Hua1 Lie4 zhuan4",
+      "outcome": "deferred",
+      "reason": "The plot description, author and preserved Chinese reference are sound. «Квіти Шанхая» is a plausible descriptive title, but it has not been established as the Ukrainian title of 海上花列傳; the existing note states precisely that limitation. Defer title standardization rather than guess a published title.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську назву роману подано перекладно; усталену назву не підтверджено."
+      ]
+    },
+    {
+      "id": "23047351f5bd9433",
+      "source_line": 110091,
+      "traditional": "鄧世昌",
+      "simplified": "邓世昌",
+      "pinyin": "Deng4 Shi4 chang1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian fluently reproduces the entry, but the dockyard and two-college founding claims are substantive biographical allegations, not translation details that can be certified from the English alone. The note specifically and appropriately flags those claims; retain it and defer the biography.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Приписані Ден Шичану заснування верфей і двох училищ потребують перевірки; джерело може змішувати його біографію з іншими діячами."
+      ]
+    },
+    {
+      "id": "12679c79c15e787a",
+      "source_line": 32390,
+      "traditional": "官渡之戰",
+      "simplified": "官渡之战",
+      "pinyin": "Guan1 du4 zhi1 Zhan4",
+      "outcome": "deferred",
+      "reason": "Both the year 199 and the Xuchang/northern-Henan location remain in the main gloss. The note correctly flags a date and geography conflict, but no primary historical evidence was established here to certify an amended date and location. Preserve 曹操 and 許昌 references and defer the factual repair.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело датує битву 199 роком, хоча загальноприйнята дата — 200 рік; географічну прив'язку також варто перевірити."
+      ]
+    },
+    {
+      "id": "b4f3b266ccede18b",
+      "source_line": 88237,
+      "traditional": "義和團運動",
+      "simplified": "义和团运动",
+      "pinyin": "Yi4 he2 tuan2 Yun4 dong4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian faithfully expresses the Boxer Rebellion narrative, but 1900–1901 can describe only a restricted phase and should not be certified as the movement’s full chronology. The note is carefully hedged about earlier beginnings and is relevant; defer the date span.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Датування джерела 1900–1901 є вузьким; початок руху часто відносять до 1899 року або раніше."
+      ]
+    },
+    {
+      "id": "7956dde230505782",
+      "source_line": 39323,
+      "traditional": "張學良",
+      "simplified": "张学良",
+      "pinyin": "Zhang1 Xue2 liang2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian correctly marks the PLA-service assertion as coming from the source. The note’s conflict with the long detention after 1936 is directly relevant, not an unrelated warning. Since the underlying service claim remains unresolved, do not accept the biography as verified.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Твердження про службу Чжан Сюеляна в НВАК сумнівне: після 1936 року він десятиліттями перебував під домашнім арештом; потребує перевірки джерела."
+      ]
+    },
+    {
+      "id": "7e0963aed1d10934",
+      "source_line": 23752,
+      "traditional": "四大佛教名山",
+      "simplified": "四大佛教名山",
+      "pinyin": "Si4 da4 Fo2 jiao4 Ming2 shan1",
+      "outcome": "acceptable",
+      "reason": "The four mountains and provinces are represented correctly; Путошань follows the explicit 普陀山 rather than the English Potala mistake. All Chinese names are preserved. The note explains this precise mismatch and is valid; no correction is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "b61c317288d9c8a1",
+      "source_line": 121475,
+      "traditional": "驪姬之亂",
+      "simplified": "骊姬之乱",
+      "pinyin": "Li2 Ji1 zhi1 Luan4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian is semantically faithful, but the Li Ji rebellion chronology and claimed defeat by Duke Wen are disputed within this source context. The note appropriately withholds historical validation. Preserve 晉文公|晋文公[Jin4 Wen2 gong1] and defer rather than manufacture a corrected narrative.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Хронологію й причинний опис заколоту збережено за джерелом; історична точність потребує перевірки."
+      ]
+    },
+    {
+      "id": "7d2e273fb3643d73",
+      "source_line": 36532,
+      "traditional": "左丘明",
+      "simplified": "左丘明",
+      "pinyin": "Zuo3 Qiu1 ming2",
+      "outcome": "acceptable",
+      "reason": "The personal-name alternatives, blindness, Lu and attribution of Zuo Zhuan are clearly rendered. Adding BCE is justified by the ancient Lu context and prevents a misleading CE reading. The note accurately describes this supplied-era clarification; it does not falsely claim new documentary proof of the traditional lifespan.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "60b34e47ae9c354d",
+      "source_line": 32690,
+      "traditional": "宣德",
+      "simplified": "宣德",
+      "pinyin": "Xuan1 de2",
+      "outcome": "deferred",
+      "reason": "The reign ending in 1436 conflicts even internally with the stated death in 1435; Xuande as an era name also needs distinction from the ruler’s accession date. The note identifies the real problem. Keep 朱瞻基 and 明宣宗 intact and defer the competing date ranges.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Дати правління в джерелі не узгоджуються з роком смерті; їх потрібно уточнити."
+      ]
+    },
+    {
+      "id": "414ec61d1bc05ce9",
+      "source_line": 61750,
+      "traditional": "毛遂自薦",
+      "simplified": "毛遂自荐",
+      "pinyin": "Mao2 Sui4 zi4 jian4",
+      "outcome": "deferred",
+      "reason": "The idiomatic meaning of volunteering one’s services is good, but the historical parenthesis repeats an uncertain recipient of Mao Sui’s self-recommendation. The note is on-topic. Defer the anecdote instead of certifying the King of Chu attribution merely because it is in the English.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Адресат самовисування в англійському поясненні історично сумнівний."
+      ]
+    },
+    {
+      "id": "7fe63bec370a7cf8",
+      "source_line": 97717,
+      "traditional": "蟠尾絲蟲症",
+      "simplified": "蟠尾丝虫症",
+      "pinyin": "pan2 wei3 si1 chong2 zheng4",
+      "outcome": "correction_proposed",
+      "reason": "WHO’s description supplies the missing infectious qualifier: the source overgeneralizes a ranking among infectious causes to all causes of blindness. Onchocerca volvulus and the disease name are otherwise accurately rendered. Source: https://espen.afro.who.int/updates-events/updates/niger-becomes-first-african-country-eliminate-onchocerciasis-public-health .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "онхоцеркоз, або «річкова сліпота», спричинений паразитичним філярійним червом Onchocerca volvulus; у джерелі названий другою за поширеністю причиною сліпоти в людей",
+          "after": "онхоцеркоз, або «річкова сліпота», спричинений паразитичним філярійним червом Onchocerca volvulus; друга за поширеністю інфекційна причина сліпоти у світі",
+          "reason": "WHO’s description supplies the missing infectious qualifier: the source overgeneralizes a ranking among infectious causes to all causes of blindness. Onchocerca volvulus and the disease name are otherwise accurately rendered. Source: https://espen.afro.who.int/updates-events/updates/niger-becomes-first-african-country-eliminate-onchocerciasis-public-health .",
+          "confidence": "high",
+          "issue_type": "source_factual_overstatement"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Твердження джерела про друге місце серед причин сліпоти потребує перевірки й, імовірно, має вужчий контекст.",
+          "after": "У джерелі пропущено обмеження «інфекційна»: ВООЗ називає онхоцеркоз другою провідною інфекційною причиною сліпоти, а не другою серед усіх причин.",
+          "reason": "WHO’s description supplies the missing infectious qualifier: the source overgeneralizes a ranking among infectious causes to all causes of blindness. Onchocerca volvulus and the disease name are otherwise accurately rendered. Source: https://espen.afro.who.int/updates-events/updates/niger-becomes-first-african-country-eliminate-onchocerciasis-public-health .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "2b39dabf1804d96e",
+      "source_line": 104064,
+      "traditional": "賴昌星",
+      "simplified": "赖昌星",
+      "pinyin": "Lai4 Chang1 xing1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian keeps the extradition year explicitly source-attributed, which is preferable to presenting it as independently verified. The 2008 date nevertheless remains unresolved. The note is a relevant, hedged historical warning and should not be deleted or converted to a guessed date.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Дата екстрадиції 2008 у джерелі, ймовірно, помилкова; потребує історичної перевірки."
+      ]
+    },
+    {
+      "id": "9f1c36b9d0ca09b8",
+      "source_line": 97716,
+      "traditional": "蟠尾絲蟲",
+      "simplified": "蟠尾丝虫",
+      "pinyin": "pan2 wei3 si1 chong2",
+      "outcome": "correction_proposed",
+      "reason": "As in the disease entry, the blindness ranking requires the qualifier infectious. The parasite’s Latin name is preserved and the note is resolved rather than removed. WHO evidence: https://espen.afro.who.int/updates-events/updates/niger-becomes-first-african-country-eliminate-onchocerciasis-public-health .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Onchocerca volvulus, паразитичний філярійний черв, що спричиняє онхоцеркоз, або «річкову сліпоту», описану в джерелі як другу за поширеністю причину сліпоти в людей",
+          "after": "Onchocerca volvulus, паразитичний філярійний черв, що спричиняє онхоцеркоз, або «річкову сліпоту», другу за поширеністю інфекційну причину сліпоти у світі",
+          "reason": "As in the disease entry, the blindness ranking requires the qualifier infectious. The parasite’s Latin name is preserved and the note is resolved rather than removed. WHO evidence: https://espen.afro.who.int/updates-events/updates/niger-becomes-first-african-country-eliminate-onchocerciasis-public-health .",
+          "confidence": "high",
+          "issue_type": "source_factual_overstatement"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Твердження джерела про друге місце серед причин сліпоти потребує перевірки й, імовірно, має вужчий контекст.",
+          "after": "У джерелі пропущено обмеження «інфекційна»: ВООЗ називає онхоцеркоз другою провідною інфекційною причиною сліпоти, а не другою серед усіх причин.",
+          "reason": "As in the disease entry, the blindness ranking requires the qualifier infectious. The parasite’s Latin name is preserved and the note is resolved rather than removed. WHO evidence: https://espen.afro.who.int/updates-events/updates/niger-becomes-first-african-country-eliminate-onchocerciasis-public-health .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "4b37ab6b764d2141",
+      "source_line": 13373,
+      "traditional": "函谷關",
+      "simplified": "函谷关",
+      "pinyin": "Han2 gu3 Guan1",
+      "outcome": "deferred",
+      "reason": "The pass and its strategic Qin context are clear, but 770–221 BCE is not a defensible unqualified date span for the Warring States alone. The Ukrainian flags the dates as source-supplied and the note correctly localizes the problem. Defer the historical periodization.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Дати 770–221 до н. е. у джерелі не відповідають звичайному датуванню саме періоду Воюючих царств."
+      ]
+    },
+    {
+      "id": "da9c6d8e376425a5",
+      "source_line": 53603,
+      "traditional": "晏嬰",
+      "simplified": "晏婴",
+      "pinyin": "Yan4 Ying1",
+      "outcome": "acceptable",
+      "reason": "Yan Ying’s alias, Qi connection and Yanzi Chunqiu reference are intact. Omitting the incompatible Warring States label is appropriate for the circa-500-BCE life date. The existing Spring-and-Autumn warning is specific to this entry and valid; no Ukrainian change is required.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "293e88b41c713eb6",
+      "source_line": 76648,
+      "traditional": "白求恩",
+      "simplified": "白求恩",
+      "pinyin": "Bai2 Qiu2 en1",
+      "outcome": "deferred",
+      "reason": "The translation accurately tracks the English, including its unverified claim that Bethune died in Yan’an. The note is appropriately tentative about the death location and must be retained. Defer that biographical geography instead of endorsing it through fluent translation.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Географію його смерті в джерелі, імовірно, подано неточно; збережено твердження джерела."
+      ]
+    },
+    {
+      "id": "6ef5b1e4d319ba13",
+      "source_line": 14988,
+      "traditional": "劉備",
+      "simplified": "刘备",
+      "pinyin": "Liu2 Bei4",
+      "outcome": "deferred",
+      "reason": "The person and 蜀漢 reference are correctly rendered, but circa 200 as the beginning of the kingdom and the later-dynasty wording may conflate different stages of Liu Bei’s rule. The existing note is relevant but does not resolve that distinction; defer the chronology.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Датування заснування царства Шу-Хань у джерелі приблизне й потребує перевірки."
+      ]
+    },
+    {
+      "id": "284b461f3c2c597c",
+      "source_line": 26889,
+      "traditional": "壤塘縣",
+      "simplified": "壤塘县",
+      "pinyin": "Rang3 tang2 Xian4",
+      "outcome": "deferred",
+      "reason": "The county, prefecture and Sichuan relationships are preserved, with the complete Chinese/pinyin cross-reference intact. Дзамтанг is a plausible Tibetan-based rendering, but an established Ukrainian form has not been verified. The note is accurate about that uncertainty; defer name standardization.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську усталену форму тибетського топоніма Zamthang не встановлено."
+      ]
+    },
+    {
+      "id": "9fa67b3f6a776314",
+      "source_line": 53606,
+      "traditional": "晏平仲",
+      "simplified": "晏平仲",
+      "pinyin": "Yan4 Ping2 zhong4",
+      "outcome": "acceptable",
+      "reason": "The alias relationship to Yan Ying/Yanzi, circa-500-BCE death and Qi reference are accurately conveyed. Removing the source’s anachronistic Warring States label is coherent with the Chinese identities. The relevant chronological warning is retained without requiring a new correction.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "f7f8ffe18e3edd45",
+      "source_line": 53738,
+      "traditional": "普氏野馬",
+      "simplified": "普氏野马",
+      "pinyin": "Pu3 shi4 ye3 ma3",
+      "outcome": "correction_proposed",
+      "reason": "The translation turns first identified into first scientifically described and gives that description to Przewalski. Altyn-Emel National Park’s historical account credits the 1881 scientific description to Ivan Polyakov using material obtained by Przewalski: https://altynemel.kz/index.php/en/about-the-park/history-and-goals/people . The note should distinguish those roles explicitly; the supplied Latin taxon and Chinese reference remain unchanged.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "кінь Пржевальського (Equus przewalskii), дикий кінь Центральної Азії, вперше описаний 1881 року Миколою Пржевальським 普爾熱瓦爾斯基|普尔热瓦尔斯基",
+          "after": "кінь Пржевальського (Equus przewalskii), дикий кінь Центральної Азії, науково описаний 1881 року Іваном Поляковим за матеріалами, отриманими Миколою Пржевальським 普爾熱瓦爾斯基|普尔热瓦尔斯基",
+          "reason": "The translation turns first identified into first scientifically described and gives that description to Przewalski. Altyn-Emel National Park’s historical account credits the 1881 scientific description to Ivan Polyakov using material obtained by Przewalski: https://altynemel.kz/index.php/en/about-the-park/history-and-goals/people . The note should distinguish those roles explicitly; the supplied Latin taxon and Chinese reference remain unchanged.",
+          "confidence": "high",
+          "issue_type": "source_factual_error"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Твердження про авторство першого опису подано за джерелом; його слід відрізняти від відкриття та наукового опису виду.",
+          "after": "Джерело пов’язує виявлення коня з Пржевальським; науковий опис 1881 року належить Івану Полякову. Виявлення тварини й авторство наукового опису слід розрізняти.",
+          "reason": "The translation turns first identified into first scientifically described and gives that description to Przewalski. Altyn-Emel National Park’s historical account credits the 1881 scientific description to Ivan Polyakov using material obtained by Przewalski: https://altynemel.kz/index.php/en/about-the-park/history-and-goals/people . The note should distinguish those roles explicitly; the supplied Latin taxon and Chinese reference remain unchanged.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "230236f8293302fd",
+      "source_line": 31685,
+      "traditional": "孫臏",
+      "simplified": "孙膑",
+      "pinyin": "Sun1 Bin4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian repeats the questionable School of Diplomacy attribution rather than merely rendering Sun Bin as a military strategist; the 425–221 period label also remains unverified. The existing note is on-topic and appropriately cautious. Preserve 縱橫家 and defer source reconciliation.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело зараховує Сунь Біня до школи дипломатів; традиційно він відомий як військовий стратег, тож атрибуція потребує перевірки.",
+        "Потребує звірки також наведене джерелом датування періоду Воюючих царств 425–221 до н. е."
+      ]
+    },
+    {
+      "id": "ea76f73fa5249aca",
+      "source_line": 30221,
+      "traditional": "如來",
+      "simplified": "如来",
+      "pinyin": "ru2 lai2",
+      "outcome": "deferred",
+      "reason": "Татхагата and the self-designation sense are recognizable, but the Sanskrit/Brahman and absolute glosses are doctrinal and etymological claims that cannot be validated by the English list alone. The note targets exactly that problem. Defer these interpretations rather than invent a substitute etymology.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Перелік санскритських тлумачень у джерелі, особливо згадка Брахмана, потребує перевірки."
+      ]
+    },
+    {
+      "id": "d69058f89910256a",
+      "source_line": 60593,
+      "traditional": "正鑲白旗",
+      "simplified": "正镶白旗",
+      "pinyin": "Zheng4 xiang1 bai2 qi2",
+      "outcome": "deferred",
+      "reason": "The administrative meaning and Xilingol reference are accurately preserved, and the Chinese name’s two banner components are recognizable in the explanation. The Mongolian-to-Ukrainian conventional spelling remains unverified, exactly as the note says. Defer that proper-name decision.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська форма монгольської назви потребує перевірки."
+      ]
+    },
+    {
+      "id": "a356fadc61851c2d",
+      "source_line": 51813,
+      "traditional": "斯維爾德洛夫",
+      "simplified": "斯维尔德洛夫",
+      "pinyin": "Si1 wei2 er3 de2 luo4 fu1",
+      "outcome": "deferred",
+      "reason": "The translation appropriately source-attributes the execution-order allegation, but the precise responsibility and cause of death remain historical questions. The note is relevant and cautious rather than demonstrably false. Defer the biography without removing its warning or strengthening the allegation.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Твердження про особистий наказ убивства та причину смерті передано як дані джерела; історичні деталі потребують перевірки."
+      ]
+    },
+    {
+      "id": "07e47530fa231f96",
+      "source_line": 71070,
+      "traditional": "燕雀焉知鴻鵠之志",
+      "simplified": "燕雀焉知鸿鹄之志",
+      "pinyin": "yan4 que4 yan1 zhi1 hong2 gu3 zhi1 zhi4",
+      "outcome": "deferred",
+      "reason": "The literal bird contrast and figurative small-fry/great-ambitions meaning are faithfully rendered. The note concerns the supplied gu3 pronunciation of 鵠 and is genuinely related to this idiom. Since the pronunciation discrepancy is unresolved and the pinyin must be preserved, defer rather than silently normalize it.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "У джерелі для 鵠 подано читання gu3; його розбіжність зі звичним читанням hu2 у цьому вислові потребує перевірки."
+      ]
+    },
+    {
+      "id": "a95a8142be6a1832",
+      "source_line": 33946,
+      "traditional": "射鵰英雄傳",
+      "simplified": "射雕英雄传",
+      "pinyin": "She4 Diao1 Ying1 xiong2 Zhuan4",
+      "outcome": "deferred",
+      "reason": "The author, genre and adaptations are translated adequately, but герої-кондори makes the heroes themselves condors and does not securely represent 射鵰, which concerns shooting the bird. No established Ukrainian title was verified. The existing title warning is relevant; retain it and defer a title replacement.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська назва твору потребує перевірки; наведено переклад англійської назви.",
+        "Форма «герої-кондори» семантично сумнівна: у 射鵰 йдеться про стрільбу по птаху, а не про героїв-птахів; потрібне рішення щодо описової чи видавничої назви."
+      ]
+    },
+    {
+      "id": "991bb954e1cf6ee2",
+      "source_line": 36004,
+      "traditional": "峰火臺",
+      "simplified": "峰火台",
+      "pinyin": "feng1 huo3 tai2",
+      "outcome": "deferred",
+      "reason": "The beacon-tower function, smoke by day and fire by night are translated well. However, 峰 versus 烽 is an unresolved headword orthography issue, not a Ukrainian wording problem. The note’s variant-or-error formulation is appropriately hedged; retain it and defer the source spelling.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Написання 峰火臺, імовірно, варіант або помилка замість 烽火臺."
+      ]
+    },
+    {
+      "id": "c688d0aa648f204c",
+      "source_line": 116342,
+      "traditional": "雚菌",
+      "simplified": "雚菌",
+      "pinyin": "huan2 jun1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian conveys a poisonous reed-associated fungus and traditional anti-ascarid use without an explicit promise of cure. The note is topical and correctly avoids identifying a species. Because the rare Chinese materia-medica identification and use have not been independently established, defer the niche factual sense.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Вид гриба в джерелі не визначено; згадку про медичне використання відтворено як лексичне пояснення."
+      ]
+    },
+    {
+      "id": "32e76ceaa598aca1",
+      "source_line": 124020,
+      "traditional": "黃花崗起義",
+      "simplified": "黄花岗起义",
+      "pinyin": "Huang2 hua1 gang3 qi3 yi4",
+      "outcome": "deferred",
+      "reason": "The uprising description is fluent but the main segment states 23 April 1911 while the note flags a competing 27 April date. The note is relevant; a guessed correction would not constitute source verification. Defer the precise date.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Дата повстання 23 квітня відтворена за джерелом; поширене датування 27 квітня потребує звірки."
+      ]
+    },
+    {
+      "id": "c26d2a5ca44e5688",
+      "source_line": 27653,
+      "traditional": "夢溪筆談",
+      "simplified": "梦溪笔谈",
+      "pinyin": "Meng4 Xi1 Bi3 tan2",
+      "outcome": "deferred",
+      "reason": "The descriptive title, Shen Kuo reference and multidisciplinary book sense are sound. The note properly limits the title’s status, but it does not settle the additional first-to-describe priority claim for the magnetic compass. Defer both the conventional title and that historical superlative.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську назву твору передано описово; усталену видавничу назву не встановлено.",
+        "Історичну першість опису компаса з магнітною стрілкою також не перевірено."
+      ]
+    },
+    {
+      "id": "a8f07e4a419ec460",
+      "source_line": 76953,
+      "traditional": "白鶴梁",
+      "simplified": "白鹤梁",
+      "pinyin": "Bai2 he4 liang2",
+      "outcome": "correction_proposed",
+      "reason": "UNESCO’s State Administration of Cultural Heritage submission locates Baiheliang in Fuling District, Chongqing, and describes seasonal low water. Update the obsolete Sichuan location and avoid equating every low-water period with drought. The note is on-topic and supported: https://whc.unesco.org/en/tentativelists/5341/ .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Байхелян, або «Хребет Білого Журавля», скеляста гряда зі знаменитими різьбленими написами на Янцзи біля Фуліна в Сичуані, що раніше виступала над водою в посушливі періоди",
+          "after": "Байхелян, або «Хребет Білого Журавля», скеляста гряда зі знаменитими різьбленими написами на Янцзи в районі Фулін міста Чунцін, що раніше виступала над водою під час межені",
+          "reason": "UNESCO’s State Administration of Cultural Heritage submission locates Baiheliang in Fuling District, Chongqing, and describes seasonal low water. Update the obsolete Sichuan location and avoid equating every low-water period with drought. The note is on-topic and supported: https://whc.unesco.org/en/tentativelists/5341/ .",
+          "confidence": "high",
+          "issue_type": "source_geography_and_word_sense"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Адміністративну прив'язку до Сичуаню подано за джерелом; Фулін нині належить Чунціну.",
+          "after": "Прив’язка до Сичуаню в джерелі застаріла: Байхелян розташований у районі Фулін міста Чунцін. Йдеться про сезонне зниження рівня води, не обов’язково про посуху.",
+          "reason": "UNESCO’s State Administration of Cultural Heritage submission locates Baiheliang in Fuling District, Chongqing, and describes seasonal low water. Update the obsolete Sichuan location and avoid equating every low-water period with drought. The note is on-topic and supported: https://whc.unesco.org/en/tentativelists/5341/ .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "7b0ff5c7da084c9b",
+      "source_line": 56753,
+      "traditional": "林森",
+      "simplified": "林森",
+      "pinyin": "Lin2 Sen1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian accurately renders Lin Sen’s identity but repeats an unverified 1928–1932 chairmanship span. The note identifies the correct issue and has no unrelated material. Defer the office chronology pending an authoritative biography.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Роки головування в джерелі потребують перевірки."
+      ]
+    },
+    {
+      "id": "e57010965f7f2604",
+      "source_line": 99505,
+      "traditional": "西康",
+      "simplified": "西康",
+      "pinyin": "Xi1 kang1",
+      "outcome": "deferred",
+      "reason": "The Kham/west-Sichuan description and Ya’an reference are preserved. The province’s establishment, end dates and changing capital are historical specifics not settled by this source; the note correctly flags them. Defer rather than validate the composite 1928–1949/Ya’an claim.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Дати існування та столицю провінції наведено за джерелом; історична періодизація потребує перевірки."
+      ]
+    },
+    {
+      "id": "b23c65d6d62a4cca",
+      "source_line": 102406,
+      "traditional": "護法戰爭",
+      "simplified": "护法战争",
+      "pinyin": "hu4 fa3 zhan4 zheng1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian recognizes 護法 as defending the constitution and explicitly warns that the English conflates another war. The note is on-topic and valuable. Because the source assigns a different event to the Chinese headword, the entry needs source-level reconciliation, not automatic acceptance of a rewritten history.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Китайська назва означає війну за захист конституції 1917–1922 років; англійське джерело плутає її з війною за захист республіки 1915–1916 років."
+      ]
+    },
+    {
+      "id": "17d7e36c7636b046",
+      "source_line": 117751,
+      "traditional": "青瓦臺",
+      "simplified": "青瓦台",
+      "pinyin": "Qing1 wa3 tai2",
+      "outcome": "correction_proposed",
+      "reason": "The note correctly warns that now a public park is time-sensitive. Official Korean sources document the office’s return in December 2025, so that statement is stale. Keep residence history separate from the verified return of the presidential office. Sources: https://www.korea.net/NewsFocus/policies/view?articleId=284777&koreanId=284755 and https://www.president.go.kr/briefings/Xmy6tZbh .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Блакитний дім (Чхонваде), колишня резиденція президента Південної Кореї в Сеулі (1948–2022), за джерелом нині громадський парк",
+          "after": "Блакитний дім (Чхонваде), резиденція президента Південної Кореї в Сеулі у 1948–2022 роках; у 2022 році відкритий для громадськості, а в грудні 2025 року знову став офісом президента",
+          "reason": "The note correctly warns that now a public park is time-sensitive. Official Korean sources document the office’s return in December 2025, so that statement is stale. Keep residence history separate from the verified return of the presidential office. Sources: https://www.korea.net/NewsFocus/policies/view?articleId=284777&koreanId=284755 and https://www.president.go.kr/briefings/Xmy6tZbh .",
+          "confidence": "high",
+          "issue_type": "outdated_source_information"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Відомості про нинішнє використання резиденції залежать від дати джерела й не перевірялися.",
+          "after": "Джерельне «нині громадський парк» застаріло: наприкінці грудня 2025 року президентський офіс повернувся до Чхонваде; це не тотожне підтвердженню переїзду особистої резиденції.",
+          "reason": "The note correctly warns that now a public park is time-sensitive. Official Korean sources document the office’s return in December 2025, so that statement is stale. Keep residence history separate from the verified return of the presidential office. Sources: https://www.korea.net/NewsFocus/policies/view?articleId=284777&koreanId=284755 and https://www.president.go.kr/briefings/Xmy6tZbh .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "ef65b39c45001500",
+      "source_line": 12908,
+      "traditional": "凍容",
+      "simplified": "冻容",
+      "pinyin": "dong4 rong2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian reproduces the sensational two-year-old anti-ageing claim without verifying it. The note is specifically relevant to reliability and prevalence; its caution is not false merely because it cannot resolve the claim. Defer the asserted definition rather than normalize an unsupported practice description.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Твердження про початок процедур із дворічного віку відтворено як опис у джерелі; достовірність і поширеність цієї практики не перевірено."
+      ]
+    },
+    {
+      "id": "77333ea700155e1e",
+      "source_line": 30122,
+      "traditional": "好學近乎知，力行近乎仁，知恥近乎勇",
+      "simplified": "好学近乎知，力行近乎仁，知耻近乎勇",
+      "pinyin": "hao4 xue2 jin4 hu1 zhi1 , li4 xing2 jin4 hu1 ren2 , zhi1 chi3 jin4 hu1 yong3",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian correctly follows 力行 as diligent action rather than the English study diligently. The parallel learning/humaneness/courage structure is intact; 知 can be rendered as knowledge here without forcing an unverified published quotation. The note accurately identifies the important English mismatch.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "dbd6e492f64e2f7b",
+      "source_line": 65236,
+      "traditional": "浮生六記",
+      "simplified": "浮生六记",
+      "pinyin": "Fu2 Sheng1 Liu4 Ji4",
+      "outcome": "deferred",
+      "reason": "The author reference and autobiographical/Qing-life sense are preserved, but the segment still source-attributes an unverified 1808 publication date. The note’s possible composition-date explanation is a legitimate hypothesis, not a reason to delete the note. Defer publication chronology and exact genre labeling.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерельну дату публікації 1808 року слід перевірити: вона може стосуватися написання твору."
+      ]
+    },
+    {
+      "id": "2bb9e8bb14882329",
+      "source_line": 104880,
+      "traditional": "趙樂際",
+      "simplified": "赵乐际",
+      "pinyin": "Zhao4 Le4 ji4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian leaves the two offices unqualified although the note warns that the biography may describe an earlier period. An official archival CCDI profile confirms the historic context but does not itself supply a reliable current endpoint (https://www.ccdi.gov.cn/xxgkn/ldjg/zlj/index.html). Retain the warning and defer the current-office wording rather than promoting an archived present tense.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Посади наведено за джерелом; вони можуть стосуватися минулого періоду."
+      ]
+    },
+    {
+      "id": "b597e0e1ded4f831",
+      "source_line": 45644,
+      "traditional": "抗日救亡運動",
+      "simplified": "抗日救亡运动",
+      "pinyin": "Kang4 Ri4 Jiu4 wang2 Yun4 dong4",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian correctly reads 九一八 as September 18, correcting the English July mismatch while preserving the exact traditional/simplified reference. The movement label and causal description are coherent. The note directly explains the internally demonstrable date correction and is valid.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "3b6e9c3aa9856ec5",
+      "source_line": 67227,
+      "traditional": "溥儀",
+      "simplified": "溥仪",
+      "pinyin": "Pu3 yi2",
+      "outcome": "deferred",
+      "reason": "The child-emperor identity and film reference are clear. The 1909–1911 reign span is explicitly source-attributed but remains chronologically unverified; the note is relevant. Defer the date range rather than confuse an era-year span with accession and abdication.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Дати правління 1909–1911 у джерелі потребують історичного уточнення."
+      ]
+    },
+    {
+      "id": "7e4f126d145d73d3",
+      "source_line": 88847,
+      "traditional": "老驥伏櫪，志在千里",
+      "simplified": "老骥伏枥，志在千里",
+      "pinyin": "lao3 ji4 fu2 li4 , zhi4 zai4 qian1 li3",
+      "outcome": "acceptable",
+      "reason": "The literal and figurative senses are accurately rendered, and 千里 correctly remains a thousand li rather than a thousand English miles. The full headword supports the unit directly. The note explains exactly that source-unit issue; no correction is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "a88d930a7b7a6220",
+      "source_line": 91730,
+      "traditional": "臨魁",
+      "simplified": "临魁",
+      "pinyin": "Lin2 kui2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian explicitly calls the Flame Emperors legendary and preserves both 炎帝 and 神農 references. The note appropriately warns that the date and sequence are traditional lore rather than established chronology. This is acceptable as a qualified legendary identification, not historical date validation.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "8f51f032ef28dcd0",
+      "source_line": 36468,
+      "traditional": "工業七國集團",
+      "simplified": "工业七国集团",
+      "pinyin": "Gong1 ye4 Qi1 guo2 Ji2 tuan2",
+      "outcome": "acceptable",
+      "reason": "The seven countries are correctly listed, and the G8 parenthesis is visibly quoted as a statement of the source rather than silently asserted as current. The note is on-topic and explains the outdated now. No Ukrainian correction is necessary for this explicitly historical-source presentation.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "c364b9365dbb21ca",
+      "source_line": 84524,
+      "traditional": "紀昀",
+      "simplified": "纪昀",
+      "pinyin": "Ji4 Yun2",
+      "outcome": "deferred",
+      "reason": "The author, supernatural subject and Chinese book reference are accurately conveyed; calling the contents stories avoids the English’s questionable single-novel label. However, the Ukrainian title remains an explicitly descriptive rendering without verified conventional status. The note is relevant, and title standardization is deferred.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську назву твору подано описовим перекладом."
+      ]
+    },
+    {
+      "id": "247259e82617b816",
+      "source_line": 96008,
+      "traditional": "薄瑞光",
+      "simplified": "薄瑞光",
+      "pinyin": "Bo2 Rui4 guang1",
+      "outcome": "correction_proposed",
+      "reason": "AIT’s own archived list and biography explicitly give Burghardt’s chairmanship as 2006–2016. Close the misleading open-ended date instead of leaving its currency merely uncertain. The note is valid but can now be resolved. Source: https://web-archive-2017.ait.org.tw/en/chair-burghardt.html .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Реймонд Бургардт (1945 р. н.), американський дипломат, посол у В'єтнамі у 2001–2004 роках, голова Американського інституту на Тайвані від 2006 року",
+          "after": "Реймонд Бургардт (нар. 1945), американський дипломат, посол у В'єтнамі у 2001–2004 роках, голова Американського інституту на Тайвані у 2006–2016 роках",
+          "reason": "AIT’s own archived list and biography explicitly give Burghardt’s chairmanship as 2006–2016. Close the misleading open-ended date instead of leaving its currency merely uncertain. The note is valid but can now be resolved. Source: https://web-archive-2017.ait.org.tw/en/chair-burghardt.html .",
+          "confidence": "high",
+          "issue_type": "outdated_source_information"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Біографічну посаду наведено за джерелом; її актуальність не перевірено.",
+          "after": "Відкрите датування головування «від 2006 року» в джерелі застаріле: офіційний архів Американського інституту на Тайвані вказує 2006–2016 роки.",
+          "reason": "AIT’s own archived list and biography explicitly give Burghardt’s chairmanship as 2006–2016. Close the misleading open-ended date instead of leaving its currency merely uncertain. The note is valid but can now be resolved. Source: https://web-archive-2017.ait.org.tw/en/chair-burghardt.html .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "504a72d4000f0902",
+      "source_line": 117843,
+      "traditional": "靖國神社",
+      "simplified": "靖国神社",
+      "pinyin": "Jing4 guo2 Shen2 she4",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian correctly uses commemoration rather than physical burial. The shrine’s own guide explicitly distinguishes enshrined spirits from tombs containing bodies or bones, supporting the note: https://www.yasukuni.or.jp/assets/pdf/yasukuni_guide_EN.pdf . The Tokyo/Shinto identification and controversy sense are preserved.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "cde5179231fe3c83",
+      "source_line": 56082,
+      "traditional": "李顯龍",
+      "simplified": "李显龙",
+      "pinyin": "Li3 Xian3 long2",
+      "outcome": "correction_proposed",
+      "reason": "Singapore’s Prime Minister’s Office gives Lee Hsien Loong’s tenure as August 2004 to May 2024. The open-ended from-2004 wording should be closed. The note is topical and now resolvable, and 李光耀[Li3 Guang1 yao4] is preserved. Source: https://www.pmo.gov.sg/about-us/past-prime-ministers/mr-lee-hsien-loong/ .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Лі Сяньлун (нар. 1952), сінгапурський політик Партії народної дії, старший син Лі Куан Ю 李光耀[Li3 Guang1 yao4], прем'єр-міністр від 2004 року",
+          "after": "Лі Сяньлун (нар. 1952), сінгапурський політик Партії народної дії, старший син Лі Куан Ю 李光耀[Li3 Guang1 yao4], прем'єр-міністр у 2004–2024 роках",
+          "reason": "Singapore’s Prime Minister’s Office gives Lee Hsien Loong’s tenure as August 2004 to May 2024. The open-ended from-2004 wording should be closed. The note is topical and now resolvable, and 李光耀[Li3 Guang1 yao4] is preserved. Source: https://www.pmo.gov.sg/about-us/past-prime-ministers/mr-lee-hsien-loong/ .",
+          "confidence": "high",
+          "issue_type": "outdated_source_information"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело не зазначає завершення прем'єрства; часовий опис може бути застарілим.",
+          "after": "Відкрите датування прем’єрства в джерелі застаріле: офіційна біографія вказує серпень 2004 — травень 2024 року.",
+          "reason": "Singapore’s Prime Minister’s Office gives Lee Hsien Loong’s tenure as August 2004 to May 2024. The open-ended from-2004 wording should be closed. The note is topical and now resolvable, and 李光耀[Li3 Guang1 yao4] is preserved. Source: https://www.pmo.gov.sg/about-us/past-prime-ministers/mr-lee-hsien-loong/ .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "56e444534985c892",
+      "source_line": 62970,
+      "traditional": "汨羅江",
+      "simplified": "汨罗江",
+      "pinyin": "Mi4 luo2 Jiang1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian preserves both river/lake references but reproduces a potentially contradictory tributary chain. The note appropriately distinguishes direct flow into Dongting from the source’s Xiang tributary claim. Defer the hydrological relationship instead of silently dropping 湘江.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Опис водної системи в джерелі потребує перевірки: Міло зазвичай описують як річку, що впадає безпосередньо в озеро Дунтін."
+      ]
+    },
+    {
+      "id": "155d0306c831c49e",
+      "source_line": 53605,
+      "traditional": "晏子春秋",
+      "simplified": "晏子春秋",
+      "pinyin": "Yan4 zi3 Chun1 qiu1",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian accurately conveys a book about Yanzi’s life and wisdom, preserves 晏子, and avoids the source’s anachronistic Warring States classification. The note is specific and appropriate. «Оповіді про Янь-цзи» is a transparent descriptive title matching the English gloss, not a claim of a verified Ukrainian edition.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "a38e92fb7c0caeb3",
+      "source_line": 56779,
+      "traditional": "林鄭",
+      "simplified": "林郑",
+      "pinyin": "Lin2 Zheng4",
+      "outcome": "correction_proposed",
+      "reason": "Official Hong Kong records establish Lam’s start in July 2017 and John Lee’s inauguration in July 2022; close the outdated tenure. The note is relevant and resolved. Sources: https://www.ceo.gov.hk/archive/5-term/eng/biography.html and https://www.info.gov.hk/gia/general/202207/01/P2022070100390.htm .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Керрі Лам (нар. 1957), голова адміністрації Гонконгу від 2017 року; повне ім'я 林鄭月娥|林郑月娥[Lin2 Zheng4 Yue4 e2], Керрі Лам Чен Юет-Нґор",
+          "after": "Керрі Лам (нар. 1957), голова адміністрації Гонконгу у 2017–2022 роках; повне ім'я 林鄭月娥|林郑月娥[Lin2 Zheng4 Yue4 e2], Керрі Лам Чен Юет-Нґор",
+          "reason": "Official Hong Kong records establish Lam’s start in July 2017 and John Lee’s inauguration in July 2022; close the outdated tenure. The note is relevant and resolved. Sources: https://www.ceo.gov.hk/archive/5-term/eng/biography.html and https://www.info.gov.hk/gia/general/202207/01/P2022070100390.htm .",
+          "confidence": "high",
+          "issue_type": "outdated_source_information"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Часовий опис у джерелі незавершений і може бути застарілим.",
+          "after": "Незавершений часовий опис у джерелі застарілий: Керрі Лам очолювала адміністрацію Гонконгу з липня 2017 до червня 2022 року.",
+          "reason": "Official Hong Kong records establish Lam’s start in July 2017 and John Lee’s inauguration in July 2022; close the outdated tenure. The note is relevant and resolved. Sources: https://www.ceo.gov.hk/archive/5-term/eng/biography.html and https://www.info.gov.hk/gia/general/202207/01/P2022070100390.htm .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "5f8f49f69da7df9a",
+      "source_line": 76928,
+      "traditional": "白香詞譜",
+      "simplified": "白香词谱",
+      "pinyin": "Bai2 xiang1 ci2 pu3",
+      "outcome": "correction_proposed",
+      "reason": "The source’s accessible poems means approachable poems, not merely available ones; 詞譜 refers to patterns for ci rather than necessarily surviving musical melodies. The Shu/Xu note is correct because the preserved surname is 舒. Propose a clearer lexical rendering without changing that reference or the supplied anthology date.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "«Байсян ципу», антологія мелодій і віршових форм ци (1795), укладена Шу Менланем 舒夢蘭|舒梦兰, зі 100 доступними віршами від доби Тан до Цін",
+          "after": "«Байсян ципу», збірка віршових форм ци (1795), укладена Шу Менланем 舒夢蘭|舒梦兰, зі 100 нескладними для сприйняття віршами від доби Тан до Цін",
+          "reason": "The source’s accessible poems means approachable poems, not merely available ones; 詞譜 refers to patterns for ci rather than necessarily surviving musical melodies. The Shu/Xu note is correct because the preserved surname is 舒. Propose a clearer lexical rendering without changing that reference or the supplied anthology date.",
+          "confidence": "high",
+          "issue_type": "word_sense_precision"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "6544ded0c7fb20a6",
+      "source_line": 114149,
+      "traditional": "闖王陵",
+      "simplified": "闯王陵",
+      "pinyin": "Chuang3 Wang2 ling2",
+      "outcome": "correction_proposed",
+      "reason": "The mausoleum, rebel leader and nickname are intelligibly translated and all references are intact. The existing note truthfully records the source pinyin but should explicitly identify the 自/Ze4 mismatch, so its retention is not mistaken for pronunciation approval. No source pinyin is changed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "У джерелі для Лі Цзичена наведено pinyin [Li3 Ze4 cheng2]; його збережено без змін.",
+          "after": "У джерельному посиланні 李自成[Li3 Ze4 cheng2] склад Ze4 не відповідає 自, яке тут читається zi4; помилковий джерельний піньїнь збережено без змін.",
+          "reason": "The mausoleum, rebel leader and nickname are intelligibly translated and all references are intact. The existing note truthfully records the source pinyin but should explicitly identify the 自/Ze4 mismatch, so its retention is not mistaken for pronunciation approval. No source pinyin is changed.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "ce6744040e14edbc",
+      "source_line": 61749,
+      "traditional": "毛遂",
+      "simplified": "毛遂",
+      "pinyin": "Mao2 Sui4",
+      "outcome": "deferred",
+      "reason": "The self-offering anecdote is translated clearly but the Chu ruler attribution is not resolved by the source. The note’s Pingyuan alternative is relevant and explicitly hedged; preserve it rather than deleting a plausible caution. Defer the anecdote while retaining 楚 and 毛遂自薦|毛遂自荐[Mao2 Sui4 zi4 jian4].",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Історична оповідь зазвичай пов'язує самовисування Мао Суя з князем Пін'юанем; адресат у джерелі може бути неточним."
+      ]
+    },
+    {
+      "id": "9cc10b3f92ab4620",
+      "source_line": 37527,
+      "traditional": "常德絲弦",
+      "simplified": "常德丝弦",
+      "pinyin": "Chang2 de2 si1 xian2",
+      "outcome": "deferred",
+      "reason": "The Changde dialect, singing and string accompaniment are all conveyed accurately. The genre label сисянь is a plausible transcription but has not been established as a conventional Ukrainian name. The note is on-topic; defer terminology standardization rather than label it certain.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталене українське передавання назви жанру не встановлено; подано транскрипцію китайського sixian."
+      ]
+    },
+    {
+      "id": "59f806308d178616",
+      "source_line": 101950,
+      "traditional": "諾矩羅",
+      "simplified": "诺矩罗",
+      "pinyin": "Nuo4 ju3 luo2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian preserves the possible immigrant status and the Qingshen/Sichuan location, and its personal-name transcription is plausible from the supplied pinyin. The note correctly states that the established Ukrainian form is unknown. Defer this rare-name identification rather than infer a Sanskrit equivalent or another monk.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська передача імені 諾矩羅 не встановлена; використано транскрипцію за піньїнем."
+      ]
+    },
+    {
+      "id": "50bacc90cd510c29",
+      "source_line": 27019,
+      "traditional": "夏敬渠",
+      "simplified": "夏敬渠",
+      "pinyin": "Xia4 Jing4 qu2",
+      "outcome": "deferred",
+      "reason": "The writer’s identity and Chinese novel reference are intact, and the Ukrainian title is a plausible descriptive rendering of 野叟曝言 rather than a literal copy of the English Humble Words. The note appropriately disclaims an established Ukrainian title; defer title standardization.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назву роману передано описово; усталений український переклад не встановлено."
+      ]
+    },
+    {
+      "id": "0290f7d4274cef4a",
+      "source_line": 53818,
+      "traditional": "普陀山",
+      "simplified": "普陀山",
+      "pinyin": "Pu3 tuo2 shan1",
+      "outcome": "acceptable",
+      "reason": "The translation follows 普陀山 as Mount Putuo, preserves Zhoushan and Guanyin references, and adequately paraphrases bodhimanda as a place of spiritual practice. The note correctly separates the Chinese place from the English Potala error. No further change is needed.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "8acb82af68e9bb3f",
+      "source_line": 80918,
+      "traditional": "福壽螺",
+      "simplified": "福寿螺",
+      "pinyin": "fu2 shou4 luo2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian preserves Ampullaria gigas spix exactly, as required, and accurately conveys the invasive rice-paddy damage. The scientific name’s relation to 福壽螺 is unresolved; the note’s outdated-or-inexact caution is justified and should remain. Do not substitute a guessed Pomacea species.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Наукова назва в джерелі застаріла або неточна; точне видове ототожнення потребує перевірки."
+      ]
+    },
+    {
+      "id": "9ba5dc1b5db1e0ca",
+      "source_line": 98342,
+      "traditional": "衛奕信",
+      "simplified": "卫奕信",
+      "pinyin": "Wei4 yi4 xin4",
+      "outcome": "deferred",
+      "reason": "The person, title, diplomacy and China-expertise senses are clear. The 1986 beginning of the governorship remains unverified and is exactly what the note flags. Defer the office chronology rather than accept a source date merely because the name matches.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Дати губернаторства наведено за джерелом; початковий рік 1986 потребує перевірки."
+      ]
+    },
+    {
+      "id": "4f21fdd6b86eb1d8",
+      "source_line": 112808,
+      "traditional": "鐵托",
+      "simplified": "铁托",
+      "pinyin": "Tie3 tuo1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian explicitly attributes the 1945–1980 presidential span to the source, and the note identifies the distinction between postwar leadership and the formal presidency. This is a relevant factual warning, not unrelated content. Defer historical date reconciliation rather than certify the quoted span.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "У джерелі президентство Тіто датовано 1945–1980; формально президентом він був із 1953 року."
+      ]
+    },
+    {
+      "id": "c6c3e35f65b22c0d",
+      "source_line": 116176,
+      "traditional": "雙子葉",
+      "simplified": "双子叶",
+      "pinyin": "shuang1 zi3 ye4",
+      "outcome": "acceptable",
+      "reason": "Дводольні correctly names a plant grouping rather than one family, and the two embryonic leaves and examples are intelligible. The note accurately explains the English taxonomic-rank mistake. No Latin taxon or separate family name has been invented.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "b348f5d845411061",
+      "source_line": 7374,
+      "traditional": "佛媛",
+      "simplified": "佛媛",
+      "pinyin": "fo2 yuan2",
+      "outcome": "correction_proposed",
+      "reason": "The parenthetical meaning is accurate, but буддійська шахрайка can present religious membership and criminal fraud as literal defining facts. 佛媛 is a pejorative internet label for the described self-promotional persona. Retain the negative register explicitly and use the descriptive sense; the existing neologism note is relevant.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "буддійська шахрайка-контентмейкерка (інтернет-інфлюенсерка, яка використовує буддійські образи для самореклами чи комерційної вигоди)",
+          "after": "(неол., зневажл.) інтернет-інфлюенсерка, яка використовує буддійські образи для самореклами чи комерційної вигоди",
+          "reason": "The parenthetical meaning is accurate, but буддійська шахрайка can present religious membership and criminal fraud as literal defining facts. 佛媛 is a pejorative internet label for the described self-promotional persona. Retain the negative register explicitly and use the descriptive sense; the existing neologism note is relevant.",
+          "confidence": "high",
+          "issue_type": "register_and_unsupported_implication"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталений окремий український відповідник не встановлено; запропоновано опис із явною стилістичною позначкою."
+      ]
+    },
+    {
+      "id": "17081228136e5c5a",
+      "source_line": 62835,
+      "traditional": "江南省",
+      "simplified": "江南省",
+      "pinyin": "Jiang1 nan2 sheng3",
+      "outcome": "deferred",
+      "reason": "The Ukrainian reproduces the source’s south-Jiangsu/south-Anhui/north-Zhejiang territory, which is not established as the historical Qing province’s extent. The existing note is specific and properly cautious. Defer the historical geography instead of silently substituting modern boundaries.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Територіальний опис джерела потребує історичної перевірки; звичайний опис провінції Цзяннань відрізняється."
+      ]
+    },
+    {
+      "id": "bf927267cc514eb3",
+      "source_line": 63144,
+      "traditional": "沈瑩",
+      "simplified": "沈莹",
+      "pinyin": "Shen3 Ying2",
+      "outcome": "deferred",
+      "reason": "The person, Wu affiliation and 臨海水土誌 reference are preserved. The title is explicitly descriptive, while the vague coastal-province governorship and 268–280 range have not been independently established. The original title note is valid; defer the precise historical identification and title convention.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українську назву твору подано описово.",
+        "Точна адміністративна посада, територія та датування 268–280 у джерелі не звірені з первинним історичним джерелом."
+      ]
+    },
+    {
+      "id": "b725a7b32bbe77fa",
+      "source_line": 112982,
+      "traditional": "鑲黃旗",
+      "simplified": "镶黄旗",
+      "pinyin": "Xiang1 huang2 qi2",
+      "outcome": "deferred",
+      "reason": "The banner’s administrative role and Xilingol reference are preserved. Ховот-Шар is a proposed Mongolian rendering, not a verified standard Ukrainian name. The existing note correctly targets that issue; defer name standardization without changing the Chinese name or reference.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українське відтворення монгольської назви потребує перевірки."
+      ]
+    },
+    {
+      "id": "8aaf54f5cca0b670",
+      "source_line": 71470,
+      "traditional": "爾雅",
+      "simplified": "尔雅",
+      "pinyin": "Er3 ya3",
+      "outcome": "deferred",
+      "reason": "Ер’я and the explanatory near-to-the-refined title are semantically plausible for 爾雅; the Chinese need not be forced into the English Ready Guide. Nevertheless, no established Ukrainian title was verified, as the note acknowledges. Defer the title convention rather than claiming a canonical published rendering.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська передача назви є пояснювальною; англійський варіант назви в джерелі — «The Ready Guide»."
+      ]
+    },
+    {
+      "id": "a97cb82543add823",
+      "source_line": 88846,
+      "traditional": "老驥伏櫪",
+      "simplified": "老骥伏枥",
+      "pinyin": "lao3 ji4 fu2 li4",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian accurately expresses the abbreviated idiom’s conventional expanded image and its older-person/high-aspirations sense. A thousand li is appropriate to the underlying 千里 continuation, rather than miles. The note explicitly explains this and is on-topic.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "f39407a50619b779",
+      "source_line": 107147,
+      "traditional": "近衛文麿",
+      "simplified": "近卫文麿",
+      "pinyin": "Jin4 wei4 Wen2 mo3",
+      "outcome": "correction_proposed",
+      "reason": "Japan’s National Diet Library gives Konoe Fumimaro’s lifespan as 1891–1945; replace the misleading birth-only display. The note’s death-year assertion is directly supported, and the source name/pinyin need no change. Source: https://www.ndl.go.jp/portrait/e/datas/81 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "князь Коное Фумімаро (нар. 1891), японський аристократ і мілітаристський політик, премʼєр-міністр у 1937–1939 і 1940–1941",
+          "after": "князь Коное Фумімаро (1891–1945), японський аристократ і мілітаристський політик, премʼєр-міністр у 1937–1939 і 1940–1941 роках",
+          "reason": "Japan’s National Diet Library gives Konoe Fumimaro’s lifespan as 1891–1945; replace the misleading birth-only display. The note’s death-year assertion is directly supported, and the source name/pinyin need no change. Source: https://www.ndl.go.jp/portrait/e/datas/81 .",
+          "confidence": "high",
+          "issue_type": "outdated_source_information"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Джерело містить лише рік народження, хоча особа померла 1945 року.",
+          "after": "У джерелі пропущено рік смерті; Національна парламентська бібліотека Японії підтверджує роки життя 1891–1945.",
+          "reason": "Japan’s National Diet Library gives Konoe Fumimaro’s lifespan as 1891–1945; replace the misleading birth-only display. The note’s death-year assertion is directly supported, and the source name/pinyin need no change. Source: https://www.ndl.go.jp/portrait/e/datas/81 .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "6fc7594f88ecf0ce",
+      "source_line": 48958,
+      "traditional": "摩亨佐·達羅",
+      "simplified": "摩亨佐·达罗",
+      "pinyin": "Mo2 heng1 zuo3 · da2 luo2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian wisely uses city rather than asserting a capital for the whole Indus civilization. UNESCO describes Moenjodaro as a major metropolis in Sindh and a World Heritage property: https://whc.unesco.org/en/list/138/ . The note’s caution about the stronger capital claim is relevant and appropriately limited.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "64bfb66a9b9dca78",
+      "source_line": 115960,
+      "traditional": "雅魯藏布大峽谷",
+      "simplified": "雅鲁藏布大峡谷",
+      "pinyin": "Ya3 lu3 zang4 bu4 Da4 xia2 gu3",
+      "outcome": "deferred",
+      "reason": "The Ukrainian repeats a canyon extending from Tibet to Assam and Bangladesh, which may conflate the gorge with the river’s much larger downstream course. The note is an appropriately hedged, on-topic warning. Defer the geographical extent rather than guessing new endpoints.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело може поширювати опис каньйону на весь нижній басейн Брахмапутри; географічний обсяг потребує перевірки."
+      ]
+    },
+    {
+      "id": "c9ce0001910af548",
+      "source_line": 38941,
+      "traditional": "建文",
+      "simplified": "建文",
+      "pinyin": "Jian4 Wen2",
+      "outcome": "deferred",
+      "reason": "The era name, emperor identity and 朱允炆 reference are clear, but the main segment treats 1402 as a certain death year despite the note’s disappearance/deposition warning. The note is relevant. Defer the lifespan and reign-versus-era distinction pending historical source reconciliation.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Рік смерті Чжу Юньвеня достеменно невідомий; 1402 у джерелі — рік його усунення та зникнення."
+      ]
+    },
+    {
+      "id": "8fbe471072716a56",
+      "source_line": 123435,
+      "traditional": "鹹水妹",
+      "simplified": "咸水妹",
+      "pinyin": "xian2 shui3 mei4",
+      "outcome": "deferred",
+      "reason": "The dialect/prostitution and Guangdong/Shanghai senses are conveyed clearly, but the handsome maid etymology is presented in the gloss while the note rightly says it is unverified. Defer the loanword origin rather than accepting a folk-etymology possibility as established.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Запропонована джерелом англійська етимологія не перевірена."
+      ]
+    },
+    {
+      "id": "f4db7aaa279adf6f",
+      "source_line": 95384,
+      "traditional": "蒙代爾",
+      "simplified": "蒙代尔",
+      "pinyin": "Meng2 dai4 er3",
+      "outcome": "correction_proposed",
+      "reason": "The source’s open lifespan is outdated. A US congressional record explicitly records Mondale’s death on 19 April 2021: https://www.govinfo.gov/content/pkg/CREC-2021-04-21/pdf/CREC-2021-04-21.pdf . The existing note is accurate and can be resolved with the closing year.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Волтер Мондейл (1928 р. н.), американський політик-демократ, віцепрезидент США у 1977–1981 роках і посол у Японії у 1993–1996 роках",
+          "after": "Волтер Мондейл (1928–2021), американський політик-демократ, віцепрезидент США у 1977–1981 роках і посол у Японії у 1993–1996 роках",
+          "reason": "The source’s open lifespan is outdated. A US congressional record explicitly records Mondale’s death on 19 April 2021: https://www.govinfo.gov/content/pkg/CREC-2021-04-21/pdf/CREC-2021-04-21.pdf . The existing note is accurate and can be resolved with the closing year.",
+          "confidence": "high",
+          "issue_type": "outdated_source_information"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Рік смерті Волтера Мондейла не зазначений у джерелі; біографічна інформація застаріла.",
+          "after": "У джерелі пропущено рік смерті: Волтер Мондейл помер 2021 року, що зафіксовано в офіційному Congressional Record.",
+          "reason": "The source’s open lifespan is outdated. A US congressional record explicitly records Mondale’s death on 19 April 2021: https://www.govinfo.gov/content/pkg/CREC-2021-04-21/pdf/CREC-2021-04-21.pdf . The existing note is accurate and can be resolved with the closing year.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "66dae2a786979778",
+      "source_line": 100780,
+      "traditional": "許慎",
+      "simplified": "许慎",
+      "pinyin": "Xu3 Shen4",
+      "outcome": "deferred",
+      "reason": "The dictionary-compiler identity and 說文解字 reference are preserved. The death year 147 remains a specific unresolved historical claim; the note correctly identifies that uncertainty. Defer the date rather than choosing one of the differing scholarly chronologies without evidence.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Рік смерті 147 наведено за джерелом; датування життя Сюй Шеня потребує історичної перевірки."
+      ]
+    },
+    {
+      "id": "906f641de3a035fb",
+      "source_line": 18967,
+      "traditional": "古箏",
+      "simplified": "古筝",
+      "pinyin": "gu3 zheng1",
+      "outcome": "deferred",
+      "reason": "The instrument and Chinese guqin reference are preserved, but the problem is both the Tang/Song dating and the alleged derivation from guqin. The current note is relevant but too narrow; expand it without asserting an unverified replacement history.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Наведене у джерелі датування походження інструмента потребує перевірки.",
+          "after": "Датування походження ґучжена добою Тан і Сун та твердження про його розвиток із ґуціня в джерелі потребують окремої історичної перевірки.",
+          "reason": "The instrument and Chinese guqin reference are preserved, but the problem is both the Tang/Song dating and the alleged derivation from guqin. The current note is relevant but too narrow; expand it without asserting an unverified replacement history.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Датування походження ґучжена добою Тан і Сун та твердження про його розвиток із ґуціня в джерелі потребують окремої історичної перевірки."
+      ]
+    },
+    {
+      "id": "db67ff922b448b2b",
+      "source_line": 119257,
+      "traditional": "額爾古納河",
+      "simplified": "额尔古纳河",
+      "pinyin": "E2 er3 gu3 na4 He2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian explicitly attributes the Mongolia/Heilongjiang geography to the source, while the note correctly signals a geographic inconsistency. However, the proper modern extent and confluence relationship have not been independently settled here. Defer the repair and preserve the 黑龍江 reference rather than substituting another river silently.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Географія джерела неточна: Аргунь протікає у Внутрішній Монголії та вздовж російсько-китайського кордону; не слід читати наведене як перевірену сучасну довідку."
+      ]
+    },
+    {
+      "id": "dd350fa4da30f7d3",
+      "source_line": 24005,
+      "traditional": "回腸",
+      "simplified": "回肠",
+      "pinyin": "hui2 chang2",
+      "outcome": "acceptable",
+      "reason": "Клубова кишка, порожня кишка and сліпа кишка correctly match 回腸, 空腸 and 盲腸; all supplied references remain intact. NCI confirms that the ileum connects to the cecum, supporting the note’s correction of appendix: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/ileum .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "e9a4c99b3ee14250",
+      "source_line": 44360,
+      "traditional": "扇蝦",
+      "simplified": "扇虾",
+      "pinyin": "shan4 xia1",
+      "outcome": "deferred",
+      "reason": "The source genera Ibacus and Parribacus and the slipper-lobster family context are retained, but віяловий омар has not been established as Ukrainian zoological terminology. The note is directly relevant; defer the vernacular name and family rendering rather than guessing a conventional lobster/langoustine term.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українська родова назва тут описова; усталений відповідник fan lobster потребує перевірки."
+      ]
+    },
+    {
+      "id": "8668ca853ae515bc",
+      "source_line": 68091,
+      "traditional": "漲停",
+      "simplified": "涨停",
+      "pinyin": "zhang3 ting2",
+      "outcome": "deferred",
+      "reason": "The price-reaching-a-daily-upper-limit sense is correctly conveyed. The note properly warns that trading at a price limit is not universally the same as a trading halt. The source-attributed halt clause still requires exchange-specific validation, so defer this claim rather than make an unconditional market-rule statement.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Автоматичне призупинення торгів після досягнення ліміту залежить від біржових правил; узагальнення джерела потребує перевірки."
+      ]
+    },
+    {
+      "id": "044cb95f3ac10119",
+      "source_line": 79298,
+      "traditional": "石渠閣",
+      "simplified": "石渠阁",
+      "pinyin": "Shi2 qu2 ge2",
+      "outcome": "deferred",
+      "reason": "The main gloss treats 石渠閣 as a cabinet meeting, while the note correctly observes that the Chinese directly names a pavilion. The claimed establishment of the Five Classics as state canon is an additional historical claim not resolved by metonymy alone. Retain the note and defer the institutional event description.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Назва буквально позначає павільйон Шицюй; джерело вживає її як назву наради.",
+        "Потрібно перевірити не лише метонімічну назву наради, а й твердження про встановлення державного канону саме 51 року до н. е."
+      ]
+    },
+    {
+      "id": "cce0f11c8d2d7d91",
+      "source_line": 100279,
+      "traditional": "解深密經",
+      "simplified": "解深密经",
+      "pinyin": "Jie3 shen1 mi4 jing1",
+      "outcome": "deferred",
+      "reason": "The Ukrainian identifies a Buddhist sutra but normalizes a corrupted Sanskrit-looking English string and repeats an unverified Wisdom of Buddha publication title. The note is specific and justified. Defer standard Sanskrit/Ukrainian naming and title attribution rather than manufacture a canonical form.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Українське написання санскритської назви й наведена англійська назва перекладу потребують перевірки."
+      ]
+    },
+    {
+      "id": "47be282a06165ced",
+      "source_line": 123421,
+      "traditional": "鹵代烴",
+      "simplified": "卤代烃",
+      "pinyin": "lu3 dai4 ting1",
+      "outcome": "acceptable",
+      "reason": "The broader Ukrainian halogenated-hydrocarbon sense follows 鹵代烴 and accommodates chlorobenzene, unlike narrowly alkane-only wording. The note correctly describes that scope issue. China’s environment-ministry technical explanation explicitly includes saturated, unsaturated and aromatic classes: https://www.mee.gov.cn/gkml/hbb/bgth/201802/W020180211332487071111.pdf .",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "6bfdadd375022935",
+      "source_line": 34749,
+      "traditional": "小花遠志",
+      "simplified": "小花远志",
+      "pinyin": "xiao3 hua1 yuan3 zhi4",
+      "outcome": "deferred",
+      "reason": "Both supplied Latin identifications are preserved exactly. The Ukrainian common name істод and the equivalence of Polygala arvensis Willd. with P. telephioides for 小花遠志 have not been validated; the root-use claim is also specialized. The note is relevant and should remain. Defer instead of guessing a standard Ukrainian plant name.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Усталена українська назва та наведена в джерелі таксономічна відповідність потребують перевірки."
+      ]
+    },
+    {
+      "id": "ee0b65fa7ad38d2d",
+      "source_line": 37099,
+      "traditional": "布哈林",
+      "simplified": "布哈林",
+      "pinyin": "Bu4 ha1 lin2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian avoids repeating the English’s 1937 trial year and otherwise conveys Bukharin’s identity accurately. The note is relevant to that omitted date, but the trial chronology has not been independently established in this review. Defer historical validation rather than treating omission as proof that every source detail is resolved.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": [
+        "Джерело датує суд 1937 роком; показовий процес над Бухаріним відбувся 1938 року."
+      ]
+    },
+    {
+      "id": "7b0a8369b46311cc",
+      "source_line": 22813,
+      "traditional": "單子葉",
+      "simplified": "单子叶",
+      "pinyin": "dan1 zi3 ye4",
+      "outcome": "acceptable",
+      "reason": "Однодольні рослини correctly translates the plant grouping and сім’ядоля is the appropriate embryonic-leaf term. The grass/orchid/lily examples are preserved. The note accurately corrects the English family rank without inventing a new taxon; no change is required.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "827b793e63a9dcee",
+      "source_line": 89281,
+      "traditional": "聖女貞德",
+      "simplified": "圣女贞德",
+      "pinyin": "Sheng4 nu:3 Zhen1 de2",
+      "outcome": "deferred",
+      "reason": "The Ukrainian repeats the simplified joint Burgundian/English execution narrative and the witch label. The existing note correctly targets the first simplification but should also flag the precise trial charge. Defer those historical/legal descriptions rather than certify them from the English.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Історичне формулювання джерела спрощує роль бургундців: вони полонили Жанну, а суд і страту організувала англійська сторона.",
+          "after": "Історичне формулювання джерела спрощує роль бургундців у полоненні та подальшому суді й страті Жанни. Окремо потребує перевірки юридична точність формули «страчена як відьма».",
+          "reason": "The Ukrainian repeats the simplified joint Burgundian/English execution narrative and the witch label. The existing note correctly targets the first simplification but should also flag the precise trial charge. Defer those historical/legal descriptions rather than certify them from the English.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Історичне формулювання джерела спрощує роль бургундців у полоненні та подальшому суді й страті Жанни. Окремо потребує перевірки юридична точність формули «страчена як відьма»."
+      ]
+    },
+    {
+      "id": "8d13ede28d850820",
+      "source_line": 104068,
+      "traditional": "賴清德",
+      "simplified": "赖清德",
+      "pinyin": "Lai4 Qing1 de2",
+      "outcome": "correction_proposed",
+      "reason": "The official presidential website gives Lai Ching-te’s vice-presidential tenure as 20 May 2020 to 20 May 2024. Close the open-ended office date; no need to add a new current-office claim to repair this sense. The note is relevant and resolved. Source: https://english.president.gov.tw/Page/82 .",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "Вільям Лай Цінде (нар. 1959), тайванський політик Демократичної прогресивної партії, віцепрезидент Китайської Республіки з 2020 року",
+          "after": "Вільям Лай Цінде (нар. 1959), тайванський політик Демократичної прогресивної партії, віцепрезидент Китайської Республіки у 2020–2024 роках",
+          "reason": "The official presidential website gives Lai Ching-te’s vice-presidential tenure as 20 May 2020 to 20 May 2024. Close the open-ended office date; no need to add a new current-office claim to repair this sense. The note is relevant and resolved. Source: https://english.president.gov.tw/Page/82 .",
+          "confidence": "high",
+          "issue_type": "outdated_source_information"
+        }
+      ],
+      "note_corrections": [
+        {
+          "before": "Відкрите датування посади «з 2020 року» збережено за джерелом і може бути застарілим.",
+          "after": "Відкрите датування віцепрезидентства в джерелі застаріле: офіційний перелік вказує 20 травня 2020 — 20 травня 2024 року.",
+          "reason": "The official presidential website gives Lai Ching-te’s vice-presidential tenure as 20 May 2020 to 20 May 2024. Close the open-ended office date; no need to add a new current-office claim to repair this sense. The note is relevant and resolved. Source: https://english.president.gov.tw/Page/82 .",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "a8bd8ed7352ef2f9",
+      "source_line": 119259,
+      "traditional": "額爾齊斯河",
+      "simplified": "额尔齐斯河",
+      "pinyin": "E2 er3 qi2 si1 He2",
+      "outcome": "correction_proposed",
+      "reason": "The note’s basin-versus-direct-ocean distinction is relevant, but до басейну awkwardly implies the river starts outside its own drainage basin. Recast basin membership as an attribute while preserving every route component, without adding a new confluence claim.",
+      "confidence": "high",
+      "segment_corrections": [
+        {
+          "segment_index": 0,
+          "before": "річка Іртиш, що тече з південно-західного Алтаю в Сіньцзяні через Казахстан і Сибір до басейну Північного Льодовитого океану",
+          "after": "річка Іртиш у басейні Північного Льодовитого океану, що тече з південно-західного Алтаю в Сіньцзяні через Казахстан і Сибір",
+          "reason": "The note’s basin-versus-direct-ocean distinction is relevant, but до басейну awkwardly implies the river starts outside its own drainage basin. Recast basin membership as an attribute while preserving every route component, without adding a new confluence claim.",
+          "confidence": "high",
+          "issue_type": "geographic_relation_wording"
+        }
+      ],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "ff6b4cbbd95b69ea",
+      "source_line": 32237,
+      "traditional": "宋祁",
+      "simplified": "宋祁",
+      "pinyin": "Song4 Qi2",
+      "outcome": "acceptable",
+      "reason": "«Нова історія Тан» correctly follows 新唐書 rather than confusing New Tang with the separate Later Tang polity. Song Qi’s name and dates and the exact book reference are preserved. The note accurately explains this Chinese-versus-English title discrepancy.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    },
+    {
+      "id": "74de180a40a857a9",
+      "source_line": 98109,
+      "traditional": "行不從徑",
+      "simplified": "行不从径",
+      "pinyin": "xing2 bu4 cong2 jing4",
+      "outcome": "deferred",
+      "reason": "The Ukrainian reverses the English figurative meaning. The existing note treats the positive honest-conduct reading as settled, but 徑 can denote a path or shortcut and the exact 行不從徑 expression must not be conflated with related 行不由徑. Primary-text attestations exist at https://ctext.org/dictionary.pl?char=%E5%BE%91&if=en but do not by themselves settle this dictionary sense. Narrow the note to the actual unresolved polarity conflict and defer both glosses.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [
+        {
+          "before": "Англійський сегмент тлумачить ідіому як пошук короткого шляху, що суперечить її звичному значенню чесної поведінки; переклад орієнтовано на китайський вислів.",
+          "after": "Англійський глос подає пошук короткого шляху, а український — відмову від нього; ці тлумачення протилежні. Значення саме 行不從徑 і його можливе змішування зі спорідненими висловами потребують перевірки за контекстом; український варіант не слід вважати вже підтвердженим.",
+          "reason": "The Ukrainian reverses the English figurative meaning. The existing note treats the positive honest-conduct reading as settled, but 徑 can denote a path or shortcut and the exact 行不從徑 expression must not be conflated with related 行不由徑. Primary-text attestations exist at https://ctext.org/dictionary.pl?char=%E5%BE%91&if=en but do not by themselves settle this dictionary sense. Narrow the note to the actual unresolved polarity conflict and defer both glosses.",
+          "confidence": "high"
+        }
+      ],
+      "remaining_uncertainty": [
+        "Англійський глос подає пошук короткого шляху, а український — відмову від нього; ці тлумачення протилежні. Значення саме 行不從徑 і його можливе змішування зі спорідненими висловами потребують перевірки за контекстом; український варіант не слід вважати вже підтвердженим."
+      ]
+    },
+    {
+      "id": "de74bc6e9305ff16",
+      "source_line": 114737,
+      "traditional": "阿的平",
+      "simplified": "阿的平",
+      "pinyin": "a1 di4 ping2",
+      "outcome": "acceptable",
+      "reason": "The Ukrainian accurately identifies quinacrine/atabrine and uses the neutral засіб for giardiasis, avoiding the source’s questionable antibiotic classification without losing the indicated use. The note is topical; CDC lists quinacrine among medicines used for Giardia infection: https://www.cdc.gov/giardia/hcp/clinical-care/index.html . This is lexical description, not a treatment recommendation.",
+      "confidence": "high",
+      "segment_corrections": [],
+      "note_corrections": [],
+      "remaining_uncertainty": []
+    }
+  ]
+}

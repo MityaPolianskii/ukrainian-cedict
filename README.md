@@ -4,9 +4,9 @@
 
 ## Review progress · 18 October 2026
 
-A later model-review pass has **52,013 / 125,264 entries (41.52%)** and **83,494 / 199,737 meaning segments (41.80%)** in accepted review records. This includes 809 completed batches and 237 prior exact-hash reviews. The latest accepted batch is dated 17 October, 19:42 UTC; the ledger and every accepted batch were reconciled on 18 October.
+A later model-review pass has **65,837 / 125,264 entries (52.56%)** and **105,387 / 199,737 meaning segments (52.76%)** in accepted review records. This includes 1,025 completed batches and 237 prior exact-hash reviews. The latest batch was accepted on 18 October at 10:51 UTC; every accepted batch and the ledger were reconciled at 10:52 UTC.
 
-The entry judgments are 48,293 unchanged, 1,346 correction-proposed and 2,374 held. Segment judgments are 79,447 unchanged, 1,437 correction-proposed and 2,610 held. Held entries include linguistic uncertainty and earlier app-mapping restrictions. **Coverage includes held judgments; it does not certify correctness.** Another 73,251 entries / 116,243 segments await accepted review. Human validation remains zero.
+The entry judgments are 61,329 unchanged, 1,775 correction-proposed and 2,733 held. Segment judgments are 100,486 unchanged, 1,888 correction-proposed and 3,013 held. Held entries include linguistic uncertainty and earlier app-mapping restrictions. **Coverage includes held judgments; it does not certify correctness.** Another 59,427 entries / 94,350 segments await accepted review. Human validation remains zero.
 
 These are review-progress counts, not changes to the download. The dictionary and CSV retain the 15 October release bytes and its 3,211 recorded model reviews. The two review counts overlap and must not be added. New correction proposals have not been applied to the public corpus. The `review_progress` section of [progress.json](progress.json) records the separately verified totals; its other fields retain the frozen release counts and hashes. Only aggregate progress is published here.
 

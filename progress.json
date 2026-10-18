@@ -59,40 +59,40 @@
     "translation_prompt.txt": "c7c59adec59bbd7f841f3b19f40b7604c5afa0adbfaa8ed1de88ecbf65a63926"
   },
   "review_progress": {
-    "verified_at_utc": "2026-10-18T07:00:44.121677+00:00",
-    "accepted_through_utc": "2026-10-17T19:42:52.656866+00:00",
+    "verified_at_utc": "2026-10-18T10:52:38.592080+00:00",
+    "accepted_through_utc": "2026-10-18T10:51:54.207543+00:00",
     "status": "partial_model_review",
     "source_revision": "bc3734b0be5d3d088e79384b5155f52f8b7f61a3",
     "source_dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
     "source_records": 125264,
     "source_segments": 199737,
     "accepted_model_review": {
-      "records": 52013,
-      "segments": 83494,
-      "completed_batches": 809,
+      "records": 65837,
+      "segments": 105387,
+      "completed_batches": 1025,
       "carried_exact_hash_records": 237,
       "record_dispositions": {
-        "accept": 48293,
-        "correct": 1346,
-        "quarantine": 2374
+        "accept": 61329,
+        "correct": 1775,
+        "quarantine": 2733
       },
       "segment_decisions": {
-        "accept": 79447,
-        "correct": 1437,
-        "quarantine": 2610
+        "accept": 100486,
+        "correct": 1888,
+        "quarantine": 3013
       }
     },
-    "coverage_percent_records": 41.5227,
-    "coverage_percent_segments": 41.802,
+    "coverage_percent_records": 52.5586,
+    "coverage_percent_segments": 52.7629,
     "remaining": {
-      "records": 73251,
-      "segments": 116243
+      "records": 59427,
+      "segments": 94350
     },
     "human_validated_records": 0,
     "corrections_applied_to_public_corpus": false,
     "published_dictionary_changed": false,
     "quality_score": null,
-    "accepted_batch_index_sha256": "5e702e85cbb325fae4f3044ab6cf809ea30fbc51a41cfe3351be74fc79620a04",
+    "accepted_batch_index_sha256": "ea43a13405a7ba4dd4b1d4ba8dfc314dee534890cb5eadedd33dd072e4022eea",
     "counting_rule": "Only completed batches with passing acceptance receipts and matching source/input/output hashes, plus exact-hash carried reviews. Coverage includes accepted, correction-proposed and held judgments. Unaccepted work is excluded. Do not add these counts to the frozen release counts.",
     "publication_scope": "Aggregate progress only. Review proposals, private ledgers and task logs are not published here. The dictionary, CSV, original flags, active notes and frozen review evidence retain their published bytes.",
     "internal_app_subset": {

@@ -4,9 +4,9 @@
 
 ## Review progress · 18 October 2026
 
-A later model-review pass has **65,837 / 125,264 entries (52.56%)** and **105,387 / 199,737 meaning segments (52.76%)** in accepted review records. This includes 1,025 completed batches and 237 prior exact-hash reviews. The latest batch was accepted on 18 October at 10:51 UTC; every accepted batch and the ledger were reconciled at 10:52 UTC.
+A later model-review pass has **100,525 / 125,264 entries (80.25%)** and **160,433 / 199,737 meaning segments (80.32%)** in accepted review records. This includes 1,567 completed batches and 237 prior exact-hash reviews. The latest batch was accepted on 18 October at 14:51 UTC; every accepted batch and the ledger were reconciled at 14:56 UTC.
 
-The entry judgments are 61,329 unchanged, 1,775 correction-proposed and 2,733 held. Segment judgments are 100,486 unchanged, 1,888 correction-proposed and 3,013 held. Held entries include linguistic uncertainty and earlier app-mapping restrictions. **Coverage includes held judgments; it does not certify correctness.** Another 59,427 entries / 94,350 segments await accepted review. Human validation remains zero.
+The entry judgments are 94,001 unchanged, 2,787 correction-proposed and 3,737 held. Segment judgments are 153,384 unchanged, 2,948 correction-proposed and 4,101 held. Held entries include linguistic uncertainty and earlier app-mapping restrictions. **Coverage includes held judgments; it does not certify correctness.** Another 24,739 entries / 39,304 segments await accepted review. Human validation remains zero.
 
 These are review-progress counts, not changes to the download. The dictionary and CSV retain the 15 October release bytes and its 3,211 recorded model reviews. The two review counts overlap and must not be added. New correction proposals have not been applied to the public corpus. The `review_progress` section of [progress.json](progress.json) records the separately verified totals; its other fields retain the frozen release counts and hashes. Only aggregate progress is published here.
 

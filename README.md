@@ -2,6 +2,16 @@
 
 125,264 entries and 199,737 aligned English–Ukrainian meaning segments cover 100% of the **pinned CC-CEDICT source**, not a measured accuracy rate. Chinese, pinyin, English and source fields are preserved. Ukrainian translations remain a machine draft. **Zero entries are human validated; app runtime use is not approved.**
 
+## Review progress · 18 October 2026
+
+A later model-review pass has **52,013 / 125,264 entries (41.52%)** and **83,494 / 199,737 meaning segments (41.80%)** in accepted review records. This includes 809 completed batches and 237 prior exact-hash reviews. The latest accepted batch is dated 17 October, 19:42 UTC; the ledger and every accepted batch were reconciled on 18 October.
+
+The entry judgments are 48,293 unchanged, 1,346 correction-proposed and 2,374 held. Segment judgments are 79,447 unchanged, 1,437 correction-proposed and 2,610 held. Held entries include linguistic uncertainty and earlier app-mapping restrictions. **Coverage includes held judgments; it does not certify correctness.** Another 73,251 entries / 116,243 segments await accepted review. Human validation remains zero.
+
+These are review-progress counts, not changes to the download. The dictionary and CSV retain the 15 October release bytes and its 3,211 recorded model reviews. The two review counts overlap and must not be added. New correction proposals have not been applied to the public corpus. The `review_progress` section of [progress.json](progress.json) records the separately verified totals; its other fields retain the frozen release counts and hashes. Only aggregate progress is published here.
+
+A separate internal TestFlight subset contains 44,808 records / 71,399 segments. It is smaller than the accepted review coverage and is not a public Ukrainian App Store release. Missing Ukrainian meanings use labelled English fallback; Ukrainian example translations are not bundled. The full public draft remains unapproved for runtime use.
+
 ## Current files
 
 - [dictionary.json](dictionary.json) and [dictionary.csv](dictionary.csv): current translations, original flags and active notes.
@@ -10,7 +20,7 @@
 - [CURRENT_EDITORIAL_FOLLOWUP.json](CURRENT_EDITORIAL_FOLLOWUP.json): 882 distinct priority entries for further editorial work.
 - [FINAL_FLAGGED_REVIEW_REPORT.md](FINAL_FLAGGED_REVIEW_REPORT.md): frozen review report; [NOTE_REVIEW_LEDGER.json](NOTE_REVIEW_LEDGER.json): note dispositions and provenance, including inactive originals. The ledger is **not** an active annotation source.
 
-## What was reviewed
+## What was reviewed in the 15 October download
 
 The targeted pass reviewed all 2,534 originally flagged entries (3,677 segments). It applied 459 high-confidence segment corrections across 456 entries. Cumulative recorded model review covers 3,211 distinct entries, including earlier work; cumulative correction counters record 965 operations across 879 entries. The 122,730 originally unflagged entries were outside this pass. Model metadata records requested models, without independent backend attestation.
 
@@ -26,7 +36,7 @@ Frozen reports retain their original private/pending-release timestamps and word
 
 ## Help improve it
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md) and use the [issue templates](https://github.com/MityaPolianskii/ukrainian-cedict/issues/new/choose). Reports and proposed corrections are welcome; a finished translation is optional. The Laowai app currently offers English and French dictionaries. This public draft is not integrated into the app.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) and use the [issue templates](https://github.com/MityaPolianskii/ukrainian-cedict/issues/new/choose). Reports and proposed corrections are welcome; a finished translation is optional. The public Laowai app offers English and French dictionaries. Ukrainian is in separate internal testing; the complete public draft is not integrated into the app.
 
 ## Source and licence
 

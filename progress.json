@@ -57,5 +57,51 @@
     "dictionary.csv": "6aed4feda697997536733b40d39bc591433b3960c063a92daefd599462093939",
     "source.json": "6a2099fa9eb9a5ced59ee3d3c09a9a1fb7f1fa87efd2acbd9aa3f8c9f334cc41",
     "translation_prompt.txt": "c7c59adec59bbd7f841f3b19f40b7604c5afa0adbfaa8ed1de88ecbf65a63926"
+  },
+  "review_progress": {
+    "verified_at_utc": "2026-10-18T07:00:44.121677+00:00",
+    "accepted_through_utc": "2026-10-17T19:42:52.656866+00:00",
+    "status": "partial_model_review",
+    "source_revision": "bc3734b0be5d3d088e79384b5155f52f8b7f61a3",
+    "source_dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+    "source_records": 125264,
+    "source_segments": 199737,
+    "accepted_model_review": {
+      "records": 52013,
+      "segments": 83494,
+      "completed_batches": 809,
+      "carried_exact_hash_records": 237,
+      "record_dispositions": {
+        "accept": 48293,
+        "correct": 1346,
+        "quarantine": 2374
+      },
+      "segment_decisions": {
+        "accept": 79447,
+        "correct": 1437,
+        "quarantine": 2610
+      }
+    },
+    "coverage_percent_records": 41.5227,
+    "coverage_percent_segments": 41.802,
+    "remaining": {
+      "records": 73251,
+      "segments": 116243
+    },
+    "human_validated_records": 0,
+    "corrections_applied_to_public_corpus": false,
+    "published_dictionary_changed": false,
+    "quality_score": null,
+    "accepted_batch_index_sha256": "5e702e85cbb325fae4f3044ab6cf809ea30fbc51a41cfe3351be74fc79620a04",
+    "counting_rule": "Only completed batches with passing acceptance receipts and matching source/input/output hashes, plus exact-hash carried reviews. Coverage includes accepted, correction-proposed and held judgments. Unaccepted work is excluded. Do not add these counts to the frozen release counts.",
+    "publication_scope": "Aggregate progress only. Review proposals, private ledgers and task logs are not published here. The dictionary, CSV, original flags, active notes and frozen review evidence retain their published bytes.",
+    "internal_app_subset": {
+      "records": 44808,
+      "segments": 71399,
+      "scope": "Separate internal TestFlight subset; not the public App Store release or the full reviewed set.",
+      "human_validation": false,
+      "missing_ukrainian": "Labelled English fallback",
+      "ukrainian_example_translations_bundled": false
+    }
   }
 }

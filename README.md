@@ -2,15 +2,17 @@
 
 125,264 entries and 199,737 aligned English–Ukrainian meaning segments cover 100% of the **pinned CC-CEDICT source**, not a measured accuracy rate. Chinese, pinyin, English and source fields are preserved. Ukrainian translations remain a machine draft. **Zero entries are human validated; app runtime use is not approved.**
 
-## Review progress · 18 October 2026
+## Review progress · 19 October 2026
 
-A later model-review pass has **100,525 / 125,264 entries (80.25%)** and **160,433 / 199,737 meaning segments (80.32%)** in accepted review records. This includes 1,567 completed batches and 237 prior exact-hash reviews. The latest batch was accepted on 18 October at 14:51 UTC; every accepted batch and the ledger were reconciled at 14:56 UTC.
+Accepted model-review records now cover **125,264 original entries / 199,737 meaning segments**. All **8,291 correction or held-entry targets** received source-bound Sol follow-up. New or newly resolved final translations also received a different Sol validator. Qualified corpus translations contain **122,073 records**; **3,191 whole records** remain excluded with explicit reasons. Coverage includes held judgments and does not measure linguistic accuracy. Human validation remains zero.
 
-The entry judgments are 94,001 unchanged, 2,787 correction-proposed and 3,737 held. Segment judgments are 153,384 unchanged, 2,948 correction-proposed and 4,101 held. Held entries include linguistic uncertainty and earlier app-mapping restrictions. **Coverage includes held judgments; it does not certify correctness.** Another 24,739 entries / 39,304 segments await accepted review. Human validation remains zero.
+The corrected translations are published as a [separate overlay](review-overlays/2026-10-18-sol-resolved/README.md). **The original dictionary.json, CSV and frozen historical evidence retain their existing bytes.** Their historical review counts overlap with this later review and must not be added. Use the overlay's source-bound review evidence and validator when applying its qualified translations; do not merge held records into qualified output.
 
-These are review-progress counts, not changes to the download. The dictionary and CSV retain the 15 October release bytes and its 3,211 recorded model reviews. The two review counts overlap and must not be added. New correction proposals have not been applied to the public corpus. The `review_progress` section of [progress.json](progress.json) records the separately verified totals; its other fields retain the frozen release counts and hashes. Only aggregate progress is published here.
+Another **1,758 English app-baseline meanings** form a separate source universe: **1,623 qualified / 135 held**. Their actual English input, database identity and CC-CEDICT-derived provenance are preserved. These additions do not increase the original 125,264-record coverage count.
 
-A separate internal TestFlight subset contains 44,808 records / 71,399 segments. It is smaller than the accepted review coverage and is not a public Ukrainian App Store release. Missing Ukrainian meanings use labelled English fallback; Ukrainian example translations are not bundled. The full public draft remains unapproved for runtime use.
+The runtime mapping audit accounts for every one of **124,725 existing English/French app entries**: **121,420 qualified / 3,305 requiring labelled English fallback**. Another 2,297 original corpus records have no strict app counterpart. All 13 bundled HSK lists have a private term/readings audit with concrete unresolved reasons. The public projection contains aggregate counts and exact audit/catalog hashes; it omits list membership, ordering and per-term app IDs while their separate redistribution lineage remains unresolved. It does not certify official HSK completeness, preferred-reading coverage or an accuracy percentage. Runtime source qualification and actual App Store availability have separate delivery receipts. The original full machine draft is not itself approved for runtime use.
+
+The [overlay manifest](review-overlays/2026-10-18-sol-resolved/manifest.json), [runtime and HSK coverage](review-overlays/2026-10-18-sol-resolved/runtime-coverage.json) and [progress.json](progress.json) retain the separately counted results. The overlay includes no Tatoeba example texts or audio and makes no new public app-release claim.
 
 ## Current files
 

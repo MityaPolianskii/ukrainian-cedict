@@ -59,49 +59,39 @@
     "translation_prompt.txt": "c7c59adec59bbd7f841f3b19f40b7604c5afa0adbfaa8ed1de88ecbf65a63926"
   },
   "review_progress": {
-    "verified_at_utc": "2026-10-18T14:56:04.729789+00:00",
-    "accepted_through_utc": "2026-10-18T14:51:30.865004+00:00",
-    "status": "partial_model_review",
-    "source_revision": "bc3734b0be5d3d088e79384b5155f52f8b7f61a3",
+    "schema_version": 2,
+    "verified_at_utc": "2026-10-19T04:45:04.495668+00:00",
     "source_dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
-    "source_records": 125264,
-    "source_segments": 199737,
     "accepted_model_review": {
-      "records": 100525,
-      "segments": 160433,
-      "completed_batches": 1567,
-      "carried_exact_hash_records": 237,
-      "record_dispositions": {
-        "accept": 94001,
-        "correct": 2787,
-        "quarantine": 3737
-      },
-      "segment_decisions": {
-        "accept": 153384,
-        "correct": 2948,
-        "quarantine": 4101
-      }
+      "records": 125264,
+      "segments": 199737
     },
-    "coverage_percent_records": 80.2505,
-    "coverage_percent_segments": 80.3221,
     "remaining": {
-      "records": 24739,
-      "segments": 39304
+      "records": 0,
+      "segments": 0
     },
     "human_validated_records": 0,
-    "corrections_applied_to_public_corpus": false,
+    "linguistic_accuracy_certified": false,
+    "coverage_includes_held_judgments": true,
     "published_dictionary_changed": false,
-    "quality_score": null,
-    "accepted_batch_index_sha256": "4c5a61f06897ebb80d6be597d9660c9eb9849c6e233facdd00d445469e8c72b8",
-    "counting_rule": "Only completed batches with passing acceptance receipts and matching source/input/output hashes, plus exact-hash carried reviews. Coverage includes accepted, correction-proposed and held judgments. Unaccepted work is excluded. Do not add these counts to the frozen release counts.",
-    "publication_scope": "Aggregate progress only. Review proposals, private ledgers and task logs are not published here. The dictionary, CSV, original flags, active notes and frozen review evidence retain their published bytes.",
-    "internal_app_subset": {
-      "records": 44808,
-      "segments": 71399,
-      "scope": "Separate internal TestFlight subset; not the public App Store release or the full reviewed set.",
-      "human_validation": false,
-      "missing_ukrainian": "Labelled English fallback",
-      "ukrainian_example_translations_bundled": false
-    }
+    "qualified_overlay_path": "review-overlays/2026-10-18-sol-resolved",
+    "qualified_overlay_manifest_sha256": "1380bd6db28226931d5f1425586f45e66bf2965b5e6f9a79b228623e81dcc01a",
+    "corpus_eligible_records": 122073,
+    "corpus_held_records": 3191,
+    "correction_and_held_resolution_targets": 8291,
+    "separate_baseline_reviewed_records": 1758,
+    "separate_baseline_eligible_records": 1623,
+    "separate_baseline_held_records": 135,
+    "runtime_qualified_entries": 121420,
+    "runtime_unmapped_entries": 3305,
+    "source_without_strict_app_counterpart": 2297,
+    "all_13_hsk_lists_audited": true,
+    "public_hsk_coverage_scope": "aggregate_counts_only",
+    "hsk_membership_metadata_included": false,
+    "reviewer_models": [
+      "gpt-6-astra",
+      "gpt-6.1-sol"
+    ],
+    "scope": "Original source coverage, whole-record eligibility, separate app-baseline translations and runtime coverage are distinct counts."
   }
 }

@@ -1,6 +1,14 @@
 # Chinese–Ukrainian dictionary · machine draft
 
-125,264 entries and 199,737 aligned English–Ukrainian meaning segments cover 100% of the **pinned CC-CEDICT source**, not a measured accuracy rate. Chinese, pinyin, English and source fields are preserved. Ukrainian translations remain a machine draft. **Zero entries are human validated; app runtime use is not approved.**
+125,264 entries and 199,737 aligned English–Ukrainian meaning segments cover 100% of the **pinned CC-CEDICT source**, not a measured accuracy rate. Chinese, pinyin, English and source fields are preserved. Ukrainian translations remain a machine draft. **Zero entries are human validated. The original full draft is not approved for direct runtime use; qualified translations are distributed separately.**
+
+## Current maintenance status · 25 October 2026
+
+Ukrainian support is publicly available in Laowai. The US App Store lists **5.3.16**, released 24 October 2026, with Apple, Google and email sign-in and app/website sync. The [online dictionary](https://laowaiapp.com/dictionary/#lang=uk) uses the app-admitted Ukrainian dataset; [the project page](https://laowaiapp.com/ukrainian-dictionary/) explains the downloads and their limits. This delivery status does not approve held translations or establish human validation. See [STATUS.json](STATUS.json) for dated sources and separately counted coverage.
+
+The translated source remains pinned to **13 October 2026 / 125,264 entries**. MDBG reported **23 October 2026 / 125,314 entries** when checked on 25 October: a net difference of 50, not an exact count of added or changed meanings. No newer source has been imported or translated in this maintenance update. A source refresh must compare exact headword, reading and English meanings, then review changed translations in a new overlay. Existing 100% coverage applies only to the pinned source.
+
+Run `python3 -B scripts/check_release.py` from a complete checkout to verify the frozen draft, the resolved overlay and current status together. This checks both publication layers without changing their frozen validators. Automated CI and recurring upstream synchronization are not configured.
 
 ## Review progress · 19 October 2026
 
@@ -16,10 +24,11 @@ The [overlay manifest](review-overlays/2026-10-18-sol-resolved/manifest.json), [
 
 ## Current files
 
-- [dictionary.json](dictionary.json) and [dictionary.csv](dictionary.csv): current translations, original flags and active notes.
+- [review-overlays/2026-10-18-sol-resolved/](review-overlays/2026-10-18-sol-resolved/README.md): latest qualified translations and held decisions.
+- [dictionary.json](dictionary.json) and [dictionary.csv](dictionary.csv): frozen 15 October machine draft, original flags and draft annotations.
 - [progress.json](progress.json): counts and current data hashes; [SHA256SUMS.txt](SHA256SUMS.txt): complete publication inventory.
-- [CURRENT_REVIEW_QUEUE.json](CURRENT_REVIEW_QUEUE.json): all 2,534 originally flagged entries, using current text.
-- [CURRENT_EDITORIAL_FOLLOWUP.json](CURRENT_EDITORIAL_FOLLOWUP.json): 882 distinct priority entries for further editorial work.
+- [CURRENT_REVIEW_QUEUE.json](CURRENT_REVIEW_QUEUE.json): historical 15 October queue of 2,534 originally flagged entries; it is not the current overlay backlog.
+- [CURRENT_EDITORIAL_FOLLOWUP.json](CURRENT_EDITORIAL_FOLLOWUP.json): historical 882-entry follow-up queue; use the overlay held records for current unresolved translations.
 - [FINAL_FLAGGED_REVIEW_REPORT.md](FINAL_FLAGGED_REVIEW_REPORT.md): frozen review report; [NOTE_REVIEW_LEDGER.json](NOTE_REVIEW_LEDGER.json): note dispositions and provenance, including inactive originals. The ledger is **not** an active annotation source.
 
 ## What was reviewed in the 15 October download
@@ -38,7 +47,7 @@ Frozen reports retain their original private/pending-release timestamps and word
 
 ## Help improve it
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md) and use the [issue templates](https://github.com/MityaPolianskii/ukrainian-cedict/issues/new/choose). Reports and proposed corrections are welcome; a finished translation is optional. The public Laowai app offers English and French dictionaries. Ukrainian is in separate internal testing; the complete public draft is not integrated into the app.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) and use the [issue templates](https://github.com/MityaPolianskii/ukrainian-cedict/issues/new/choose). Reports and proposed corrections are welcome; a finished translation is optional. The public Laowai app and website offer Ukrainian lookup using qualified, source-bound translations and labelled English fallback. The complete raw machine draft is not the runtime dataset. For current unresolved work, start with the [3,191 held original-source records](review-overlays/2026-10-18-sol-resolved/corpus/held-records.json.gz) and the separate [135 held app-baseline records](review-overlays/2026-10-18-sol-resolved/baseline-held-records.json.gz). Report the final overlay text when present; identify historical draft text explicitly.
 
 ## Source and licence
 

@@ -99,5 +99,12 @@ def check_release(root):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
+    parser.add_argument("--status-only", action="store_true",
+                        help="Check current counts and source bindings only; does not replay or verify corpus files")
     arguments = parser.parse_args()
-    check_release(arguments.root.resolve())
+    root = arguments.root.resolve()
+    if arguments.status_only:
+        print(json.dumps({"status": "passed", "mode": "status_metadata_only",
+                          "corpus_replay_performed": False, "coverage": validate_status(root)}))
+    else:
+        check_release(root)

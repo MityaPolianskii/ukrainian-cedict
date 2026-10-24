@@ -41,7 +41,7 @@ def validate_status(root):
         "runtime_english_fallback_entries": review["runtime_unmapped_entries"],
         "human_validated_records": review["human_validated_records"],
     }
-    require(status["coverage"] == expected, "Current status differs from source-bound overlay counts")
+    require(status["coverage"] == expected, "Historical overlay coverage differs from its source-bound counts")
     require(status["pinned_source"]["release"] == source["source_release"]
             and status["pinned_source"]["entries"] == source["source_entries"], "Pinned source differs")
     require(status["source_dictionary_sha256"] == progress["data_sha256"]["dictionary.json"]
@@ -50,7 +50,24 @@ def validate_status(root):
             "Current overlay binding differs")
     require(status["human_validation"] is False and status["linguistic_accuracy_certified"] is False,
             "Unsupported human or accuracy claim")
-    require(status["upstream_observation"]["imported"] is False
+    refresh = status["current_refresh"]
+    relative = Path(refresh["path"])
+    require(not relative.is_absolute() and ".." not in relative.parts, "Unsafe refresh path")
+    current = read(root / relative / "manifest.json")
+    require(refresh["manifest_sha256"] == hashlib.sha256((root / relative / "manifest.json").read_bytes()).hexdigest(),
+            "Current refresh manifest binding differs")
+    require(refresh["counts"] == current["counts"], "Current refresh counts differ")
+    require(current["source_dictionary_sha256"] == status["source_dictionary_sha256"]
+            and current["prior_overlay_manifest_sha256"] == status["overlay_manifest_sha256"],
+            "Refresh legacy source binding differs")
+    require(current["runtime_approved"] is False and current["linguistic_accuracy_certified"] is False,
+            "Unsupported refresh approval claim")
+    require(current["counts"]["human_gloss_approved_records"] == 3
+            and current["counts"]["human_chinese_validated_records"] == 0,
+            "Human review scope differs")
+    require(status["upstream_observation"]["imported"] is True
+            and status["upstream_observation"]["release"] == current["upstream_release"]
+            and status["upstream_observation"]["entries"] == current["counts"]["upstream_records"]
             and status["upstream_observation"]["net_entry_difference"]
             == status["upstream_observation"]["entries"] - source["source_entries"], "Upstream scope differs")
     require(status["app_store_observation"]["publicly_available"] is True
@@ -92,7 +109,11 @@ def check_release(root):
         overlay = package / read(package / "progress.json")["review_progress"]["qualified_overlay_path"]
         subprocess.run([sys.executable, "-B", str(overlay / "validate.py"), str(overlay),
                         "--source", str(package / "dictionary.json")], check=True)
+        subprocess.run([sys.executable, "-B", str(package / "scripts/test_refresh_release.py")], check=True)
+        subprocess.run([sys.executable, "-B", str(package / "scripts/refresh_release.py"), "validate",
+                        "--root", str(package)], check=True)
     print(json.dumps({"status": "passed", "frozen_draft_and_resolved_overlay": True,
+                      "current_refresh_replayed": True,
                       "current_status_consistent": True, "coverage": coverage}))
 
 

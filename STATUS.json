@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-25",
+  "status": "published_model_reviewed_draft",
+  "source_dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
+  "overlay_manifest_sha256": "1380bd6db28226931d5f1425586f45e66bf2965b5e6f9a79b228623e81dcc01a",
+  "human_validation": false,
+  "linguistic_accuracy_certified": false,
+  "original_draft_runtime_approved": false,
+  "pinned_source": {
+    "release": "2026-10-13T08:59:07Z",
+    "entries": 125264,
+    "metadata": "source.json"
+  },
+  "coverage": {
+    "original_records": 125264,
+    "original_segments": 199737,
+    "qualified_original_records": 122073,
+    "held_original_records": 3191,
+    "separate_baseline_records": 1758,
+    "qualified_baseline_records": 1623,
+    "held_baseline_records": 135,
+    "app_baseline_entries": 124725,
+    "qualified_runtime_entries": 121420,
+    "runtime_english_fallback_entries": 3305,
+    "human_validated_records": 0
+  },
+  "app_store_observation": {
+    "version": "5.3.16",
+    "released_at": "2026-10-24T13:58:20Z",
+    "storefront": "us",
+    "publicly_available": true,
+    "source_url": "https://itunes.apple.com/lookup?id=1549549251&country=us",
+    "listing_url": "https://apps.apple.com/us/app/laowai-chinese-dictionary/id1549549251",
+    "scope": "Public storefront version and release-note observation; exact shipped dictionary counts are not established by the listing."
+  },
+  "website": {
+    "project": "https://laowaiapp.com/ukrainian-dictionary/",
+    "ukrainian_project": "https://laowaiapp.com/uk/chinese-ukrainian-dictionary/",
+    "lookup": "https://laowaiapp.com/dictionary/#lang=uk",
+    "runtime_source_manifest": "https://laowaiapp.com/assets/dictionary/20261022-native1/manifest.json"
+  },
+  "upstream_observation": {
+    "release": "2026-10-23T23:15:44Z",
+    "entries": 125314,
+    "net_entry_difference": 50,
+    "imported": false,
+    "source_url": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict",
+    "scope": "Dated upstream page observation. The net count is not a record-level diff. No latest-source coverage or translation claim."
+  },
+  "next_work": [
+    "Resolve 3,191 held original-source records and 135 separate app-baseline records with source-bound review.",
+    "Compare a verified newer CC-CEDICT snapshot by identity and English meanings; review changes in a new overlay.",
+    "Establish and record human validation; no human checks have been claimed."
+  ],
+  "verification_command": "python3 -B scripts/check_release.py",
+  "frozen_evidence_policy": "Preserve original draft, review evidence, validators and overlay bytes. Current status and documentation are maintained separately."
+}

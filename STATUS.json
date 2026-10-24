@@ -1,7 +1,7 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "checked_on": "2026-10-25",
-  "status": "published_model_reviewed_draft",
+  "status": "published_source_refresh_with_model_reviewed_revisions",
   "source_dictionary_sha256": "166a286a68f278b73c3307284dbee879451c262608b1cbe0f8e9d6eca2d4474b",
   "overlay_manifest_sha256": "1380bd6db28226931d5f1425586f45e66bf2965b5e6f9a79b228623e81dcc01a",
   "human_validation": false,
@@ -44,15 +44,59 @@
     "release": "2026-10-23T23:15:44Z",
     "entries": 125314,
     "net_entry_difference": 50,
-    "imported": false,
+    "imported": true,
     "source_url": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict",
-    "scope": "Dated upstream page observation. The net count is not a record-level diff. No latest-source coverage or translation claim."
+    "scope": "Verified gzip imported and compared by case-sensitive headword/reading identity and exact English segments. Added83, retired33, changed English77; all 160 added/changed records independently model reviewed.",
+    "gzip_sha256": "e6e14c761ebc1e66ae2ad7b08fc4c577d6927472bb059d70db6111f0c06abee9"
   },
   "next_work": [
-    "Resolve 3,191 held original-source records and 135 separate app-baseline records with source-bound review.",
-    "Compare a verified newer CC-CEDICT snapshot by identity and English meanings; review changes in a new overlay.",
-    "Establish and record human validation; no human checks have been claimed."
+    "Resolve 2,042 remaining original-source and 11 remaining app-baseline parent holds using exact lexical evidence.",
+    "Expand human English-to-Ukrainian gloss review and recruit qualified Chinese-language validators.",
+    "Map the new release and accepted source corrections to the app separately before shipping runtime changes."
   ],
   "verification_command": "python3 -B scripts/check_release.py",
-  "frozen_evidence_policy": "Preserve original draft, review evidence, validators and overlay bytes. Current status and documentation are maintained separately."
+  "frozen_evidence_policy": "Preserve original draft, review evidence, validators and overlay bytes. Current status and documentation are maintained separately.",
+  "coverage_scope": "Historical 19 October overlay and app mapping; preserved for comparison. Current project counts are in current_refresh.",
+  "current_refresh": {
+    "path": "source-updates/2026-10-25",
+    "manifest_sha256": "1d04b4530b524eeb17c8189d840181b87a6d8a139b44d8ed3c8878310676405c",
+    "counts": {
+      "added_records": 83,
+      "changed_english_records": 77,
+      "held_baseline_records_reaudited": 135,
+      "held_exact_upstream_records": 3023,
+      "held_original_records_reaudited": 3191,
+      "human_chinese_validated_records": 0,
+      "human_gloss_approved_records": 3,
+      "overlapping_revision_target_identities": 2,
+      "qualified_exact_upstream_records": 122291,
+      "qualified_revision_candidates": 1266,
+      "resolved_baseline_parents": 124,
+      "resolved_original_parents": 1149,
+      "retired_original_parents": 6,
+      "retired_records": 33,
+      "reviewed_new_or_changed_records": 160,
+      "revision_target_identities": 1264,
+      "unchanged_english_records": 125154,
+      "unresolved_baseline_parents": 11,
+      "unresolved_original_parents": 2042,
+      "upstream_records": 125314,
+      "upstream_replaced_original_parents": 1,
+      "upstream_segments": 199726
+    },
+    "scope": "Exact upstream translations and separately qualified source corrections; not a shipped app mapping.",
+    "runtime_approved": false,
+    "source_release": "2026-10-23T23:15:44Z"
+  },
+  "legacy_fields_scope": {
+    "pinned_source": "Frozen 13 October source retained for historical reproducibility; current source is current_refresh.source_release.",
+    "coverage": "Historical 19 October overlay and app mapping.",
+    "human_validation": "No corpus-wide human Chinese-language validation; the three English-to-Ukrainian gloss approvals are in human_validation_scope."
+  },
+  "human_validation_scope": {
+    "english_source_to_ukrainian_gloss_approved_records": 3,
+    "chinese_language_validated_records": 0,
+    "evidence": "source-updates/2026-10-25/human-validation.json",
+    "scope": "Maintainer approval of the displayed three-entry English-to-Ukrainian gloss batch. No general Chinese validation or accuracy claim."
+  }
 }

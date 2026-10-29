@@ -1,8 +1,8 @@
-# Переклади Laowai для розгляду · 28 жовтня 2026
+# Переклади Laowai для розгляду · 28–29 жовтня 2026
 
-Пропонуємо **3 184 переклади цілих словникових статей**, звірені з точним китайським написанням, піньїнем і всіма англійськими значеннями публічного CC-CEDICT від 23 жовтня 2026.
+Пропонуємо **3 186 переклади цілих словникових статей**, звірені з точним китайським написанням, піньїнем і всіма англійськими значеннями публічного CC-CEDICT від 23 жовтня 2026.
 
-- **3 018** записів наразі відкладені в публічній версії словника.
+- **3 020** записів наразі відкладені в публічній версії словника.
 - **166** — альтернативи до вже кваліфікованих перекладів. Поточні варіанти не перезаписано.
 - Нової людської валідації немає. `human_validation` і `runtime_approved` залишаються `false`.
 
@@ -38,6 +38,6 @@ python3 -B scripts/check_release.py
 
 ## English summary
 
-3,184 source-bound record-level Ukrainian translation proposals: 3,018 for currently held exact-upstream records and 166 alternatives to existing qualified translations. The current 122,291-record release and all frozen history remain unchanged. Drafting primarily used GPT-6.1 Terra xhigh; different-agent semantic review and source/draft/final-target integrity checks were performed. New human validation is zero and runtime approval remains false. Model metadata is not independently attested and model review is not a measured accuracy percentage.
+3,186 source-bound record-level Ukrainian translation proposals: 3,020 for currently held exact-upstream records and 166 alternatives to existing qualified translations. The current 122,291-record release and all frozen history remain unchanged. Drafting primarily used GPT-6.1 Terra xhigh; different-agent semantic review and source/draft/final-target integrity checks were performed. New human validation is zero and runtime approval remains false. Model metadata is not independently attested and model review is not a measured accuracy percentage.
 
 JSON, CSV and XML contain the same complete record-level glosses; they are not falsely labelled as one-to-one sense segmentation. Unresolved or source-mismatched items are excluded. Integration into the existing per-sense release remains a separate editorial step. Original upstream contributors and licence are retained.

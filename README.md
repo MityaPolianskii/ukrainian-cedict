@@ -2,6 +2,10 @@
 
 The current project download uses the **23 October 2026 CC-CEDICT snapshot: 125,314 records / 199,726 English meaning segments**. It contains **122,291 qualified, source-bound Ukrainian translations**, with 3,023 exact-upstream records still held. Accepted local source corrections are a separate layer. Model review is not an accuracy measurement. **Three Ukrainian glosses have maintainer approval against their English source; zero records have human Chinese-language validation.**
 
+## New contribution for review · 28 October 2026
+
+[Laowai record-level proposals](contributions/2026-10-28-laowai/README.md) add 3,184 independently AI-reviewed whole-record translations: 3,018 currently held exact-upstream records and 166 alternatives. This is a separately validated contribution layer, with zero new human validation and no automatic runtime or current-release approval. Existing release counts and frozen data remain unchanged. These whole-record glosses need an editorial segmentation step before import into the current per-sense format.
+
 ## Source refresh · 25 October 2026
 
 [Download format and replay instructions](source-updates/2026-10-25/README.md) · [manifest](source-updates/2026-10-25/manifest.json) · [translations JSON.gz](source-updates/2026-10-25/translations.json.gz) · [accepted source revisions](source-updates/2026-10-25/qualified-revisions.json.gz) · [STATUS.json](STATUS.json)

@@ -266,3 +266,13 @@ bd2a99785b80f2c28e6b43a5ea85a10706b1634081eafc60262a74a17a4830a2  source-updates
 b8df4be664d270a548796f972c43af86a3e9e392415799c1166e2f77ca68404b  source-updates/2026-10-29-laowai/uk/manifest.json
 45cccc18b27d922b71dddd3367fc9c39df91a0ce5eac88b8f3b54f3018a16a3d  source-updates/2026-10-29-laowai/uk/reviewed-additions.json.gz
 bdbf7d6c39693f3aad8b1c0b3fc1d752797d81190702900617356c3ce66ade01  source-updates/2026-10-29-laowai/validate_public_projection.py
+70ae3f9e7a415b28363cd22f1ec183699435da6772b886c415da2a7c9312dd69  source-updates/2026-10-31-laowai/ATTRIBUTION.md
+8ef03ad01f59da3f6bdbd3b5926c1657c6bc7eafb12d5731f1eeaee0b180cf92  source-updates/2026-10-31-laowai/README.md
+1f23b132b4abe718c367e0483aa87e8520629fcd1e1eea7d4fb488eeabb1e9e5  source-updates/2026-10-31-laowai/public_contract.py
+237c0e6dab5c5b61f22b9c8e016aaeacb522359184b1b9c93b1da76b38518a69  source-updates/2026-10-31-laowai/source-records.json.gz
+c403344c9237b87ca200ece494776d6fd3198e833ec10df52ebb97a67dd9db5e  source-updates/2026-10-31-laowai/uk/delta-reviewed.json.gz
+4c1a07c5f0de08ecf1d708a293ebe075907fbd22ecdeb9bb0354ecd368f77006  source-updates/2026-10-31-laowai/uk/delta-reviewed.xml.gz
+c428ca733e943b6ac192183c94ea135acc4262dd1c5bc79410a02cae6936dedd  source-updates/2026-10-31-laowai/uk/dictionary.csv.gz
+433a7c93631d77f20f8099a10076998f33197fe9cabbe39458ae6d58a7e343b6  source-updates/2026-10-31-laowai/uk/dictionary.json.gz
+905c913a9decbb4e20d2aad8e1569504548763eae7a367dfab0fdc2823d4a6e6  source-updates/2026-10-31-laowai/uk/manifest.json
+ad10c33b466d51530d0e5040b6f95f683b6e0574b406703552420a8a09698b1e  source-updates/2026-10-31-laowai/validate_public_advance.py
